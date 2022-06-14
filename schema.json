@@ -415,7 +415,7 @@
                     "additionalProperties": false,
                     "properties": {
                         "accession": {
-                            "pattern": "^([A-Za-z0-9._]{3,}\\.\\d)|(MIBIG:BGC\\d{7}){1}$",
+                            "pattern": "^([A-Za-z0-9.]{3,})\\.\\d|(MIBIG:BGC\\d{7})$",
                             "title": "GenBank nucleotide accession number",
                             "type": "string"
                         },
