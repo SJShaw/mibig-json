@@ -19,6 +19,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_KB891904.1 dated 28-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -37,8 +47,239 @@
                 "molecular_formula": "C23H37N3O6"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "B073_RS0123835",
+                    "product": "DUF4440 domain-containing protein"
+                },
+                {
+                    "id": "B073_RS0123840",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "B073_RS0123845",
+                    "product": "aminotransferase class III-fold pyridoxal phosphate-dependent enzyme"
+                },
+                {
+                    "id": "B073_RS42920",
+                    "product": "AAA family ATPase"
+                },
+                {
+                    "id": "B073_RS0123855",
+                    "product": "thioesterase"
+                },
+                {
+                    "id": "B073_RS0123860",
+                    "product": "thioesterase"
+                },
+                {
+                    "id": "B073_RS0123865",
+                    "product": "ferredoxin"
+                },
+                {
+                    "id": "B073_RS0123870",
+                    "product": "SDR family oxidoreductase"
+                },
+                {
+                    "id": "B073_RS0123875",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "B073_RS0123880",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "B073_RS0123885",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "B073_RS0123890",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "B073_RS0123895",
+                    "name": "ccrA",
+                    "product": "crotonyl-CoA carboxylase/reductase"
+                },
+                {
+                    "id": "B073_RS0123900",
+                    "product": "non-ribosomal peptide synthetase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "B073_RS0123835",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 9303,
+                                "start": 9303
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "B073_RS0123840",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 10556,
+                                "start": 10556
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "B073_RS0123845",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 12224,
+                                "start": 12224
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B073_RS42920",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14071,
+                                "start": 14071
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B073_RS0123855",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14913,
+                                "start": 14913
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B073_RS0123860",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 15872,
+                                "start": 15872
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B073_RS0123865",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 16328,
+                                "start": 16328
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B073_RS0123870",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 17128,
+                                "start": 17128
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B073_RS0123875",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 22878,
+                                "start": 22878
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B073_RS0123880",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 26207,
+                                "start": 26207
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B073_RS0123885",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 29503,
+                                "start": 29503
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B073_RS0123890",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 29892,
+                                "start": 29892
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B073_RS0123895",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 31633,
+                                "start": 31633
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B073_RS0123900",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 42086,
+                                "start": 42086
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_KB891904.1",
+            "accession": "KB891904.1",
             "completeness": "Unknown",
             "end_coord": 42086,
             "start_coord": 1

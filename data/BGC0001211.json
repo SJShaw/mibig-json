@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_KB913032.1 dated 17-APR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -28,8 +38,158 @@
                 "compound": "albachelin"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "AMYAL_RS0130205",
+                    "product": "SidA/IucD/PvdA family monooxygenase"
+                },
+                {
+                    "id": "AMYAL_RS0130210",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "AMYAL_RS0130215",
+                    "product": "MbtH family protein"
+                },
+                {
+                    "id": "AMYAL_RS0130220",
+                    "product": "DUF4073 domain-containing protein"
+                },
+                {
+                    "id": "AMYAL_RS0130225",
+                    "product": "iron-siderophore ABC transporter substrate-binding protein"
+                },
+                {
+                    "id": "AMYAL_RS0130230",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "AMYAL_RS0130235",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "AMYAL_RS0130240",
+                    "product": "iron chelate uptake ABC transporter family permease subunit"
+                },
+                {
+                    "id": "AMYAL_RS0130245",
+                    "product": "iron chelate uptake ABC transporter family permease subunit"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "AMYAL_RS0130205",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6433615,
+                                "start": 6433615
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0130210",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6455882,
+                                "start": 6455882
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0130215",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6456088,
+                                "start": 6456088
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0130220",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6457622,
+                                "start": 6457622
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0130225",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6459090,
+                                "start": 6459090
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0130230",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6460961,
+                                "start": 6460961
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0130235",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6462634,
+                                "start": 6462634
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0130240",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6463770,
+                                "start": 6463770
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0130245",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6464849,
+                                "start": 6464849
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_KB913032.1",
+            "accession": "KB913032.1",
             "completeness": "Unknown",
             "end_coord": 6464849,
             "start_coord": 6431187

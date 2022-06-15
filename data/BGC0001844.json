@@ -11,7 +11,9 @@
         },
         {
             "comments": [
-                "Corrected NRP module activity"
+                "Corrected NRP module activity",
+                "Gene details extracted from RefSeq accession NC_014718.1 dated 17-APR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -38,8 +40,46 @@
                 "molecular_formula": "C42H68N6O10"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "RBRH_RS17995",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "RBRH_RS16800",
+                    "product": "non-ribosomal peptide synthetase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "RBRH_RS17995",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 511793,
+                                "start": 511793
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RBRH_RS16800",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 531583,
+                                "start": 531583
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_014718.1",
+            "accession": "FR687360.1",
             "completeness": "complete",
             "end_coord": 531583,
             "evidence": [

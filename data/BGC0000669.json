@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_003076.8 dated 14-FEB-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -99,11 +109,99 @@
                         ],
                         "strand": 1
                     }
+                },
+                {
+                    "id": "AT5G42590",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 17033640,
+                                "start": 17033640
+                            },
+                            {
+                                "end": 17032499,
+                                "start": 17032499
+                            },
+                            {
+                                "end": 17031913,
+                                "start": 17031913
+                            },
+                            {
+                                "end": 17031546,
+                                "start": 17031546
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G42600",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 17053769,
+                                "start": 17053769
+                            },
+                            {
+                                "end": 17054079,
+                                "start": 17054079
+                            },
+                            {
+                                "end": 17054287,
+                                "start": 17054287
+                            },
+                            {
+                                "end": 17054835,
+                                "start": 17054835
+                            },
+                            {
+                                "end": 17055027,
+                                "start": 17055027
+                            },
+                            {
+                                "end": 17055299,
+                                "start": 17055299
+                            },
+                            {
+                                "end": 17055579,
+                                "start": 17055579
+                            },
+                            {
+                                "end": 17056007,
+                                "start": 17056007
+                            },
+                            {
+                                "end": 17056629,
+                                "start": 17056629
+                            },
+                            {
+                                "end": 17056823,
+                                "start": 17056823
+                            },
+                            {
+                                "end": 17056989,
+                                "start": 17056989
+                            },
+                            {
+                                "end": 17057187,
+                                "start": 17057187
+                            },
+                            {
+                                "end": 17057762,
+                                "start": 17057762
+                            },
+                            {
+                                "end": 17057975,
+                                "start": 17057975
+                            }
+                        ],
+                        "strand": 1
+                    }
                 }
             ]
         },
         "loci": {
-            "accession": "NC_003076.8",
+            "accession": "CP002688.1",
             "completeness": "complete",
             "end_coord": 17058245,
             "evidence": [

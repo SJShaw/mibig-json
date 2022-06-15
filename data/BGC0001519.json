@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_AOPZ01000014.1 dated 29-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -36,8 +46,526 @@
                 "molecular_formula": "C38H64N8O14"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "STRAU_RS01580",
+                    "product": "polyketide synthase"
+                },
+                {
+                    "id": "STRAU_RS01585",
+                    "product": "flavin reductase family protein"
+                },
+                {
+                    "id": "STRAU_RS01590",
+                    "product": "cytochrome P450"
+                },
+                {
+                    "id": "STRAU_RS01595",
+                    "product": "zinc-binding alcohol dehydrogenase family protein"
+                },
+                {
+                    "id": "STRAU_RS01600",
+                    "product": "ketoacyl-ACP synthase III"
+                },
+                {
+                    "id": "STRAU_RS01605",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "STRAU_RS01610",
+                    "product": "dihydrolipoamide succinyltransferase"
+                },
+                {
+                    "id": "STRAU_RS01615",
+                    "product": "pyruvate dehydrogenase E1 component subunit beta"
+                },
+                {
+                    "id": "STRAU_RS01620",
+                    "product": "putative 3-methyl-2-oxobutanoate dehydrogenase subunit alpha"
+                },
+                {
+                    "id": "STRAU_RS01625",
+                    "product": "MbtH family protein"
+                },
+                {
+                    "id": "STRAU_RS01630",
+                    "product": "regulator"
+                },
+                {
+                    "id": "STRAU_RS01635",
+                    "product": "amino acid adenylation domain-containing protein"
+                },
+                {
+                    "id": "STRAU_RS01640",
+                    "product": "acyl carrier protein"
+                },
+                {
+                    "id": "STRAU_RS01645",
+                    "product": "NAD(P)/FAD-dependent oxidoreductase"
+                },
+                {
+                    "id": "STRAU_RS01650",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "STRAU_RS01655",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "STRAU_RS01660",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "STRAU_RS01665",
+                    "product": "thioesterase"
+                },
+                {
+                    "id": "STRAU_RS01670",
+                    "product": "daunorubicin resistance protein DrrA family ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "STRAU_RS01675",
+                    "product": "ABC transporter permease"
+                },
+                {
+                    "id": "STRAU_RS01680",
+                    "product": "Surfactin synthase subunit 1"
+                },
+                {
+                    "id": "STRAU_RS01685",
+                    "product": "cytochrome P450"
+                },
+                {
+                    "id": "STRAU_RS01690",
+                    "product": "thioesterase"
+                },
+                {
+                    "id": "STRAU_RS01695",
+                    "product": "acyltransferase domain-containing protein"
+                },
+                {
+                    "id": "STRAU_RS01700",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "STRAU_RS01705",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "STRAU_RS01710",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "STRAU_RS01715",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "STRAU_RS01720",
+                    "product": "DUF1838 domain-containing protein"
+                },
+                {
+                    "id": "STRAU_RS01725",
+                    "product": "transglycosylase SLT domain-containing protein"
+                },
+                {
+                    "id": "STRAU_RS01730",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "STRAU_RS01735",
+                    "product": "TetR/AcrR family transcriptional regulator"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "STRAU_RS01580",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1001,
+                                "start": 1001
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01585",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1791,
+                                "start": 1791
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01590",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3075,
+                                "start": 3075
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01595",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4363,
+                                "start": 4363
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01600",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5346,
+                                "start": 5346
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01605",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5591,
+                                "start": 5591
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01610",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5880,
+                                "start": 5880
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01615",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6878,
+                                "start": 6878
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01620",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7717,
+                                "start": 7717
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01625",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8686,
+                                "start": 8686
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01630",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 9540,
+                                "start": 9540
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01635",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 11225,
+                                "start": 11225
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01640",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 11489,
+                                "start": 11489
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01645",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 12963,
+                                "start": 12963
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01650",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 21656,
+                                "start": 21656
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01655",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 29392,
+                                "start": 29392
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01660",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 33221,
+                                "start": 33221
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01665",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 34026,
+                                "start": 34026
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01670",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 35089,
+                                "start": 35089
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01675",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 35847,
+                                "start": 35847
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01680",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 37239,
+                                "start": 37239
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01685",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 38486,
+                                "start": 38486
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01690",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 39220,
+                                "start": 39220
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01695",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 42434,
+                                "start": 42434
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01700",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 48158,
+                                "start": 48158
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01705",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 54768,
+                                "start": 54768
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01710",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 57892,
+                                "start": 57892
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01715",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 61322,
+                                "start": 61322
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01720",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 62205,
+                                "start": 62205
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01725",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 62996,
+                                "start": 62996
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01730",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 64103,
+                                "start": 64103
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STRAU_RS01735",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 64789,
+                                "start": 64789
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_AOPZ01000014.1",
+            "accession": "AOPZ01000014.1",
             "completeness": "Unknown",
             "end_coord": 64790,
             "start_coord": 1

@@ -21,7 +21,9 @@
         {
             "comments": [
                 "Corrected NRP module activity",
-                "Corrected gene identifiers"
+                "Corrected gene identifiers",
+                "Gene details extracted from RefSeq accession NZ_KI911494.1 dated 02-APR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -96,6 +98,74 @@
                     "comments": "Derived by automated computational analysis using gene prediction method: Protein Homology.",
                     "id": "B110_RS27165",
                     "product": "hypothetical protein"
+                },
+                {
+                    "id": "B110_RS0125630",
+                    "product": "histidine phosphatase family protein"
+                },
+                {
+                    "id": "B110_RS27155",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "B110_RS28510",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "B110_RS0125650",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "B110_RS28515",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "B110_RS28520",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "B110_RS27170",
+                    "product": "PIG-L family deacetylase"
+                },
+                {
+                    "id": "B110_RS0125665",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "B110_RS27175",
+                    "product": "MerR family transcriptional regulator"
+                },
+                {
+                    "id": "B110_RS0125675",
+                    "product": "daunorubicin resistance protein DrrA family ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "B110_RS0125680",
+                    "product": "ABC transporter"
+                },
+                {
+                    "id": "B110_RS27180",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "B110_RS0125690",
+                    "product": "NAD(P)/FAD-dependent oxidoreductase"
+                },
+                {
+                    "id": "B110_RS0125695",
+                    "product": "transposase"
+                },
+                {
+                    "id": "B110_RS27185",
+                    "product": "IS1634 family transposase"
+                },
+                {
+                    "id": "B110_RS0125720",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "B110_RS27195",
+                    "product": "thioesterase"
                 }
             ],
             "extra_genes": [
@@ -122,11 +192,263 @@
                         ],
                         "strand": 1
                     }
+                },
+                {
+                    "id": "B110_RS0125630",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 183044,
+                                "start": 183044
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B110_RS27155",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 183653,
+                                "start": 183653
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B110_RS28510",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 184825,
+                                "start": 184825
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "B110_RS0125650",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 185253,
+                                "start": 185253
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "B110_RS28515",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 186446,
+                                "start": 186446
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "B110_RS28520",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 187004,
+                                "start": 187004
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B110_RS27170",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 187785,
+                                "start": 187785
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B110_RS0125665",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 188262,
+                                "start": 188262
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B110_RS27175",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 189044,
+                                "start": 189044
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B110_RS0125675",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 190141,
+                                "start": 190141
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "B110_RS0125680",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 190959,
+                                "start": 190959
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "B110_RS27180",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 192449,
+                                "start": 192449
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "B110_RS0125690",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 193442,
+                                "start": 193442
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "B110_RS0125695",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 194272,
+                                "start": 194272
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B110_RS27185",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 196213,
+                                "start": 196213
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B110_RS27190",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 196732,
+                                "start": 196732
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B110_RS0125710",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 197092,
+                                "start": 197092
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B110_RS0125715",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 206506,
+                                "start": 206506
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B110_RS0125720",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 214249,
+                                "start": 214249
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B110_RS0125725",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 216834,
+                                "start": 216834
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "B110_RS27195",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 217623,
+                                "start": 217623
+                            }
+                        ],
+                        "strand": -1
+                    }
                 }
             ]
         },
         "loci": {
-            "accession": "NZ_KI911494.1",
+            "accession": "KI911494.1",
             "completeness": "complete",
             "end_coord": 218636,
             "evidence": [

@@ -8,6 +8,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_KQ947987.1 dated 03-APR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -19,8 +29,174 @@
                 "compound": "curacozole"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "AQI70_RS14565",
+                    "product": "serine hydrolase"
+                },
+                {
+                    "id": "AQI70_RS14570",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AQI70_RS37415",
+                    "product": "SagB/ThcOx family dehydrogenase"
+                },
+                {
+                    "id": "AQI70_RS14580",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AQI70_RS14585",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AQI70_RS14590",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AQI70_RS14595",
+                    "product": "cytochrome P450"
+                },
+                {
+                    "id": "AQI70_RS14600",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AQI70_RS38515",
+                    "product": "YM-216391 family RiPP peptide"
+                },
+                {
+                    "id": "AQI70_RS14605",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "AQI70_RS14565",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 236773,
+                                "start": 236773
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AQI70_RS14570",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 237481,
+                                "start": 237481
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AQI70_RS37415",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 239001,
+                                "start": 239001
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AQI70_RS14580",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 240086,
+                                "start": 240086
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AQI70_RS14585",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 240946,
+                                "start": 240946
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AQI70_RS14590",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 241728,
+                                "start": 241728
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AQI70_RS14595",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 243134,
+                                "start": 243134
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AQI70_RS14600",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 245505,
+                                "start": 245505
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AQI70_RS38515",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 245694,
+                                "start": 245694
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AQI70_RS14605",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 246792,
+                                "start": 246792
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_KQ947987.1",
+            "accession": "KQ947987.1",
             "completeness": "Unknown",
             "end_coord": 246792,
             "start_coord": 235088

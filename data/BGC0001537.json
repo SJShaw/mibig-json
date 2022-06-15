@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_BBOK01000014.1 dated 02-APR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -35,8 +45,238 @@
                 "molecular_formula": "C28H46O9"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "APK71_RS29925",
+                    "product": "propionyl-CoA carboxylase subunit beta"
+                },
+                {
+                    "id": "APK71_RS29930",
+                    "product": "helix-turn-helix transcriptional regulator"
+                },
+                {
+                    "id": "APK71_RS29935",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "APK71_RS29940",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "APK71_RS29945",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "APK71_RS29950",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "APK71_RS29955",
+                    "product": "SDR family NAD(P)-dependent oxidoreductase"
+                },
+                {
+                    "id": "APK71_RS29960",
+                    "product": "3-hydroxybutyryl-CoA dehydrogenase"
+                },
+                {
+                    "id": "APK71_RS29965",
+                    "product": "acyl carrier protein"
+                },
+                {
+                    "id": "APK71_RS29970",
+                    "product": "acyl-CoA dehydrogenase"
+                },
+                {
+                    "id": "APK71_RS29975",
+                    "product": "HAD-IIIC family phosphatase"
+                },
+                {
+                    "id": "APK71_RS29980",
+                    "product": "thioesterase"
+                },
+                {
+                    "id": "APK71_RS29985",
+                    "product": "MFS transporter"
+                },
+                {
+                    "id": "APK71_RS29990",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "APK71_RS29925",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 27647,
+                                "start": 27647
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "APK71_RS29930",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 30231,
+                                "start": 30231
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "APK71_RS29935",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 36634,
+                                "start": 36634
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "APK71_RS29940",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 46779,
+                                "start": 46779
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "APK71_RS29945",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 57187,
+                                "start": 57187
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "APK71_RS29950",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 66591,
+                                "start": 66591
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "APK71_RS29955",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 70097,
+                                "start": 70097
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "APK71_RS29960",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 70999,
+                                "start": 70999
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "APK71_RS29965",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 71280,
+                                "start": 71280
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "APK71_RS29970",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 72434,
+                                "start": 72434
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "APK71_RS29975",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 73501,
+                                "start": 73501
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "APK71_RS29980",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 74306,
+                                "start": 74306
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "APK71_RS29985",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 75658,
+                                "start": 75658
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "APK71_RS29990",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 76904,
+                                "start": 76904
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_BBOK01000014.1",
+            "accession": "BBOK01000014.1",
             "completeness": "Unknown",
             "end_coord": 76904,
             "start_coord": 7976

@@ -11,10 +11,13 @@
         },
         {
             "comments": [
-                "Remove negative molecular mass"
+                "Remove negative molecular mass",
+                "Gene details extracted from RefSeq accession NZ_JH791994.1 dated 08-NOV-2018",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
-                "3UOU7PODQJXIM6BEPUHHRRA5"
+                "3UOU7PODQJXIM6BEPUHHRRA5",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -36,8 +39,223 @@
                 "mass_spec_ion_type": "[M+H]+"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "IEY_RS29570",
+                    "product": "NADH dehydrogenase"
+                },
+                {
+                    "id": "IEY_RS27940",
+                    "product": "DUF3967 domain-containing protein"
+                },
+                {
+                    "id": "IEY_RS27945",
+                    "product": "MarR family transcriptional regulator"
+                },
+                {
+                    "id": "IEY_RS27950",
+                    "product": "disulfide bond formation protein B"
+                },
+                {
+                    "id": "IEY_RS27955",
+                    "name": "sunS",
+                    "product": "SunS family peptide S-glycosyltransferase"
+                },
+                {
+                    "id": "IEY_RS27960",
+                    "product": "thioredoxin family protein"
+                },
+                {
+                    "id": "IEY_RS27965",
+                    "product": "peptidase domain-containing ABC transporter"
+                },
+                {
+                    "id": "IEY_RS27970",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "IEY_RS27975",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "IEY_RS27980",
+                    "product": "tyrosine-type recombinase/integrase"
+                },
+                {
+                    "id": "IEY_RS27985",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "IEY_RS27990",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "IEY_RS27995",
+                    "product": "helix-turn-helix transcriptional regulator"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "IEY_RS29570",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 372,
+                                "start": 372
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IEY_RS27940",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1254,
+                                "start": 1254
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IEY_RS27945",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3024,
+                                "start": 3024
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IEY_RS27950",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3704,
+                                "start": 3704
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IEY_RS27955",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4992,
+                                "start": 4992
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IEY_RS27960",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5432,
+                                "start": 5432
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IEY_RS27965",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7531,
+                                "start": 7531
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IEY_RS27970",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7808,
+                                "start": 7808
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IEY_RS27975",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8345,
+                                "start": 8345
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IEY_RS27980",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 9450,
+                                "start": 9450
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IEY_RS27985",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 10338,
+                                "start": 10338
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IEY_RS27990",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 10877,
+                                "start": 10877
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IEY_RS27995",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 11883,
+                                "start": 11883
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_JH791994.1",
+            "accession": "JH791994.1",
             "completeness": "incomplete",
             "evidence": [
                 "Heterologous expression"

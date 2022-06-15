@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_008570.1 dated 21-MAY-2017",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -35,8 +45,111 @@
                 "molecular_formula": "C37H46N6O11"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "AHA_2474",
+                    "product": "nonribosomal peptide synthetase"
+                },
+                {
+                    "id": "AHA_2475",
+                    "product": "2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase"
+                },
+                {
+                    "id": "AHA_2476",
+                    "product": "nonribosomal peptide synthetase"
+                },
+                {
+                    "id": "AHA_2477",
+                    "product": "isochorismatase"
+                },
+                {
+                    "id": "AHA_2478",
+                    "name": "entE",
+                    "product": "2,3-dihydroxybenzoate-AMP ligase"
+                },
+                {
+                    "id": "AHA_2479",
+                    "product": "isochorismate synthase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "AHA_2474",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2749607,
+                                "start": 2749607
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AHA_2475",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2750473,
+                                "start": 2750473
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AHA_2476",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2753604,
+                                "start": 2753604
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AHA_2477",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2754524,
+                                "start": 2754524
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AHA_2478",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2756209,
+                                "start": 2756209
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AHA_2479",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2757479,
+                                "start": 2757479
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_008570.1",
+            "accession": "CP000462.1",
             "completeness": "Unknown",
             "end_coord": 2757479,
             "start_coord": 2741866

@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_026500.1 dated 03-APR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -34,8 +44,2130 @@
                 "molecular_formula": "C36H64O18"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "UMAG_06356",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06357",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_10993",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06358",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06359",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06360",
+                    "product": "putative RNA binding protein SNU13"
+                },
+                {
+                    "id": "UMAG_12336",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06362",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06363",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_12337",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06365",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06366",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06367",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06368",
+                    "product": "putative ribonucleotide-diphosphate reductase subunit RNR2"
+                },
+                {
+                    "id": "UMAG_10996",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06370",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06371",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06372",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_10997",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_10998",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06374",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_10999",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06376",
+                    "product": "putative Arf family GTPase SAR1"
+                },
+                {
+                    "id": "UMAG_06377",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06378",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_11000",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_11001",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_11002",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06381",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_12338",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06383",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06384",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06385",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06386",
+                    "product": "putative branch point bridging protein"
+                },
+                {
+                    "id": "UMAG_06387",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06388",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06389",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06390",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06391",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_11005",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06393",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06394",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06395",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06396",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06397",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06398",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06399",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06400",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06401",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06402",
+                    "product": "putative mini-chromosome maintenance complex protein 7"
+                },
+                {
+                    "id": "UMAG_11007",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_11237",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06404",
+                    "product": "putative thioredoxin peroxidase"
+                },
+                {
+                    "id": "UMAG_06405",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06406",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06407",
+                    "product": "putative actin cytoskeleton organization and biogenesis-related protein"
+                },
+                {
+                    "id": "UMAG_06408",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_11238",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06410",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06411",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06412",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06413",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06414",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_11239",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06416",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06417",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06418",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06419",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06420",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06421_XP_011392705.1",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06421",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06422",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_11241",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06425",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06426",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06427",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06428",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06429",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06430",
+                    "product": "putative chaperone ATPase"
+                },
+                {
+                    "id": "UMAG_06431",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06433",
+                    "product": "K, P-type ATPase"
+                },
+                {
+                    "id": "UMAG_06434",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06439",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06440",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_12043",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_12044",
+                    "product": "putative protein transporter TIM9"
+                },
+                {
+                    "id": "UMAG_06443",
+                    "product": "putative translation initiation factor 6"
+                },
+                {
+                    "id": "UMAG_12045",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_12046",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_12047",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06445",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_12048",
+                    "product": "putative GTP cyclohydrolase I"
+                },
+                {
+                    "id": "UMAG_12049",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06448",
+                    "product": "ribosomal 40S subunit protein S25"
+                },
+                {
+                    "id": "UMAG_12050",
+                    "product": "putative F1F0-ATPase complex, subunit FO D"
+                },
+                {
+                    "id": "UMAG_06450",
+                    "product": "cAMP-dependent protein kinase type II regulatory chain"
+                },
+                {
+                    "id": "UMAG_15103",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_12339",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06453",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06454",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06455",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06456",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06458",
+                    "product": "ustilagic acid biosynthesis regulator rua1"
+                },
+                {
+                    "id": "UMAG_06459",
+                    "product": "Cytochrome P450 monooxygenase involved in Ustilagic Acid production"
+                },
+                {
+                    "id": "UMAG_06460",
+                    "product": "fatty acid synthase FAS2"
+                },
+                {
+                    "id": "UMAG_06461",
+                    "product": "ABC transporter"
+                },
+                {
+                    "id": "UMAG_06462",
+                    "product": "Ustilagic Acid acyltransferase"
+                },
+                {
+                    "id": "UMAG_11812",
+                    "product": "Cytochrome P450 enzyme invovled in Glycolipid production"
+                },
+                {
+                    "id": "UMAG_06464",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06465",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_06466",
+                    "product": "Ustilagic Acid hydroxylase"
+                },
+                {
+                    "id": "UMAG_06467",
+                    "product": "Ustilagic Acid glycosyl transferase"
+                },
+                {
+                    "id": "UMAG_11813",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "UMAG_12340",
+                    "product": "alpha-hydroxylase AHD1"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "UMAG_06356",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8114,
+                                "start": 8114
+                            },
+                            {
+                                "end": 8804,
+                                "start": 8804
+                            },
+                            {
+                                "end": 10923,
+                                "start": 10923
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06357",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 12783,
+                                "start": 12783
+                            },
+                            {
+                                "end": 13204,
+                                "start": 13204
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_10993",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14222,
+                                "start": 14222
+                            },
+                            {
+                                "end": 14497,
+                                "start": 14497
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06358",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 18008,
+                                "start": 18008
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06359",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19181,
+                                "start": 19181
+                            },
+                            {
+                                "end": 18922,
+                                "start": 18922
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06360",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 20508,
+                                "start": 20508
+                            },
+                            {
+                                "end": 20631,
+                                "start": 20631
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_12336",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 25412,
+                                "start": 25412
+                            },
+                            {
+                                "end": 24707,
+                                "start": 24707
+                            },
+                            {
+                                "end": 24254,
+                                "start": 24254
+                            },
+                            {
+                                "end": 23923,
+                                "start": 23923
+                            },
+                            {
+                                "end": 23775,
+                                "start": 23775
+                            },
+                            {
+                                "end": 23620,
+                                "start": 23620
+                            },
+                            {
+                                "end": 23471,
+                                "start": 23471
+                            },
+                            {
+                                "end": 23324,
+                                "start": 23324
+                            },
+                            {
+                                "end": 23040,
+                                "start": 23040
+                            },
+                            {
+                                "end": 22906,
+                                "start": 22906
+                            },
+                            {
+                                "end": 22712,
+                                "start": 22712
+                            },
+                            {
+                                "end": 22547,
+                                "start": 22547
+                            },
+                            {
+                                "end": 22433,
+                                "start": 22433
+                            },
+                            {
+                                "end": 22311,
+                                "start": 22311
+                            },
+                            {
+                                "end": 22132,
+                                "start": 22132
+                            },
+                            {
+                                "end": 21930,
+                                "start": 21930
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06362",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 27034,
+                                "start": 27034
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06363",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 31453,
+                                "start": 31453
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_12337",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 33467,
+                                "start": 33467
+                            },
+                            {
+                                "end": 33149,
+                                "start": 33149
+                            },
+                            {
+                                "end": 32142,
+                                "start": 32142
+                            },
+                            {
+                                "end": 31842,
+                                "start": 31842
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06365",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 35492,
+                                "start": 35492
+                            },
+                            {
+                                "end": 35904,
+                                "start": 35904
+                            },
+                            {
+                                "end": 37683,
+                                "start": 37683
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06366",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 40206,
+                                "start": 40206
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06367",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 44557,
+                                "start": 44557
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06368",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 46862,
+                                "start": 46862
+                            },
+                            {
+                                "end": 46432,
+                                "start": 46432
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_10996",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 50176,
+                                "start": 50176
+                            },
+                            {
+                                "end": 50704,
+                                "start": 50704
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06370",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 52046,
+                                "start": 52046
+                            },
+                            {
+                                "end": 51893,
+                                "start": 51893
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06371",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 54149,
+                                "start": 54149
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06372",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 57840,
+                                "start": 57840
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_10997",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 59016,
+                                "start": 59016
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_10998",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 60137,
+                                "start": 60137
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06374",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 61461,
+                                "start": 61461
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_10999",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 62311,
+                                "start": 62311
+                            },
+                            {
+                                "end": 63034,
+                                "start": 63034
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06376",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 63945,
+                                "start": 63945
+                            },
+                            {
+                                "end": 64205,
+                                "start": 64205
+                            },
+                            {
+                                "end": 64807,
+                                "start": 64807
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06377",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 66271,
+                                "start": 66271
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06378",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 69240,
+                                "start": 69240
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_11000",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 70452,
+                                "start": 70452
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_11001",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 71641,
+                                "start": 71641
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_11002",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 72658,
+                                "start": 72658
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06381",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 78128,
+                                "start": 78128
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_12338",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 80175,
+                                "start": 80175
+                            },
+                            {
+                                "end": 79981,
+                                "start": 79981
+                            },
+                            {
+                                "end": 79726,
+                                "start": 79726
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06383",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 84910,
+                                "start": 84910
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06384",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 87047,
+                                "start": 87047
+                            },
+                            {
+                                "end": 86901,
+                                "start": 86901
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06385",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 91691,
+                                "start": 91691
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06386",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 95568,
+                                "start": 95568
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06387",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 96718,
+                                "start": 96718
+                            },
+                            {
+                                "end": 96296,
+                                "start": 96296
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06388",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 98126,
+                                "start": 98126
+                            },
+                            {
+                                "end": 97799,
+                                "start": 97799
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06389",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 99815,
+                                "start": 99815
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06390",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 101780,
+                                "start": 101780
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06391",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 103979,
+                                "start": 103979
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_11005",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 106083,
+                                "start": 106083
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06393",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 109049,
+                                "start": 109049
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06394",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 110764,
+                                "start": 110764
+                            },
+                            {
+                                "end": 110479,
+                                "start": 110479
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06395",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 113702,
+                                "start": 113702
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06396",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 118553,
+                                "start": 118553
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06397",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 120524,
+                                "start": 120524
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06398",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 123028,
+                                "start": 123028
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06399",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 124908,
+                                "start": 124908
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06400",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 127954,
+                                "start": 127954
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06401",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 130526,
+                                "start": 130526
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06402",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 133980,
+                                "start": 133980
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_11007",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 136882,
+                                "start": 136882
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_11237",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 140056,
+                                "start": 140056
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06404",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 140881,
+                                "start": 140881
+                            },
+                            {
+                                "end": 141572,
+                                "start": 141572
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06405",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 142512,
+                                "start": 142512
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06406",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 143809,
+                                "start": 143809
+                            },
+                            {
+                                "end": 144467,
+                                "start": 144467
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06407",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 147481,
+                                "start": 147481
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06408",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 150309,
+                                "start": 150309
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_11238",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 152087,
+                                "start": 152087
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06410",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 154826,
+                                "start": 154826
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06411",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 157684,
+                                "start": 157684
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06412",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 161005,
+                                "start": 161005
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06413",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 163222,
+                                "start": 163222
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06414",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 170091,
+                                "start": 170091
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_11239",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 174733,
+                                "start": 174733
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06416",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 179900,
+                                "start": 179900
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06417",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 181408,
+                                "start": 181408
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06418",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 187710,
+                                "start": 187710
+                            },
+                            {
+                                "end": 186356,
+                                "start": 186356
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06419",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 189216,
+                                "start": 189216
+                            },
+                            {
+                                "end": 190098,
+                                "start": 190098
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06420",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 195071,
+                                "start": 195071
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06421_XP_011392705.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 195751,
+                                "start": 195751
+                            },
+                            {
+                                "end": 196208,
+                                "start": 196208
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06421",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 195751,
+                                "start": 195751
+                            },
+                            {
+                                "end": 197827,
+                                "start": 197827
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06422",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 199339,
+                                "start": 199339
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_11241",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 202400,
+                                "start": 202400
+                            },
+                            {
+                                "end": 200825,
+                                "start": 200825
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06425",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 207714,
+                                "start": 207714
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06426",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 208920,
+                                "start": 208920
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06427",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 211507,
+                                "start": 211507
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06428",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 214001,
+                                "start": 214001
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06429",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 215957,
+                                "start": 215957
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06430",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 219013,
+                                "start": 219013
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06431",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 221636,
+                                "start": 221636
+                            },
+                            {
+                                "end": 221433,
+                                "start": 221433
+                            },
+                            {
+                                "end": 221149,
+                                "start": 221149
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06433",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 229375,
+                                "start": 229375
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06434",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 232482,
+                                "start": 232482
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06439",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 258425,
+                                "start": 258425
+                            },
+                            {
+                                "end": 259091,
+                                "start": 259091
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06440",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 262459,
+                                "start": 262459
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_12043",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 263962,
+                                "start": 263962
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_12044",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 266034,
+                                "start": 266034
+                            },
+                            {
+                                "end": 265941,
+                                "start": 265941
+                            },
+                            {
+                                "end": 265681,
+                                "start": 265681
+                            },
+                            {
+                                "end": 265491,
+                                "start": 265491
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06443",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 267112,
+                                "start": 267112
+                            },
+                            {
+                                "end": 267646,
+                                "start": 267646
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_12045",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 269841,
+                                "start": 269841
+                            },
+                            {
+                                "end": 269660,
+                                "start": 269660
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_12046",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 270336,
+                                "start": 270336
+                            },
+                            {
+                                "end": 270554,
+                                "start": 270554
+                            },
+                            {
+                                "end": 270654,
+                                "start": 270654
+                            },
+                            {
+                                "end": 270820,
+                                "start": 270820
+                            },
+                            {
+                                "end": 271128,
+                                "start": 271128
+                            },
+                            {
+                                "end": 271261,
+                                "start": 271261
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_12047",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 271871,
+                                "start": 271871
+                            },
+                            {
+                                "end": 271545,
+                                "start": 271545
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06445",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 273196,
+                                "start": 273196
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_12048",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 275022,
+                                "start": 275022
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_12049",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 275777,
+                                "start": 275777
+                            },
+                            {
+                                "end": 275979,
+                                "start": 275979
+                            },
+                            {
+                                "end": 276114,
+                                "start": 276114
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06448",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 277024,
+                                "start": 277024
+                            },
+                            {
+                                "end": 276819,
+                                "start": 276819
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_12050",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 280717,
+                                "start": 280717
+                            },
+                            {
+                                "end": 279649,
+                                "start": 279649
+                            },
+                            {
+                                "end": 279317,
+                                "start": 279317
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06450",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 283496,
+                                "start": 283496
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_15103",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 286294,
+                                "start": 286294
+                            },
+                            {
+                                "end": 287737,
+                                "start": 287737
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_12339",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 289801,
+                                "start": 289801
+                            },
+                            {
+                                "end": 288945,
+                                "start": 288945
+                            },
+                            {
+                                "end": 288408,
+                                "start": 288408
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06453",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 291974,
+                                "start": 291974
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06454",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 293717,
+                                "start": 293717
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06455",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 295656,
+                                "start": 295656
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06456",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 298014,
+                                "start": 298014
+                            },
+                            {
+                                "end": 299558,
+                                "start": 299558
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06458",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 306567,
+                                "start": 306567
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06459",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 309016,
+                                "start": 309016
+                            },
+                            {
+                                "end": 308743,
+                                "start": 308743
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06460",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 320987,
+                                "start": 320987
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06461",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 326282,
+                                "start": 326282
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06462",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 328121,
+                                "start": 328121
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_11812",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 331531,
+                                "start": 331531
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06464",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 333781,
+                                "start": 333781
+                            },
+                            {
+                                "end": 333107,
+                                "start": 333107
+                            },
+                            {
+                                "end": 332561,
+                                "start": 332561
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_06465",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 335587,
+                                "start": 335587
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06466",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 336524,
+                                "start": 336524
+                            },
+                            {
+                                "end": 337463,
+                                "start": 337463
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_06467",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 339950,
+                                "start": 339950
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "UMAG_11813",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 342136,
+                                "start": 342136
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "UMAG_12340",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 344234,
+                                "start": 344234
+                            },
+                            {
+                                "end": 343209,
+                                "start": 343209
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_026500.1",
+            "accession": "CM003162.1",
             "completeness": "Unknown"
         },
         "mibig_accession": "BGC0001281",

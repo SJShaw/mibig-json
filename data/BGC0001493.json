@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_JODT01000002.1 dated 31-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -28,8 +38,62 @@
                 "compound": "achromosin"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "IH25_RS0102215",
+                    "product": "asparagine synthetase B family protein"
+                },
+                {
+                    "id": "IH25_RS0102220",
+                    "product": "lasso peptide biosynthesis B2 protein"
+                },
+                {
+                    "id": "IH25_RS0102225",
+                    "product": "lasso peptide biosynthesis PqqD family chaperone"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "IH25_RS0102215",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 74810,
+                                "start": 74810
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IH25_RS0102220",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 75284,
+                                "start": 75284
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IH25_RS0102225",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 75568,
+                                "start": 75568
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_JODT01000002.1",
+            "accession": "JODT01000002.1",
             "completeness": "Unknown",
             "end_coord": 75568,
             "start_coord": 72758

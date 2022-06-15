@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_026476.1 dated 19-FEB-2015",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -35,8 +45,162 @@
                 "molecular_formula": "C10H10N2O2"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "FGSG_11399",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "FGSG_11398",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "FGSG_11397",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "FGSG_11396",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "FGSG_11395",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "FGSG_11394",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "FGSG_11399",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7266355,
+                                "start": 7266355
+                            },
+                            {
+                                "end": 7266712,
+                                "start": 7266712
+                            },
+                            {
+                                "end": 7267176,
+                                "start": 7267176
+                            },
+                            {
+                                "end": 7267866,
+                                "start": 7267866
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "FGSG_11398",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7269261,
+                                "start": 7269261
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "FGSG_11397",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7269732,
+                                "start": 7269732
+                            },
+                            {
+                                "end": 7271128,
+                                "start": 7271128
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "FGSG_11396",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7273638,
+                                "start": 7273638
+                            },
+                            {
+                                "end": 7273415,
+                                "start": 7273415
+                            },
+                            {
+                                "end": 7272902,
+                                "start": 7272902
+                            },
+                            {
+                                "end": 7272768,
+                                "start": 7272768
+                            },
+                            {
+                                "end": 7272459,
+                                "start": 7272459
+                            },
+                            {
+                                "end": 7272217,
+                                "start": 7272217
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "FGSG_11395",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7275483,
+                                "start": 7275483
+                            },
+                            {
+                                "end": 7275690,
+                                "start": 7275690
+                            },
+                            {
+                                "end": 7282481,
+                                "start": 7282481
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "FGSG_11394",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7283151,
+                                "start": 7283151
+                            },
+                            {
+                                "end": 7283266,
+                                "start": 7283266
+                            },
+                            {
+                                "end": 7283606,
+                                "start": 7283606
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_026476.1",
+            "accession": "CM000576.1",
             "completeness": "Unknown",
             "end_coord": 7283610,
             "start_coord": 7266100

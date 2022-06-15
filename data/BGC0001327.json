@@ -24,7 +24,9 @@
             "comments": [
                 "Corrected NRP module activity",
                 "Removed gene names of 'No gene ID'",
-                "Removed gene annotation with no reference name or ID"
+                "Removed gene annotation with no reference name or ID",
+                "Gene details extracted from RefSeq accession NZ_JOEU01000001.1 dated 17-APR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -149,11 +151,125 @@
                     "tailoring": [
                         "Monooxygenation"
                     ]
+                },
+                {
+                    "id": "IH31_RS0100610",
+                    "product": "thioesterase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "IH31_RS34685",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 177789,
+                                "start": 177789
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IH31_RS0100585",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 181162,
+                                "start": 181162
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IH31_RS0100590",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 186842,
+                                "start": 186842
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IH31_RS0100595",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 191502,
+                                "start": 191502
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IH31_RS0100600",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 196208,
+                                "start": 196208
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IH31_RS0100605",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 197917,
+                                "start": 197917
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IH31_RS0100610",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 198734,
+                                "start": 198734
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IH31_RS0100615",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 201598,
+                                "start": 201598
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IH31_RS0100620",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 202669,
+                                "start": 202669
+                            }
+                        ],
+                        "strand": 1
+                    }
                 }
             ]
         },
         "loci": {
-            "accession": "NZ_JOEU01000001.1",
+            "accession": "JOEU01000001.1",
             "completeness": "complete",
             "end_coord": 202669,
             "evidence": [

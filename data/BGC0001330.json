@@ -22,7 +22,9 @@
         {
             "comments": [
                 "Corrected NRP module activity",
-                "Removed ketoreductase stereochemistry annotation from modules without ketoreductases"
+                "Removed ketoreductase stereochemistry annotation from modules without ketoreductases",
+                "Gene details extracted from RefSeq accession NZ_LEKG01000004.1 dated 10-APR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -167,8 +169,318 @@
                 "molecular_formula": "C32H53N3O7"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "ABD52_RS02345",
+                    "product": "polyprenyl synthetase family protein"
+                },
+                {
+                    "id": "ABD52_RS02350",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "ABD52_RS02355",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "ABD52_RS02360",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "ABD52_RS02365",
+                    "product": "acyl--CoA ligase"
+                },
+                {
+                    "id": "ABD52_RS02370",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "ABD52_RS02375",
+                    "product": "MMPL family transporter"
+                },
+                {
+                    "id": "ABD52_RS02380",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "ABD52_RS37315",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "ABD52_RS02390",
+                    "product": "flavodoxin/nitric oxide synthase"
+                },
+                {
+                    "id": "ABD52_RS02395",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "ABD52_RS02400",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "ABD52_RS02405",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "ABD52_RS02410",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "ABD52_RS02415",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "ABD52_RS02420",
+                    "product": "thioesterase"
+                },
+                {
+                    "id": "ABD52_RS02425",
+                    "product": "TetR/AcrR family transcriptional regulator"
+                },
+                {
+                    "id": "ABD52_RS02430",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "ABD52_RS02435",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "ABD52_RS02345",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 22760,
+                                "start": 22760
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "ABD52_RS02350",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 23646,
+                                "start": 23646
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "ABD52_RS02355",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 24787,
+                                "start": 24787
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "ABD52_RS02360",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 25730,
+                                "start": 25730
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "ABD52_RS02365",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 27393,
+                                "start": 27393
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "ABD52_RS02370",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 28205,
+                                "start": 28205
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "ABD52_RS02375",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 30507,
+                                "start": 30507
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "ABD52_RS02380",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 30902,
+                                "start": 30902
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "ABD52_RS37315",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 31960,
+                                "start": 31960
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "ABD52_RS02390",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 32433,
+                                "start": 32433
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "ABD52_RS02395",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 39212,
+                                "start": 39212
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "ABD52_RS02400",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 42207,
+                                "start": 42207
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "ABD52_RS02405",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 48635,
+                                "start": 48635
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "ABD52_RS02410",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 54103,
+                                "start": 54103
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "ABD52_RS02415",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 59772,
+                                "start": 59772
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "ABD52_RS02420",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 60518,
+                                "start": 60518
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "ABD52_RS02425",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 61157,
+                                "start": 61157
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "ABD52_RS02430",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 62174,
+                                "start": 62174
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "ABD52_RS02435",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 63730,
+                                "start": 63730
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_LEKG01000004.1",
+            "accession": "LEKG01000004.1",
             "completeness": "complete",
             "end_coord": 63730,
             "evidence": [

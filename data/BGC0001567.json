@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_CP016438.1 dated 11-APR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -28,8 +38,174 @@
                 "compound": "cysteoamide"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "SLINC_RS04000",
+                    "product": "cytochrome P450"
+                },
+                {
+                    "id": "SLINC_RS04005",
+                    "product": "MbtH family protein"
+                },
+                {
+                    "id": "SLINC_RS04010",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "SLINC_RS04015",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "SLINC_RS04020",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "SLINC_RS04025",
+                    "product": "cysteate synthase"
+                },
+                {
+                    "id": "SLINC_RS04030",
+                    "product": "pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha"
+                },
+                {
+                    "id": "SLINC_RS04035",
+                    "product": "transketolase"
+                },
+                {
+                    "id": "SLINC_RS04040",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SLINC_RS04045",
+                    "product": "argininosuccinate synthase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "SLINC_RS04000",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 883209,
+                                "start": 883209
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SLINC_RS04005",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 883444,
+                                "start": 883444
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SLINC_RS04010",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 887517,
+                                "start": 887517
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SLINC_RS04015",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 895291,
+                                "start": 895291
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SLINC_RS04020",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 902920,
+                                "start": 902920
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SLINC_RS04025",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 904248,
+                                "start": 904248
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SLINC_RS04030",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 905666,
+                                "start": 905666
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SLINC_RS04035",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 907680,
+                                "start": 907680
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SLINC_RS04040",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 909294,
+                                "start": 909294
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SLINC_RS04045",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 911036,
+                                "start": 911036
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_CP016438.1",
+            "accession": "CP016438.1",
             "completeness": "Unknown",
             "end_coord": 911036,
             "start_coord": 880171

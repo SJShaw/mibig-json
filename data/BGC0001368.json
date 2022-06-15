@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_JOIB01000012.1 dated 31-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -35,8 +45,447 @@
                 "molecular_formula": "C24H30ClN5O7"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "IF33_RS0114760",
+                    "product": "cation/H(+) antiporter"
+                },
+                {
+                    "id": "IF33_RS0114765",
+                    "product": "flavin reductase family protein"
+                },
+                {
+                    "id": "IF33_RS0114770",
+                    "product": "tryptophan 7-halogenase"
+                },
+                {
+                    "id": "IF33_RS0114775",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "IF33_RS0114780",
+                    "product": "aldehyde dehydrogenase family protein"
+                },
+                {
+                    "id": "IF33_RS0114785",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "IF33_RS0114790",
+                    "product": "thioesterase"
+                },
+                {
+                    "id": "IF33_RS0114795",
+                    "product": "MbtH family NRPS accessory protein"
+                },
+                {
+                    "id": "IF33_RS0114800",
+                    "product": "cytochrome P450"
+                },
+                {
+                    "id": "IF33_RS0114805",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "IF33_RS36805",
+                    "product": "4'-phosphopantetheinyl transferase superfamily protein"
+                },
+                {
+                    "id": "IF33_RS0114815",
+                    "product": "winged helix DNA-binding domain-containing protein"
+                },
+                {
+                    "id": "IF33_RS0114820",
+                    "product": "MFS transporter"
+                },
+                {
+                    "id": "IF33_RS0114825",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "IF33_RS0114830",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "IF33_RS0114835",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "IF33_RS0114840",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "IF33_RS0114845",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "IF33_RS0114850",
+                    "product": "GNAT family N-acetyltransferase"
+                },
+                {
+                    "id": "IF33_RS0114855",
+                    "product": "threonine aldolase"
+                },
+                {
+                    "id": "IF33_RS0114860",
+                    "product": "DUF2461 domain-containing protein"
+                },
+                {
+                    "id": "IF33_RS0114865",
+                    "name": "glyA",
+                    "product": "serine hydroxymethyltransferase"
+                },
+                {
+                    "id": "IF33_RS0114870",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "IF33_RS0114875",
+                    "product": "AAA family ATPase"
+                },
+                {
+                    "id": "IF33_RS0114880",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "IF33_RS0114885",
+                    "product": "tetratricopeptide repeat protein"
+                },
+                {
+                    "id": "IF33_RS0114890",
+                    "product": "winged helix-turn-helix transcriptional regulator"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "IF33_RS0114760",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 142709,
+                                "start": 142709
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114765",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 143238,
+                                "start": 143238
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114770",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 145002,
+                                "start": 145002
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114775",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 146176,
+                                "start": 146176
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114780",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 147815,
+                                "start": 147815
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114785",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 149644,
+                                "start": 149644
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114790",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 150394,
+                                "start": 150394
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114795",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 150614,
+                                "start": 150614
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114800",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 151830,
+                                "start": 151830
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114805",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 155784,
+                                "start": 155784
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF33_RS36805",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 156428,
+                                "start": 156428
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114815",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 157472,
+                                "start": 157472
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114820",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 158869,
+                                "start": 158869
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114825",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 163132,
+                                "start": 163132
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114830",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 166481,
+                                "start": 166481
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114835",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 167887,
+                                "start": 167887
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114840",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 169157,
+                                "start": 169157
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114845",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 170299,
+                                "start": 170299
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114850",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 170949,
+                                "start": 170949
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114855",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 172040,
+                                "start": 172040
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114860",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 172765,
+                                "start": 172765
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114865",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 174129,
+                                "start": 174129
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114870",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 177474,
+                                "start": 177474
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114875",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 179439,
+                                "start": 179439
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114880",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 179847,
+                                "start": 179847
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114885",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 183020,
+                                "start": 183020
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IF33_RS0114890",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 183850,
+                                "start": 183850
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_JOIB01000012.1",
+            "accession": "JOIB01000012.1",
             "completeness": "Unknown",
             "end_coord": 183860,
             "start_coord": 141430

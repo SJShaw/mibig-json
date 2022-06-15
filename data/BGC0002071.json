@@ -4,7 +4,9 @@
             "comments": [
                 "Submitted",
                 "Corrected NRP module activity",
-                "Added version to NCBI accession"
+                "Added version to NCBI accession",
+                "Gene details extracted from RefSeq accession NZ_PHSU01000004.1 dated 07-JUL-2020",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "O3ZSI4V6BQREG2DOQHOQ27FT",
@@ -53,8 +55,30 @@
                 ]
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "CWE01_RS05100",
+                    "product": "non-ribosomal peptide synthetase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "CWE01_RS05100",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 316980,
+                                "start": 316980
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_PHSU01000004.1",
+            "accession": "PHSU01000004.1",
             "completeness": "complete",
             "end_coord": 316980,
             "evidence": [

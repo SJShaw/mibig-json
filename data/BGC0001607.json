@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_JOJM01000053.1 dated 31-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -35,8 +45,399 @@
                 "molecular_formula": "C38H34N6O8"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "IG74_RS0132875",
+                    "product": "pentapeptide repeat-containing protein"
+                },
+                {
+                    "id": "IG74_RS0132880",
+                    "product": "DUF4872 domain-containing protein"
+                },
+                {
+                    "id": "IG74_RS0132885",
+                    "product": "B12-binding domain-containing radical SAM protein"
+                },
+                {
+                    "id": "IG74_RS0132890",
+                    "product": "carbon-nitrogen hydrolase family protein"
+                },
+                {
+                    "id": "IG74_RS0132895",
+                    "product": "class I SAM-dependent methyltransferase"
+                },
+                {
+                    "id": "IG74_RS0132900",
+                    "product": "coproporphyrinogen III oxidase family protein"
+                },
+                {
+                    "id": "IG74_RS0132905",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "IG74_RS0132910",
+                    "product": "ABC transporter"
+                },
+                {
+                    "id": "IG74_RS0132915",
+                    "product": "carbon-nitrogen hydrolase family protein"
+                },
+                {
+                    "id": "IG74_RS0132920",
+                    "name": "mfnA",
+                    "product": "tyrosine decarboxylase MfnA"
+                },
+                {
+                    "id": "IG74_RS0132925",
+                    "product": "carbon-nitrogen hydrolase family protein"
+                },
+                {
+                    "id": "IG74_RS0132930",
+                    "product": "carbon-nitrogen hydrolase family protein"
+                },
+                {
+                    "id": "IG74_RS0132935",
+                    "product": "AMP-binding protein"
+                },
+                {
+                    "id": "IG74_RS0132940",
+                    "product": "ABC transporter"
+                },
+                {
+                    "id": "IG74_RS0132945",
+                    "product": "4-hydroxyphenylacetate 3-hydroxylase"
+                },
+                {
+                    "id": "IG74_RS0132950",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "IG74_RS0132955",
+                    "product": "ferredoxin"
+                },
+                {
+                    "id": "IG74_RS0132960",
+                    "product": "AMP-binding protein"
+                },
+                {
+                    "id": "IG74_RS0132965",
+                    "product": "DUF4872 domain-containing protein"
+                },
+                {
+                    "id": "IG74_RS0132970",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "IG74_RS0132975",
+                    "product": "class I SAM-dependent methyltransferase"
+                },
+                {
+                    "id": "IG74_RS0132980",
+                    "product": "molybdopterin-dependent oxidoreductase"
+                },
+                {
+                    "id": "IG74_RS0132985",
+                    "product": "DUF4872 domain-containing protein"
+                },
+                {
+                    "id": "IG74_RS0132990",
+                    "product": "TrpB-like pyridoxal phosphate-dependent enzyme"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "IG74_RS0132875",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 33500,
+                                "start": 33500
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132880",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 34553,
+                                "start": 34553
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132885",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 36111,
+                                "start": 36111
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132890",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 37021,
+                                "start": 37021
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132895",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 37725,
+                                "start": 37725
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132900",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 39088,
+                                "start": 39088
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132905",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 40062,
+                                "start": 40062
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132910",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 40837,
+                                "start": 40837
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132915",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 41703,
+                                "start": 41703
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132920",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 42928,
+                                "start": 42928
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132925",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 43745,
+                                "start": 43745
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132930",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 44707,
+                                "start": 44707
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132935",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 45914,
+                                "start": 45914
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132940",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 48967,
+                                "start": 48967
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132945",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 50414,
+                                "start": 50414
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132950",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 51958,
+                                "start": 51958
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132955",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 52214,
+                                "start": 52214
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132960",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 53585,
+                                "start": 53585
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132965",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 54568,
+                                "start": 54568
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132970",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 55232,
+                                "start": 55232
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132975",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 55918,
+                                "start": 55918
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132980",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 57992,
+                                "start": 57992
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132985",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 59077,
+                                "start": 59077
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG74_RS0132990",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 60425,
+                                "start": 60425
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_JOJM01000053.1",
+            "accession": "JOJM01000053.1",
             "completeness": "Unknown",
             "end_coord": 60425,
             "start_coord": 32187

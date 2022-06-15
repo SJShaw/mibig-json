@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_014228.1 dated 26-AUG-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -31,8 +41,256 @@
                 "molecular_formula": "C16H20N2O2"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "XNC1_RS09380",
+                    "name": "pntB",
+                    "product": "Re/Si-specific NAD(P)(+) transhydrogenase subunit beta"
+                },
+                {
+                    "id": "XNC1_RS20595",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "XNC1_RS09390",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "XNC1_RS09395",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "XNC1_RS22245",
+                    "product": "adenylate kinase"
+                },
+                {
+                    "id": "XNC1_RS22865",
+                    "product": "IS630 family transposase"
+                },
+                {
+                    "id": "XNC1_RS09410",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "XNC1_RS09415",
+                    "product": "tyrosine-type recombinase/integrase"
+                },
+                {
+                    "id": "XNC1_RS09420",
+                    "product": "DMT family transporter"
+                },
+                {
+                    "id": "XNC1_RS09425",
+                    "product": "amidinotransferase"
+                },
+                {
+                    "id": "XNC1_RS09430",
+                    "product": "fatty acid desaturase"
+                },
+                {
+                    "id": "XNC1_RS09435",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "XNC1_RS09440",
+                    "name": "uspE",
+                    "product": "universal stress protein UspE"
+                },
+                {
+                    "id": "XNC1_RS09445",
+                    "product": "FNR family transcription factor"
+                },
+                {
+                    "id": "XNC1_RS09450",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "XNC1_RS09380",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2154164,
+                                "start": 2154164
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNC1_RS20595",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2159406,
+                                "start": 2159406
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNC1_RS09390",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2164067,
+                                "start": 2164067
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNC1_RS09395",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2170060,
+                                "start": 2170060
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNC1_RS22245",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2170532,
+                                "start": 2170532
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNC1_RS22865",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2170840,
+                                "start": 2170840
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNC1_RS09410",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2175158,
+                                "start": 2175158
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNC1_RS09415",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2176634,
+                                "start": 2176634
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNC1_RS09420",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2177797,
+                                "start": 2177797
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNC1_RS09425",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2179093,
+                                "start": 2179093
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNC1_RS09430",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2180137,
+                                "start": 2180137
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNC1_RS09435",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2181083,
+                                "start": 2181083
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNC1_RS09440",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2182095,
+                                "start": 2182095
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNC1_RS09445",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2182987,
+                                "start": 2182987
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNC1_RS09450",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2184146,
+                                "start": 2184146
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_014228.1",
+            "accession": "FN667742.1",
             "completeness": "Unknown",
             "end_coord": 2184146,
             "start_coord": 2151233

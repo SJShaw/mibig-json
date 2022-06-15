@@ -8,6 +8,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_KB899004.1 dated 22-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -32,8 +42,448 @@
                 "compound": "streptophenazine H"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "D581_RS01000000137710",
+                    "product": "cytochrome ubiquinol oxidase subunit I"
+                },
+                {
+                    "id": "D581_RS0125475",
+                    "product": "LysR family transcriptional regulator"
+                },
+                {
+                    "id": "D581_RS0125480",
+                    "product": "fatty acyl-AMP ligase"
+                },
+                {
+                    "id": "D581_RS0125485",
+                    "name": "ccrA",
+                    "product": "crotonyl-CoA carboxylase/reductase"
+                },
+                {
+                    "id": "D581_RS01000000137715",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "D581_RS0125495",
+                    "product": "aldo/keto reductase"
+                },
+                {
+                    "id": "D581_RS01000000137720",
+                    "product": "thioesterase"
+                },
+                {
+                    "id": "D581_RS01000000137725",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "D581_RS0125510",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "D581_RS0125515",
+                    "product": "aldehyde dehydrogenase family protein"
+                },
+                {
+                    "id": "D581_RS0125520",
+                    "product": "phenazine antibiotic biosynthesis protein"
+                },
+                {
+                    "id": "D581_RS01000000137730",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "D581_RS0125530",
+                    "product": "FAD-binding oxidoreductase"
+                },
+                {
+                    "id": "D581_RS01000000137735",
+                    "product": "amino acid adenylation domain-containing protein"
+                },
+                {
+                    "id": "D581_RS0125540",
+                    "name": "pdxH",
+                    "product": "pyridoxamine 5'-phosphate oxidase"
+                },
+                {
+                    "id": "D581_RS0125545",
+                    "product": "PhzF family phenazine biosynthesis isomerase"
+                },
+                {
+                    "id": "D581_RS0125550",
+                    "product": "phenazine-specific anthranilate synthase"
+                },
+                {
+                    "id": "D581_RS0125555",
+                    "product": "isochorismatase family protein"
+                },
+                {
+                    "id": "D581_RS0125560",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "D581_RS0125565",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "D581_RS0125570",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "D581_RS01000000137740",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "D581_RS0125580",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "D581_RS0125585",
+                    "product": "class I SAM-dependent methyltransferase"
+                },
+                {
+                    "id": "D581_RS0125590",
+                    "product": "MFS transporter"
+                },
+                {
+                    "id": "D581_RS0125595",
+                    "product": "FAD-dependent oxidoreductase"
+                },
+                {
+                    "id": "D581_RS0125600",
+                    "product": "TetR/AcrR family transcriptional regulator"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "D581_RS01000000137710",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 103405,
+                                "start": 103405
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125475",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 104345,
+                                "start": 104345
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125480",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 106284,
+                                "start": 106284
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125485",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 107531,
+                                "start": 107531
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS01000000137715",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 110073,
+                                "start": 110073
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125495",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 111130,
+                                "start": 111130
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS01000000137720",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 111991,
+                                "start": 111991
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS01000000137725",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 114729,
+                                "start": 114729
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125510",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 115051,
+                                "start": 115051
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125515",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 116662,
+                                "start": 116662
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125520",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 117771,
+                                "start": 117771
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS01000000137730",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 118232,
+                                "start": 118232
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D581_RS0125530",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 119681,
+                                "start": 119681
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS01000000137735",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 121351,
+                                "start": 121351
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125540",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 122100,
+                                "start": 122100
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125545",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 123035,
+                                "start": 123035
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125550",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 124977,
+                                "start": 124977
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125555",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 125606,
+                                "start": 125606
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125560",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 126804,
+                                "start": 126804
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125565",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 127357,
+                                "start": 127357
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125570",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 128726,
+                                "start": 128726
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D581_RS01000000137740",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 129078,
+                                "start": 129078
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D581_RS0125580",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 131653,
+                                "start": 131653
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125585",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 132581,
+                                "start": 132581
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125590",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 134339,
+                                "start": 134339
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125595",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 136804,
+                                "start": 136804
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D581_RS0125600",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 137766,
+                                "start": 137766
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_KB899004.1",
+            "accession": "KB899004.1",
             "completeness": "Unknown",
             "end_coord": 137766,
             "start_coord": 101033

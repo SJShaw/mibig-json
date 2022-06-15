@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_003888.3 dated 03-AUG-2016",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -30,8 +40,222 @@
                 "mol_mass": 2138.19
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "SCO2439",
+                    "product": "calcium-binding protein"
+                },
+                {
+                    "id": "SCO2440",
+                    "product": "transcriptional regulator"
+                },
+                {
+                    "id": "SCO2441",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SCO2442",
+                    "product": "GntR family transcriptional regulator"
+                },
+                {
+                    "id": "SCO2443",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SCO2444",
+                    "product": "acyl-CoA synthetase"
+                },
+                {
+                    "id": "SCO2445",
+                    "product": "acetyl CoA carboxylase subunits alpha/beta"
+                },
+                {
+                    "id": "SCO2446",
+                    "product": "peptidase"
+                },
+                {
+                    "id": "SCO2447",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SCO2448",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SCO2449",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SCO2450",
+                    "product": "Ser/Thr protein kinase (regulator)"
+                },
+                {
+                    "id": "SCO2451",
+                    "product": "rod shape-determining protein MreB"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "SCO2439",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2618650,
+                                "start": 2618650
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SCO2440",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2619420,
+                                "start": 2619420
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SCO2441",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2620149,
+                                "start": 2620149
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SCO2442",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2620881,
+                                "start": 2620881
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SCO2443",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2622488,
+                                "start": 2622488
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SCO2444",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2624033,
+                                "start": 2624033
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SCO2445",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2625402,
+                                "start": 2625402
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SCO2446",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2629333,
+                                "start": 2629333
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SCO2447",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2629973,
+                                "start": 2629973
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SCO2448",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2631634,
+                                "start": 2631634
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SCO2449",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2632795,
+                                "start": 2632795
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SCO2450",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2636844,
+                                "start": 2636844
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SCO2451",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2638096,
+                                "start": 2638096
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_003888.3",
+            "accession": "AL645882.2",
             "completeness": "complete",
             "end_coord": 2638096,
             "evidence": [

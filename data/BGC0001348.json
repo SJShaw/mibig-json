@@ -20,7 +20,9 @@
         },
         {
             "comments": [
-                "Fixed missing and incorrect gene identifiers"
+                "Fixed missing and incorrect gene identifiers",
+                "Gene details extracted from RefSeq accession NZ_JOBF01000033.1 dated 30-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -259,6 +261,14 @@
                     "comments": "incomplete; partial in the middle of a contig; missing stop; Derived by automated computational analysis using gene prediction method: Protein Homology.",
                     "id": "IF55_RS36525",
                     "product": "polyketide synthase"
+                },
+                {
+                    "id": "IF55_RS38945",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "IF55_RS37870",
+                    "product": "hypothetical protein"
                 }
             ],
             "extra_genes": [
@@ -285,11 +295,203 @@
                         ],
                         "strand": 1
                     }
+                },
+                {
+                    "id": "IF55_RS38945",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 97492,
+                                "start": 97492
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF55_RS32365",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 109040,
+                                "start": 109040
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF55_RS32370",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 124394,
+                                "start": 124394
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF55_RS32375",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 136256,
+                                "start": 136256
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF55_RS37865",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 146841,
+                                "start": 146841
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF55_RS32385",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 153361,
+                                "start": 153361
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF55_RS32390",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 154242,
+                                "start": 154242
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF55_RS32395",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 154618,
+                                "start": 154618
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF55_RS32400",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 155846,
+                                "start": 155846
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF55_RS32405",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 157027,
+                                "start": 157027
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF55_RS32410",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 157789,
+                                "start": 157789
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IF55_RS32415",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 159779,
+                                "start": 159779
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IF55_RS32420",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 161004,
+                                "start": 161004
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF55_RS37870",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 161602,
+                                "start": 161602
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF55_RS32430",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 162902,
+                                "start": 162902
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IF55_RS32435",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 163999,
+                                "start": 163999
+                            }
+                        ],
+                        "strand": 1
+                    }
                 }
             ]
         },
         "loci": {
-            "accession": "NZ_JOBF01000033.1",
+            "accession": "JOBF01000033.1",
             "completeness": "complete",
             "end_coord": 164000,
             "evidence": [

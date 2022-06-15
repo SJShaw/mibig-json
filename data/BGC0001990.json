@@ -11,7 +11,9 @@
         },
         {
             "comments": [
-                "Fetch compound properties from PubChem"
+                "Fetch compound properties from PubChem",
+                "Gene details extracted from RefSeq accession NC_007198.1 dated 03-APR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -86,8 +88,170 @@
                 "molecular_formula": "C18H12N2O2"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "AFUA_5G02620",
+                    "product": "P450 family sporulation-specific N-formyltyrosine oxidase Dit2, putative"
+                },
+                {
+                    "id": "AFUA_5G02630",
+                    "product": "conserved hypothetical protein"
+                },
+                {
+                    "id": "AFUA_5G02640",
+                    "product": "O-methyltransferase, putative"
+                },
+                {
+                    "id": "AFUA_5G02650",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AFUA_5G02655",
+                    "product": "conserved hypothetical protein"
+                },
+                {
+                    "id": "AFUA_5G02660",
+                    "product": "pyoverdine/dityrosine biosynthesis protein, putative"
+                },
+                {
+                    "id": "AFUA_5G02670",
+                    "product": "ThiJ/PfpI family protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "AFUA_5G02620",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 689013,
+                                "start": 689013
+                            },
+                            {
+                                "end": 687854,
+                                "start": 687854
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AFUA_5G02630",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 689311,
+                                "start": 689311
+                            },
+                            {
+                                "end": 689978,
+                                "start": 689978
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AFUA_5G02640",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 690932,
+                                "start": 690932
+                            },
+                            {
+                                "end": 691107,
+                                "start": 691107
+                            },
+                            {
+                                "end": 691265,
+                                "start": 691265
+                            },
+                            {
+                                "end": 691695,
+                                "start": 691695
+                            },
+                            {
+                                "end": 692033,
+                                "start": 692033
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AFUA_5G02650",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 692950,
+                                "start": 692950
+                            },
+                            {
+                                "end": 692796,
+                                "start": 692796
+                            },
+                            {
+                                "end": 692465,
+                                "start": 692465
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AFUA_5G02655",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 695221,
+                                "start": 695221
+                            },
+                            {
+                                "end": 695800,
+                                "start": 695800
+                            },
+                            {
+                                "end": 696187,
+                                "start": 696187
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AFUA_5G02660",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 699049,
+                                "start": 699049
+                            },
+                            {
+                                "end": 698236,
+                                "start": 698236
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AFUA_5G02670",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 700845,
+                                "start": 700845
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_007198.1",
+            "accession": "CM000173.1",
             "completeness": "Unknown",
             "end_coord": 701000,
             "start_coord": 687200

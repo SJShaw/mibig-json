@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_011001.1 dated 25-AUG-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -28,8 +38,350 @@
                 "compound": "exopolysaccharides"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "QU43_RS61015",
+                    "product": "AAA family ATPase"
+                },
+                {
+                    "id": "QU43_RS61020",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "QU43_RS61025",
+                    "product": "acyltransferase"
+                },
+                {
+                    "id": "QU43_RS61030",
+                    "product": "alpha/beta hydrolase"
+                },
+                {
+                    "id": "QU43_RS61035",
+                    "product": "glycosyltransferase"
+                },
+                {
+                    "id": "QU43_RS61040",
+                    "product": "oligosaccharide flippase family protein"
+                },
+                {
+                    "id": "QU43_RS61045",
+                    "product": "glycosyltransferase family 4 protein"
+                },
+                {
+                    "id": "QU43_RS61050",
+                    "product": "glycosyltransferase"
+                },
+                {
+                    "id": "QU43_RS61055",
+                    "product": "right-handed parallel beta-helix repeat-containing protein"
+                },
+                {
+                    "id": "QU43_RS61060",
+                    "product": "mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase"
+                },
+                {
+                    "id": "QU43_RS61065",
+                    "product": "drug:proton antiporter"
+                },
+                {
+                    "id": "QU43_RS76195",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "QU43_RS61070",
+                    "product": "sigma-54-dependent Fis family transcriptional regulator"
+                },
+                {
+                    "id": "QU43_RS61075",
+                    "product": "glycoside hydrolase family 2 protein"
+                },
+                {
+                    "id": "QU43_RS61080",
+                    "product": "DUF1839 family protein"
+                },
+                {
+                    "id": "QU43_RS61085",
+                    "product": "amino acid--[acyl-carrier-protein] ligase"
+                },
+                {
+                    "id": "QU43_RS61090",
+                    "product": "acyl-CoA dehydrogenase"
+                },
+                {
+                    "id": "QU43_RS61095",
+                    "product": "acyl carrier protein"
+                },
+                {
+                    "id": "QU43_RS61100",
+                    "product": "Crp/Fnr family transcriptional regulator"
+                },
+                {
+                    "id": "QU43_RS61105",
+                    "product": "Crp/Fnr family transcriptional regulator"
+                },
+                {
+                    "id": "QU43_RS61110",
+                    "product": "undecaprenyl-phosphate glucose phosphotransferase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "QU43_RS61015",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1474117,
+                                "start": 1474117
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "QU43_RS61020",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1475738,
+                                "start": 1475738
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "QU43_RS61025",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1477058,
+                                "start": 1477058
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "QU43_RS61030",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1479079,
+                                "start": 1479079
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "QU43_RS61035",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1480576,
+                                "start": 1480576
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "QU43_RS61040",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1481868,
+                                "start": 1481868
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "QU43_RS61045",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1483102,
+                                "start": 1483102
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "QU43_RS61050",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1484278,
+                                "start": 1484278
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "QU43_RS61055",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1486237,
+                                "start": 1486237
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "QU43_RS61060",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1487852,
+                                "start": 1487852
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "QU43_RS61065",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1488427,
+                                "start": 1488427
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "QU43_RS76195",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1489688,
+                                "start": 1489688
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "QU43_RS61070",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1491139,
+                                "start": 1491139
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "QU43_RS61075",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1493680,
+                                "start": 1493680
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "QU43_RS61080",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1494732,
+                                "start": 1494732
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "QU43_RS61085",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1495703,
+                                "start": 1495703
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "QU43_RS61090",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1496896,
+                                "start": 1496896
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "QU43_RS61095",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1497204,
+                                "start": 1497204
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "QU43_RS61100",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1498065,
+                                "start": 1498065
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "QU43_RS61105",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1499810,
+                                "start": 1499810
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "QU43_RS61110",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1501228,
+                                "start": 1501228
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_011001.1",
+            "accession": "AM747721.1",
             "completeness": "Unknown",
             "end_coord": 1501228,
             "start_coord": 1469947

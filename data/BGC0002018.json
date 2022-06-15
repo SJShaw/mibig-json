@@ -11,10 +11,13 @@
         },
         {
             "comments": [
-                "Fixed DOIs"
+                "Fixed DOIs",
+                "Gene details extracted from RefSeq accession NC_016111.1 dated 22-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
-                "CUSGWVK3I4TVHJH7NHPFAP2L"
+                "CUSGWVK3I4TVHJH7NHPFAP2L",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -28,8 +31,110 @@
                 "compound": "azomycin"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "SCAT_RS09940",
+                    "product": "methyltransferase domain-containing protein"
+                },
+                {
+                    "id": "SCAT_RS37905",
+                    "product": "Rieske 2Fe-2S domain-containing protein"
+                },
+                {
+                    "id": "SCAT_RS09950",
+                    "product": "iron-containing redox enzyme family protein"
+                },
+                {
+                    "id": "SCAT_RS09955",
+                    "product": "dihydrodipicolinate synthase family protein"
+                },
+                {
+                    "id": "SCAT_RS09960",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SCAT_RS09965",
+                    "product": "aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "SCAT_RS09940",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 441409,
+                                "start": 441409
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SCAT_RS37905",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 441696,
+                                "start": 441696
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SCAT_RS09950",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 442586,
+                                "start": 442586
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SCAT_RS09955",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 443368,
+                                "start": 443368
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SCAT_RS09960",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 443924,
+                                "start": 443924
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SCAT_RS09965",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 445095,
+                                "start": 445095
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_016111.1",
+            "accession": "FQ859185.1",
             "completeness": "Unknown",
             "end_coord": 445098,
             "start_coord": 440312

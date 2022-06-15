@@ -8,6 +8,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_CP031462.1 dated 16-AUG-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -19,8 +29,78 @@
                 "compound": "RaxX"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "BRN51_RS06465",
+                    "product": "sulfotransferase"
+                },
+                {
+                    "id": "BRN51_RS06470",
+                    "product": "HlyD family efflux transporter periplasmic adaptor subunit"
+                },
+                {
+                    "id": "BRN51_RS06475",
+                    "product": "peptidase domain-containing ABC transporter"
+                },
+                {
+                    "id": "BRN51_RS06480",
+                    "product": "MFS transporter"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "BRN51_RS06465",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1286440,
+                                "start": 1286440
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BRN51_RS06470",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1287740,
+                                "start": 1287740
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BRN51_RS06475",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1289896,
+                                "start": 1289896
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BRN51_RS06480",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1291221,
+                                "start": 1291221
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_CP031462.1",
+            "accession": "CP031462.1",
             "completeness": "Unknown",
             "end_coord": 1291221,
             "start_coord": 1285024

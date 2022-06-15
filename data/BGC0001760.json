@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_ANSJ01000026.1 dated 22-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -28,8 +38,222 @@
                 "compound": "rimosamide"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "SRIM_RS28590",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SRIM_RS28585",
+                    "product": "taurine dioxygenase"
+                },
+                {
+                    "id": "SRIM_RS28580",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SRIM_RS28575",
+                    "product": "GSCFA domain-containing protein"
+                },
+                {
+                    "id": "SRIM_RS28570",
+                    "product": "non-ribosomal peptide synthase"
+                },
+                {
+                    "id": "SRIM_RS28565",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "SRIM_RS28560",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "SRIM_RS28555",
+                    "product": "ATP-dependent DNA ligase"
+                },
+                {
+                    "id": "SRIM_RS28550",
+                    "product": "DNA polymerase domain-containing protein"
+                },
+                {
+                    "id": "SRIM_RS28545",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SRIM_RS28540",
+                    "product": "SigE family RNA polymerase sigma factor"
+                },
+                {
+                    "id": "SRIM_RS28535",
+                    "product": "putative glycosyl hydrolase"
+                },
+                {
+                    "id": "SRIM_RS28530",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "SRIM_RS28590",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 33305,
+                                "start": 33305
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SRIM_RS28585",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 34245,
+                                "start": 34245
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SRIM_RS28580",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 34876,
+                                "start": 34876
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SRIM_RS28575",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 36053,
+                                "start": 36053
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SRIM_RS28570",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 45430,
+                                "start": 45430
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SRIM_RS28565",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 49614,
+                                "start": 49614
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SRIM_RS28560",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 53211,
+                                "start": 53211
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SRIM_RS28555",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 54291,
+                                "start": 54291
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SRIM_RS28550",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 55598,
+                                "start": 55598
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SRIM_RS28545",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 56351,
+                                "start": 56351
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SRIM_RS28540",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 56914,
+                                "start": 56914
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SRIM_RS28535",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 58048,
+                                "start": 58048
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SRIM_RS28530",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 59133,
+                                "start": 59133
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_ANSJ01000026.1",
+            "accession": "ANSJ01000026.1",
             "completeness": "Unknown",
             "end_coord": 59133,
             "start_coord": 30040

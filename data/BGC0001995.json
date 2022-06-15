@@ -20,10 +20,13 @@
         },
         {
             "comments": [
-                "Fixed DOIs"
+                "Fixed DOIs",
+                "Gene details extracted from RefSeq accession NC_036441.1 dated 04-APR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
-                "CUSGWVK3I4TVHJH7NHPFAP2L"
+                "CUSGWVK3I4TVHJH7NHPFAP2L",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -46,8 +49,272 @@
                 "molecular_formula": "C15H20O5"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "AO090011000408"
+                },
+                {
+                    "id": "AO090011000410"
+                },
+                {
+                    "id": "AO090011000411"
+                },
+                {
+                    "id": "AO090011000412"
+                },
+                {
+                    "id": "AO090011000413"
+                },
+                {
+                    "id": "AO090011000414"
+                },
+                {
+                    "id": "AO090011000415"
+                },
+                {
+                    "id": "AO090011000416"
+                },
+                {
+                    "id": "AO090011000417"
+                },
+                {
+                    "id": "AO090011000418"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "AO090011000408",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1045095,
+                                "start": 1045095
+                            },
+                            {
+                                "end": 1044742,
+                                "start": 1044742
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AO090011000410",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1047301,
+                                "start": 1047301
+                            },
+                            {
+                                "end": 1047392,
+                                "start": 1047392
+                            },
+                            {
+                                "end": 1047701,
+                                "start": 1047701
+                            },
+                            {
+                                "end": 1048422,
+                                "start": 1048422
+                            },
+                            {
+                                "end": 1048604,
+                                "start": 1048604
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AO090011000411",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1051191,
+                                "start": 1051191
+                            },
+                            {
+                                "end": 1051044,
+                                "start": 1051044
+                            },
+                            {
+                                "end": 1050492,
+                                "start": 1050492
+                            },
+                            {
+                                "end": 1050399,
+                                "start": 1050399
+                            },
+                            {
+                                "end": 1050071,
+                                "start": 1050071
+                            },
+                            {
+                                "end": 1049931,
+                                "start": 1049931
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AO090011000412",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1052331,
+                                "start": 1052331
+                            },
+                            {
+                                "end": 1052497,
+                                "start": 1052497
+                            },
+                            {
+                                "end": 1052625,
+                                "start": 1052625
+                            },
+                            {
+                                "end": 1053287,
+                                "start": 1053287
+                            },
+                            {
+                                "end": 1053775,
+                                "start": 1053775
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AO090011000413",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1055459,
+                                "start": 1055459
+                            },
+                            {
+                                "end": 1055238,
+                                "start": 1055238
+                            },
+                            {
+                                "end": 1054695,
+                                "start": 1054695
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AO090011000414",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1057050,
+                                "start": 1057050
+                            },
+                            {
+                                "end": 1056856,
+                                "start": 1056856
+                            },
+                            {
+                                "end": 1056126,
+                                "start": 1056126
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AO090011000415",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1058010,
+                                "start": 1058010
+                            },
+                            {
+                                "end": 1058204,
+                                "start": 1058204
+                            },
+                            {
+                                "end": 1058684,
+                                "start": 1058684
+                            },
+                            {
+                                "end": 1059074,
+                                "start": 1059074
+                            },
+                            {
+                                "end": 1059237,
+                                "start": 1059237
+                            },
+                            {
+                                "end": 1059461,
+                                "start": 1059461
+                            },
+                            {
+                                "end": 1059707,
+                                "start": 1059707
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AO090011000416",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1060664,
+                                "start": 1060664
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AO090011000417",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1062584,
+                                "start": 1062584
+                            },
+                            {
+                                "end": 1063548,
+                                "start": 1063548
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AO090011000418",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1064343,
+                                "start": 1064343
+                            },
+                            {
+                                "end": 1065701,
+                                "start": 1065701
+                            },
+                            {
+                                "end": 1067040,
+                                "start": 1067040
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_036441.1",
+            "accession": "BA000055.1",
             "completeness": "Unknown",
             "end_coord": 1067040,
             "start_coord": 1039554

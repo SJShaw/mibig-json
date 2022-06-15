@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_003076.8 dated 14-FEB-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -34,8 +44,812 @@
                 "molecular_formula": "C30H50O"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "AT5G36100",
+                    "product": "transmembrane protein"
+                },
+                {
+                    "id": "AT5G36100_NP_001119315.1",
+                    "product": "transmembrane protein"
+                },
+                {
+                    "id": "AT5G36110_NP_001332668.1",
+                    "product": "cytochrome P450, family 716, subfamily A, polypeptide 1"
+                },
+                {
+                    "id": "AT5G36110",
+                    "product": "cytochrome P450, family 716, subfamily A, polypeptide 1"
+                },
+                {
+                    "id": "AT5G36120",
+                    "name": "CCB3",
+                    "product": "cofactor assembly, complex C (B6F)"
+                },
+                {
+                    "id": "AT5G36130",
+                    "product": "Cytochrome P450 superfamily protein"
+                },
+                {
+                    "id": "AT5G36140",
+                    "name": "CYP716A2",
+                    "product": "cytochrome P450, family 716, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT5G36150_NP_198464.4",
+                    "product": "putative pentacyclic triterpene synthase 3"
+                },
+                {
+                    "id": "AT5G36150",
+                    "product": "putative pentacyclic triterpene synthase 3"
+                },
+                {
+                    "id": "AT5G36160",
+                    "product": "Tyrosine transaminase family protein"
+                },
+                {
+                    "id": "AT5G36170_NP_851096.1",
+                    "product": "high chlorophyll fluorescent 109"
+                },
+                {
+                    "id": "AT5G36170",
+                    "product": "high chlorophyll fluorescent 109"
+                },
+                {
+                    "id": "AT5G36170_NP_198466.2",
+                    "product": "high chlorophyll fluorescent 109"
+                },
+                {
+                    "id": "AT5G36170_NP_001332421.1",
+                    "product": "high chlorophyll fluorescent 109"
+                },
+                {
+                    "id": "AT5G36180",
+                    "product": "serine carboxypeptidase-like 1"
+                },
+                {
+                    "id": "AT5G36180_NP_001331682.1",
+                    "product": "serine carboxypeptidase-like 1"
+                },
+                {
+                    "id": "AT5G36180_NP_001331683.1",
+                    "product": "serine carboxypeptidase-like 1"
+                },
+                {
+                    "id": "AT5G36180_NP_001331685.1",
+                    "product": "serine carboxypeptidase-like 1"
+                },
+                {
+                    "id": "AT5G36180_NP_001331684.1",
+                    "product": "serine carboxypeptidase-like 1"
+                },
+                {
+                    "id": "AT5G36190",
+                    "product": "F-box protein interaction domain protein"
+                },
+                {
+                    "id": "AT5G36200",
+                    "product": "F-box and associated interaction domains-containing protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "AT5G36100",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14193654,
+                                "start": 14193654
+                            },
+                            {
+                                "end": 14192958,
+                                "start": 14192958
+                            },
+                            {
+                                "end": 14191926,
+                                "start": 14191926
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G36100_NP_001119315.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14193654,
+                                "start": 14193654
+                            },
+                            {
+                                "end": 14192958,
+                                "start": 14192958
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G36110_NP_001332668.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14195915,
+                                "start": 14195915
+                            },
+                            {
+                                "end": 14196454,
+                                "start": 14196454
+                            },
+                            {
+                                "end": 14197248,
+                                "start": 14197248
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT5G36110",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14195915,
+                                "start": 14195915
+                            },
+                            {
+                                "end": 14196454,
+                                "start": 14196454
+                            },
+                            {
+                                "end": 14197224,
+                                "start": 14197224
+                            },
+                            {
+                                "end": 14197613,
+                                "start": 14197613
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT5G36120",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14199203,
+                                "start": 14199203
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G36130",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14209811,
+                                "start": 14209811
+                            },
+                            {
+                                "end": 14209592,
+                                "start": 14209592
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G36140",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14213259,
+                                "start": 14213259
+                            },
+                            {
+                                "end": 14212641,
+                                "start": 14212641
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G36150_NP_198464.4",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14225422,
+                                "start": 14225422
+                            },
+                            {
+                                "end": 14225138,
+                                "start": 14225138
+                            },
+                            {
+                                "end": 14224866,
+                                "start": 14224866
+                            },
+                            {
+                                "end": 14223740,
+                                "start": 14223740
+                            },
+                            {
+                                "end": 14223451,
+                                "start": 14223451
+                            },
+                            {
+                                "end": 14223131,
+                                "start": 14223131
+                            },
+                            {
+                                "end": 14222852,
+                                "start": 14222852
+                            },
+                            {
+                                "end": 14222473,
+                                "start": 14222473
+                            },
+                            {
+                                "end": 14222285,
+                                "start": 14222285
+                            },
+                            {
+                                "end": 14221774,
+                                "start": 14221774
+                            },
+                            {
+                                "end": 14221600,
+                                "start": 14221600
+                            },
+                            {
+                                "end": 14221468,
+                                "start": 14221468
+                            },
+                            {
+                                "end": 14220850,
+                                "start": 14220850
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G36150",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14225422,
+                                "start": 14225422
+                            },
+                            {
+                                "end": 14225138,
+                                "start": 14225138
+                            },
+                            {
+                                "end": 14224866,
+                                "start": 14224866
+                            },
+                            {
+                                "end": 14223740,
+                                "start": 14223740
+                            },
+                            {
+                                "end": 14223451,
+                                "start": 14223451
+                            },
+                            {
+                                "end": 14223131,
+                                "start": 14223131
+                            },
+                            {
+                                "end": 14222852,
+                                "start": 14222852
+                            },
+                            {
+                                "end": 14222473,
+                                "start": 14222473
+                            },
+                            {
+                                "end": 14222285,
+                                "start": 14222285
+                            },
+                            {
+                                "end": 14221774,
+                                "start": 14221774
+                            },
+                            {
+                                "end": 14221600,
+                                "start": 14221600
+                            },
+                            {
+                                "end": 14221468,
+                                "start": 14221468
+                            },
+                            {
+                                "end": 14220850,
+                                "start": 14220850
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G36160",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14235129,
+                                "start": 14235129
+                            },
+                            {
+                                "end": 14234653,
+                                "start": 14234653
+                            },
+                            {
+                                "end": 14234226,
+                                "start": 14234226
+                            },
+                            {
+                                "end": 14233923,
+                                "start": 14233923
+                            },
+                            {
+                                "end": 14233790,
+                                "start": 14233790
+                            },
+                            {
+                                "end": 14233554,
+                                "start": 14233554
+                            },
+                            {
+                                "end": 14233382,
+                                "start": 14233382
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G36170_NP_851096.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14237974,
+                                "start": 14237974
+                            },
+                            {
+                                "end": 14237724,
+                                "start": 14237724
+                            },
+                            {
+                                "end": 14237561,
+                                "start": 14237561
+                            },
+                            {
+                                "end": 14237264,
+                                "start": 14237264
+                            },
+                            {
+                                "end": 14236975,
+                                "start": 14236975
+                            },
+                            {
+                                "end": 14236685,
+                                "start": 14236685
+                            },
+                            {
+                                "end": 14236387,
+                                "start": 14236387
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G36170",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14237974,
+                                "start": 14237974
+                            },
+                            {
+                                "end": 14237721,
+                                "start": 14237721
+                            },
+                            {
+                                "end": 14237561,
+                                "start": 14237561
+                            },
+                            {
+                                "end": 14237264,
+                                "start": 14237264
+                            },
+                            {
+                                "end": 14236975,
+                                "start": 14236975
+                            },
+                            {
+                                "end": 14236685,
+                                "start": 14236685
+                            },
+                            {
+                                "end": 14236387,
+                                "start": 14236387
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G36170_NP_198466.2",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14237974,
+                                "start": 14237974
+                            },
+                            {
+                                "end": 14237724,
+                                "start": 14237724
+                            },
+                            {
+                                "end": 14237561,
+                                "start": 14237561
+                            },
+                            {
+                                "end": 14237264,
+                                "start": 14237264
+                            },
+                            {
+                                "end": 14236975,
+                                "start": 14236975
+                            },
+                            {
+                                "end": 14236685,
+                                "start": 14236685
+                            },
+                            {
+                                "end": 14236406,
+                                "start": 14236406
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G36170_NP_001332421.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14237974,
+                                "start": 14237974
+                            },
+                            {
+                                "end": 14237721,
+                                "start": 14237721
+                            },
+                            {
+                                "end": 14237561,
+                                "start": 14237561
+                            },
+                            {
+                                "end": 14237264,
+                                "start": 14237264
+                            },
+                            {
+                                "end": 14236975,
+                                "start": 14236975
+                            },
+                            {
+                                "end": 14236685,
+                                "start": 14236685
+                            },
+                            {
+                                "end": 14236406,
+                                "start": 14236406
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G36180",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14239346,
+                                "start": 14239346
+                            },
+                            {
+                                "end": 14239580,
+                                "start": 14239580
+                            },
+                            {
+                                "end": 14239731,
+                                "start": 14239731
+                            },
+                            {
+                                "end": 14239943,
+                                "start": 14239943
+                            },
+                            {
+                                "end": 14240138,
+                                "start": 14240138
+                            },
+                            {
+                                "end": 14240490,
+                                "start": 14240490
+                            },
+                            {
+                                "end": 14240662,
+                                "start": 14240662
+                            },
+                            {
+                                "end": 14240826,
+                                "start": 14240826
+                            },
+                            {
+                                "end": 14240976,
+                                "start": 14240976
+                            },
+                            {
+                                "end": 14241176,
+                                "start": 14241176
+                            },
+                            {
+                                "end": 14241361,
+                                "start": 14241361
+                            },
+                            {
+                                "end": 14241492,
+                                "start": 14241492
+                            },
+                            {
+                                "end": 14241862,
+                                "start": 14241862
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT5G36180_NP_001331682.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14239731,
+                                "start": 14239731
+                            },
+                            {
+                                "end": 14239943,
+                                "start": 14239943
+                            },
+                            {
+                                "end": 14240138,
+                                "start": 14240138
+                            },
+                            {
+                                "end": 14240490,
+                                "start": 14240490
+                            },
+                            {
+                                "end": 14240662,
+                                "start": 14240662
+                            },
+                            {
+                                "end": 14240826,
+                                "start": 14240826
+                            },
+                            {
+                                "end": 14240976,
+                                "start": 14240976
+                            },
+                            {
+                                "end": 14241176,
+                                "start": 14241176
+                            },
+                            {
+                                "end": 14241361,
+                                "start": 14241361
+                            },
+                            {
+                                "end": 14241519,
+                                "start": 14241519
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT5G36180_NP_001331683.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14239731,
+                                "start": 14239731
+                            },
+                            {
+                                "end": 14239943,
+                                "start": 14239943
+                            },
+                            {
+                                "end": 14240138,
+                                "start": 14240138
+                            },
+                            {
+                                "end": 14240490,
+                                "start": 14240490
+                            },
+                            {
+                                "end": 14240662,
+                                "start": 14240662
+                            },
+                            {
+                                "end": 14240826,
+                                "start": 14240826
+                            },
+                            {
+                                "end": 14240976,
+                                "start": 14240976
+                            },
+                            {
+                                "end": 14241176,
+                                "start": 14241176
+                            },
+                            {
+                                "end": 14241361,
+                                "start": 14241361
+                            },
+                            {
+                                "end": 14241492,
+                                "start": 14241492
+                            },
+                            {
+                                "end": 14241862,
+                                "start": 14241862
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT5G36180_NP_001331685.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14239731,
+                                "start": 14239731
+                            },
+                            {
+                                "end": 14239943,
+                                "start": 14239943
+                            },
+                            {
+                                "end": 14240138,
+                                "start": 14240138
+                            },
+                            {
+                                "end": 14240490,
+                                "start": 14240490
+                            },
+                            {
+                                "end": 14240662,
+                                "start": 14240662
+                            },
+                            {
+                                "end": 14240826,
+                                "start": 14240826
+                            },
+                            {
+                                "end": 14240976,
+                                "start": 14240976
+                            },
+                            {
+                                "end": 14241176,
+                                "start": 14241176
+                            },
+                            {
+                                "end": 14241361,
+                                "start": 14241361
+                            },
+                            {
+                                "end": 14241492,
+                                "start": 14241492
+                            },
+                            {
+                                "end": 14241862,
+                                "start": 14241862
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT5G36180_NP_001331684.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14239731,
+                                "start": 14239731
+                            },
+                            {
+                                "end": 14239943,
+                                "start": 14239943
+                            },
+                            {
+                                "end": 14240138,
+                                "start": 14240138
+                            },
+                            {
+                                "end": 14240490,
+                                "start": 14240490
+                            },
+                            {
+                                "end": 14240662,
+                                "start": 14240662
+                            },
+                            {
+                                "end": 14240826,
+                                "start": 14240826
+                            },
+                            {
+                                "end": 14240976,
+                                "start": 14240976
+                            },
+                            {
+                                "end": 14241176,
+                                "start": 14241176
+                            },
+                            {
+                                "end": 14241361,
+                                "start": 14241361
+                            },
+                            {
+                                "end": 14241908,
+                                "start": 14241908
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT5G36190",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14243546,
+                                "start": 14243546
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G36200",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14246296,
+                                "start": 14246296
+                            },
+                            {
+                                "end": 14244315,
+                                "start": 14244315
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_003076.8",
+            "accession": "CP002688.1",
             "completeness": "Unknown",
             "end_coord": 14250000,
             "start_coord": 14190000

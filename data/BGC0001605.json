@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_000914.2 dated 27-JUL-2017",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -31,8 +41,129 @@
                 "molecular_formula": "C19H22O6"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "NGR_a02710",
+                    "name": "cpxR",
+                    "product": "cytochrome P450 protein CpxR"
+                },
+                {
+                    "id": "NGR_a02720",
+                    "product": "P450-system 3Fe-4S ferredoxin protein"
+                },
+                {
+                    "id": "NGR_a02730",
+                    "product": "short chain dehydrogenase/reductase"
+                },
+                {
+                    "id": "NGR_a02740",
+                    "name": "cpxU",
+                    "product": "cytochrome P450"
+                },
+                {
+                    "id": "NGR_a02750",
+                    "name": "ispA",
+                    "product": "geranyltranstransferase"
+                },
+                {
+                    "id": "NGR_a02760",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "NGR_a02770",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "NGR_a02710",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 360927,
+                                "start": 360927
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "NGR_a02720",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 361265,
+                                "start": 361265
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "NGR_a02730",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 362088,
+                                "start": 362088
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "NGR_a02740",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 363431,
+                                "start": 363431
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "NGR_a02750",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 364583,
+                                "start": 364583
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "NGR_a02760",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 366444,
+                                "start": 366444
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "NGR_a02770",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 367346,
+                                "start": 367346
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_000914.2",
+            "accession": "U00090.2",
             "completeness": "Unknown",
             "end_coord": 367346,
             "start_coord": 358229

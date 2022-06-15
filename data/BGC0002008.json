@@ -8,6 +8,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_FO704550.1 dated 17-APR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -19,8 +29,286 @@
                 "compound": "aryl polyenes"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "XDD1_RS15985",
+                    "product": "SAM-dependent methyltransferase"
+                },
+                {
+                    "id": "XDD1_RS15990",
+                    "product": "beta-ketoacyl synthase chain length factor"
+                },
+                {
+                    "id": "XDD1_RS15995",
+                    "product": "1-acyl-sn-glycerol-3-phosphate acyltransferase"
+                },
+                {
+                    "id": "XDD1_RS16000",
+                    "product": "acyl carrier protein"
+                },
+                {
+                    "id": "XDD1_RS16005",
+                    "product": "acyl carrier protein"
+                },
+                {
+                    "id": "XDD1_RS16010",
+                    "product": "DNA gyrase subunit B"
+                },
+                {
+                    "id": "XDD1_RS16015",
+                    "product": "acyl-CoA synthetase"
+                },
+                {
+                    "id": "XDD1_RS16020",
+                    "product": "hydroxymyristoyl-ACP dehydratase"
+                },
+                {
+                    "id": "XDD1_RS16025",
+                    "product": "glycosyltransferase family 2 protein"
+                },
+                {
+                    "id": "XDD1_RS16030",
+                    "product": "acyl-CoA thioesterase"
+                },
+                {
+                    "id": "XDD1_RS16035",
+                    "product": "outer membrane lipoprotein carrier protein LolA"
+                },
+                {
+                    "id": "XDD1_RS16040",
+                    "product": "MMPL family transporter"
+                },
+                {
+                    "id": "XDD1_RS16045",
+                    "product": "DUF3261 domain-containing protein"
+                },
+                {
+                    "id": "XDD1_RS16050",
+                    "product": "beta-ketoacyl-[acyl-carrier-protein] synthase family protein"
+                },
+                {
+                    "id": "XDD1_RS16055",
+                    "product": "hotdog family protein"
+                },
+                {
+                    "id": "XDD1_RS16060",
+                    "product": "3-oxoacyl-ACP reductase FabG"
+                },
+                {
+                    "id": "XDD1_RS16065",
+                    "product": "beta-ketoacyl-ACP synthase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "XDD1_RS15985",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3657541,
+                                "start": 3657541
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XDD1_RS15990",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3658274,
+                                "start": 3658274
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XDD1_RS15995",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3659067,
+                                "start": 3659067
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XDD1_RS16000",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3659343,
+                                "start": 3659343
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XDD1_RS16005",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3659606,
+                                "start": 3659606
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XDD1_RS16010",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3660219,
+                                "start": 3660219
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XDD1_RS16015",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3661601,
+                                "start": 3661601
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XDD1_RS16020",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3661947,
+                                "start": 3661947
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XDD1_RS16025",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3663653,
+                                "start": 3663653
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XDD1_RS16030",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3664080,
+                                "start": 3664080
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XDD1_RS16035",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3664700,
+                                "start": 3664700
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XDD1_RS16040",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3666996,
+                                "start": 3666996
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XDD1_RS16045",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3667556,
+                                "start": 3667556
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XDD1_RS16050",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3668735,
+                                "start": 3668735
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XDD1_RS16055",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3669232,
+                                "start": 3669232
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XDD1_RS16060",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3669960,
+                                "start": 3669960
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XDD1_RS16065",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3671216,
+                                "start": 3671216
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_FO704550.1",
+            "accession": "FO704550.1",
             "completeness": "Unknown",
             "end_coord": 3671216,
             "start_coord": 3655966

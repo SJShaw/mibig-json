@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_017203.1 dated 26-AUG-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -35,8 +45,30 @@
                 "molecular_formula": "C6H6O6"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "CT43_RS29750",
+                    "product": "DMT family transporter"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "CT43_RS29750",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 223084,
+                                "start": 223084
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_017203.1",
+            "accession": "CP001910.1",
             "completeness": "Unknown",
             "end_coord": 223084,
             "start_coord": 220988

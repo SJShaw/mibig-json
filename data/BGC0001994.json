@@ -11,7 +11,9 @@
         },
         {
             "comments": [
-                "Fetch compound properties from PubChem"
+                "Fetch compound properties from PubChem",
+                "Gene details extracted from RefSeq accession NC_016113.1 dated 22-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -57,8 +59,110 @@
                 "molecular_formula": "C5H7NO3"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "SCAT_RS04910",
+                    "product": "DMT family transporter"
+                },
+                {
+                    "id": "SCAT_RS04915",
+                    "product": "ATP-grasp domain-containing protein"
+                },
+                {
+                    "id": "SCAT_RS04920",
+                    "product": "PLP-dependent transferase"
+                },
+                {
+                    "id": "SCAT_RS04925",
+                    "product": "iron-containing redox enzyme family protein"
+                },
+                {
+                    "id": "SCAT_RS04930",
+                    "product": "ArpA protein"
+                },
+                {
+                    "id": "SCAT_RS04935",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "SCAT_RS04910",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1126341,
+                                "start": 1126341
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SCAT_RS04915",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1127987,
+                                "start": 1127987
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SCAT_RS04920",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1129602,
+                                "start": 1129602
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SCAT_RS04925",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1130372,
+                                "start": 1130372
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SCAT_RS04930",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1131202,
+                                "start": 1131202
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SCAT_RS04935",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1132417,
+                                "start": 1132417
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_016113.1",
+            "accession": "FQ859184.1",
             "completeness": "Unknown",
             "end_coord": 1132420,
             "start_coord": 1125445

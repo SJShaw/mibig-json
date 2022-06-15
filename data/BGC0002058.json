@@ -6,7 +6,9 @@
                 "Corrected NRP module activity",
                 "Removed ketoreductase stereochemistry annotation from modules without ketoreductases",
                 "Changed reference accession to RefSeq for gene annotations",
-                "Fixed gene identifiers of 'no_accession'"
+                "Fixed gene identifiers of 'no_accession'",
+                "Gene details extracted from RefSeq accession NZ_ALYY01000026.1 dated 25-FEB-2020",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "BBFIVXCXOEHHFWOS2XMPTW4C",
@@ -195,10 +197,120 @@
                     "name": "mucA",
                     "product": "Hydroxymethyl-glutaryl-CoA synthase"
                 }
+            ],
+            "extra_genes": [
+                {
+                    "id": "B900_RS0101610",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 31487,
+                                "start": 31487
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B900_RS0101615",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 32208,
+                                "start": 32208
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "B900_RS0101620",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 32892,
+                                "start": 32892
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B900_RS0101625",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 33525,
+                                "start": 33525
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "B900_RS0101630",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 36455,
+                                "start": 36455
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B900_RS0101635",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 39533,
+                                "start": 39533
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B900_RS0101640",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 39986,
+                                "start": 39986
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B900_RS0101645",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 41198,
+                                "start": 41198
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "B900_RS0101650",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 42292,
+                                "start": 42292
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
             ]
         },
         "loci": {
-            "accession": "NZ_ALYY01000026.1",
+            "accession": "ALYY01000026.1",
             "completeness": "complete",
             "end_coord": 42300,
             "evidence": [

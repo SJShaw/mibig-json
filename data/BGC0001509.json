@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_LVEJ01000013.1 dated 05-APR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -28,8 +38,142 @@
                 "compound": "anikasin"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "A8O26_RS13960",
+                    "product": "macrolide transporter subunit MacA"
+                },
+                {
+                    "id": "A8O26_RS13965",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "A8O26_RS13970",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "A8O26_RS13975",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "A8O26_RS13980",
+                    "product": "helix-turn-helix transcriptional regulator"
+                },
+                {
+                    "id": "A8O26_RS13985",
+                    "product": "efflux transporter outer membrane subunit"
+                },
+                {
+                    "id": "A8O26_RS13990",
+                    "product": "SCO family protein"
+                },
+                {
+                    "id": "A8O26_RS13995",
+                    "product": "copper chaperone PCu(A)C"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "A8O26_RS13960",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 119556,
+                                "start": 119556
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "A8O26_RS13965",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 137451,
+                                "start": 137451
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "A8O26_RS13970",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 150464,
+                                "start": 150464
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "A8O26_RS13975",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 157131,
+                                "start": 157131
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "A8O26_RS13980",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 158402,
+                                "start": 158402
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "A8O26_RS13985",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 159971,
+                                "start": 159971
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "A8O26_RS13990",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 160733,
+                                "start": 160733
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "A8O26_RS13995",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 161212,
+                                "start": 161212
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_LVEJ01000013.1",
+            "accession": "LVEJ01000013.1",
             "completeness": "Unknown",
             "end_coord": 161212,
             "start_coord": 116447

@@ -20,10 +20,13 @@
         },
         {
             "comments": [
-                "Updated coordinates from duplicate entry BGC0002023"
+                "Updated coordinates from duplicate entry BGC0002023",
+                "Gene details extracted from RefSeq accession NZ_FOEF01000002.1 dated 21-JUL-2019",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
-                "SJG3CBEHSM6A3I74YXLH6GLA"
+                "SJG3CBEHSM6A3I74YXLH6GLA",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -57,8 +60,367 @@
                 "molecular_formula": "C69H76N18O18S6"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "BMY97_RS07420",
+                    "product": "aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme"
+                },
+                {
+                    "id": "BMY97_RS07425",
+                    "product": "ester cyclase"
+                },
+                {
+                    "id": "BMY97_RS07430",
+                    "product": "acyl-CoA dehydrogenase"
+                },
+                {
+                    "id": "BMY97_RS07435",
+                    "product": "SAM-dependent methyltransferase"
+                },
+                {
+                    "id": "BMY97_RS07440",
+                    "product": "DUF2867 domain-containing protein"
+                },
+                {
+                    "id": "BMY97_RS07445",
+                    "product": "alpha/beta hydrolase"
+                },
+                {
+                    "id": "BMY97_RS07450",
+                    "product": "thiocillin/thiostrepton family thiazolyl peptide"
+                },
+                {
+                    "id": "BMY97_RS07455",
+                    "product": "alpha/beta hydrolase"
+                },
+                {
+                    "id": "BMY97_RS07460",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "BMY97_RS07465",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "BMY97_RS07470",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "BMY97_RS07475",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "BMY97_RS07480",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "BMY97_RS07485",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "BMY97_RS07490",
+                    "product": "cytochrome P450"
+                },
+                {
+                    "id": "BMY97_RS07495",
+                    "product": "acyl--CoA ligase"
+                },
+                {
+                    "id": "BMY97_RS07500",
+                    "product": "cytochrome P450"
+                },
+                {
+                    "id": "BMY97_RS45835",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "BMY97_RS07515",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "BMY97_RS07520",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "BMY97_RS07525",
+                    "name": "tsrT",
+                    "product": "tryptophan 2-C-methyltransferase"
+                },
+                {
+                    "id": "BMY97_RS07530",
+                    "product": "SDR family NAD(P)-dependent oxidoreductase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "BMY97_RS07420",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 709702,
+                                "start": 709702
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07425",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 710165,
+                                "start": 710165
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07430",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 711540,
+                                "start": 711540
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07435",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 712471,
+                                "start": 712471
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07440",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 712830,
+                                "start": 712830
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07445",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 714040,
+                                "start": 714040
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07450",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 714664,
+                                "start": 714664
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07455",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 715575,
+                                "start": 715575
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07460",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 718226,
+                                "start": 718226
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07465",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 719224,
+                                "start": 719224
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07470",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 720333,
+                                "start": 720333
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07475",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 721949,
+                                "start": 721949
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07480",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 723592,
+                                "start": 723592
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07485",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 725517,
+                                "start": 725517
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07490",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 726823,
+                                "start": 726823
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07495",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 728094,
+                                "start": 728094
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07500",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 729272,
+                                "start": 729272
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BMY97_RS45835",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 732264,
+                                "start": 732264
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07515",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 733454,
+                                "start": 733454
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07520",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 734825,
+                                "start": 734825
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07525",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 736543,
+                                "start": 736543
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BMY97_RS07530",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 737343,
+                                "start": 737343
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_FOEF01000002.1",
+            "accession": "FOEF01000002.1",
             "completeness": "Unknown",
             "end_coord": 737346,
             "evidence": [

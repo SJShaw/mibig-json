@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_CM001889.1 dated 02-AUG-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -45,8 +55,402 @@
                 "molecular_formula": "C15H28AsO3"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "SLI_RS05010",
+                    "product": "arsenate reductase ArsC"
+                },
+                {
+                    "id": "SLI_RS05015",
+                    "name": "trxB",
+                    "product": "thioredoxin-disulfide reductase"
+                },
+                {
+                    "id": "SLI_RS05020",
+                    "product": "cobalamin B12-binding domain-containing protein"
+                },
+                {
+                    "id": "SLI_RS05025",
+                    "product": "methylmalonyl-CoA mutase"
+                },
+                {
+                    "id": "SLI_RS05030",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SLI_RS05035",
+                    "product": "winged helix-turn-helix transcriptional regulator"
+                },
+                {
+                    "id": "SLI_RS05040",
+                    "product": "SDR family NAD(P)-dependent oxidoreductase"
+                },
+                {
+                    "id": "SLI_RS05045",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SLI_RS05050",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "SLI_RS05055",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SLI_RS05060",
+                    "product": "membrane protein"
+                },
+                {
+                    "id": "SLI_RS05065",
+                    "name": "aepY",
+                    "product": "phosphonopyruvate decarboxylase"
+                },
+                {
+                    "id": "SLI_RS05070",
+                    "product": "winged helix-turn-helix transcriptional regulator"
+                },
+                {
+                    "id": "SLI_RS05075",
+                    "product": "MFS transporter"
+                },
+                {
+                    "id": "SLI_RS05080",
+                    "product": "CTP synthase"
+                },
+                {
+                    "id": "SLI_RS05085",
+                    "product": "molybdopterin-dependent oxidoreductase"
+                },
+                {
+                    "id": "SLI_RS05090",
+                    "name": "aroA",
+                    "product": "3-phosphoshikimate 1-carboxyvinyltransferase"
+                },
+                {
+                    "id": "SLI_RS05095",
+                    "product": "2,3-bisphosphoglycerate-independent phosphoglycerate mutase"
+                },
+                {
+                    "id": "SLI_RS05100",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SLI_RS05105",
+                    "product": "phosphate ABC transporter substrate-binding protein"
+                },
+                {
+                    "id": "SLI_RS05110",
+                    "name": "pstC",
+                    "product": "phosphate ABC transporter permease subunit PstC"
+                },
+                {
+                    "id": "SLI_RS05115",
+                    "product": "ATP-binding cassette domain-containing protein"
+                },
+                {
+                    "id": "SLI_RS05120",
+                    "product": "winged helix-turn-helix transcriptional regulator"
+                },
+                {
+                    "id": "SLI_RS05125",
+                    "product": "winged helix-turn-helix transcriptional regulator"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "SLI_RS05010",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1081619,
+                                "start": 1081619
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SLI_RS05015",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1082608,
+                                "start": 1082608
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SLI_RS05020",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1083119,
+                                "start": 1083119
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SLI_RS05025",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1084757,
+                                "start": 1084757
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SLI_RS05030",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1085088,
+                                "start": 1085088
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SLI_RS05035",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1085935,
+                                "start": 1085935
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SLI_RS05040",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1086799,
+                                "start": 1086799
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SLI_RS05045",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1088341,
+                                "start": 1088341
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SLI_RS05050",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1096113,
+                                "start": 1096113
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SLI_RS05055",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1097180,
+                                "start": 1097180
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SLI_RS05060",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1097960,
+                                "start": 1097960
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SLI_RS05065",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1099060,
+                                "start": 1099060
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SLI_RS05070",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1099588,
+                                "start": 1099588
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SLI_RS05075",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1101171,
+                                "start": 1101171
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SLI_RS05080",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1102638,
+                                "start": 1102638
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SLI_RS05085",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1105271,
+                                "start": 1105271
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SLI_RS05090",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1106649,
+                                "start": 1106649
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SLI_RS05095",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1108181,
+                                "start": 1108181
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SLI_RS05100",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1108537,
+                                "start": 1108537
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SLI_RS05105",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1109730,
+                                "start": 1109730
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SLI_RS05110",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1111545,
+                                "start": 1111545
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SLI_RS05115",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1112222,
+                                "start": 1112222
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SLI_RS05120",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1112685,
+                                "start": 1112685
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "SLI_RS05125",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1113162,
+                                "start": 1113162
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_CM001889.1",
+            "accession": "CM001889.1",
             "completeness": "complete",
             "end_coord": 1113162,
             "evidence": [

@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_DS999645.1 dated 08-NOV-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -50,6 +60,26 @@
                     "comments": "smCOG: SMCOG1016:LuxR_family_DNA-binding_response_regulator (Score: 56.1; E-value: 4.8e-17);",
                     "id": "SSHG_03592",
                     "product": "two-component system response regulator"
+                },
+                {
+                    "id": "SSHG_RS17985",
+                    "product": "protein kinase/lanthionine synthetase C family protein"
+                },
+                {
+                    "id": "SSHG_RS17990",
+                    "product": "SapB/AmfS family lantipeptide"
+                },
+                {
+                    "id": "SSHG_RS17995",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "SSHG_RS18000",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "SSHG_RS18005",
+                    "product": "DNA-binding response regulator"
                 }
             ],
             "extra_genes": [
@@ -100,11 +130,71 @@
                         ],
                         "strand": -1
                     }
+                },
+                {
+                    "id": "SSHG_RS17985",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4115428,
+                                "start": 4115428
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SSHG_RS17990",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4115649,
+                                "start": 4115649
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SSHG_RS17995",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4117703,
+                                "start": 4117703
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SSHG_RS18000",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4119631,
+                                "start": 4119631
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SSHG_RS18005",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4120692,
+                                "start": 4120692
+                            }
+                        ],
+                        "strand": -1
+                    }
                 }
             ]
         },
         "loci": {
-            "accession": "NZ_DS999645.1",
+            "accession": "DS999645.1",
             "completeness": "complete",
             "end_coord": 4120692,
             "evidence": [

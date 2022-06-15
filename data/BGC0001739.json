@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_JNXE01000019.1 dated 30-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -31,8 +41,207 @@
                 "molecular_formula": "C2H5O5P"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "OO69_RS26520",
+                    "product": "ATP-grasp domain-containing protein"
+                },
+                {
+                    "id": "OO69_RS26525",
+                    "product": "ATP-grasp domain-containing protein"
+                },
+                {
+                    "id": "OO69_RS26530",
+                    "product": "MFS transporter"
+                },
+                {
+                    "id": "OO69_RS26535",
+                    "product": "amidase"
+                },
+                {
+                    "id": "OO69_RS26540",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "OO69_RS26545",
+                    "product": "class I SAM-dependent methyltransferase"
+                },
+                {
+                    "id": "OO69_RS26550",
+                    "product": "aldehyde dehydrogenase"
+                },
+                {
+                    "id": "OO69_RS26555",
+                    "product": "phosphoenolpyruvate phosphomutase"
+                },
+                {
+                    "id": "OO69_RS26560",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "OO69_RS26565",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "OO69_RS49520",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "OO69_RS26575",
+                    "name": "asnB",
+                    "product": "asparagine synthase (glutamine-hydrolyzing)"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "OO69_RS26520",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 97164,
+                                "start": 97164
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "OO69_RS26525",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 98467,
+                                "start": 98467
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "OO69_RS26530",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 99741,
+                                "start": 99741
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "OO69_RS26535",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 100969,
+                                "start": 100969
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "OO69_RS26540",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 102030,
+                                "start": 102030
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "OO69_RS26545",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 102826,
+                                "start": 102826
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "OO69_RS26550",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 104318,
+                                "start": 104318
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "OO69_RS26555",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 105243,
+                                "start": 105243
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "OO69_RS26560",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 105883,
+                                "start": 105883
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "OO69_RS26565",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 106398,
+                                "start": 106398
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "OO69_RS49520",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 107108,
+                                "start": 107108
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "OO69_RS26575",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 109042,
+                                "start": 109042
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_JNXE01000019.1",
+            "accession": "JNXE01000019.1",
             "completeness": "Unknown",
             "end_coord": 109122,
             "start_coord": 94228

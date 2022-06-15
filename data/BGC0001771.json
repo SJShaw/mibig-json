@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_JOBC01000043.1 dated 31-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -28,8 +38,270 @@
                 "compound": "scleric acid"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "IG96_RS0135475",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "IG96_RS0135480",
+                    "product": "alpha-ketoacid dehydrogenase subunit beta"
+                },
+                {
+                    "id": "IG96_RS0135485",
+                    "product": "thiamine pyrophosphate-dependent dehydrogenase E1 component subunit alpha"
+                },
+                {
+                    "id": "IG96_RS0135490",
+                    "product": "acyl carrier protein"
+                },
+                {
+                    "id": "IG96_RS0135495",
+                    "product": "TetR/AcrR family transcriptional regulator"
+                },
+                {
+                    "id": "IG96_RS37875",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "IG96_RS0135505",
+                    "product": "LysR family transcriptional regulator"
+                },
+                {
+                    "id": "IG96_RS0135510",
+                    "product": "HAD-IB family hydrolase"
+                },
+                {
+                    "id": "IG96_RS0135515",
+                    "product": "TetR/AcrR family transcriptional regulator"
+                },
+                {
+                    "id": "IG96_RS0135520",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "IG96_RS37880",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "IG96_RS0135530",
+                    "product": "alpha/beta fold hydrolase"
+                },
+                {
+                    "id": "IG96_RS0135535",
+                    "product": "phenazine-specific anthranilate synthase"
+                },
+                {
+                    "id": "IG96_RS0135540",
+                    "product": "phospho-2-dehydro-3-deoxyheptonate aldolase"
+                },
+                {
+                    "id": "IG96_RS0135545",
+                    "product": "isochorismatase family protein"
+                },
+                {
+                    "id": "IG96_RS0135550",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "IG96_RS0135475",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 15117,
+                                "start": 15117
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG96_RS0135480",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 16130,
+                                "start": 16130
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG96_RS0135485",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 17050,
+                                "start": 17050
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG96_RS0135490",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 17277,
+                                "start": 17277
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG96_RS0135495",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 18099,
+                                "start": 18099
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG96_RS37875",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19407,
+                                "start": 19407
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IG96_RS0135505",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19691,
+                                "start": 19691
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IG96_RS0135510",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 20431,
+                                "start": 20431
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IG96_RS0135515",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 21043,
+                                "start": 21043
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IG96_RS0135520",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 22354,
+                                "start": 22354
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IG96_RS37880",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 25775,
+                                "start": 25775
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IG96_RS0135530",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 26503,
+                                "start": 26503
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IG96_RS0135535",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 28518,
+                                "start": 28518
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IG96_RS0135540",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 29732,
+                                "start": 29732
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IG96_RS0135545",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 30416,
+                                "start": 30416
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IG96_RS0135550",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 31732,
+                                "start": 31732
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_JOBC01000043.1",
+            "accession": "JOBC01000043.1",
             "completeness": "Unknown",
             "end_coord": 31732,
             "start_coord": 13255

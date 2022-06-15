@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_MOEP01000024.1 dated 22-JUL-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -91,11 +101,132 @@
                     ],
                     "id": "WP_071962207.1",
                     "product": "type 2 lantipeptide synthetase LanM"
+                },
+                {
+                    "functions": [
+                        {
+                            "category": "Tailoring",
+                            "evidence": [
+                                "Other in vivo study"
+                            ]
+                        }
+                    ],
+                    "id": "WP_019631330.1",
+                    "product": "α-ketoglutarate/iron(II)-dependent hydroxylase",
+                    "tailoring": [
+                        "Hydroxylation"
+                    ]
+                },
+                {
+                    "id": "BLK03_RS04565",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "BLK03_RS04570",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "BLK03_RS04575",
+                    "product": "ABC transporter"
+                },
+                {
+                    "id": "BLK03_RS04580",
+                    "product": "CinY protein"
+                },
+                {
+                    "id": "BLK03_RS04585",
+                    "product": "YigZ family protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "BLK03_RS04555",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 86102,
+                                "start": 86102
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BLK03_RS04560",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 89496,
+                                "start": 89496
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BLK03_RS04565",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 90494,
+                                "start": 90494
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BLK03_RS04570",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 91599,
+                                "start": 91599
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BLK03_RS04575",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 92468,
+                                "start": 92468
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BLK03_RS04580",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 93590,
+                                "start": 93590
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BLK03_RS04585",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 94303,
+                                "start": 94303
+                            }
+                        ],
+                        "strand": -1
+                    }
                 }
             ]
         },
         "loci": {
-            "accession": "NZ_MOEP01000024.1",
+            "accession": "MOEP01000024.1",
             "completeness": "incomplete",
             "end_coord": 94303,
             "evidence": [

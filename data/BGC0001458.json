@@ -20,6 +20,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_009380.1 dated 25-AUG-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -58,11 +68,157 @@
                     "id": "WP_012015345.1",
                     "name": "spt9",
                     "product": "gamma-butyrolactone synthase"
+                },
+                {
+                    "id": "STROP_RS20900",
+                    "product": "phosphoenolpyruvate synthase"
+                },
+                {
+                    "id": "STROP_RS20905",
+                    "product": "AMP-binding protein"
+                },
+                {
+                    "id": "STROP_RS20910",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "STROP_RS20915",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "STROP_RS20920",
+                    "product": "SDR family oxidoreductase"
+                },
+                {
+                    "id": "STROP_RS20925",
+                    "product": "nucleoside-diphosphate kinase"
+                },
+                {
+                    "id": "STROP_RS20930",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "STROP_RS20935",
+                    "product": "LLM class F420-dependent oxidoreductase"
+                },
+                {
+                    "id": "STROP_RS20940",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "STROP_RS20900",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4717135,
+                                "start": 4717135
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STROP_RS20905",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4718817,
+                                "start": 4718817
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STROP_RS20910",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4720490,
+                                "start": 4720490
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STROP_RS20915",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4720750,
+                                "start": 4720750
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STROP_RS20920",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4721847,
+                                "start": 4721847
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STROP_RS20925",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4722824,
+                                "start": 4722824
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STROP_RS20930",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4723729,
+                                "start": 4723729
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STROP_RS20935",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4724616,
+                                "start": 4724616
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STROP_RS20940",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4725572,
+                                "start": 4725572
+                            }
+                        ],
+                        "strand": 1
+                    }
                 }
             ]
         },
         "loci": {
-            "accession": "NC_009380.1",
+            "accession": "CP000667.1",
             "completeness": "Unknown",
             "end_coord": 4725672,
             "start_coord": 4714378

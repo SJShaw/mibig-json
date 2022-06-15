@@ -8,6 +8,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_CP010415.1 dated 27-AUG-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -20,8 +30,414 @@
                 "compound": "crochelin A"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "Achr_RS25415",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "Achr_RS19530",
+                    "product": "PepSY domain-containing protein"
+                },
+                {
+                    "id": "Achr_RS19535",
+                    "product": "cyclic peptide export ABC transporter"
+                },
+                {
+                    "id": "Achr_RS19540",
+                    "product": "penicillin acylase family protein"
+                },
+                {
+                    "id": "Achr_RS19545",
+                    "product": "histone deacetylase family protein"
+                },
+                {
+                    "id": "Achr_RS19550",
+                    "product": "N(5)-hydroxyornithine transformylase PvdF"
+                },
+                {
+                    "id": "Achr_RS19555",
+                    "product": "aminotransferase class III-fold pyridoxal phosphate-dependent enzyme"
+                },
+                {
+                    "id": "Achr_RS19560",
+                    "product": "TonB-dependent siderophore receptor"
+                },
+                {
+                    "id": "Achr_RS19570",
+                    "product": "amino acid adenylation domain-containing protein"
+                },
+                {
+                    "id": "Achr_RS19575",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "Achr_RS19580",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "Achr_RS19585",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "Achr_RS19590",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "Achr_RS19595",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "Achr_RS19600",
+                    "product": "thioesterase"
+                },
+                {
+                    "id": "Achr_RS19605",
+                    "product": "MbtH family NRPS accessory protein"
+                },
+                {
+                    "id": "Achr_RS19610",
+                    "product": "DUF4880 domain-containing protein"
+                },
+                {
+                    "id": "Achr_RS19615",
+                    "product": "efflux RND transporter periplasmic adaptor subunit"
+                },
+                {
+                    "id": "Achr_RS19620",
+                    "product": "efflux transporter outer membrane subunit"
+                },
+                {
+                    "id": "Achr_RS19625",
+                    "product": "RNA polymerase factor sigma-70"
+                },
+                {
+                    "id": "Achr_RS19630",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "Achr_RS19635",
+                    "product": "lysine N(6)-hydroxylase/L-ornithine N(5)-oxygenase family protein"
+                },
+                {
+                    "id": "Achr_RS19640",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "Achr_RS24430",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "Achr_RS19650",
+                    "product": "MbtH family protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "Achr_RS25415",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4312556,
+                                "start": 4312556
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Achr_RS19530",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4313967,
+                                "start": 4313967
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Achr_RS19535",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4315625,
+                                "start": 4315625
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Achr_RS19540",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4318186,
+                                "start": 4318186
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Achr_RS19545",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4319402,
+                                "start": 4319402
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Achr_RS19550",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4320239,
+                                "start": 4320239
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Achr_RS19555",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4322047,
+                                "start": 4322047
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "Achr_RS19560",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4324377,
+                                "start": 4324377
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "Achr_RS19570",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4328659,
+                                "start": 4328659
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Achr_RS19575",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4336467,
+                                "start": 4336467
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Achr_RS19580",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4339797,
+                                "start": 4339797
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Achr_RS19585",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4344801,
+                                "start": 4344801
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Achr_RS19590",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4350095,
+                                "start": 4350095
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Achr_RS19595",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4351101,
+                                "start": 4351101
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Achr_RS19600",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4351920,
+                                "start": 4351920
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Achr_RS19605",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4352173,
+                                "start": 4352173
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Achr_RS19610",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4352877,
+                                "start": 4352877
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "Achr_RS19615",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4354173,
+                                "start": 4354173
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "Achr_RS19620",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4355694,
+                                "start": 4355694
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "Achr_RS19625",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4356483,
+                                "start": 4356483
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "Achr_RS19630",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4357063,
+                                "start": 4357063
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "Achr_RS19635",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4358616,
+                                "start": 4358616
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Achr_RS19640",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4359266,
+                                "start": 4359266
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Achr_RS24430",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4361422,
+                                "start": 4361422
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Achr_RS19650",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4361698,
+                                "start": 4361698
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_CP010415.1",
+            "accession": "CP010415.1",
             "completeness": "Unknown",
             "end_coord": 4361698,
             "start_coord": 4311524

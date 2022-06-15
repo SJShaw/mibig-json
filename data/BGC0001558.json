@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_KB898282.1 dated 22-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -35,8 +45,831 @@
                 "molecular_formula": "C60H88N2O21"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "D329_RS0122255",
+                    "product": "acyl carrier protein"
+                },
+                {
+                    "id": "D329_RS32350",
+                    "product": "AfsR/SARP family transcriptional regulator"
+                },
+                {
+                    "id": "D329_RS0122265",
+                    "product": "methyltransferase domain-containing protein"
+                },
+                {
+                    "id": "D329_RS0122270",
+                    "product": "SnoaL/DnrD family polyketide biosynthesis methyl ester cyclase"
+                },
+                {
+                    "id": "D329_RS32355",
+                    "product": "methyltransferase domain-containing protein"
+                },
+                {
+                    "id": "D329_RS0122280",
+                    "product": "alpha/beta hydrolase"
+                },
+                {
+                    "id": "D329_RS0122285",
+                    "product": "class I SAM-dependent methyltransferase"
+                },
+                {
+                    "id": "D329_RS0122290",
+                    "product": "FAD-dependent monooxygenase"
+                },
+                {
+                    "id": "D329_RS0122295",
+                    "product": "Gfo/Idh/MocA family oxidoreductase"
+                },
+                {
+                    "id": "D329_RS0122300",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "D329_RS0122305",
+                    "product": "activator-dependent family glycosyltransferase"
+                },
+                {
+                    "id": "D329_RS0122310",
+                    "product": "lipopolysaccharide biosynthesis protein RfbH"
+                },
+                {
+                    "id": "D329_RS0122315",
+                    "product": "SDR family NAD(P)-dependent oxidoreductase"
+                },
+                {
+                    "id": "D329_RS0122320",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "D329_RS0122325",
+                    "product": "SDR family oxidoreductase"
+                },
+                {
+                    "id": "D329_RS0122330",
+                    "product": "nuclear transport factor 2 family protein"
+                },
+                {
+                    "id": "D329_RS0122335",
+                    "product": "cyclase family protein"
+                },
+                {
+                    "id": "D329_RS0122340",
+                    "product": "class I SAM-dependent methyltransferase"
+                },
+                {
+                    "id": "D329_RS0122345",
+                    "product": "DegT/DnrJ/EryC1/StrS family aminotransferase"
+                },
+                {
+                    "id": "D329_RS0122350",
+                    "product": "NDP-hexose 2,3-dehydratase"
+                },
+                {
+                    "id": "D329_RS0122355",
+                    "product": "NAD(P)-dependent oxidoreductase"
+                },
+                {
+                    "id": "D329_RS0122360",
+                    "product": "dTDP-4-keto-6-deoxy-D-glucose epimerase"
+                },
+                {
+                    "id": "D329_RS0122365",
+                    "product": "activator-dependent family glycosyltransferase"
+                },
+                {
+                    "id": "D329_RS0122375",
+                    "product": "PadR family transcriptional regulator"
+                },
+                {
+                    "id": "D329_RS0122380",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "D329_RS0122390",
+                    "product": "antibiotic biosynthesis monooxygenase"
+                },
+                {
+                    "id": "D329_RS0122395",
+                    "product": "beta-ketoacyl-[acyl-carrier-protein] synthase family protein"
+                },
+                {
+                    "id": "D329_RS0122400",
+                    "product": "ketosynthase chain-length factor"
+                },
+                {
+                    "id": "D329_RS0122405",
+                    "product": "3-oxoacyl-ACP synthase"
+                },
+                {
+                    "id": "D329_RS0122410",
+                    "product": "acyltransferase domain-containing protein"
+                },
+                {
+                    "id": "D329_RS0122415",
+                    "product": "P450-derived glycosyltransferase activator"
+                },
+                {
+                    "id": "D329_RS0122420",
+                    "product": "activator-dependent family glycosyltransferase"
+                },
+                {
+                    "id": "D329_RS0122425",
+                    "name": "rfbB",
+                    "product": "dTDP-glucose 4,6-dehydratase"
+                },
+                {
+                    "id": "D329_RS0122430",
+                    "product": "daunorubicin resistance protein DrrA family ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "D329_RS0122435",
+                    "product": "ABC transporter permease"
+                },
+                {
+                    "id": "D329_RS0122440",
+                    "product": "glutathione peroxidase"
+                },
+                {
+                    "id": "D329_RS0122445",
+                    "product": "excinuclease ABC subunit UvrA"
+                },
+                {
+                    "id": "D329_RS0122450",
+                    "product": "DinB family protein"
+                },
+                {
+                    "id": "D329_RS32360",
+                    "product": "PadR family transcriptional regulator"
+                },
+                {
+                    "id": "D329_RS0122460",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "D329_RS32365",
+                    "product": "YihY/virulence factor BrkB family protein"
+                },
+                {
+                    "id": "D329_RS0122470",
+                    "product": "DUF350 domain-containing protein"
+                },
+                {
+                    "id": "D329_RS0122475",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "D329_RS0122480",
+                    "product": "SigB/SigF/SigG family RNA polymerase sigma factor"
+                },
+                {
+                    "id": "D329_RS0122485",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "D329_RS0122490",
+                    "product": "CBS domain-containing protein"
+                },
+                {
+                    "id": "D329_RS0122495",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "D329_RS0122500",
+                    "product": "SpoIIE family protein phosphatase"
+                },
+                {
+                    "id": "D329_RS0122505",
+                    "product": "response regulator"
+                },
+                {
+                    "id": "D329_RS0122510",
+                    "product": "ATP-binding protein"
+                },
+                {
+                    "id": "D329_RS0122515",
+                    "product": "STAS domain-containing protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "D329_RS0122255",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 105522,
+                                "start": 105522
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS32350",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 106564,
+                                "start": 106564
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122265",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 107502,
+                                "start": 107502
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D329_RS0122270",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 108127,
+                                "start": 108127
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS32355",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 109277,
+                                "start": 109277
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122280",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 110178,
+                                "start": 110178
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122285",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 110972,
+                                "start": 110972
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122290",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 112564,
+                                "start": 112564
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122295",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 113663,
+                                "start": 113663
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D329_RS0122300",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 114989,
+                                "start": 114989
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122305",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 116305,
+                                "start": 116305
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122310",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 117617,
+                                "start": 117617
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122315",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 118410,
+                                "start": 118410
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122320",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 119777,
+                                "start": 119777
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122325",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 120689,
+                                "start": 120689
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D329_RS0122330",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 121152,
+                                "start": 121152
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D329_RS0122335",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 122079,
+                                "start": 122079
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122340",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 122863,
+                                "start": 122863
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122345",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 123969,
+                                "start": 123969
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122350",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 125508,
+                                "start": 125508
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D329_RS0122355",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 126545,
+                                "start": 126545
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D329_RS0122360",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 127138,
+                                "start": 127138
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D329_RS0122365",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 128499,
+                                "start": 128499
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D329_RS0122375",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 129349,
+                                "start": 129349
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122380",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 130710,
+                                "start": 130710
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122390",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 131161,
+                                "start": 131161
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122395",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 132426,
+                                "start": 132426
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122400",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 133667,
+                                "start": 133667
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122405",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 134698,
+                                "start": 134698
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122410",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 135747,
+                                "start": 135747
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122415",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 137128,
+                                "start": 137128
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122420",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 138443,
+                                "start": 138443
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122425",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 139454,
+                                "start": 139454
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122430",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 140509,
+                                "start": 140509
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122435",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 141339,
+                                "start": 141339
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122440",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 142071,
+                                "start": 142071
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122445",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 144410,
+                                "start": 144410
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122450",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 145126,
+                                "start": 145126
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS32360",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 145753,
+                                "start": 145753
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122460",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 146288,
+                                "start": 146288
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS32365",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 147889,
+                                "start": 147889
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122470",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 148670,
+                                "start": 148670
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122475",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 149087,
+                                "start": 149087
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122480",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 150248,
+                                "start": 150248
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122485",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 150687,
+                                "start": 150687
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122490",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 151122,
+                                "start": 151122
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D329_RS0122495",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 151756,
+                                "start": 151756
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122500",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 154214,
+                                "start": 154214
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "D329_RS0122505",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 157300,
+                                "start": 157300
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D329_RS0122510",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 157918,
+                                "start": 157918
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "D329_RS0122515",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 158376,
+                                "start": 158376
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_KB898282.1",
+            "accession": "KB898282.1",
             "completeness": "Unknown",
             "end_coord": 158376,
             "start_coord": 104106

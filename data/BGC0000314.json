@@ -22,7 +22,9 @@
             "comments": [
                 "Update NCBI taxid after old taxid was merged",
                 "Corrected NRP module activity",
-                "Removed ketoreductase stereochemistry annotation from modules without ketoreductases"
+                "Removed ketoreductase stereochemistry annotation from modules without ketoreductases",
+                "Gene details extracted from RefSeq accession NZ_AHCC01000002.1 dated 12-MAY-2013",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "3UOU7PODQJXIM6BEPUHHRRA5",
@@ -50,8 +52,222 @@
                 "molecular_formula": "C38H50BrN7O10"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "PpisJ2_010100002371",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "PpisJ2_010100002376",
+                    "product": "AMP-binding protein"
+                },
+                {
+                    "id": "PpisJ2_010100002381",
+                    "product": "3-oxoacyl-ACP synthase"
+                },
+                {
+                    "id": "PpisJ2_010100002386",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "PpisJ2_010100002391",
+                    "product": "ABC transporter permease"
+                },
+                {
+                    "id": "PpisJ2_010100002396",
+                    "product": "3-hydroxyacyl-ACP dehydratase FabZ"
+                },
+                {
+                    "id": "PpisJ2_010100002401",
+                    "product": "SDR family oxidoreductase"
+                },
+                {
+                    "id": "PpisJ2_010100002406",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "PpisJ2_010100002411",
+                    "product": "thioesterase"
+                },
+                {
+                    "id": "PpisJ2_010100002416",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "PpisJ2_010100002421",
+                    "product": "non-ribosomal peptide synthase"
+                },
+                {
+                    "id": "PpisJ2_010100002426",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "PpisJ2_010100002431",
+                    "product": "NAD(P)/FAD-dependent oxidoreductase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "PpisJ2_010100002371",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 206521,
+                                "start": 206521
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "PpisJ2_010100002376",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 208052,
+                                "start": 208052
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "PpisJ2_010100002381",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 210228,
+                                "start": 210228
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "PpisJ2_010100002386",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 210997,
+                                "start": 210997
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "PpisJ2_010100002391",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 212105,
+                                "start": 212105
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "PpisJ2_010100002396",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 212500,
+                                "start": 212500
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "PpisJ2_010100002401",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 213243,
+                                "start": 213243
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "PpisJ2_010100002406",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 213947,
+                                "start": 213947
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "PpisJ2_010100002411",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 214699,
+                                "start": 214699
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "PpisJ2_010100002416",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 219276,
+                                "start": 219276
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "PpisJ2_010100002421",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 227127,
+                                "start": 227127
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "PpisJ2_010100002426",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 236972,
+                                "start": 236972
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "PpisJ2_010100002431",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 238338,
+                                "start": 238338
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_AHCC01000002.1",
+            "accession": "AHCC01000002.1",
             "completeness": "complete",
             "end_coord": 238338,
             "evidence": [

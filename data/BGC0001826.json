@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_NJCW01000032.1 dated 25-OCT-2017",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -28,8 +38,142 @@
                 "compound": "xeneprotides A-C"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "Xekj_RS17920",
+                    "product": "NAD(P)/FAD-dependent oxidoreductase"
+                },
+                {
+                    "id": "Xekj_RS17925",
+                    "product": "cyclase family protein"
+                },
+                {
+                    "id": "Xekj_RS17930",
+                    "product": "flavin reductase family protein"
+                },
+                {
+                    "id": "Xekj_RS17935",
+                    "product": "alanine-phosphoribitol ligase"
+                },
+                {
+                    "id": "Xekj_RS17940",
+                    "product": "SDR family oxidoreductase"
+                },
+                {
+                    "id": "Xekj_RS17945",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "Xekj_RS17950",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "Xekj_RS17955",
+                    "product": "non-ribosomal peptide synthetase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "Xekj_RS17920",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 22049,
+                                "start": 22049
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Xekj_RS17925",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 22846,
+                                "start": 22846
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Xekj_RS17930",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 23376,
+                                "start": 23376
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Xekj_RS17935",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 24732,
+                                "start": 24732
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Xekj_RS17940",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 25583,
+                                "start": 25583
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "Xekj_RS17945",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 30266,
+                                "start": 30266
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "Xekj_RS17950",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 32151,
+                                "start": 32151
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "Xekj_RS17955",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 36314,
+                                "start": 36314
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_NJCW01000032.1",
+            "accession": "NJCW01000032.1",
             "completeness": "Unknown",
             "end_coord": 36800,
             "start_coord": 19426

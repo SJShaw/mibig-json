@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_CP007142.1 dated 03-AUG-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -28,8 +38,191 @@
                 "compound": "sunshinamide"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "YC6258_RS23050",
+                    "product": "methyl-accepting chemotaxis protein"
+                },
+                {
+                    "id": "YC6258_RS23055",
+                    "product": "TRAP transporter small permease subunit"
+                },
+                {
+                    "id": "YC6258_RS23060",
+                    "product": "TRAP transporter large permease subunit"
+                },
+                {
+                    "id": "YC6258_RS23065",
+                    "product": "twin-arginine translocation signal domain-containing protein"
+                },
+                {
+                    "id": "YC6258_RS23070",
+                    "name": "xrtE",
+                    "product": "exosortase E/protease, VPEID-CTERM system"
+                },
+                {
+                    "id": "YC6258_RS23075",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "YC6258_RS23080",
+                    "product": "NAD(P)/FAD-dependent oxidoreductase"
+                },
+                {
+                    "id": "YC6258_RS23085",
+                    "product": "transporter substrate-binding domain-containing protein"
+                },
+                {
+                    "id": "YC6258_RS23090",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "YC6258_RS23095",
+                    "product": "aminotransferase class III-fold pyridoxal phosphate-dependent enzyme"
+                },
+                {
+                    "id": "YC6258_RS23100",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "YC6258_RS23050",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5529196,
+                                "start": 5529196
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "YC6258_RS23055",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5530239,
+                                "start": 5530239
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "YC6258_RS23060",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5531561,
+                                "start": 5531561
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "YC6258_RS23065",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5532671,
+                                "start": 5532671
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "YC6258_RS23070",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5534580,
+                                "start": 5534580
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "YC6258_RS23075",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5547329,
+                                "start": 5547329
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "YC6258_RS23080",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5548458,
+                                "start": 5548458
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "YC6258_RS23085",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5549548,
+                                "start": 5549548
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "YC6258_RS23090",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5550921,
+                                "start": 5550921
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "YC6258_RS23095",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5554238,
+                                "start": 5554238
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "YC6258_RS23100",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5556971,
+                                "start": 5556971
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_CP007142.1",
+            "accession": "CP007142.1",
             "completeness": "Unknown",
             "end_coord": 5556971,
             "start_coord": 5526779

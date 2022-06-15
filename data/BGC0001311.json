@@ -20,10 +20,13 @@
         },
         {
             "comments": [
-                "Remove negative molecular mass"
+                "Remove negative molecular mass",
+                "Gene details extracted from RefSeq accession NZ_ACOK01000098.1 dated 15-NOV-2017",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
-                "3UOU7PODQJXIM6BEPUHHRRA5"
+                "3UOU7PODQJXIM6BEPUHHRRA5",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -44,8 +47,334 @@
                 "mass_spec_ion_type": "[M+H]+"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "RUMFLAFD1_RS0111140",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111145",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111150",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111155",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111160",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111165",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111170",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111175",
+                    "product": "plantaricin C family lantibiotic"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111180",
+                    "product": "plantaricin C family lantibiotic"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111185",
+                    "product": "plantaricin C family lantibiotic"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111190",
+                    "product": "plantaricin C family lantibiotic"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111195",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111200",
+                    "product": "peptidase domain-containing ABC transporter"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111205",
+                    "product": "type 2 lantipeptide synthetase LanM"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111210",
+                    "product": "type 2 lantipeptide synthetase LanM"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111215",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111220",
+                    "product": "ABC transporter permease"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111225",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111230",
+                    "product": "ATP-binding cassette domain-containing protein"
+                },
+                {
+                    "id": "RUMFLAFD1_RS22795",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "RUMFLAFD1_RS0111140",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 297,
+                                "start": 297
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111145",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 519,
+                                "start": 519
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111150",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 970,
+                                "start": 970
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111155",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1192,
+                                "start": 1192
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111160",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1426,
+                                "start": 1426
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111165",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1686,
+                                "start": 1686
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111170",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1916,
+                                "start": 1916
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111175",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2192,
+                                "start": 2192
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111180",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2480,
+                                "start": 2480
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111185",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2767,
+                                "start": 2767
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111190",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3055,
+                                "start": 3055
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111195",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3364,
+                                "start": 3364
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111200",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5705,
+                                "start": 5705
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111205",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8798,
+                                "start": 8798
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111210",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 11682,
+                                "start": 11682
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111215",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 11977,
+                                "start": 11977
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111220",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 12716,
+                                "start": 12716
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111225",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 13459,
+                                "start": 13459
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS0111230",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14363,
+                                "start": 14363
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "RUMFLAFD1_RS22795",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 15406,
+                                "start": 15406
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_ACOK01000098.1",
+            "accession": "ACOK01000098.1",
             "completeness": "Unknown",
             "end_coord": 15410,
             "evidence": [

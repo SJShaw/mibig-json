@@ -5,7 +5,8 @@
                 "Submitted",
                 "Corrected NRP module activity",
                 "Removed gene names of 'No gene ID'",
-                "Added version to NCBI accession"
+                "Added version to NCBI accession",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "6CADHILFODRMCII55WHSHZ6V",
@@ -131,7 +132,7 @@
             ]
         },
         "loci": {
-            "accession": "NZ_LVEJ01000014.1",
+            "accession": "LVEJ01000014.1",
             "completeness": "complete",
             "end_coord": 31238,
             "evidence": [

@@ -11,10 +11,13 @@
         },
         {
             "comments": [
-                "Fixed DOIs"
+                "Fixed DOIs",
+                "Gene details extracted from RefSeq accession NZ_ABLD01000016.1 dated 18-MAY-2017",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
-                "CUSGWVK3I4TVHJH7NHPFAP2L"
+                "CUSGWVK3I4TVHJH7NHPFAP2L",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -28,8 +31,238 @@
                 "compound": "gramibactin"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "BGRAMDRAFT_RS22620",
+                    "product": "TonB-dependent siderophore receptor"
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22625",
+                    "product": "Fe(3+)-hydroxamate ABC transporter permease FhuB"
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22630",
+                    "product": "ABC transporter substrate-binding protein"
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22635",
+                    "product": "TonB-dependent siderophore receptor"
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22640",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22645",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22650",
+                    "product": "AMP-binding protein"
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22655",
+                    "product": "ATP-binding cassette domain-containing protein"
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22660",
+                    "product": "cyclic peptide export ABC transporter"
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22665",
+                    "product": "YqcI/YcgG family protein"
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22670",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22675",
+                    "product": "thioesterase"
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22680",
+                    "product": "MbtH family NRPS accessory protein"
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22685",
+                    "product": "nitroreductase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "BGRAMDRAFT_RS22620",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 104906,
+                                "start": 104906
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22625",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 106964,
+                                "start": 106964
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22630",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 107929,
+                                "start": 107929
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22635",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 110168,
+                                "start": 110168
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22640",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 116390,
+                                "start": 116390
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22645",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 133445,
+                                "start": 133445
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22650",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 137142,
+                                "start": 137142
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22655",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 138203,
+                                "start": 138203
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22660",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 139866,
+                                "start": 139866
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22665",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 140790,
+                                "start": 140790
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22670",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 142394,
+                                "start": 142394
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22675",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 143343,
+                                "start": 143343
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22680",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 143595,
+                                "start": 143595
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BGRAMDRAFT_RS22685",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 144574,
+                                "start": 144574
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_ABLD01000016.1",
+            "accession": "ABLD01000016.1",
             "completeness": "Unknown",
             "end_coord": 144574,
             "start_coord": 101206

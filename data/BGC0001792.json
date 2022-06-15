@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_020990.1 dated 27-AUG-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -44,8 +54,334 @@
                 "molecular_formula": "C47H79N9O8"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "XNR_RS17060",
+                    "product": "ABC transporter permease"
+                },
+                {
+                    "id": "XNR_RS17065",
+                    "product": "ABC transporter substrate-binding protein"
+                },
+                {
+                    "id": "XNR_RS29975",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "XNR_RS17075",
+                    "product": "MFS transporter"
+                },
+                {
+                    "id": "XNR_RS17080",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "XNR_RS17085",
+                    "product": "TetR/AcrR family transcriptional regulator"
+                },
+                {
+                    "id": "XNR_RS17090",
+                    "product": "MFS transporter"
+                },
+                {
+                    "id": "XNR_RS17095",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "XNR_RS17100",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "XNR_RS17105",
+                    "product": "non-ribosomal peptide synthase"
+                },
+                {
+                    "id": "XNR_RS17110",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "XNR_RS17115",
+                    "product": "serine hydrolase"
+                },
+                {
+                    "id": "XNR_RS17120",
+                    "product": "membrane protein"
+                },
+                {
+                    "id": "XNR_RS17125",
+                    "product": "GntR family transcriptional regulator"
+                },
+                {
+                    "id": "XNR_RS17130",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "XNR_RS17135",
+                    "product": "ATP-binding cassette domain-containing protein"
+                },
+                {
+                    "id": "XNR_RS17140",
+                    "product": "ABC transporter permease"
+                },
+                {
+                    "id": "XNR_RS17145",
+                    "product": "MbtH family protein"
+                },
+                {
+                    "id": "XNR_RS17150",
+                    "product": "alpha/beta hydrolase"
+                },
+                {
+                    "id": "XNR_RS17155",
+                    "product": "aldehyde dehydrogenase family protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "XNR_RS17060",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3890220,
+                                "start": 3890220
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNR_RS17065",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3891290,
+                                "start": 3891290
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNR_RS29975",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3892783,
+                                "start": 3892783
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNR_RS17075",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3894624,
+                                "start": 3894624
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNR_RS17080",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3895032,
+                                "start": 3895032
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNR_RS17085",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3895705,
+                                "start": 3895705
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNR_RS17090",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3897060,
+                                "start": 3897060
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNR_RS17095",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3909449,
+                                "start": 3909449
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNR_RS17100",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3932578,
+                                "start": 3932578
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNR_RS17105",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3945540,
+                                "start": 3945540
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNR_RS17110",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3962777,
+                                "start": 3962777
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNR_RS17115",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3964274,
+                                "start": 3964274
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNR_RS17120",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3965629,
+                                "start": 3965629
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNR_RS17125",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3966246,
+                                "start": 3966246
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNR_RS17130",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3966713,
+                                "start": 3966713
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNR_RS17135",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3967651,
+                                "start": 3967651
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNR_RS17140",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3968445,
+                                "start": 3968445
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNR_RS17145",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3968766,
+                                "start": 3968766
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNR_RS17150",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3969751,
+                                "start": 3969751
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNR_RS17155",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3971215,
+                                "start": 3971215
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_020990.1",
+            "accession": "CP004370.1",
             "completeness": "Unknown",
             "end_coord": 3971215,
             "start_coord": 3888752

@@ -61,7 +61,7 @@
             "cyclic": false,
             "thioesterases": [
                 {
-                    "gene": "yruck0001_11720",
+                    "gene": "YRUCK0001_RS11370",
                     "thioesterase_type": "Unknown"
                 }
             ]

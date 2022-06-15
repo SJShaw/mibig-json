@@ -11,10 +11,13 @@
         },
         {
             "comments": [
-                "Fixed DOIs"
+                "Fixed DOIs",
+                "Gene details extracted from RefSeq accession NZ_KE354310.1 dated 15-JAN-2019",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
-                "CUSGWVK3I4TVHJH7NHPFAP2L"
+                "CUSGWVK3I4TVHJH7NHPFAP2L",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -31,8 +34,433 @@
                 "compound": "julichrome Q3-5"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "STAFG_RS30600",
+                    "product": "CBS domain-containing protein"
+                },
+                {
+                    "id": "STAFG_RS30605",
+                    "name": "hisN",
+                    "product": "histidinol-phosphatase"
+                },
+                {
+                    "id": "STAFG_RS30610",
+                    "product": "TetR/AcrR family transcriptional regulator"
+                },
+                {
+                    "id": "STAFG_RS30615",
+                    "product": "multidrug efflux SMR transporter"
+                },
+                {
+                    "id": "STAFG_RS30620",
+                    "name": "rsgA",
+                    "product": "ribosome small subunit-dependent GTPase A"
+                },
+                {
+                    "id": "STAFG_RS30625",
+                    "name": "aroA",
+                    "product": "3-phosphoshikimate 1-carboxyvinyltransferase"
+                },
+                {
+                    "id": "STAFG_RS30630",
+                    "product": "M50 family metallopeptidase"
+                },
+                {
+                    "id": "STAFG_RS30635",
+                    "product": "NAD(P)H-binding protein"
+                },
+                {
+                    "id": "STAFG_RS30640",
+                    "product": "FAD-dependent oxidoreductase"
+                },
+                {
+                    "id": "STAFG_RS30645",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "STAFG_RS30650",
+                    "product": "LLM class F420-dependent oxidoreductase"
+                },
+                {
+                    "id": "STAFG_RS30655",
+                    "product": "cytochrome P450"
+                },
+                {
+                    "id": "STAFG_RS30660",
+                    "product": "TetR family transcriptional regulator"
+                },
+                {
+                    "id": "STAFG_RS30665",
+                    "product": "MFS transporter"
+                },
+                {
+                    "id": "STAFG_RS30670",
+                    "product": "response regulator transcription factor"
+                },
+                {
+                    "id": "STAFG_RS50090",
+                    "product": "TcmI family type II polyketide cyclase"
+                },
+                {
+                    "id": "STAFG_RS30680",
+                    "product": "beta-ketoacyl-[acyl-carrier-protein] synthase family protein"
+                },
+                {
+                    "id": "STAFG_RS30685",
+                    "product": "ketosynthase chain-length factor"
+                },
+                {
+                    "id": "STAFG_RS30690",
+                    "product": "acyl carrier protein"
+                },
+                {
+                    "id": "STAFG_RS30695",
+                    "product": "SDR family NAD(P)-dependent oxidoreductase"
+                },
+                {
+                    "id": "STAFG_RS30700",
+                    "product": "polyketide synthase"
+                },
+                {
+                    "id": "STAFG_RS30705",
+                    "product": "alpha/beta hydrolase"
+                },
+                {
+                    "id": "STAFG_RS30710",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "STAFG_RS48165",
+                    "product": "4'-phosphopantetheinyl transferase superfamily protein"
+                },
+                {
+                    "id": "STAFG_RS30725",
+                    "product": "SOS response-associated peptidase"
+                },
+                {
+                    "id": "STAFG_RS30730",
+                    "product": "hydrolase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "STAFG_RS30600",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 9304,
+                                "start": 9304
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30605",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 10282,
+                                "start": 10282
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30610",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 11094,
+                                "start": 11094
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30615",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 11425,
+                                "start": 11425
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30620",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 12583,
+                                "start": 12583
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30625",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 13917,
+                                "start": 13917
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30630",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14749,
+                                "start": 14749
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30635",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 15775,
+                                "start": 15775
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30640",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 17316,
+                                "start": 17316
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30645",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 18709,
+                                "start": 18709
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30650",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19713,
+                                "start": 19713
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30655",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 20951,
+                                "start": 20951
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30660",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 21830,
+                                "start": 21830
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30665",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 23543,
+                                "start": 23543
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30670",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 24716,
+                                "start": 24716
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STAFG_RS50090",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 25645,
+                                "start": 25645
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30680",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 26913,
+                                "start": 26913
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30685",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 28103,
+                                "start": 28103
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30690",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 28447,
+                                "start": 28447
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30695",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 29285,
+                                "start": 29285
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30700",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 30264,
+                                "start": 30264
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30705",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 31169,
+                                "start": 31169
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30710",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 31567,
+                                "start": 31567
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STAFG_RS48165",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 32486,
+                                "start": 32486
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30725",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 33393,
+                                "start": 33393
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "STAFG_RS30730",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 34051,
+                                "start": 34051
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_KE354310.1",
+            "accession": "KE354310.1",
             "completeness": "Unknown",
             "end_coord": 34051,
             "start_coord": 8349

@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_LN681227.1 dated 10-APR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -28,8 +38,238 @@
                 "compound": "odilorhabdins"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "XNC2_RS10280",
+                    "product": "YciU family protein"
+                },
+                {
+                    "id": "XNC2_RS10285",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "XNC2_RS10290",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "XNC2_RS10295",
+                    "product": "acylase"
+                },
+                {
+                    "id": "XNC2_RS10300",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "XNC2_RS10305",
+                    "product": "aspartyl/asparaginyl beta-hydroxylase domain-containing protein"
+                },
+                {
+                    "id": "XNC2_RS10310",
+                    "product": "cyclic peptide export ABC transporter"
+                },
+                {
+                    "id": "XNC2_RS10315",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "XNC2_RS10320",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "XNC2_RS10325",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "XNC2_RS10330",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "XNC2_RS10335",
+                    "product": "GNAT family N-acetyltransferase"
+                },
+                {
+                    "id": "XNC2_RS10340",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "XNC2_RS10345",
+                    "product": "diaminobutyrate--2-oxoglutarate transaminase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "XNC2_RS10280",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2380842,
+                                "start": 2380842
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "XNC2_RS10285",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2381462,
+                                "start": 2381462
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNC2_RS10290",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2381721,
+                                "start": 2381721
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNC2_RS10295",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2384257,
+                                "start": 2384257
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNC2_RS10300",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2385213,
+                                "start": 2385213
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNC2_RS10305",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2386038,
+                                "start": 2386038
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNC2_RS10310",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2387742,
+                                "start": 2387742
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNC2_RS10315",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2398761,
+                                "start": 2398761
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNC2_RS10320",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2402174,
+                                "start": 2402174
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNC2_RS10325",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2412013,
+                                "start": 2412013
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNC2_RS10330",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2420325,
+                                "start": 2420325
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNC2_RS10335",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2420925,
+                                "start": 2420925
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNC2_RS10340",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2421801,
+                                "start": 2421801
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "XNC2_RS10345",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2423130,
+                                "start": 2423130
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_LN681227.1",
+            "accession": "LN681227.1",
             "completeness": "Unknown",
             "end_coord": 2423130,
             "start_coord": 2379690

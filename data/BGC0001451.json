@@ -19,6 +19,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_LGTG01000643.1 dated 10-APR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -36,8 +46,126 @@
                 "molecular_formula": "C49H75N7O15"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "BCRE_RS14165",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "BCRE_RS14170",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "BCRE_RS14175",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "BCRE_RS14180",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "BCRE_RS14185",
+                    "product": "malate dehydrogenase"
+                },
+                {
+                    "id": "BCRE_RS14190",
+                    "product": "MbtH family protein"
+                },
+                {
+                    "id": "BCRE_RS14195",
+                    "product": "non-ribosomal peptide synthetase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "BCRE_RS14165",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 73739,
+                                "start": 73739
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BCRE_RS14170",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 81288,
+                                "start": 81288
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BCRE_RS14175",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 90325,
+                                "start": 90325
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BCRE_RS14180",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 93405,
+                                "start": 93405
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BCRE_RS14185",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 94505,
+                                "start": 94505
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BCRE_RS14190",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 94720,
+                                "start": 94720
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BCRE_RS14195",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 98508,
+                                "start": 98508
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_LGTG01000643.1",
+            "accession": "LGTG01000643.1",
             "completeness": "Unknown",
             "end_coord": 98508,
             "start_coord": 62709

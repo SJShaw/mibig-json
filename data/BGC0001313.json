@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_003075.7 dated 14-FEB-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -28,8 +38,1256 @@
                 "compound": "arabidiol-baruol"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "AT4G15300_NP_193265.1",
+                    "product": "cytochrome P450, family 702, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT4G15300_NP_001328761.1",
+                    "product": "cytochrome P450, family 702, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT4G15300",
+                    "product": "cytochrome P450, family 702, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT4G15310",
+                    "name": "CYP702A3",
+                    "product": "cytochrome P450, family 702, subfamily A, polypeptide 3"
+                },
+                {
+                    "id": "AT4G15320_NP_193267.1",
+                    "product": "cellulose synthase-like B6"
+                },
+                {
+                    "id": "AT4G15320",
+                    "product": "cellulose synthase-like B6"
+                },
+                {
+                    "id": "AT4G15320_NP_001328693.1",
+                    "product": "cellulose synthase-like B6"
+                },
+                {
+                    "id": "AT4G15320_NP_001328691.1",
+                    "product": "cellulose synthase-like B6"
+                },
+                {
+                    "id": "AT4G15320_NP_001328694.1",
+                    "product": "cellulose synthase-like B6"
+                },
+                {
+                    "id": "AT4G15330_NP_193268.3",
+                    "product": "cytochrome P450, family 705, subfamily A, polypeptide 1"
+                },
+                {
+                    "id": "AT4G15330",
+                    "product": "cytochrome P450, family 705, subfamily A, polypeptide 1"
+                },
+                {
+                    "id": "AT4G15340",
+                    "product": "pentacyclic triterpene synthase 1"
+                },
+                {
+                    "id": "AT4G15340_NP_001328610.1",
+                    "product": "pentacyclic triterpene synthase 1"
+                },
+                {
+                    "id": "AT4G15350",
+                    "name": "CYP705A2",
+                    "product": "cytochrome P450, family 705, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT4G15360",
+                    "name": "CYP705A3",
+                    "product": "cytochrome P450, family 705, subfamily A, polypeptide 3"
+                },
+                {
+                    "id": "AT4G15370_NP_193272.1",
+                    "product": "baruol synthase 1"
+                },
+                {
+                    "id": "AT4G15370",
+                    "product": "baruol synthase 1"
+                },
+                {
+                    "id": "AT4G15380",
+                    "name": "CYP705A4",
+                    "product": "cytochrome P450, family 705, subfamily A, polypeptide 4"
+                },
+                {
+                    "id": "AT4G15390_NP_193274.1",
+                    "product": "HXXXD-type acyl-transferase family protein"
+                },
+                {
+                    "id": "AT4G15390",
+                    "product": "HXXXD-type acyl-transferase family protein"
+                },
+                {
+                    "id": "AT4G15393_NP_001078394.1",
+                    "product": "cytochrome P450, family 702, subfamily A, polypeptide 5"
+                },
+                {
+                    "id": "AT4G15393_NP_680695.2",
+                    "product": "cytochrome P450, family 702, subfamily A, polypeptide 5"
+                },
+                {
+                    "id": "AT4G15393",
+                    "product": "cytochrome P450, family 702, subfamily A, polypeptide 5"
+                },
+                {
+                    "id": "AT4G15396_NP_001329486.1",
+                    "product": "cytochrome P450, family 702, subfamily A, polypeptide 6"
+                },
+                {
+                    "id": "AT4G15396_NP_001329487.1",
+                    "product": "cytochrome P450, family 702, subfamily A, polypeptide 6"
+                },
+                {
+                    "id": "AT4G15396_NP_001329488.1",
+                    "product": "cytochrome P450, family 702, subfamily A, polypeptide 6"
+                },
+                {
+                    "id": "AT4G15396",
+                    "product": "cytochrome P450, family 702, subfamily A, polypeptide 6"
+                },
+                {
+                    "id": "AT4G15400",
+                    "name": "BIA1",
+                    "product": "HXXXD-type acyl-transferase family protein"
+                },
+                {
+                    "id": "AT4G15410",
+                    "name": "PUX5",
+                    "product": "serine/threonine protein phosphatase 2A 55 kDa regulatory subunit B prime gamma"
+                },
+                {
+                    "id": "AT4G15415_NP_001328412.1",
+                    "product": "Protein phosphatase 2A regulatory B subunit family protein"
+                },
+                {
+                    "id": "AT4G15415_NP_849390.1",
+                    "product": "Protein phosphatase 2A regulatory B subunit family protein"
+                },
+                {
+                    "id": "AT4G15415_NP_567464.1",
+                    "product": "Protein phosphatase 2A regulatory B subunit family protein"
+                },
+                {
+                    "id": "AT4G15415_NP_001319948.1",
+                    "product": "Protein phosphatase 2A regulatory B subunit family protein"
+                },
+                {
+                    "id": "AT4G15415",
+                    "product": "Protein phosphatase 2A regulatory B subunit family protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "AT4G15300_NP_193265.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8732748,
+                                "start": 8732748
+                            },
+                            {
+                                "end": 8732456,
+                                "start": 8732456
+                            },
+                            {
+                                "end": 8732017,
+                                "start": 8732017
+                            },
+                            {
+                                "end": 8731819,
+                                "start": 8731819
+                            },
+                            {
+                                "end": 8731342,
+                                "start": 8731342
+                            },
+                            {
+                                "end": 8731059,
+                                "start": 8731059
+                            },
+                            {
+                                "end": 8730825,
+                                "start": 8730825
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT4G15300_NP_001328761.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8732748,
+                                "start": 8732748
+                            },
+                            {
+                                "end": 8732467,
+                                "start": 8732467
+                            },
+                            {
+                                "end": 8732017,
+                                "start": 8732017
+                            },
+                            {
+                                "end": 8731779,
+                                "start": 8731779
+                            },
+                            {
+                                "end": 8731342,
+                                "start": 8731342
+                            },
+                            {
+                                "end": 8731059,
+                                "start": 8731059
+                            },
+                            {
+                                "end": 8730825,
+                                "start": 8730825
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT4G15300",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8732778,
+                                "start": 8732778
+                            },
+                            {
+                                "end": 8732467,
+                                "start": 8732467
+                            },
+                            {
+                                "end": 8732017,
+                                "start": 8732017
+                            },
+                            {
+                                "end": 8731779,
+                                "start": 8731779
+                            },
+                            {
+                                "end": 8731342,
+                                "start": 8731342
+                            },
+                            {
+                                "end": 8731059,
+                                "start": 8731059
+                            },
+                            {
+                                "end": 8730825,
+                                "start": 8730825
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT4G15310",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8736935,
+                                "start": 8736935
+                            },
+                            {
+                                "end": 8737743,
+                                "start": 8737743
+                            },
+                            {
+                                "end": 8738626,
+                                "start": 8738626
+                            },
+                            {
+                                "end": 8739057,
+                                "start": 8739057
+                            },
+                            {
+                                "end": 8739210,
+                                "start": 8739210
+                            },
+                            {
+                                "end": 8739654,
+                                "start": 8739654
+                            },
+                            {
+                                "end": 8739870,
+                                "start": 8739870
+                            },
+                            {
+                                "end": 8740047,
+                                "start": 8740047
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT4G15320_NP_193267.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8747981,
+                                "start": 8747981
+                            },
+                            {
+                                "end": 8747388,
+                                "start": 8747388
+                            },
+                            {
+                                "end": 8746923,
+                                "start": 8746923
+                            },
+                            {
+                                "end": 8746626,
+                                "start": 8746626
+                            },
+                            {
+                                "end": 8746376,
+                                "start": 8746376
+                            },
+                            {
+                                "end": 8745971,
+                                "start": 8745971
+                            },
+                            {
+                                "end": 8745723,
+                                "start": 8745723
+                            },
+                            {
+                                "end": 8745360,
+                                "start": 8745360
+                            },
+                            {
+                                "end": 8744920,
+                                "start": 8744920
+                            },
+                            {
+                                "end": 8744783,
+                                "start": 8744783
+                            },
+                            {
+                                "end": 8744550,
+                                "start": 8744550
+                            },
+                            {
+                                "end": 8742832,
+                                "start": 8742832
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT4G15320",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8747981,
+                                "start": 8747981
+                            },
+                            {
+                                "end": 8747388,
+                                "start": 8747388
+                            },
+                            {
+                                "end": 8746878,
+                                "start": 8746878
+                            },
+                            {
+                                "end": 8746626,
+                                "start": 8746626
+                            },
+                            {
+                                "end": 8746376,
+                                "start": 8746376
+                            },
+                            {
+                                "end": 8745971,
+                                "start": 8745971
+                            },
+                            {
+                                "end": 8745723,
+                                "start": 8745723
+                            },
+                            {
+                                "end": 8745360,
+                                "start": 8745360
+                            },
+                            {
+                                "end": 8744920,
+                                "start": 8744920
+                            },
+                            {
+                                "end": 8744783,
+                                "start": 8744783
+                            },
+                            {
+                                "end": 8744550,
+                                "start": 8744550
+                            },
+                            {
+                                "end": 8742832,
+                                "start": 8742832
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT4G15320_NP_001328693.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8747981,
+                                "start": 8747981
+                            },
+                            {
+                                "end": 8747388,
+                                "start": 8747388
+                            },
+                            {
+                                "end": 8746923,
+                                "start": 8746923
+                            },
+                            {
+                                "end": 8746626,
+                                "start": 8746626
+                            },
+                            {
+                                "end": 8746275,
+                                "start": 8746275
+                            },
+                            {
+                                "end": 8745971,
+                                "start": 8745971
+                            },
+                            {
+                                "end": 8745723,
+                                "start": 8745723
+                            },
+                            {
+                                "end": 8745360,
+                                "start": 8745360
+                            },
+                            {
+                                "end": 8744920,
+                                "start": 8744920
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT4G15320_NP_001328691.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8747981,
+                                "start": 8747981
+                            },
+                            {
+                                "end": 8747388,
+                                "start": 8747388
+                            },
+                            {
+                                "end": 8746878,
+                                "start": 8746878
+                            },
+                            {
+                                "end": 8746626,
+                                "start": 8746626
+                            },
+                            {
+                                "end": 8746275,
+                                "start": 8746275
+                            },
+                            {
+                                "end": 8745971,
+                                "start": 8745971
+                            },
+                            {
+                                "end": 8745723,
+                                "start": 8745723
+                            },
+                            {
+                                "end": 8745360,
+                                "start": 8745360
+                            },
+                            {
+                                "end": 8744920,
+                                "start": 8744920
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT4G15320_NP_001328694.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8747981,
+                                "start": 8747981
+                            },
+                            {
+                                "end": 8747388,
+                                "start": 8747388
+                            },
+                            {
+                                "end": 8746878,
+                                "start": 8746878
+                            },
+                            {
+                                "end": 8746626,
+                                "start": 8746626
+                            },
+                            {
+                                "end": 8746275,
+                                "start": 8746275
+                            },
+                            {
+                                "end": 8745971,
+                                "start": 8745971
+                            },
+                            {
+                                "end": 8745723,
+                                "start": 8745723
+                            },
+                            {
+                                "end": 8745360,
+                                "start": 8745360
+                            },
+                            {
+                                "end": 8744920,
+                                "start": 8744920
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT4G15330_NP_193268.3",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8753134,
+                                "start": 8753134
+                            },
+                            {
+                                "end": 8752158,
+                                "start": 8752158
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT4G15330",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8753134,
+                                "start": 8753134
+                            },
+                            {
+                                "end": 8752844,
+                                "start": 8752844
+                            },
+                            {
+                                "end": 8752158,
+                                "start": 8752158
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT4G15340",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8760589,
+                                "start": 8760589
+                            },
+                            {
+                                "end": 8760271,
+                                "start": 8760271
+                            },
+                            {
+                                "end": 8759983,
+                                "start": 8759983
+                            },
+                            {
+                                "end": 8759804,
+                                "start": 8759804
+                            },
+                            {
+                                "end": 8759522,
+                                "start": 8759522
+                            },
+                            {
+                                "end": 8758635,
+                                "start": 8758635
+                            },
+                            {
+                                "end": 8757853,
+                                "start": 8757853
+                            },
+                            {
+                                "end": 8757592,
+                                "start": 8757592
+                            },
+                            {
+                                "end": 8757329,
+                                "start": 8757329
+                            },
+                            {
+                                "end": 8756997,
+                                "start": 8756997
+                            },
+                            {
+                                "end": 8755760,
+                                "start": 8755760
+                            },
+                            {
+                                "end": 8755618,
+                                "start": 8755618
+                            },
+                            {
+                                "end": 8755475,
+                                "start": 8755475
+                            },
+                            {
+                                "end": 8754786,
+                                "start": 8754786
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT4G15340_NP_001328610.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8760589,
+                                "start": 8760589
+                            },
+                            {
+                                "end": 8760271,
+                                "start": 8760271
+                            },
+                            {
+                                "end": 8759983,
+                                "start": 8759983
+                            },
+                            {
+                                "end": 8759804,
+                                "start": 8759804
+                            },
+                            {
+                                "end": 8759522,
+                                "start": 8759522
+                            },
+                            {
+                                "end": 8758635,
+                                "start": 8758635
+                            },
+                            {
+                                "end": 8757853,
+                                "start": 8757853
+                            },
+                            {
+                                "end": 8757592,
+                                "start": 8757592
+                            },
+                            {
+                                "end": 8757329,
+                                "start": 8757329
+                            },
+                            {
+                                "end": 8756997,
+                                "start": 8756997
+                            },
+                            {
+                                "end": 8755760,
+                                "start": 8755760
+                            },
+                            {
+                                "end": 8755618,
+                                "start": 8755618
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT4G15350",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8763852,
+                                "start": 8763852
+                            },
+                            {
+                                "end": 8764563,
+                                "start": 8764563
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT4G15360",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8771102,
+                                "start": 8771102
+                            },
+                            {
+                                "end": 8771852,
+                                "start": 8771852
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT4G15370_NP_193272.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8779685,
+                                "start": 8779685
+                            },
+                            {
+                                "end": 8779383,
+                                "start": 8779383
+                            },
+                            {
+                                "end": 8779092,
+                                "start": 8779092
+                            },
+                            {
+                                "end": 8778666,
+                                "start": 8778666
+                            },
+                            {
+                                "end": 8778236,
+                                "start": 8778236
+                            },
+                            {
+                                "end": 8778044,
+                                "start": 8778044
+                            },
+                            {
+                                "end": 8776615,
+                                "start": 8776615
+                            },
+                            {
+                                "end": 8776325,
+                                "start": 8776325
+                            },
+                            {
+                                "end": 8776090,
+                                "start": 8776090
+                            },
+                            {
+                                "end": 8775744,
+                                "start": 8775744
+                            },
+                            {
+                                "end": 8774823,
+                                "start": 8774823
+                            },
+                            {
+                                "end": 8774680,
+                                "start": 8774680
+                            },
+                            {
+                                "end": 8774546,
+                                "start": 8774546
+                            },
+                            {
+                                "end": 8773896,
+                                "start": 8773896
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT4G15370",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8779685,
+                                "start": 8779685
+                            },
+                            {
+                                "end": 8779383,
+                                "start": 8779383
+                            },
+                            {
+                                "end": 8779092,
+                                "start": 8779092
+                            },
+                            {
+                                "end": 8778666,
+                                "start": 8778666
+                            },
+                            {
+                                "end": 8778236,
+                                "start": 8778236
+                            },
+                            {
+                                "end": 8778044,
+                                "start": 8778044
+                            },
+                            {
+                                "end": 8776615,
+                                "start": 8776615
+                            },
+                            {
+                                "end": 8776325,
+                                "start": 8776325
+                            },
+                            {
+                                "end": 8776090,
+                                "start": 8776090
+                            },
+                            {
+                                "end": 8775744,
+                                "start": 8775744
+                            },
+                            {
+                                "end": 8774823,
+                                "start": 8774823
+                            },
+                            {
+                                "end": 8774680,
+                                "start": 8774680
+                            },
+                            {
+                                "end": 8774546,
+                                "start": 8774546
+                            },
+                            {
+                                "end": 8773896,
+                                "start": 8773896
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT4G15380",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8789667,
+                                "start": 8789667
+                            },
+                            {
+                                "end": 8790391,
+                                "start": 8790391
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT4G15390_NP_193274.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8794281,
+                                "start": 8794281
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT4G15390",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8794281,
+                                "start": 8794281
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT4G15393_NP_001078394.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8804366,
+                                "start": 8804366
+                            },
+                            {
+                                "end": 8804987,
+                                "start": 8804987
+                            },
+                            {
+                                "end": 8805199,
+                                "start": 8805199
+                            },
+                            {
+                                "end": 8805456,
+                                "start": 8805456
+                            },
+                            {
+                                "end": 8806051,
+                                "start": 8806051
+                            },
+                            {
+                                "end": 8806613,
+                                "start": 8806613
+                            },
+                            {
+                                "end": 8806723,
+                                "start": 8806723
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT4G15393_NP_680695.2",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8804366,
+                                "start": 8804366
+                            },
+                            {
+                                "end": 8805199,
+                                "start": 8805199
+                            },
+                            {
+                                "end": 8805456,
+                                "start": 8805456
+                            },
+                            {
+                                "end": 8806051,
+                                "start": 8806051
+                            },
+                            {
+                                "end": 8806613,
+                                "start": 8806613
+                            },
+                            {
+                                "end": 8806723,
+                                "start": 8806723
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT4G15393",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8804366,
+                                "start": 8804366
+                            },
+                            {
+                                "end": 8805199,
+                                "start": 8805199
+                            },
+                            {
+                                "end": 8805456,
+                                "start": 8805456
+                            },
+                            {
+                                "end": 8806051,
+                                "start": 8806051
+                            },
+                            {
+                                "end": 8806613,
+                                "start": 8806613
+                            },
+                            {
+                                "end": 8806838,
+                                "start": 8806838
+                            },
+                            {
+                                "end": 8807016,
+                                "start": 8807016
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT4G15396_NP_001329486.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8807782,
+                                "start": 8807782
+                            },
+                            {
+                                "end": 8808725,
+                                "start": 8808725
+                            },
+                            {
+                                "end": 8808972,
+                                "start": 8808972
+                            },
+                            {
+                                "end": 8809590,
+                                "start": 8809590
+                            },
+                            {
+                                "end": 8810007,
+                                "start": 8810007
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT4G15396_NP_001329487.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8807782,
+                                "start": 8807782
+                            },
+                            {
+                                "end": 8808725,
+                                "start": 8808725
+                            },
+                            {
+                                "end": 8808972,
+                                "start": 8808972
+                            },
+                            {
+                                "end": 8809590,
+                                "start": 8809590
+                            },
+                            {
+                                "end": 8809998,
+                                "start": 8809998
+                            },
+                            {
+                                "end": 8810274,
+                                "start": 8810274
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT4G15396_NP_001329488.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8807782,
+                                "start": 8807782
+                            },
+                            {
+                                "end": 8808725,
+                                "start": 8808725
+                            },
+                            {
+                                "end": 8808972,
+                                "start": 8808972
+                            },
+                            {
+                                "end": 8809590,
+                                "start": 8809590
+                            },
+                            {
+                                "end": 8809891,
+                                "start": 8809891
+                            },
+                            {
+                                "end": 8809998,
+                                "start": 8809998
+                            },
+                            {
+                                "end": 8810222,
+                                "start": 8810222
+                            },
+                            {
+                                "end": 8810419,
+                                "start": 8810419
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT4G15396",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8807782,
+                                "start": 8807782
+                            },
+                            {
+                                "end": 8808725,
+                                "start": 8808725
+                            },
+                            {
+                                "end": 8808972,
+                                "start": 8808972
+                            },
+                            {
+                                "end": 8809590,
+                                "start": 8809590
+                            },
+                            {
+                                "end": 8809998,
+                                "start": 8809998
+                            },
+                            {
+                                "end": 8810222,
+                                "start": 8810222
+                            },
+                            {
+                                "end": 8810419,
+                                "start": 8810419
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT4G15400",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8813428,
+                                "start": 8813428
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT4G15410",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8815364,
+                                "start": 8815364
+                            },
+                            {
+                                "end": 8815902,
+                                "start": 8815902
+                            },
+                            {
+                                "end": 8816115,
+                                "start": 8816115
+                            },
+                            {
+                                "end": 8816596,
+                                "start": 8816596
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT4G15415_NP_001328412.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8819014,
+                                "start": 8819014
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT4G15415_NP_849390.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8818897,
+                                "start": 8818897
+                            },
+                            {
+                                "end": 8819349,
+                                "start": 8819349
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT4G15415_NP_567464.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8818897,
+                                "start": 8818897
+                            },
+                            {
+                                "end": 8819349,
+                                "start": 8819349
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT4G15415_NP_001319948.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8818897,
+                                "start": 8818897
+                            },
+                            {
+                                "end": 8819349,
+                                "start": 8819349
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT4G15415",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8818897,
+                                "start": 8818897
+                            },
+                            {
+                                "end": 8819349,
+                                "start": 8819349
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_003075.7",
+            "accession": "CP002687.1",
             "completeness": "Unknown",
             "end_coord": 8820000,
             "start_coord": 8730000

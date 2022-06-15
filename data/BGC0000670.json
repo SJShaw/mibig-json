@@ -20,6 +20,16 @@
         },
         {
             "comments": [
+                "Gene details extracted from RefSeq accession NC_003076.8 dated 14-FEB-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
+        },
+        {
+            "comments": [
                 "Fix terpene cyclase ID"
             ],
             "contributors": [
@@ -52,8 +62,495 @@
                 "molecular_formula": "C30H48O3"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "AT5G47980",
+                    "product": "HXXXD-type acyl-transferase family protein"
+                },
+                {
+                    "id": "AT5G47990",
+                    "name": "CYP705A5",
+                    "product": "cytochrome P450, family 705, subfamily A, polypeptide 5"
+                },
+                {
+                    "id": "AT5G48000_NP_001032030.1",
+                    "product": "cytochrome P450, family 708, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT5G48000_NP_199611.2",
+                    "product": "cytochrome P450, family 708, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT5G48000_NP_851153.1",
+                    "product": "cytochrome P450, family 708, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT5G48000_NP_001078732.1",
+                    "product": "cytochrome P450, family 708, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT5G48000_NP_001330320.1",
+                    "product": "cytochrome P450, family 708, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT5G48000_NP_001318756.1",
+                    "product": "cytochrome P450, family 708, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT5G48000",
+                    "product": "cytochrome P450, family 708, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT5G48010_NP_199612.3",
+                    "product": "thalianol synthase 1"
+                },
+                {
+                    "id": "AT5G48010",
+                    "product": "thalianol synthase 1"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "AT5G47980",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19430301,
+                                "start": 19430301
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT5G47990",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19435747,
+                                "start": 19435747
+                            },
+                            {
+                                "end": 19436444,
+                                "start": 19436444
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT5G48000_NP_001032030.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19446970,
+                                "start": 19446970
+                            },
+                            {
+                                "end": 19446681,
+                                "start": 19446681
+                            },
+                            {
+                                "end": 19446262,
+                                "start": 19446262
+                            },
+                            {
+                                "end": 19446018,
+                                "start": 19446018
+                            },
+                            {
+                                "end": 19445660,
+                                "start": 19445660
+                            },
+                            {
+                                "end": 19444929,
+                                "start": 19444929
+                            },
+                            {
+                                "end": 19444712,
+                                "start": 19444712
+                            },
+                            {
+                                "end": 19444531,
+                                "start": 19444531
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G48000_NP_199611.2",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19446970,
+                                "start": 19446970
+                            },
+                            {
+                                "end": 19446681,
+                                "start": 19446681
+                            },
+                            {
+                                "end": 19446262,
+                                "start": 19446262
+                            },
+                            {
+                                "end": 19446018,
+                                "start": 19446018
+                            },
+                            {
+                                "end": 19445660,
+                                "start": 19445660
+                            },
+                            {
+                                "end": 19444929,
+                                "start": 19444929
+                            },
+                            {
+                                "end": 19444712,
+                                "start": 19444712
+                            },
+                            {
+                                "end": 19444531,
+                                "start": 19444531
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G48000_NP_851153.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19446970,
+                                "start": 19446970
+                            },
+                            {
+                                "end": 19446681,
+                                "start": 19446681
+                            },
+                            {
+                                "end": 19446262,
+                                "start": 19446262
+                            },
+                            {
+                                "end": 19446018,
+                                "start": 19446018
+                            },
+                            {
+                                "end": 19445660,
+                                "start": 19445660
+                            },
+                            {
+                                "end": 19444929,
+                                "start": 19444929
+                            },
+                            {
+                                "end": 19444712,
+                                "start": 19444712
+                            },
+                            {
+                                "end": 19444531,
+                                "start": 19444531
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G48000_NP_001078732.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19446970,
+                                "start": 19446970
+                            },
+                            {
+                                "end": 19446681,
+                                "start": 19446681
+                            },
+                            {
+                                "end": 19446262,
+                                "start": 19446262
+                            },
+                            {
+                                "end": 19446018,
+                                "start": 19446018
+                            },
+                            {
+                                "end": 19445660,
+                                "start": 19445660
+                            },
+                            {
+                                "end": 19444929,
+                                "start": 19444929
+                            },
+                            {
+                                "end": 19444712,
+                                "start": 19444712
+                            },
+                            {
+                                "end": 19444531,
+                                "start": 19444531
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G48000_NP_001330320.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19446970,
+                                "start": 19446970
+                            },
+                            {
+                                "end": 19446681,
+                                "start": 19446681
+                            },
+                            {
+                                "end": 19446262,
+                                "start": 19446262
+                            },
+                            {
+                                "end": 19446018,
+                                "start": 19446018
+                            },
+                            {
+                                "end": 19445660,
+                                "start": 19445660
+                            },
+                            {
+                                "end": 19444929,
+                                "start": 19444929
+                            },
+                            {
+                                "end": 19444712,
+                                "start": 19444712
+                            },
+                            {
+                                "end": 19444531,
+                                "start": 19444531
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G48000_NP_001318756.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19446970,
+                                "start": 19446970
+                            },
+                            {
+                                "end": 19446681,
+                                "start": 19446681
+                            },
+                            {
+                                "end": 19446262,
+                                "start": 19446262
+                            },
+                            {
+                                "end": 19446018,
+                                "start": 19446018
+                            },
+                            {
+                                "end": 19445660,
+                                "start": 19445660
+                            },
+                            {
+                                "end": 19444929,
+                                "start": 19444929
+                            },
+                            {
+                                "end": 19444712,
+                                "start": 19444712
+                            },
+                            {
+                                "end": 19444531,
+                                "start": 19444531
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G48000",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19447790,
+                                "start": 19447790
+                            },
+                            {
+                                "end": 19447008,
+                                "start": 19447008
+                            },
+                            {
+                                "end": 19446681,
+                                "start": 19446681
+                            },
+                            {
+                                "end": 19446262,
+                                "start": 19446262
+                            },
+                            {
+                                "end": 19446018,
+                                "start": 19446018
+                            },
+                            {
+                                "end": 19445660,
+                                "start": 19445660
+                            },
+                            {
+                                "end": 19444929,
+                                "start": 19444929
+                            },
+                            {
+                                "end": 19444712,
+                                "start": 19444712
+                            },
+                            {
+                                "end": 19444531,
+                                "start": 19444531
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AT5G48010_NP_199612.3",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19457204,
+                                "start": 19457204
+                            },
+                            {
+                                "end": 19457483,
+                                "start": 19457483
+                            },
+                            {
+                                "end": 19457711,
+                                "start": 19457711
+                            },
+                            {
+                                "end": 19457993,
+                                "start": 19457993
+                            },
+                            {
+                                "end": 19458196,
+                                "start": 19458196
+                            },
+                            {
+                                "end": 19458481,
+                                "start": 19458481
+                            },
+                            {
+                                "end": 19459219,
+                                "start": 19459219
+                            },
+                            {
+                                "end": 19459425,
+                                "start": 19459425
+                            },
+                            {
+                                "end": 19459785,
+                                "start": 19459785
+                            },
+                            {
+                                "end": 19459972,
+                                "start": 19459972
+                            },
+                            {
+                                "end": 19460434,
+                                "start": 19460434
+                            },
+                            {
+                                "end": 19461136,
+                                "start": 19461136
+                            },
+                            {
+                                "end": 19461538,
+                                "start": 19461538
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AT5G48010",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19457204,
+                                "start": 19457204
+                            },
+                            {
+                                "end": 19457483,
+                                "start": 19457483
+                            },
+                            {
+                                "end": 19457711,
+                                "start": 19457711
+                            },
+                            {
+                                "end": 19457993,
+                                "start": 19457993
+                            },
+                            {
+                                "end": 19458196,
+                                "start": 19458196
+                            },
+                            {
+                                "end": 19458481,
+                                "start": 19458481
+                            },
+                            {
+                                "end": 19459219,
+                                "start": 19459219
+                            },
+                            {
+                                "end": 19459425,
+                                "start": 19459425
+                            },
+                            {
+                                "end": 19459785,
+                                "start": 19459785
+                            },
+                            {
+                                "end": 19459972,
+                                "start": 19459972
+                            },
+                            {
+                                "end": 19460434,
+                                "start": 19460434
+                            },
+                            {
+                                "end": 19460558,
+                                "start": 19460558
+                            },
+                            {
+                                "end": 19461136,
+                                "start": 19461136
+                            },
+                            {
+                                "end": 19461538,
+                                "start": 19461538
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_003076.8",
+            "accession": "CP002688.1",
             "completeness": "complete",
             "end_coord": 19461689,
             "evidence": [

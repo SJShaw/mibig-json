@@ -8,6 +8,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_012811.1 dated 19-MAY-2017",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -40,8 +50,174 @@
                 "compound": "toblerol H"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "MEXAM1_RS25395",
+                    "product": "SDR family NAD(P)-dependent oxidoreductase"
+                },
+                {
+                    "id": "MEXAM1_RS25400",
+                    "product": "SidA/IucD/PvdA family monooxygenase"
+                },
+                {
+                    "id": "MEXAM1_RS25405",
+                    "product": "aminotransferase class III-fold pyridoxal phosphate-dependent enzyme"
+                },
+                {
+                    "id": "MEXAM1_RS25410",
+                    "product": "polyketide synthase"
+                },
+                {
+                    "id": "MEXAM1_RS25415",
+                    "product": "acyltransferase domain-containing protein"
+                },
+                {
+                    "id": "MEXAM1_RS25420",
+                    "product": "acyl carrier protein"
+                },
+                {
+                    "id": "MEXAM1_RS25425",
+                    "product": "fatty acyl-AMP ligase"
+                },
+                {
+                    "id": "MEXAM1_RS25430",
+                    "product": "thioesterase"
+                },
+                {
+                    "id": "MEXAM1_RS25435",
+                    "product": "DUF3047 domain-containing protein"
+                },
+                {
+                    "id": "MEXAM1_RS25440",
+                    "product": "cytochrome P450"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "MEXAM1_RS25395",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 15308,
+                                "start": 15308
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "MEXAM1_RS25400",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 16652,
+                                "start": 16652
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "MEXAM1_RS25405",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 21726,
+                                "start": 21726
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "MEXAM1_RS25410",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 24737,
+                                "start": 24737
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "MEXAM1_RS25415",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 26749,
+                                "start": 26749
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "MEXAM1_RS25420",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 27003,
+                                "start": 27003
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "MEXAM1_RS25425",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 28875,
+                                "start": 28875
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "MEXAM1_RS25430",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 29672,
+                                "start": 29672
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "MEXAM1_RS25435",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 30886,
+                                "start": 30886
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "MEXAM1_RS25440",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 32884,
+                                "start": 32884
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_012811.1",
+            "accession": "CP001511.1",
             "completeness": "Unknown",
             "end_coord": 32884,
             "start_coord": 7676

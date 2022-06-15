@@ -8,6 +8,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_FNSO01000004.1 dated 21-JUL-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -22,8 +32,286 @@
                 "compound": "atolypene B"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "BLW76_RS36785",
+                    "product": "HAMP domain-containing protein"
+                },
+                {
+                    "id": "BLW76_RS36800",
+                    "product": "cytochrome P450"
+                },
+                {
+                    "id": "BLW76_RS36805",
+                    "product": "aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme"
+                },
+                {
+                    "id": "BLW76_RS36810",
+                    "product": "polyprenyl synthetase family protein"
+                },
+                {
+                    "id": "BLW76_RS36815",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "BLW76_RS36820",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "BLW76_RS36825",
+                    "product": "FAD-dependent monooxygenase"
+                },
+                {
+                    "id": "BLW76_RS36830",
+                    "product": "alpha/beta fold hydrolase"
+                },
+                {
+                    "id": "BLW76_RS36835",
+                    "product": "NAD(P)H-binding protein"
+                },
+                {
+                    "id": "BLW76_RS36840",
+                    "product": "helix-turn-helix transcriptional regulator"
+                },
+                {
+                    "id": "BLW76_RS36845",
+                    "product": "carbohydrate-binding protein"
+                },
+                {
+                    "id": "BLW76_RS36850",
+                    "product": "nuclear transport factor 2 family protein"
+                },
+                {
+                    "id": "BLW76_RS36855",
+                    "product": "TIGR03619 family F420-dependent LLM class oxidoreductase"
+                },
+                {
+                    "id": "BLW76_RS36860",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "BLW76_RS36865",
+                    "product": "Fpg/Nei family DNA glycosylase"
+                },
+                {
+                    "id": "BLW76_RS36870",
+                    "product": "ribose-5-phosphate isomerase"
+                },
+                {
+                    "id": "BLW76_RS36875",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "BLW76_RS36785",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5927154,
+                                "start": 5927154
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BLW76_RS36800",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5928817,
+                                "start": 5928817
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BLW76_RS36805",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5929872,
+                                "start": 5929872
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BLW76_RS36810",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5930852,
+                                "start": 5930852
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BLW76_RS36815",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5931754,
+                                "start": 5931754
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BLW76_RS36820",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5933351,
+                                "start": 5933351
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BLW76_RS36825",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5934646,
+                                "start": 5934646
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BLW76_RS36830",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5935353,
+                                "start": 5935353
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BLW76_RS36835",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5936144,
+                                "start": 5936144
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BLW76_RS36840",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5936576,
+                                "start": 5936576
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BLW76_RS36845",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5938147,
+                                "start": 5938147
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BLW76_RS36850",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5938711,
+                                "start": 5938711
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BLW76_RS36855",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5939592,
+                                "start": 5939592
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BLW76_RS36860",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5940541,
+                                "start": 5940541
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "BLW76_RS36865",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5941414,
+                                "start": 5941414
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BLW76_RS36870",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5941887,
+                                "start": 5941887
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "BLW76_RS36875",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5942549,
+                                "start": 5942549
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_FNSO01000004.1",
+            "accession": "FNSO01000004.1",
             "completeness": "Unknown",
             "end_coord": 5943258,
             "start_coord": 5921897

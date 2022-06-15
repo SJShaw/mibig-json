@@ -20,10 +20,13 @@
         },
         {
             "comments": [
-                "Expanded start coordinate to include precursors"
+                "Expanded start coordinate to include precursors",
+                "Gene details extracted from RefSeq accession NZ_CP009438.1 dated 11-APR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
-                "SJG3CBEHSM6A3I74YXLH6GLA"
+                "SJG3CBEHSM6A3I74YXLH6GLA",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -37,8 +40,94 @@
                 "compound": "citrulassin E"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "SGLAU_RS35025",
+                    "product": "lasso RiPP family leader peptide-containing protein"
+                },
+                {
+                    "id": "SGLAU_RS30630",
+                    "product": "asparagine synthase"
+                },
+                {
+                    "id": "SGLAU_RS30635",
+                    "product": "lasso peptide biosynthesis PqqD family chaperone"
+                },
+                {
+                    "id": "SGLAU_RS30640",
+                    "product": "lasso peptide biosynthesis B2 protein"
+                },
+                {
+                    "id": "SGLAU_RS30645",
+                    "product": "ABC transporter ATP-binding protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "SGLAU_RS35025",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7071885,
+                                "start": 7071885
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SGLAU_RS30630",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7073768,
+                                "start": 7073768
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SGLAU_RS30635",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7074049,
+                                "start": 7074049
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SGLAU_RS30640",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7074480,
+                                "start": 7074480
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "SGLAU_RS30645",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7076321,
+                                "start": 7076321
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_CP009438.1",
+            "accession": "CP009438.1",
             "completeness": "Unknown",
             "end_coord": 7076321,
             "start_coord": 7071769

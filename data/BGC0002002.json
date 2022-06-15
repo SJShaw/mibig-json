@@ -11,7 +11,9 @@
         },
         {
             "comments": [
-                "Fetch compound properties from PubChem"
+                "Fetch compound properties from PubChem",
+                "Gene details extracted from RefSeq accession NZ_CP011254.1 dated 11-JAN-2018",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -41,8 +43,238 @@
                 "compound": "fontizine A"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "WN53_RS03340",
+                    "product": "NAD(P)-binding protein"
+                },
+                {
+                    "id": "WN53_RS03345",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "WN53_RS03350",
+                    "product": "amino acid adenylation domain-containing protein"
+                },
+                {
+                    "id": "WN53_RS03355",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "WN53_RS03360",
+                    "product": "aldehyde dehydrogenase family protein"
+                },
+                {
+                    "id": "WN53_RS03365",
+                    "product": "AMP-binding protein"
+                },
+                {
+                    "id": "WN53_RS03370",
+                    "product": "pyridoxal 5'-phosphate synthase"
+                },
+                {
+                    "id": "WN53_RS03375",
+                    "product": "PhzF family phenazine biosynthesis protein"
+                },
+                {
+                    "id": "WN53_RS03380",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "WN53_RS03385",
+                    "product": "phenazine-specific anthranilate synthase"
+                },
+                {
+                    "id": "WN53_RS03390",
+                    "product": "isochorismatase family protein"
+                },
+                {
+                    "id": "WN53_RS03395",
+                    "product": "phenazine biosynthesis protein"
+                },
+                {
+                    "id": "WN53_RS03400",
+                    "product": "SDR family NAD(P)-dependent oxidoreductase"
+                },
+                {
+                    "id": "WN53_RS03405",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "WN53_RS03340",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 783259,
+                                "start": 783259
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "WN53_RS03345",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 783714,
+                                "start": 783714
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "WN53_RS03350",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 785546,
+                                "start": 785546
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "WN53_RS03355",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 786517,
+                                "start": 786517
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "WN53_RS03360",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 787899,
+                                "start": 787899
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "WN53_RS03365",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 788963,
+                                "start": 788963
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "WN53_RS03370",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 789611,
+                                "start": 789611
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "WN53_RS03375",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 790470,
+                                "start": 790470
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "WN53_RS03380",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 790802,
+                                "start": 790802
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "WN53_RS03385",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 792667,
+                                "start": 792667
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "WN53_RS03390",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 793284,
+                                "start": 793284
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "WN53_RS03395",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 793816,
+                                "start": 793816
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "WN53_RS03400",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 794661,
+                                "start": 794661
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "WN53_RS03405",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 795170,
+                                "start": 795170
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_CP011254.1",
+            "accession": "CP011254.1",
             "completeness": "Unknown",
             "end_coord": 795170,
             "start_coord": 780776

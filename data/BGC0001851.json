@@ -12,7 +12,9 @@
         {
             "comments": [
                 "Removed gene names of 'No gene ID'",
-                "Removed gene annotations with no information"
+                "Removed gene annotations with no information",
+                "Gene details extracted from RefSeq accession NZ_JNZG01000006.1 dated 01-APR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -232,11 +234,517 @@
                 {
                     "id": "IO28_RS0104910",
                     "product": "SARP family"
+                },
+                {
+                    "id": "IO28_RS0104730",
+                    "product": "nuclear transport factor 2 family protein"
+                },
+                {
+                    "id": "IO28_RS0104750",
+                    "product": "aromatic ring-hydroxylating dioxygenase subunit alpha"
+                },
+                {
+                    "id": "IO28_RS0104780",
+                    "product": "acyl-CoA dehydrogenase"
+                },
+                {
+                    "id": "IO28_RS0104795",
+                    "product": "DSBA oxidoreductase"
+                },
+                {
+                    "id": "IO28_RS0104845",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "IO28_RS35035",
+                    "product": "helix-turn-helix transcriptional regulator"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "IO28_RS0104715",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 188543,
+                                "start": 188543
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104720",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 189303,
+                                "start": 189303
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104725",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 190122,
+                                "start": 190122
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104730",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 190748,
+                                "start": 190748
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104735",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 191754,
+                                "start": 191754
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104740",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 192082,
+                                "start": 192082
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104745",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 192825,
+                                "start": 192825
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104750",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 194257,
+                                "start": 194257
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104755",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 195561,
+                                "start": 195561
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104760",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 196986,
+                                "start": 196986
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104765",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 198602,
+                                "start": 198602
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104770",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 199760,
+                                "start": 199760
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104775",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 200691,
+                                "start": 200691
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104780",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 201893,
+                                "start": 201893
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104785",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 202996,
+                                "start": 202996
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104790",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 203960,
+                                "start": 203960
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104795",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 204594,
+                                "start": 204594
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104800",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 205056,
+                                "start": 205056
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104805",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 205655,
+                                "start": 205655
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104810",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 206935,
+                                "start": 206935
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104815",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 208152,
+                                "start": 208152
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104820",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 208946,
+                                "start": 208946
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104825",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 209930,
+                                "start": 209930
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104830",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 211246,
+                                "start": 211246
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104835",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 212030,
+                                "start": 212030
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104840",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 213381,
+                                "start": 213381
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104845",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 214467,
+                                "start": 214467
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104850",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 215318,
+                                "start": 215318
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS35035",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 215712,
+                                "start": 215712
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104860",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 217063,
+                                "start": 217063
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104865",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 218838,
+                                "start": 218838
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104870",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 219681,
+                                "start": 219681
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104875",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 220869,
+                                "start": 220869
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104880",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 222180,
+                                "start": 222180
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104885",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 223067,
+                                "start": 223067
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104890",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 224333,
+                                "start": 224333
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104895",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 225171,
+                                "start": 225171
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104900",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 226074,
+                                "start": 226074
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104905",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 227622,
+                                "start": 227622
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IO28_RS0104910",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 230323,
+                                "start": 230323
+                            }
+                        ],
+                        "strand": 1
+                    }
                 }
             ]
         },
         "loci": {
-            "accession": "NZ_JNZG01000006.1",
+            "accession": "JNZG01000006.1",
             "completeness": "complete",
             "end_coord": 230323,
             "evidence": [

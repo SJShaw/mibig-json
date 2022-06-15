@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_JOAW01000056.1 dated 31-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -44,8 +54,78 @@
                 "molecular_formula": "C79H100N20O21"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "IH29_RS0109285",
+                    "product": "lasso peptide biosynthesis B2 protein"
+                },
+                {
+                    "id": "IH29_RS51730",
+                    "product": "lasso peptide biosynthesis PqqD family chaperone"
+                },
+                {
+                    "id": "IH29_RS51735",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "IH29_RS50070",
+                    "product": "asparagine synthase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "IH29_RS0109285",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4063,
+                                "start": 4063
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IH29_RS51730",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4410,
+                                "start": 4410
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IH29_RS51735",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4886,
+                                "start": 4886
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "IH29_RS50070",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5863,
+                                "start": 5863
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_JOAW01000056.1",
+            "accession": "JOAW01000056.1",
             "completeness": "Unknown",
             "end_coord": 5863,
             "start_coord": 3033

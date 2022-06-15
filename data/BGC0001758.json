@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_014718.1 dated 17-APR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -35,7 +45,7 @@
             }
         ],
         "loci": {
-            "accession": "NC_014718.1",
+            "accession": "FR687360.1",
             "completeness": "Unknown",
             "end_coord": 46916,
             "start_coord": 23940

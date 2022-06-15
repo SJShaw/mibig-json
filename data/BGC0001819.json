@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_CP018074.1 dated 07-AUG-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -28,8 +38,254 @@
                 "compound": "venemycin"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "vnz_RS02310",
+                    "product": "enoyl-CoA hydratase"
+                },
+                {
+                    "id": "vnz_RS02315",
+                    "product": "4'-phosphopantetheinyl transferase superfamily protein"
+                },
+                {
+                    "id": "vnz_RS02320",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "vnz_RS02325",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "vnz_RS02330",
+                    "product": "NAD(P)/FAD-dependent oxidoreductase"
+                },
+                {
+                    "id": "vnz_RS02335",
+                    "product": "FAD-dependent oxidoreductase"
+                },
+                {
+                    "id": "vnz_RS02340",
+                    "product": "flavin reductase family protein"
+                },
+                {
+                    "id": "vnz_RS02345",
+                    "product": "isochorismatase family protein"
+                },
+                {
+                    "id": "vnz_RS02350",
+                    "product": "MFS transporter"
+                },
+                {
+                    "id": "vnz_RS02355",
+                    "product": "LuxR family transcriptional regulator"
+                },
+                {
+                    "id": "vnz_RS02360",
+                    "product": "type III polyketide synthase"
+                },
+                {
+                    "id": "vnz_RS02365",
+                    "product": "enoyl-CoA hydratase/isomerase family protein"
+                },
+                {
+                    "id": "vnz_RS02370",
+                    "product": "enoyl-CoA hydratase/isomerase family protein"
+                },
+                {
+                    "id": "vnz_RS02375",
+                    "product": "thiamine pyrophosphate-binding protein"
+                },
+                {
+                    "id": "vnz_RS02380",
+                    "product": "aldehyde dehydrogenase family protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "vnz_RS02310",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 522178,
+                                "start": 522178
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "vnz_RS02315",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 522907,
+                                "start": 522907
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "vnz_RS02320",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 526873,
+                                "start": 526873
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "vnz_RS02325",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 533585,
+                                "start": 533585
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "vnz_RS02330",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 535133,
+                                "start": 535133
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "vnz_RS02335",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 536855,
+                                "start": 536855
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "vnz_RS02340",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 537539,
+                                "start": 537539
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "vnz_RS02345",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 538214,
+                                "start": 538214
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "vnz_RS02350",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 539781,
+                                "start": 539781
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "vnz_RS02355",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 542817,
+                                "start": 542817
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "vnz_RS02360",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 544032,
+                                "start": 544032
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "vnz_RS02365",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 544821,
+                                "start": 544821
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "vnz_RS02370",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 546209,
+                                "start": 546209
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "vnz_RS02375",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 547939,
+                                "start": 547939
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "vnz_RS02380",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 549437,
+                                "start": 549437
+                            }
+                        ],
+                        "strand": 1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_CP018074.1",
+            "accession": "CP018074.1",
             "completeness": "Unknown",
             "end_coord": 549437,
             "start_coord": 519875

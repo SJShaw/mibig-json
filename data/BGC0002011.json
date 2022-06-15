@@ -11,10 +11,13 @@
         },
         {
             "comments": [
-                "Fixed DOIs"
+                "Fixed DOIs",
+                "Gene details extracted from RefSeq accession NZ_KB913032.1 dated 17-APR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
-                "CUSGWVK3I4TVHJH7NHPFAP2L"
+                "CUSGWVK3I4TVHJH7NHPFAP2L",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -28,8 +31,1214 @@
                 "compound": "ansacarbamitocin A"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "AMYAL_RS0139360",
+                    "product": "flavin monoamine oxidase family protein"
+                },
+                {
+                    "id": "AMYAL_RS0139365",
+                    "product": "DUF418 domain-containing protein"
+                },
+                {
+                    "id": "AMYAL_RS0139370",
+                    "product": "response regulator transcription factor"
+                },
+                {
+                    "id": "AMYAL_RS0139375",
+                    "product": "lamin tail domain-containing protein"
+                },
+                {
+                    "id": "AMYAL_RS0139380",
+                    "product": "helix-turn-helix transcriptional regulator"
+                },
+                {
+                    "id": "AMYAL_RS0139385",
+                    "product": "lamin tail domain-containing protein"
+                },
+                {
+                    "id": "AMYAL_RS0139390",
+                    "product": "S8 family serine peptidase"
+                },
+                {
+                    "id": "AMYAL_RS0139395",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS0139400",
+                    "product": "phosphopyruvate hydratase"
+                },
+                {
+                    "id": "AMYAL_RS0139405",
+                    "product": "cytochrome P450"
+                },
+                {
+                    "id": "AMYAL_RS0139410",
+                    "product": "GNAT family N-acetyltransferase"
+                },
+                {
+                    "id": "AMYAL_RS47345",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS0139420",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS0139425",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS47350",
+                    "product": "FkbM family methyltransferase"
+                },
+                {
+                    "id": "AMYAL_RS47355",
+                    "product": "ROK family protein"
+                },
+                {
+                    "id": "AMYAL_RS0139440",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS0139445",
+                    "product": "DUF5132 domain-containing protein"
+                },
+                {
+                    "id": "AMYAL_RS47360",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "AMYAL_RS48895",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS48900",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS48905",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS48910",
+                    "product": "polyketide synthase"
+                },
+                {
+                    "id": "AMYAL_RS48915",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS48920",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS48925",
+                    "product": "polyketide synthase"
+                },
+                {
+                    "id": "AMYAL_RS0139460",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "AMYAL_RS0139465",
+                    "product": "LuxR family transcriptional regulator"
+                },
+                {
+                    "id": "AMYAL_RS0139470",
+                    "product": "ABC transporter substrate-binding protein"
+                },
+                {
+                    "id": "AMYAL_RS0139475",
+                    "product": "ABC transporter permease"
+                },
+                {
+                    "id": "AMYAL_RS0139480",
+                    "product": "dipeptide/oligopeptide/nickel ABC transporter permease/ATP-binding protein"
+                },
+                {
+                    "id": "AMYAL_RS0139485",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "AMYAL_RS47370",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS0139495",
+                    "product": "carbamoyltransferase"
+                },
+                {
+                    "id": "AMYAL_RS0139500",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS0139505",
+                    "product": "glycosyltransferase family 1 protein"
+                },
+                {
+                    "id": "AMYAL_RS48135",
+                    "product": "AAA family ATPase"
+                },
+                {
+                    "id": "AMYAL_RS0139515",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "AMYAL_RS47380",
+                    "product": "DUF5132 domain-containing protein"
+                },
+                {
+                    "id": "AMYAL_RS0139525",
+                    "product": "methyltransferase domain-containing protein"
+                },
+                {
+                    "id": "AMYAL_RS0139530",
+                    "product": "HAD-IIIC family phosphatase"
+                },
+                {
+                    "id": "AMYAL_RS0139535",
+                    "product": "acyl-CoA dehydrogenase family protein"
+                },
+                {
+                    "id": "AMYAL_RS0139540",
+                    "product": "acyl carrier protein"
+                },
+                {
+                    "id": "AMYAL_RS0139545",
+                    "product": "3-hydroxyacyl-CoA dehydrogenase family protein"
+                },
+                {
+                    "id": "AMYAL_RS0139550",
+                    "product": "NAD(P)/FAD-dependent oxidoreductase"
+                },
+                {
+                    "id": "AMYAL_RS0139555",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS0139560",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS48140",
+                    "product": "methyltransferase"
+                },
+                {
+                    "id": "AMYAL_RS0139570",
+                    "product": "3-dehydroquinate dehydratase"
+                },
+                {
+                    "id": "AMYAL_RS0139575",
+                    "product": "DegT/DnrJ/EryC1/StrS family aminotransferase"
+                },
+                {
+                    "id": "AMYAL_RS0139580",
+                    "product": "Gfo/Idh/MocA family oxidoreductase"
+                },
+                {
+                    "id": "AMYAL_RS0139585",
+                    "product": "HAD-IA family hydrolase"
+                },
+                {
+                    "id": "AMYAL_RS0139590",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS0139595",
+                    "product": "3-dehydroquinate synthase"
+                },
+                {
+                    "id": "AMYAL_RS47390",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "AMYAL_RS0139605",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS0139610",
+                    "product": "class I SAM-dependent methyltransferase"
+                },
+                {
+                    "id": "AMYAL_RS0139615",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS0139620",
+                    "product": "alpha/beta fold hydrolase"
+                },
+                {
+                    "id": "AMYAL_RS0139625",
+                    "product": "MFS transporter"
+                },
+                {
+                    "id": "AMYAL_RS0139630",
+                    "product": "TetR/AcrR family transcriptional regulator"
+                },
+                {
+                    "id": "AMYAL_RS0139635",
+                    "product": "PPOX class F420-dependent oxidoreductase"
+                },
+                {
+                    "id": "AMYAL_RS0139640",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS0139645",
+                    "product": "MarR family transcriptional regulator"
+                },
+                {
+                    "id": "AMYAL_RS0139650",
+                    "product": "multidrug effflux MFS transporter"
+                },
+                {
+                    "id": "AMYAL_RS0139655",
+                    "product": "amidohydrolase family protein"
+                },
+                {
+                    "id": "AMYAL_RS47395",
+                    "product": "transposase"
+                },
+                {
+                    "id": "AMYAL_RS0139665",
+                    "product": "HNH endonuclease"
+                },
+                {
+                    "id": "AMYAL_RS0139670",
+                    "product": "MarR family transcriptional regulator"
+                },
+                {
+                    "id": "AMYAL_RS0139675",
+                    "product": "cytochrome P450"
+                },
+                {
+                    "id": "AMYAL_RS0139680",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS0139685",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AMYAL_RS48930",
+                    "product": "isochorismatase family protein"
+                },
+                {
+                    "id": "AMYAL_RS0139695",
+                    "product": "SRPBCC family protein"
+                },
+                {
+                    "id": "AMYAL_RS0139700",
+                    "product": "(2Fe-2S)-binding protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "AMYAL_RS0139360",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8466333,
+                                "start": 8466333
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139365",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8467822,
+                                "start": 8467822
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139370",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8469289,
+                                "start": 8469289
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139375",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8469890,
+                                "start": 8469890
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139380",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8470256,
+                                "start": 8470256
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139385",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8471017,
+                                "start": 8471017
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139390",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8475252,
+                                "start": 8475252
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139395",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8476249,
+                                "start": 8476249
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139400",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8477768,
+                                "start": 8477768
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139405",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8479084,
+                                "start": 8479084
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139410",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8479877,
+                                "start": 8479877
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS47345",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8480245,
+                                "start": 8480245
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139420",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8481193,
+                                "start": 8481193
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139425",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8481773,
+                                "start": 8481773
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS47350",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8482611,
+                                "start": 8482611
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS47355",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8483444,
+                                "start": 8483444
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139440",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8483785,
+                                "start": 8483785
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139445",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8484045,
+                                "start": 8484045
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS47360",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8492331,
+                                "start": 8492331
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS48895",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8492864,
+                                "start": 8492864
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS48900",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8493608,
+                                "start": 8493608
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS48905",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8494769,
+                                "start": 8494769
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS48910",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8497037,
+                                "start": 8497037
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS48915",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8497574,
+                                "start": 8497574
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS48920",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8498321,
+                                "start": 8498321
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS48925",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8502041,
+                                "start": 8502041
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139460",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8506658,
+                                "start": 8506658
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139465",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8509187,
+                                "start": 8509187
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139470",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8510974,
+                                "start": 8510974
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139475",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8511930,
+                                "start": 8511930
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139480",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8513680,
+                                "start": 8513680
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139485",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8514429,
+                                "start": 8514429
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS47370",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8514672,
+                                "start": 8514672
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139495",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8516651,
+                                "start": 8516651
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139500",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8518654,
+                                "start": 8518654
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139505",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8519932,
+                                "start": 8519932
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS48135",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8522796,
+                                "start": 8522796
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139515",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8524933,
+                                "start": 8524933
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS47380",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8525201,
+                                "start": 8525201
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139525",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8526240,
+                                "start": 8526240
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139530",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8527300,
+                                "start": 8527300
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139535",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8528418,
+                                "start": 8528418
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139540",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8528659,
+                                "start": 8528659
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139545",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8529579,
+                                "start": 8529579
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139550",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8531023,
+                                "start": 8531023
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139555",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8532528,
+                                "start": 8532528
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139560",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8532915,
+                                "start": 8532915
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS48140",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8533585,
+                                "start": 8533585
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139570",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8534070,
+                                "start": 8534070
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139575",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8535360,
+                                "start": 8535360
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139580",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8536397,
+                                "start": 8536397
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139585",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8537085,
+                                "start": 8537085
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139590",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8538281,
+                                "start": 8538281
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139595",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8539835,
+                                "start": 8539835
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS47390",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8552952,
+                                "start": 8552952
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139605",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8553751,
+                                "start": 8553751
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139610",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8554551,
+                                "start": 8554551
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139615",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8555017,
+                                "start": 8555017
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139620",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8555986,
+                                "start": 8555986
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139625",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8557464,
+                                "start": 8557464
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139630",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8558172,
+                                "start": 8558172
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139635",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8558668,
+                                "start": 8558668
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139640",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8559740,
+                                "start": 8559740
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139645",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8560243,
+                                "start": 8560243
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139650",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8561479,
+                                "start": 8561479
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139655",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8562450,
+                                "start": 8562450
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS47395",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8562984,
+                                "start": 8562984
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139665",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8564471,
+                                "start": 8564471
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139670",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8565673,
+                                "start": 8565673
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139675",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8566803,
+                                "start": 8566803
+                            }
+                        ],
+                        "strand": 1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139680",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8567472,
+                                "start": 8567472
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139685",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8568176,
+                                "start": 8568176
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS48930",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8569790,
+                                "start": 8569790
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139695",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8570418,
+                                "start": 8570418
+                            }
+                        ],
+                        "strand": -1
+                    }
+                },
+                {
+                    "id": "AMYAL_RS0139700",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8570915,
+                                "start": 8570915
+                            }
+                        ],
+                        "strand": -1
+                    }
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_KB913032.1",
+            "accession": "KB913032.1",
             "completeness": "Unknown",
             "end_coord": 8572952,
             "start_coord": 8464165
