@@ -17,6 +17,17 @@ with open("refseq_to_new_accessions") as handle:
         bgc, acc = pair.split()
         FULL_ACCESSIONS[bgc] = acc
 
+EMPTIES = {}
+with open("empty_refseq_dates") as handle:
+    pairs = handle.read().splitlines()
+    for pair in pairs:
+        bgc, acc, date = pair.split()
+        if os.sep in bgc:
+            bgc = os.path.basename(bgc)
+        if bgc.endswith(".json"):
+            bgc.rsplit(".", 1)[0]
+        EMPTIES[bgc] = (acc, pair)
+
 
 def location_to_json(location: Union[CompoundLocation, FeatureLocation]) -> Dict[str, Any]:
     exons = [{"start": part.start, "end": part.end} for part in location.parts]
@@ -34,9 +45,6 @@ def get_refseq_base(comment: str) -> str:
     for sentence in sentences:
         if "reference sequence is identical to" in sentence or "reference sequence was derived from" in sentence:
             result = sentence.rsplit()[-1]
-            if "." not in result:
-                print(result)
-                raise ValueError("couldn't find version")
             return result
     raise ValueError(f"couldn't get refseq base accession from: {comment}")
 
@@ -71,7 +79,7 @@ def update(data: Dict[str, Any], record: SeqRecord) -> None:
     name_mapping = {}
 
     accession = data["cluster"]["loci"]["accession"]
-    if accession[:3] not in ["NZ_", "NC_"]:
+    if "_" not in accession:
         return
     date = record.annotations["date"]
 
@@ -177,7 +185,7 @@ def update(data: Dict[str, Any], record: SeqRecord) -> None:
     if accession.startswith("NZ_"):
         data["cluster"]["loci"]["accession"] = data["cluster"]["loci"]["accession"][3:]
         comments.append("Changed from RefSeq to GenBank accession for stability")
-    elif accession.startswith("NC_"):
+    else:
         # try a manual mapping first
         new = FULL_ACCESSIONS.get(data["cluster"]["mibig_accession"])
         if new is None:
@@ -217,7 +225,13 @@ def main(entry_file: str, gbk: str) -> int:
         print(f"too many records in genbank: {gbk}", file=sys.stderr)
         return 1
     try:
-        update(data, records[0])
+        empty, date = EMPTIES.get(data["cluster"]["mibig_accession"], (None, None))
+        if empty:
+            original = get_refseq_base(records[0].annotations["comment"])
+            data["cluster"]["accession"] = original
+            update_changelog(data, ["Changed from Refseq accession to equivalent GenBank accession"])
+        else:
+            update(data, records[0])
         with open(entry_file, "w") as handle:
             json.dump(data, handle, indent=4, separators=(',', ': '), sort_keys=True, ensure_ascii=False)
     except Exception:
