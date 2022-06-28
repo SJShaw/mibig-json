@@ -24,7 +24,9 @@
                 "Corrected NRP module activity",
                 "Removed gene names of 'No gene ID'",
                 "Removed ketoreductase stereochemistry annotation from modules without ketoreductases",
-                "Removed extra gene with no information"
+                "Removed extra gene with no information",
+                "Gene details extracted from RefSeq accession NZ_KB900339.1 dated 01-APR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -242,7 +244,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_019032749.1",
+                    "id": "F583_RS0124805",
                     "product": "hypothetical protein"
                 },
                 {
@@ -254,7 +256,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_019032750.1",
+                    "id": "F583_RS0124810",
                     "product": "multidrug ABC transporter ATP-binding protein"
                 },
                 {
@@ -266,7 +268,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_019032752.1",
+                    "id": "F583_RS0124820",
                     "product": "hypothetical protein"
                 },
                 {
@@ -278,7 +280,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_019032753.1",
+                    "id": "F583_RS01000000127205",
                     "product": "non-ribosomal peptide synthetase"
                 },
                 {
@@ -290,7 +292,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_019032754.1",
+                    "id": "F583_RS0124830",
                     "product": "type I polyketide synthase"
                 },
                 {
@@ -302,7 +304,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_019032755.1",
+                    "id": "F583_RS01000000127210",
                     "product": "non-ribosomal peptide synthetase"
                 },
                 {
@@ -314,7 +316,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_019032756.1",
+                    "id": "F583_RS0124840",
                     "product": "type I polyketide synthase"
                 },
                 {
@@ -326,7 +328,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_019032757.1",
+                    "id": "F583_RS01000000127215",
                     "product": "type I polyketide synthase"
                 },
                 {
@@ -338,7 +340,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_019032758.1",
+                    "id": "F583_RS0124850",
                     "product": "hypothetical protein",
                     "tailoring": [
                         "Monooxygenation"
@@ -348,6 +350,26 @@
                     "comments": "Derived by automated computational analysis using gene prediction method: GeneMarkS+.",
                     "id": "F583_RS0124875",
                     "product": "hypothetical protein"
+                },
+                {
+                    "id": "F583_RS01000000127200",
+                    "product": "TetR/AcrR family transcriptional regulator"
+                },
+                {
+                    "id": "F583_RS01000000127220",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "F583_RS01000000127225",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "F583_RS0124865",
+                    "product": "MMPL family transporter"
+                },
+                {
+                    "id": "F583_RS0124880",
+                    "product": "SidA/IucD/PvdA family monooxygenase"
                 }
             ],
             "extra_genes": [
@@ -362,11 +384,193 @@
                         ],
                         "strand": -1
                     }
+                },
+                {
+                    "id": "F583_RS0124805",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 12229,
+                                "start": 10670
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTGYWRCLALSLRTGYTQVLGWPLLVAALVVASAATINDTYPDQASRDRYAGAYELLNGSAALQGRGYDLHTLGGILVNEMGYLTLIMIPLIGVHLAIRFTRSVEDTGRLDILTSYPVHRLAPAAAGVTAAAVAAALTAVMTAIGLSALRYPPGGSWRYAGGLAIFMLVFTGVGTLIAQCCRTARTAYLLAAGVWLISYLARAAVDAQQWDATGWNPQSWLAEIRPFAADPPLWPWLAAGALAVGLFAATAAVAVRRDQGAGIIAPRPGPATAPAWVRSPFTLLVRLTGGLGAGWVGASALFAFAFGYLTPQINHLDAATKAEQSATVDATLTIFVQLTALLAAAAGIQIVQWLAAEETAGRVGYSLSTMVSRWRWWTSTTLLATMWSMLVLLCGGLATGLGLQAGFGEGHYFGKGLTATLSYAAAVVLLTGAAVAVHALSPRAVPVAWLPVGWGLVVCLRADLLKLPSWARQLSPVHWIGAVPRDTWHRPAALAMAVAAVALVAVSAVRYRWRDLEAG"
+                },
+                {
+                    "id": "F583_RS0124810",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 13152,
+                                "start": 12226
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MDAIAVRGVRKVFGGTVALNGLDLTVTEGEVHGFLGPNGAGKSTTIRALLGQLRVDAGEAKIFGLDCWTQSVAAHRHLAYVPGDVALWPGLTGGACIDVLGRLHGGADPRRRRELIERFELDPTKRTRTYSKGNRQKVALIAALATNADLLLFDEPTSGLDPLMEEVFQQCVRELKDGGRTVLLSSHILSEVEVLCDRVSIIKRGAVIRTGTLTDLRSRTLTRVTALTRHPLSGLEQLDGLVDLAVTTRPDGTHVSFRAGPAALAAAVGCVAAAEPASLTVQPPSLDELFLTNYRSDVPDAVAGSAAR"
+                },
+                {
+                    "id": "F583_RS01000000127200",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 13821,
+                                "start": 13243
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPLSLRQRNRMAAIRAIQDTAMELFDSRGFHNVTIDDIAREAAVSPSTFYRYFGSKEGLFTVDPFAAVGADGFDEVFDLDDLPGTMTRLAASAGDGGPWRGMRYVLEEPAVRAAVYATMDAMVERIAAALADRGHGPVPARVLARTYIFGVYFSALEQWHDDGRTRPIGEYAREALEAIPTEQRAAGPSAGP"
+                },
+                {
+                    "id": "F583_RS0124820",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14628,
+                                "start": 13879
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSEKWFWGRRPRPAASTRLVCLPYAGGAATAYRTWAHLAPSHVEVCPVELPGRGARMGEEPYRRLAPLVRALADALEPLLDRPYALFGHSMGGLLAFELARLQRRRGHPAPAHLFVSASPAPGRCHESTVHDASDAEVKARLRSFNGTPPEVLDNEELMALALPIIRADFAVLETYELVDEPPLDIPLTVFGGIHDRTVQPADLAGWRDHATSVQLRMLPAGHFFLDELAPELIRLITAGVGPVRHPVR"
+                },
+                {
+                    "id": "F583_RS01000000127205",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 20300,
+                                "start": 14625
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTMPDLDGLSAAYKRRLLAERLRTRAREFPLSFPQQRLWFLEQLVPGGAAYNVPIAVRLDGPLDLDVWRRCCDEIVRRHAALRTTFAEVDGEPVQRVAATGRADLAVVDCAGDDVQRLVQQEVRKPFDLGTGPLLRVRFFRVAPREHILVLSVHHIVADLWSVAVTVRELVTLYPALRDGRPSPLPDLPIEYVDYAAWQRRQLEGPGLADDLAYWTAALDGAPPVLDLPTDRPRPPVQTSRGGSTPFRLSGPLTERLRALTRQEGATPFMTMLAAFTALLSRYSGQDDVVIGAPIANRTRPEIEGLVGFFVNTLALRVDLSGNPTFRELLSRVRTACLGAYAHQDLPFERLVEELHPQRDLSRSPLFQVSFVFQNIEVPALDLGGLRVSPYTVASTTARFDLELQVFDRPDGLGGWFEYNADLFDGATIEHLSRALHRLVEHATAAPDQPVARLDLLSEDERHRLAREPNDTRRLWADLSWPHLEVAARVRADPDAEALRCGDRCLTYAELDRRANQLAHHLRRLGAGPGDLVGICTERSPQMLVAMLGTLKAGCAYVPLDPTYPVERLAFMMADSGLKTLLTEGDLADRLPEPPAVVVRLDGDADALAAEDTAAPDVEVAGDDLAYVIYTSGSTGRPKGVQIPHRALANFLRSMRELPGITPADTLLAVTTLSFDISMLELLLPLTTGARVHLVSREVAADGARLAAALIASGATLMQATPSTWRLLLDAGWTPPAGFRMLCGGEALPEDLARRLAGAGGELWNMYGPTETTIWSAVSRITGGVRLGEPIANTELHVLDAYSRLVPPGVPGELHIGGAGLARGYLGRLELTAERFVRHPFPIGLGDRLYRTGDLVRRRADGGLEFLGRMDHQVKLRGFRIELGEIETLLAQQPAVRQAVVLVREDTPGDQRLVAYVVADELPARPDELDQWRSIWDSAYDEAAPQVDPTFDISGWNSSYTGEPIPTVQMRDWVDRTAELVLERAPRSVLDVGCGTGLILHAVAPHCRRYWGTDFSTVALDRLRRSARYPGDVQLHECAADQLDRLPDQLFDVVLLNSVVQYFPDGEYLARVIEGALRRLAPGGAVVIGDVRSLPLLEAFHTSVERHRAEPGDTEDILAARVRRRVAEEEELVIDPRYFLALRDRIPGIADVRVQPKRGGFDNELTRFRYDVVLAAGAAVAAVPCPWQEWTSMGALRAQLGGDIVAVRGVPNARVLPNGGVDPEDLVRFAEAAGYRAELDWSDHGPDGAYHVVLRRPGAADHPVAAAQPSPADRPLSVYVNGTAARRACKLQPRLRAALAERLPEYMVPSVYVFLDALPLTPNDKVDRRALPAPDRLRASLRTPYEPPRDDLQRALADIWGELLRVDGLSVHDDFFDLGGHSLLATQVISRMRARLGVDVSLRDLFEHPTVATLAGWLTARGPVPAAVPTAVEPVPRGGDLPLSFAQEQLCVDFPVPPQDAFHTVVTAARLRGPLDEDALGRALDHLVRRHETLRTRLVTRPEGLVQVIDEEGSWPLTRVRLDEADAADPLPAVRRVLDEEADLPFPLADGPLVRARLITVDDRDRVLVLAIHHAVTDNWSYGVLLRELAVAYDAFADGRDPGLPPLPVQFVDFAAWQRQEYASGAWDRQARYWRDRLADLPPTPSFVVEDLTADEALPASRHDFVLGAELTAGLRALANRENATLFMVLLAAYDALLAAYTDSRDLAVGFPTAGRDRLEAENLIGYLVNSLVVRADLGGDPSFRELTARVRERTLEAHAHHTVPMQPLRREMPAARDRVRLGFNLLNAPLPPTVLRGVRLEPVSPDDGWVFVHVPPGLRPAEVDLGLIVMEDAGVLRGLWLHAADRLDTRLVGRLRRQWGRLLEMVVADPDRRIEELGRVLRADGAGEPR"
+                },
+                {
+                    "id": "F583_RS0124830",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 25753,
+                                "start": 20297
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSDSIDDLSQVAVIGMAGRFPQAADVEAFWANLVAGKEGISAFSADELRAAGVDPALVSRPGYVRAKGVLDGADTFDAGFFGYSPREAELMDPQHRVLLECAWEALESAGYDPQAFPGRIGIFAGASLNTYLLYNLMANRGVIEALGPYQTQLANDKDFLATRAAYKLGLRGPAITVQTACSTSLVAVHLACQSLLSGESDIILAGGVSVNVPLRNGYQYEPGGILSADGHCRPFDAAAGGTVIGNGVALVVLRRLADARQHGDIIDAVIRGSAVNNDGALKVGYTAPSADGQAEVIAEALGVAGVAPETVGYVETHGTGTALGDPIEIAGLTRAYGEEAATRGSCAIGSVKSNIGHLDAAAGAAALIKATLALKHEAIPASLHYDRPNPELALETSPFHVNAVHRPWPRADEPRRAGVSSFGIGGTNAHVVLEEGPPAVPAEPGRPWQLLPLSARTDAALAQAAERLADHLEAHPDDELADVAFTLATGRRAFERRRAVVAVDRADAVRRLRRAAGTPGTAGRPVKVAFLFPGQGTQYAGMARDLYDEDPVFRSELDCCLNLFPPAVRAALFPAGEPRADLTETELAQPALFAVEYALARTLIAAGVEPHALAGHSIGEYVAACLAGVFRLEDAAALVTARGRLMQATPHGAMLAVFLPEAETVELLSDRLDLAAVNGAALCVASGPADAVDDLEQQLKTRGVGCRRLHTSHAFHSALVEDAVPPFVAEVGGVALHPPTIPICSNRTGTWLEDDQATDPQYWGAHLRSTVRFADNLSTLLADPDLILLEVGPGDSVTTFARRHPRWTAERVAAGTMPRPGEQRVDRQALLEGLGTIWAAGATLDWSAVCEADRRRRVRLPSYPFRRRRYWVEPDRPETSGPATPAGSSPTYRPSWRRLQPGRPGVDDGPWLLLGAELPAGRALAGSLPAVVRVRAGSGFAQDGPDAFTVDPTDRDDHRRLLDALGDRRPTRVVHLWSLAVEPGTDLDRAEALGFHSVLAFAQALADRPDQLALTLDVLTRGVFGVTGDERLQPENATLVGPCTVVPQEVPGVTCRLLDLTGTGVESLADALRSASDEPVLARRGSHWWTRTFDAVDLDPGPSTGRLRDHGVYLITGGLGGIGLALAEHLARSVRAPAIGLLGRTPVPPEEAWSQWLAEHDADDATSIRIRRLEGLRRLGARAVVLPADVTDLAQTTRAVDELRSRFGALSGVIHAAGLPASGLLAGKSRADADAVLAAKTRGTLVLDTVCGRDPLDFFLLCSSRTAILGGPGQLDYCAANAFLDTFAAARDGVTAVAWDTWRDTGMAADPAGGTAVAHPLLQRRLRSSPTVETFRTTISTADSWIVDEHRMQGHGLVPGTTYLEMVRAAVAPYAHGREIEFREVLFTSPVIVPDDQEREMLTTVERGDDAVLRFRVHSRGAAGRQEHCTGTVVLHDPVRRPPRAAADLLAACGVQEVIEGEAALRRRLRLDFAAEGGLIRFAVHGRWRSLSRVHVGTSGMVADLELPERYAGDLDTYLLHPALLDVVGGASRVYAAEGYYLPFWYGSLRFVRGLTTRMVCHIRVKEGDSSGETLTCDADVHDEQGRLLVQMRDFVMKRIHEPAAMRDEVERAASAPPQPVPSGLATLTDPTGGLTVAEGTDLFDRILATDPRPEQLVVSTRDLAAAQRAAAAIDPARLAAELAEVAAPSVLHPRPDLDVPYEEPAPGAEADIAAIWRDALGIDRIGRHDDFFALGGHSLAAVQIGTKLRARFGVDLTLRDFFDQPTVANTSRLMAGAADTLAPAPIEPIADGVNELSDDEVDAMLRELLAAEGGSEA"
+                },
+                {
+                    "id": "F583_RS01000000127210",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 32184,
+                                "start": 25750
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSLRERLAGLSPEQRARLARRLADREKTYPLSAMQRRLWFLERLNPGTTAYLIPAAVRLCGPLDRTTLRAAVADLVARHESLRTTVVERDGEPVQVVAPSVTIDVGEEDLRGAPDHVLTDRVTAAVTTPLDLATGPLMRLRLLRVADEEHHLIVVLHHILADGWSVSVLFAEFAALYAGYREGRPAALPPLPIQYGEALQHEPTDVDDLRYWTARLAGAPQVLELPLDHPRRPVTSSHGDSWHFDLPAAALRDLVAVGRARDATPFMVLFALFQILLHRYTGQDDLVVGVPVANRERAGLEGLIGFFVNTLPIRTDLTGDPSFAELLDRVRDTCLEAYVHQQVPFDRLVEEVKPARDLSRPPLVQVSFAYQTQPVPTVEVAGLRIARLPLRSRAARFDLELQLVDDADLGVNALIEYNSDLFDAATIERMAGHLSRLATAAATDPHAPIGALPLLGDEERAALLALGADSRRDWPAGDPTHQRIARRARETPEVEAIRFEDRPLTYAEVDRRANQLAHWLRGRGVGRDVLVGLCLRRSPETVIAILAVHKAGGAYLPLDPDYPRARLKFMLDDSRAPLVLTESAVRDRVPAGAAVVACLGAIEGELTGQPVQPPAVDVADEDLAYVIYTSGSTGRPKGVQIPHRALGNFLRSMRERPGIDRDDVLLAVTGLSFDISVLELLLPLTTGARVVLVPRTVAADGQELARVLDRTGATIMQATPSTWRMLVESGWADSPRLRMLCGGEALPPGLAAALRPRGAQLWNMYGPTETTVWSAVGQVGAGPILLGEPVANTDLHVLDRRGQLVPPGVPGELYIGGTGLARGYLHRPDLTAERFVELATPAGRFYRTGDLVRRRADGGLEFLGRIDHQVKVRGFRIELGEIEEVLAAHPAVGAAVVTAREHAGDTRLVAYLAAADVPAAQLVAFLRERLPEYMMPSAFVHLAAFPLTPNGKIDRAALPEPEYGRSGSETPYRAPREPLEHLVAEVFAQLLGIERLGLDDDFFALGGHSLLATRVVTRLRPVVGMELPLRVVFEHPTVAALAAQLRERGARPTTGPVTGAPVVPRRADPAAPVPPAAAQRRLWLLEQLAPDNRAYLLPAALLVRGRLDVAALRRACDEVMRRHEALRAVFPETDGRPWLVVRPQVPAELVVHDSTEGAEAELTERFFDRPIVLAEGPLLRWEVLRRTDDEAVVLLAMHHIVSDQWSLGVLLGEVLALYAAYAAGAPSPLPALEVQYPDVARWQQDEATDPTGLDYWVRQLRGAPAELNLSLARPRPPAKTFRGGALHLTVPVEVVRDLRTLGRAEGATLFMVLAGAFQVLLGRLSGTEDVVVGTPVANRRLPELEPLIGLFVNTLVLRTDLSGEPTFRELLRRVRQVCLDAYEHQDVPFERLVEALRPDRSLARTPLFQVGFALQNVPFPAWTGGGLRVESLPVHAGAAKFDLELLLTEDGDAVHGRLEYSLDLFDEATAERIVHYLQVVLAAIAADPERSVGRLPLLDEIERREVLALGDGGHREWPGAGLIHEQFEAQARATPHADALRFRDERLSYAELDRRANQLAHRLRRLGVGRDVLVGVCMERSVEMVVSLLATLKAGGAYLPLDPALPQSRIAFMLDDARVPVLLTHSRLAPSLPAFDAHVLCLDEATADLAGEPASPPAVEVDGEDLAYVIYTSGSTGRPKGVMNVHAGIRNRLLWMQDEYRLDATDRVLQKTPFSFDVSVWEFFWPLMTGACLVMAEPGGHRDARYLVETIRRERITTVHFVPSMLRAFLAEDGVADCPGLRRVLCSGEALPRELQERFFAVSTAELHNLYGPTEAAVDVTAWACRRDGDPRPVPIGHAIANTRIHVLDQLLQPVPAGVAGELCIGGRNLARGYLNRPDLTAERFVEHSFDPALGQRLYRTGDLARFRDDGAVEYLGRLDHQVKLRGHRIELGEIEQTLTDHPAVRDAIVTARPYGGDQRLVAYLSGDEPPAAGTLIAHLRQRLPDYMVPAVFVTLPSFPLLPNGKVDRSALPEPELSRPDLASPYEAPRDDLERTVAAAWSRLLGIEQVGVHDNFFELGGHSLLMAELRGALQDTIGRPVTLVELFQHPTVRALAEHLEAAPAADPLTAARERVAGRRAALAERRRSAARRARSVPNPQGSDQ"
+                },
+                {
+                    "id": "F583_RS0124840",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 35168,
+                                "start": 32181
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTAADTSAATLKRALVAIDQLQRELAAAREQRTEPIAVVGLGCRFPGGVVDADSYWRLLSQGVDAIQETPPDRWNVDAFYQSEVGRPGTMTTRWGGFLDRIDEFDAAFFGISPREAEAMDPNQRLVLEVAWEALEHAGHARLAGSRTGVFIGVLGNDYALRNFRRPDEITPYVMTGNAHSIVSGRLAYLLDLRGPAVSVDTACSSSLVSVHLACQSLRSGECDTALAGGVNVLLSPLPTIGFSQFGMMAPDGRCRTFDAAANGFVRGEGCGMVVLKRLSDALAADDDVLAVIRGGAMNQDGRSTGLTAPNVMSQRDLLRRALDAAGVRADQVSYVEAHGTATTLGDPIEAEALAEVYPAEPGAEWHLGSVKTNFGHLEAAAGVAGLIKVILALRHRAIPAHLHFERLSPLIGVDRPPFTVPTRLTEWAPRDGRRIAGVSSFGLSGTNVHLLVEEGPRRQPVEADDRRPMSVLALSARSEEGLRALVARHREVLAATPARVVDHCWSANTGRMHFAHRLAVVGRTAEELDAALAGATEQPAPAAARDPEVAFLFSGDGAARPGMARALYETSVVFREAIERCHELLTEPLLPVLFPERPDAADLRRPTRAQPALFAVQYALAQLWRCWGVEPAAVLGHGLGEVAAACTAGALKLEGALRLVTERARLAEAGTPGLDAFRRAVAEIGQAPPRILFVSSLTGELQPWDRAPGAEHWSGLAGGAVRFADAVATLRGTGHHRFLEIGPDATLLDDLGPGDDLLRLPSLRAGADDWETMLGTLAELYRQGTDVDWRGFDRGYRRTRVPVPTTPFVRTRHWYESAEETDLPAPPPAAQADQSPAGGPLLTREALLALPPAERFDVLAGQLARGVGAALSSRSATRRRSAVAAVRVGLDQPFLELGMDSLMAMGLRNQIRTQFGVTLPIAGLLQGASVRRVAEQILTLLGDPASDAPTASDAASDGPTAGGPASEDPTDALLAELERLPADELQALLAEEDGR"
+                },
+                {
+                    "id": "F583_RS01000000127215",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 41919,
+                                "start": 35170
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MATPADETLVDRFRTVLQRRSDVPCYRFLLDGEGAAQVLTGADLDRRARATAVALRERTAQGDRALILCPPGLDYVAAFFGCLYAGVVPVPAYPPDPGLLARMLPRLAGVLRDAAPAVVLAPAADAGLAGHLAALAPEAGTLPWLAVDDVDDASADQWRRPGVRGDDLALLQYTSGSTGSPKGVMLSHANLLANLAAIDERFFDPADPDPSCVIWLPPYHDMGLIGGLLEPAYRGYPVTFMSPLAFLKRPVRWLRAIADQRATHAGGPNFAFDLCVAKIPEAERAELDLSNWQVAFSGAEPVRAATLDRFADAFVSSGFRRTAFYPCYGMAEASLLVAGGTRASEPSLLRVRADALQRNRVEPAKAEDTARTLVGCGPVIDGHQLVIAAPDERTPLPDRQVGEIWVAGPSVARGFWGRPEETAERLGAQLADGDGPFLRTGDLGFLDGGQLYVTGRIKDLVIIAGRNHYPQDIERTVEDAHPALRRSAGIAFSVDSGDEERLVVVQAINGSAAYLDTGEVFDAVRAAVAADHGLQVHDIVLVKAGSIPKTSSGKLQRYAGKQAYLAGSLTVVARSSVASARPVREPAPAEPLSRAQLEERIVRELATRLRLDPESLDPKRPIATYGLQSVDLVGLIGELEQWSGRSLPATLAWEYPTVEALAGFLADDGPATAGPAPARPGTQGPEPIAVIGIGCRFPGGADGPQEYWRLLTEGRDAVTEVPGDRWRFADVDASRWGAFLSGGVQGFDPAFFGISPREAARMDPQQRLLAEVAWEAIEDAGIVPEHLAASATGVFVGIATNDYAHLQVKRLDRIDAHTGTGNALSIAANRLSYLFDLRGPSLAVDTACSSSLVAVQQACASIAQGDCDLALAGGVNLILSPALAINFTRAGAMAADGRCKPFDSRADGYVRAEGAGVVVLKPLARAIRDGDAIYAVIRGGAVNQDGRTNGLMAPNPHAQESVVRAAYARAGVAPADVHYVEAHGTGTLLGDPIEAKALAAVVSARRDPARPCLIGSVKSNIGHLEAAAGIAGLIKVALMLRHRRIPASLHYREPNPHVPFDQLALRVADVAQPWPAGDGPALAGVSSFGFGGTNCHLVLQEAPPAAPVERAAPDRTLVLTASAATDAALRELAARHAARLAEPGAESTVAAYCAAAAVRRTHHAKRLACVGASAAELSEALAAYARGADHPALIADVRPTGRRPRPVFVFAGQGPRWWPLAAELLDAEPVFREALHRCDAALRRHVDWSLVEQLTMAPERSRLADPGVVQPATCALQIALATLWRSWGVEPAAVVGHSVGEIAAAHVAGALDLDDALRVALHRGRVIRTVIGRGKMAVVGASYDETRKILARLDDGLVSAAAENGPTSTVISGETAAVERLAGLLDDEGVFCRVLESVDYASHSPQMEPLQAVLRDALAGLTPGPTARTLVSTVTGQPIDGSAVDADYWATNLRRPVLLDRAVDHLLATGHDTFVEISGHPMLIGALAEKLDARDQPGTVVGSLHRDQPGRAALLGELATLHCAGLPVDWTQLYGTVPPVVPLPSYPWQRERCWIDHDDEVPQAVAPAERALWQAVQSGDLDTLHEVLGLTGPVQRDALAIVLPALVAWRRSAHDRATAESWRYRVTWTPLPDTRATPLSGTWLLLTPAAPAGADLADVVRAALVGQGATVVDVAVAGVDRASLTAALRRSPEPPRGVVSLLAVADAPPAGSAAATLALAQAMTDAAVTAPLWLITQGAVSTGPADPVEHPAQALTWGLGRVIGLEHPQRWGGLIDLAGPLDGTTVARLAVALGGPGDEDQLAVRPAGLLVRRLVRSPAGEPAPPTYRPRGTVLVTGGTGTLGAELARRLARAGAEHLVLTSRRGPAAPGAAALETELTTLGARVTVAACDVADRAQLAALLDRLSADGDPVRSVFHVAGDVSLVKPLTDTTAADLERVVAGKDAGALHLHELLTGPLDAFVLFSSITGVWGSGYQSAYSAANAYLDALAEHRHARGLPALSVQWGPWAAGQAHDAHEDELARRGLRLMPVEPALAELDRALGAGTPTAVVADVDWSLFTPAYAIARPRPLLHELPEAQQALQPAESSPTPAGERRDDLHRALLAVEPGRRRRDLLLRRCREEVGRVLKQAPDRVDTSIPLAGMGFDSLLSLELRRRLETLVGTPLPATLAWRYPTVDALAPFLAEQMGIPLDAVPADDTTLPAPPVPPAASEPVLDVDALSDSDVEALLLQRLQSIEGTRHDTADERA"
+                },
+                {
+                    "id": "F583_RS0124850",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 42437,
+                                "start": 41961
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MKVLIVTESCFGNTARVADAVADGLRSTGAEVTVAEAAAAPALDGVDLLLVGAPTHNMGLPGPASRRQAAAKGGHPAASGVAEWLDQLPTGFGGRAATFDTVTGTGFFSGSAAKGIQKRLRRHRVDVVARESFVVTATEGPLADGELDRARLWGAALA"
+                },
+                {
+                    "id": "F583_RS01000000127220",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 42922,
+                                "start": 42434
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MDALDEILRHTHAWNSWLVLITGCAALGGLIVSVRRSRRQGSRMLGAFVGAVHLQVVLGIALALLLTATGDELFAGDGAKAGWHAALGVTAAVSATVAVRLRRRSDRPWPALLAAAAALVAPQLARLPLVVLGILVAVGAAELLRRRSPEAPQPTSPSQESQ"
+                },
+                {
+                    "id": "F583_RS01000000127225",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 43769,
+                                "start": 43524
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MNGMSRPTPENAAALAAARQADSVRRRQRVLDTLRHVATHGGDTSISGVARIARVHRTFIYRHPDLLAQLRSLDRDDRPEG"
+                },
+                {
+                    "id": "F583_RS0124865",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 44199,
+                                "start": 43873
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MAIGLERIGRMVTAAAVLISIVFLAFTVSSITYIKAYGVGLPLAVLVDATLIRGALLPALMRLGGRATWWAPGPLRRLHGRFGLREAPGTALPALGASGGAAVTTGQT"
+                },
+                {
+                    "id": "F583_RS0124880",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 45645,
+                                "start": 44344
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTDGCPPATDCSAYRRPVGAVTGPGPGESRFQRAQTSNPASATPPRNGNRRSRAAIPAGRRAGSGHCGRRRRTGRPTGHRARAESTSPERKFDRMATDNSCAVIGSGLFGILAVRELTRRGSVVDWYSSDPEPGGIWQPMPWGKTRESTELVNPGWCIAPEYRTKPTVTVQEFRTLLKAWSDERADLQQRRFLTQVDRVVEHDSHVGVTTPHGETPYAFVVVATGHYGAPRIPADWTGDNCYHASTLRDLSGIQPHQSVLVVGGGQSGVEVCEEIIEERPDIRLSWCTGRKVRLISRHSPLAMLGTCVRYSTRGEAPRGFVITKSPSTVPARCTIMPTRVLQVDGERVEFSDGSVEKYDHIIAATGYASPVGLDFPAADPGRTKGMRLSPHRRIAALNYDGDGCGGASMRCARKQAAATGRLFADLRGRSSSV"
                 }
             ]
         },
         "loci": {
-            "accession": "NZ_KB900339.1",
+            "accession": "KB900339.1",
             "completeness": "complete",
             "end_coord": 45645,
             "evidence": [
@@ -381,7 +585,7 @@
             "cyclic": true,
             "nrps_genes": [
                 {
-                    "gene_id": "WP_019032755.1",
+                    "gene_id": "F583_RS01000000127210",
                     "modules": [
                         {
                             "a_substr_spec": {
@@ -414,7 +618,7 @@
                     ]
                 },
                 {
-                    "gene_id": "WP_019032753.1",
+                    "gene_id": "F583_RS01000000127205",
                     "modules": [
                         {
                             "a_substr_spec": {
@@ -455,7 +659,7 @@
             "subclass": "Cyclic depsipeptide",
             "thioesterases": [
                 {
-                    "gene": "WP_019032752.1",
+                    "gene": "F583_RS0124820",
                     "thioesterase_type": "Unknown"
                 }
             ]
@@ -472,9 +676,9 @@
             "synthases": [
                 {
                     "genes": [
-                        "WP_019032756.1",
-                        "WP_019032754.1",
-                        "WP_019032757.1"
+                        "F583_RS0124840",
+                        "F583_RS0124830",
+                        "F583_RS01000000127215"
                     ],
                     "modules": [
                         {
@@ -487,7 +691,9 @@
                             ],
                             "evidence": "Structure-based inference",
                             "genes": [
-                                "WP_019032757.1"
+                                "F583_RS0124840",
+                                "F583_RS0124830",
+                                "F583_RS01000000127215"
                             ],
                             "module_number": "0"
                         },
@@ -503,7 +709,9 @@
                             ],
                             "evidence": "Structure-based inference",
                             "genes": [
-                                "WP_019032757.1"
+                                "F583_RS0124840",
+                                "F583_RS0124830",
+                                "F583_RS01000000127215"
                             ],
                             "kr_stereochem": "L-OH",
                             "module_number": "1"
@@ -519,7 +727,9 @@
                             ],
                             "evidence": "Structure-based inference",
                             "genes": [
-                                "WP_019032756.1"
+                                "F583_RS0124840",
+                                "F583_RS0124830",
+                                "F583_RS01000000127215"
                             ],
                             "module_number": "2"
                         },
@@ -535,7 +745,9 @@
                             ],
                             "evidence": "Structure-based inference",
                             "genes": [
-                                "WP_019032754.1"
+                                "F583_RS0124840",
+                                "F583_RS0124830",
+                                "F583_RS01000000127215"
                             ],
                             "kr_stereochem": "Unknown",
                             "module_number": "5"
