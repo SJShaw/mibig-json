@@ -20,7 +20,9 @@
         },
         {
             "comments": [
-                "Refined reference coordinates"
+                "Refined reference coordinates",
+                "Gene details extracted from RefSeq accession NC_011980.1 dated 17-DEC-2014",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -37,8 +39,86 @@
                 "compound": "colicin V"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "MM1_0024",
+                    "name": "cvaA",
+                    "product": "colicin V secretion protein"
+                },
+                {
+                    "id": "MM1_0025",
+                    "name": "cvaB",
+                    "product": "colicin V secretion/processing ATP binding protein"
+                },
+                {
+                    "id": "MM1_0026",
+                    "name": "cvaC",
+                    "product": "colicin V synthesis protein"
+                },
+                {
+                    "id": "MM1_0027",
+                    "name": "cvi",
+                    "product": "colicin V immunity protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "MM1_0024",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 17024,
+                                "start": 15750
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MFRQDALENRKMKWQGRAILLPGIPLWLIMLGSIVFITAFLMFIIVGTYSRRVNVSGEVTTWPRAVNIYSGVQGFVVRQFVHEGQLIKKGDPVYLIDISKSTRNGIVTDNHRRDIENQLVRVNNIISRLEESKKITLDTLEKQRLQYTDAFRRSSDIIQRAEEGIKIMKNNMENYRYYQSKGLINKDQLTNQVALYYQQQNNLLSLSGQNEQNALQITTLESQIQTQAADFDNRIYQMELQRLELQKELVNTDVEGEIIIRALSDGKVDSLSVTVGQMVNTGDSLLQVIPENIENYYLILWVPNDAVPYISAGDKVNIRYEAFPSEKFGQFSATVKTISRTPASTQEMLTYKGAPQNTPGASVPWYKVIATPEKQIIRYDEKYLPLENGMKAESTLFLEKRRIYQWMLSPFYDMKHSATGPIND"
+                },
+                {
+                    "id": "MM1_0025",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19113,
+                                "start": 17017
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTNRNFRQIINLLDLRWQRRVPVIHQTETAECGLACLAMICGHFGKNIDLIYLRRKFNLSARGATLAGINGIAEQLGMATRALSLELDELRVLKTPCILHWDFSHFVVLVSVKRNRYVLHDPARGIRYISREEMSRYFTGVALEVWPGSEFQSETLQTRISLRSLINSIYGIKRTLAKIFCLSVVIEAINLLMPVGTQLVMDHAIPAGDRGLLTLISAALMFFILLKAATSTLRAWSSLVMSTLINVQWQSGLFDHLLRLPLAFFERRKLGDIQSRFDSLDTLRATFTTSVIGFIMDSIMVVGVCVMMLLYGGYLTWIVLCFTTIYIFIRLVTYGNYRQISEECLVREARAASYFMETLYGIATVKIQGMVGIRGAHWLNMKIDAINSGIKLTRMDLLFGGINTFVTACDQIVILWLGAGLVIDNQMTIGMFVAFSSFRGQFSERVASLTSFLLQLRIMSLHNERIADIALHEKEEKKPEIEIVADMGPISLETNGLSYRYDSQSAPIFSALSLSVAPGESVAITGASGAGKTTLMKVLCGLFEPDSGRVLINGIDIRQIGINNYHRMIACVMQDDRLFSGSIRENICGFAEEMDEEWMVECARASHIHDVIMNMPMGYETLIGELGEGLSGGQKQRIFIARALYRKPGILFMDEATSALDSESEHFVNVAIKNMNITRVIIAHRETTLRTVDRVISI"
+                },
+                {
+                    "id": "MM1_0026",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19594,
+                                "start": 19283
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MRTLTLNELDSVSGGASGRDIAMAIGTLSGQFVAGGIGAAAGGVAGGAIYDYASTHKPNPAMSPSGLGGTIKQKPEGIPSEAWNYAAGRLCNWSPNNLSDVCL"
+                },
+                {
+                    "id": "MM1_0027",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19808,
+                                "start": 19572
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MDRKRTKLELLFAFIINATAIYIALAIYDCVFRGKDFLSMHTFCFSALMSAICYFVGDNYYSISDKIKRRSYENSDSK"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_011980.1",
+            "accession": "CP000836.1",
             "completeness": "Unknown",
             "end_coord": 19808,
             "start_coord": 15749
