@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_KN708638.1 dated 01-APR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -43,6 +53,42 @@
                 {
                     "comments": "Derived by automated computational analysis using gene prediction method: Protein Homology.",
                     "id": "RZ84_RS20260",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "RZ84_RS20230",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "RZ84_RS20235",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "RZ84_RS20240",
+                    "product": "NAD(P)/FAD-dependent oxidoreductase"
+                },
+                {
+                    "id": "RZ84_RS20245",
+                    "product": "class I SAM-dependent methyltransferase"
+                },
+                {
+                    "id": "RZ84_RS36830",
+                    "product": "transposase"
+                },
+                {
+                    "id": "RZ84_RS35120",
+                    "product": "alpha/beta hydrolase"
+                },
+                {
+                    "id": "RZ84_RS35125",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "RZ84_RS20265",
+                    "product": "linaridin family RiPP"
+                },
+                {
+                    "id": "RZ84_RS20270",
                     "product": "hypothetical protein"
                 }
             ],
@@ -82,11 +128,128 @@
                         ],
                         "strand": 1
                     }
+                },
+                {
+                    "id": "RZ84_RS20230",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4621951,
+                                "start": 4621760
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MNSPVPTQISSYANDHLAKVTPGKVDNGQAVPALSGAKAQISAITPTFTDATVLIGIQQAVGH"
+                },
+                {
+                    "id": "RZ84_RS20235",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4624183,
+                                "start": 4622333
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MLLITGVLLGLLGVGASLTQPWAIGKLIEAAGKGESLAFPIVRLVGLFCLGAVFSALQAYVIGRAGENIVYDVRQVLTGRLLRADLTEFGKRPQGDILTRTVTDTSLVKIALSQSLAQLIVSGATVIGGVVLMFLIDVRLMLITMGCLGVASLLSLSIARKLRRVAVQNRDDTGEFGTAVQRVLAALPTVKASRAETRETARIGRLAERARRSGIRVNAYNALFMPSMNVGTQGALAVVVGAGMAWVARGEMNMADLTTFIMYLFQLVSPLVTFFMGVGQFIQGRAAIQRVDELAQMPQEGNGAQAARSSVPIGPLPQHLPAVEFHDVRFGYRRGEEGERTQVLHGISLTVPARGLTAVVGPSGAGKTSMFQLIERFYALDGGVILLGGQNIGTLPLDTVRGLVGYVQQDSATMRGTVRENLTYAHPHASEDDIWEAVEMAGLTSVVANLPKGLDTELGDQGSGLSGGQRQRLCIARTLLQKPAVMLLDEATSNLDSDSERDFRDVLRRVSQQCAVIAIAHRISTVVDAEKIVVLEGGRVRATGVHRELMEHDELYRRLAGSQLHAGAAPVATATHWVSGEPGAGPLASALGWHQWGSGLNEQTVRLRPIRIEEQW"
+                },
+                {
+                    "id": "RZ84_RS20240",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4625664,
+                                "start": 4624180
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MNSADVAIVGTGPNGLAAGVVLARAGLRVELYEAADTIGGGLRTEPLFDNGVVHDICSAVHPMAAASPFFREFDLEARGVELLHPEISYAHPLDGGRAALAYRSLADTCAHLGPDGPRWRRLMGPLLERSEAVVDLILSGQRSLPRDPAAALLLAGRVAVHGTGLGAARFQGEEAAALLTGVAAHAVGKLPSFAAGAVAMLLGHLAHGTGWPLPRGGSARIAEAMAQDITAHGGVLHTGHPVTDLAELRRARAVLLDTSPKGFLALAGDRLPRSYARGLTRFRYGPGAAKVDFLVSEPIPWADPAVGRAGTVHLGGTHAEMVRQETRNARRVRTREPFVLLVDPAVTDPGRALPGKRPVWAYAHVPNGDPTDPYELVRARIERYAPGFGDTVIAHRSVPAAAYETYNPNYVGGDIGSGAMTLYQSIARPVPRIDPYRTPLPGVFLCSSATPPGPSVHGMSGYLAAVSALRHCFGKCDVPNVGTQSASFASGDLA"
+                },
+                {
+                    "id": "RZ84_RS20245",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4626891,
+                                "start": 4626133
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTNGVEDIGYGRQFEGWYDRLIPDDRITDEAVKGLLALHPAPDAGTIELGVGTGRIAIPLSESVGHVTGVDSSPEMLDAMRVKLKDRGDVTPVHGDIRTYTSDSRYGLVYCVCATLSLLHTREDQQRAVRCAADLLAPGGRLVIETHNKPPILELHEGRRRTTYFVPYPEPGTGVQTHSTLLDGDLWHCSHILYQADGTTRVGNELTRLTTPEDIDDYARAAGLEPEASLSRWDGTPYNEQSPMFACCYVKP"
+                },
+                {
+                    "id": "RZ84_RS36830",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4627278,
+                                "start": 4626931
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MGRPPILPADKKLGLLVRVMSGQLTAAEAAREAGVSEQSVSNWRRQFIEGARNGLAGESGRDSEEASRIAELTKENAMLKATIGELYMELRKYGRSTPGRVPSPRGKTHPVRRVN"
+                },
+                {
+                    "id": "RZ84_RS35120",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4628370,
+                                "start": 4627426
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MRFTGKRERARRYLTHERPDGSLVEVDVNIPPNARRMVLLDNGLGTTHEYWDWVCEALPADMGYVRFNRPGYGLSTPSKRYGLERHFALLQELRETYVADLPLVLAGHSLGGYFVAAYASLHPGAKEGVTGVVMIDATDVAHLRSSRRADIDRWSRQSMLMEQVFAVAGLSALRPALNQHKTYRPEINRSYTAFLAQRRTWALAYRDYRDAMTYPELASVDSPLTVITAENNKGDNAAHQKVQAKLATLSKRSRQRCIDGSDHESLLSIQPHAAQVAEIIADEPPTGRADAERRKSAGARPAVKSAADREKELM"
+                },
+                {
+                    "id": "RZ84_RS35125",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4628954,
+                                "start": 4628394
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MKTAAVTTSLAAWLVATAVAQMPEQRFDNLLKRGKLRIPTPNWRFFGPNPGVKDNHLLYRDVTDGKPGEWQEIPITRDRAWYALAWNARNRSPKALFDAVQDVYVRSAAYGTAMEPVVQSSGYQLLSGYIRHHLPHAEGASHSQFLVMYSYLAAPEARQIEPIFVSREFPLEDEGVVQPEPYPVAA"
+                },
+                {
+                    "id": "RZ84_RS20265",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4629277,
+                                "start": 4629038
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MAGEFAQTTERGQQMSVLAEFANTELVDVEPGRLGSEATPTMITPLATLATPEATPVGFAATSATAAAVNMITHDVTRH"
+                },
+                {
+                    "id": "RZ84_RS20270",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4630230,
+                                "start": 4629376
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MFLKAPPEVTARRVASLGTLVSALEMLSQHRKLADGELLSAQLESTRPEFAKRFPRLTRALSSKKAGVALYGIQAGASAATMIWAHKRGVRAAGSAVLAVTGAASRLRTPFGGDGADQLQQVINVVLASTGTFKDGDKGRDVAMRALALETTISYVASGVVKLVSPVWLSGEAFSGVIRTHNYGDPNIYKLVHKYPMLGKLITWTTVAAEVGFPLVFVLPKPAAKAYLGSMTLFHLGIGQFMGLNRFVLAFAATHPALLYVFDQSGRRPAVAGNAVAALAPAAA"
                 }
             ]
         },
         "loci": {
-            "accession": "NZ_KN708638.1",
+            "accession": "KN708638.1",
             "completeness": "Unknown",
             "end_coord": 4630230,
             "start_coord": 4621760
