@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_ANAC01000010.1 dated 19-MAY-2017",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -35,8 +45,116 @@
                 "molecular_formula": "C88H121N27O24S2"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "D451_RS0108905",
+                    "product": "asparagine synthase"
+                },
+                {
+                    "id": "D451_RS0108910",
+                    "product": "lasso peptide biosynthesis PqqD family chaperone"
+                },
+                {
+                    "id": "D451_RS0108915",
+                    "product": "lasso peptide biosynthesis B2 protein"
+                },
+                {
+                    "id": "D451_RS0108920",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "D451_RS0108925",
+                    "product": "daunorubicin resistance protein DrrA family ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "D451_RS0108930",
+                    "product": "ABC transporter permease"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "D451_RS0108905",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 362589,
+                                "start": 360745
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MKFIVLPSTGDVAGVSIERLARTHLQVVHRASGRPWIIGDWDEGDVYKARIGNRRVVLLGRFLMDEPALLRVLDSAESLSDLSRVTEEIPGSYHLVAELDEGVRIQGTLSSGRQIFYSNRGSPVLAASDPALLLPFVGREWDRSILASRLIAPWPPWPVSEIPVWKGVSALAPGHFLQVDSRTGTARQVRWWSPEEPHLTLERGAELLASAVHDAVRSRGRGRTTVSADLSGGLDSTGLCFVAAATGVPLVTTRWQATDVADEDEAWARKAERRLPEARHLTFDRRSAPGWFTELLPRRPGVHDHEGPFPWIRTRGRLAHAAEAVADEGSRTHLTGHGADELFFATPLNLHSLARTHPAKVPAHVLGYQALYRWRTAPTLRGLADSSTFSAWLGKVTGSLRTPLREFSTAPDFGWGLSGRMARWVAPEAVEAASEALRRDDVLSRGPLSRYRAQHASWQDARLCGDTLRKVNHITRAHGVSWEAPYLDDRVMRIALSVRFDQWSMPDRYKPLLVEALRGTAPPEILERSTKSEYSAEAYTGLRRSREAVAELCDGMRLEEHGLVDAEAFGGTVFNPPSSSFGIIPVINTLACESWLRSIEDGSREKDLVSILEG"
+                },
+                {
+                    "id": "D451_RS0108910",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 362849,
+                                "start": 362592
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MEFIDDTSIISTETEDGIVLLDQRKGVYWHLNGTAAEILRSLREDGDRDVAVAEIRDRYGIDESRARNDVEDLIRSLESVGVLRR"
+                },
+                {
+                    "id": "D451_RS0108915",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 363280,
+                                "start": 362936
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTRMSPGRIRSVLAFLAGSAGPAGFAEALAARNAVVHVSRRCAGPGCLQRSIATFLLCRIRGTVPEWCTGVRVSPFRAHAWVEVDGSPVGELGEVRHFHKVMTVRPVIVVRDDD"
+                },
+                {
+                    "id": "D451_RS0108920",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 363863,
+                                "start": 363270
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MMTEIVALAAQYALFLIFLAAWVGKIKGPGRFSGFATVISRLTGWSPPTARAVGVTVVAGEVLACLLLISPLTAAAGAVVALTLLTAFTGVAVKALWSGIRSECACFGGSDSAIGYAMIVRNLLLIALALPPLVVRADLADLSATGVVAVALGALAIALLLIGFYDPLARRATAAIIATRRATRPRAGTAGGGDDVG"
+                },
+                {
+                    "id": "D451_RS0108925",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 364785,
+                                "start": 363844
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MATMSGDSIEVSKVGKVFGSVRALNDVSLSVSPGGVLGLLGHNGAGKSTLINILSGVLEPTTGTATVAGFDVVSQASRVRRRIGVAGQYVALDEQISGRDNLVLIARLLGASRKEARERTHELLERFGMTESADRAVRTYSGGMRRRIDLAASIVGGPEVLFLDEPTAGLDPESRAELWAIVHRLTEEGVTVLLTTQYLEEADRLSDQVVLLSRGHVVASGSPSELKRGVGRRKASLGFNERERFSAARDEVRRMGLVADIGEANFDIDITIASPRDLGAVIHALEERNLGIDRLRLFEPSLEDVYLAHVSTR"
+                },
+                {
+                    "id": "D451_RS0108930",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 365660,
+                                "start": 364782
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MNAATKRSVKDPMTIDARARRSTVPWKSVSWRGCSVPLQIHILTTRALRALWMDPKLVLVSVASPLVMLLVLSQVFTSISETRSFPGGVDYIQFLLPAIMIMGVLQSGMGSGAALGQEIKNGFVHRMRTLPVWPGSVLLGRSASDLVRSLIQLSALSTAAHLFFSFHAPGGAVGMAVAMLIALMTGNCLGWVFIAMACWFRNAEVMQTFSGLAMFALMFGTNAFVPLDGLPDWLRSLSHVNPMTYAITAARGWILGDPDMSATLYAVIGSAVIALPCALLAVKGFARPLGTN"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_ANAC01000010.1",
+            "accession": "ANAC01000010.1",
             "completeness": "Unknown",
             "end_coord": 365660,
             "start_coord": 360089
