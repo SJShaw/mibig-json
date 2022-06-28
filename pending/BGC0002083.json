@@ -6,7 +6,8 @@
                 "Removed ketoreductase stereochemistry annotation from modules without ketoreductases",
                 "Merged cross-CDS PKS modules",
                 "Sorted modules by module number",
-                "Added version to NCBI accession"
+                "Added version to NCBI accession",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "Z7AIIJAM3U3HR6IYDPQOINM4",
@@ -44,7 +45,7 @@
             }
         ],
         "loci": {
-            "accession": "NZ_WITE01000004.1",
+            "accession": "WITE01000004.1",
             "completeness": "complete",
             "end_coord": 1205481,
             "evidence": [
@@ -83,7 +84,10 @@
                             ],
                             "evidence": "Structure-based inference",
                             "genes": [
-                                "WP_160294284.1"
+                                "wp_160294284.1",
+                                "WP_160294283.1",
+                                "WP_160294284.1",
+                                "WP_160294282.1"
                             ],
                             "module_number": "0"
                         },
@@ -98,7 +102,10 @@
                                 "Thiolation (ACP/PCP)"
                             ],
                             "genes": [
-                                "WP_160294283.1"
+                                "wp_160294284.1",
+                                "WP_160294283.1",
+                                "WP_160294284.1",
+                                "WP_160294282.1"
                             ],
                             "kr_stereochem": "Unknown",
                             "module_number": "1"
@@ -113,7 +120,10 @@
                                 "Thiolation (ACP/PCP)"
                             ],
                             "genes": [
-                                "WP_160294283.1"
+                                "wp_160294284.1",
+                                "WP_160294283.1",
+                                "WP_160294284.1",
+                                "WP_160294282.1"
                             ],
                             "module_number": "2",
                             "pks_mod_doms": [
@@ -130,7 +140,9 @@
                                 "Thiolation (ACP/PCP)"
                             ],
                             "genes": [
+                                "wp_160294284.1",
                                 "WP_160294283.1",
+                                "WP_160294284.1",
                                 "WP_160294282.1"
                             ],
                             "kr_stereochem": "Unknown",
@@ -145,6 +157,9 @@
                                 "Thiolation (ACP/PCP)"
                             ],
                             "genes": [
+                                "wp_160294284.1",
+                                "WP_160294283.1",
+                                "WP_160294284.1",
                                 "WP_160294282.1"
                             ],
                             "module_number": "4"
@@ -162,6 +177,9 @@
                                 "Thiolation (ACP/PCP)"
                             ],
                             "genes": [
+                                "wp_160294284.1",
+                                "WP_160294283.1",
+                                "WP_160294284.1",
                                 "WP_160294282.1"
                             ],
                             "kr_stereochem": "D-OH",
@@ -180,6 +198,9 @@
                                 "Thiolation (ACP/PCP)"
                             ],
                             "genes": [
+                                "wp_160294284.1",
+                                "WP_160294283.1",
+                                "WP_160294284.1",
                                 "WP_160294282.1"
                             ],
                             "module_number": "6"
@@ -196,6 +217,9 @@
                                 "Thiolation (ACP/PCP)"
                             ],
                             "genes": [
+                                "wp_160294284.1",
+                                "WP_160294283.1",
+                                "WP_160294284.1",
                                 "WP_160294282.1"
                             ],
                             "kr_stereochem": "Unknown",
@@ -212,6 +236,9 @@
                                 "Thiolation (ACP/PCP)"
                             ],
                             "genes": [
+                                "wp_160294284.1",
+                                "WP_160294283.1",
+                                "WP_160294284.1",
                                 "WP_160294282.1"
                             ],
                             "kr_stereochem": "Unknown",
@@ -228,6 +255,9 @@
                                 "Thiolation (ACP/PCP)"
                             ],
                             "genes": [
+                                "wp_160294284.1",
+                                "WP_160294283.1",
+                                "WP_160294284.1",
                                 "WP_160294282.1"
                             ],
                             "kr_stereochem": "Unknown",
@@ -242,6 +272,9 @@
                                 "AFSA"
                             ],
                             "genes": [
+                                "wp_160294284.1",
+                                "WP_160294283.1",
+                                "WP_160294284.1",
                                 "WP_160294282.1"
                             ],
                             "module_number": "10"
