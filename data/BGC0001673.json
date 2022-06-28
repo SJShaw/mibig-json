@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_017586.1 dated 23-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -35,8 +45,82 @@
                 "molecular_formula": "C131H139N33O32"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "SCATT_RS37815",
+                    "product": "lasso RiPP family leader peptide-containing protein"
+                },
+                {
+                    "id": "SCATT_RS00340",
+                    "product": "asparagine synthase"
+                },
+                {
+                    "id": "SCATT_RS00345",
+                    "product": "lasso peptide biosynthesis PqqD family chaperone"
+                },
+                {
+                    "id": "SCATT_RS00350",
+                    "product": "lasso peptide biosynthesis B2 protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "SCATT_RS37815",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 77154,
+                                "start": 77020
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTESIEAYEPPMLVEVGSFAELTRSYHWGDYHDWHHGWYGWWDD"
+                },
+                {
+                    "id": "SCATT_RS00340",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 79047,
+                                "start": 77230
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MGVEFAVFPDHPHGAALARGLQSASGGRSIAHPSGRPWIVGHWAEDAVVRASVGDRSAVVFGMTDFDERSLAAGLATVVSTDETGALTGPLAGSHHLCLSVGGEVRLQGSLSGVREVYFAEHHGVTVASGSAALAARLSGRGVDEERLALRLLAPDAPWPVGDESGWAGVTTLPVGHWLRLARDGGGRVVRWWVPPEPRLPMAAAAAAVREALAEAVAVRTARGGVLSADLSGGLDSAGLCFLAADGPARLVTLHALAVDAGNDDSAWAARSAERLGAARHVVVAADDGPRWFATPPCADGDLEGPVVLARTRAKAAHAVAHAAREGSRIHLTGIGGDELFTMRPALLHAMARAHPAVAVRQLRATRTLGRWSLLTTARQVWGGGDYPRWLARCAERLTLTPGSSWVTGADWGVPPVMPPWATPRATATARRLLAAAAEARPAPLAPLRVQHDMIRAVRAAGAAVRGLGHAVAGLQVAYEAPYLDDRVLDAALAVRLADRWALDHYKPVLAAALRGVVPGELLDRRTKGDYSAELFTGLRRHRDDVLDVCAELADRGLVDGQALRAALTGLHPVTRGLLPLDATLSCATWLRAVGHDTAWQGGAA"
+                },
+                {
+                    "id": "SCATT_RS00345",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 79301,
+                                "start": 79044
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSFTLARHVTRSATEGGMVLLDERSGRYWQLNATGATVLEALLDTGDEALAAAALRERCPSAGDRAERDVGRLVAMLRDAGLVVS"
+                },
+                {
+                    "id": "SCATT_RS00350",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 79729,
+                                "start": 79298
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSAQVTLDERALLPWWRRAVALCAVFAARLLVRLPPGRLRRVLTRVCRGARPAGAESAARAREAVVAVSLRCAGPYCLQRSVATALLCRLSGQWPDWCTGVRTEPFRAHAWVEAEGVPVGEDAAGLRGFRVLLRVSASGRRAG"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_017586.1",
+            "accession": "CP003219.1",
             "completeness": "Unknown",
             "end_coord": 79729,
             "start_coord": 76815
