@@ -5,7 +5,9 @@
                 "Submitted",
                 "Corrected NRP module activity",
                 "Removed gene names of 'No gene ID'",
-                "Added version to NCBI accession"
+                "Added version to NCBI accession",
+                "Gene details extracted from RefSeq accession NZ_LVEJ01000014.1 dated 05-JUN-2020",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "6CADHILFODRMCII55WHSHZ6V",
@@ -114,13 +116,28 @@
                             ]
                         }
                     ],
-                    "id": "WP_064118616.1",
+                    "id": "A8O26_RS14270",
                     "product": "non-ribosomal peptide synthetase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "A8O26_RS14270",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 31238,
+                                "start": 27345
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MRDVHPCPLSTAQQEVCLAISQSHSNLNYHLCDVIELRGELHLPWLEAAIRAQFLQTDTLRATFDIDPTTGTYAQHIQPADALPAKAFESLDVSDQADPAQASNELLEHLLDQDMDLQHGPLIRYVLIRLAPQHYRMIELASHLVVDGFGHGILFGNITAHYNALSRGETVEALELAPLSSVFDAQEEYRHSDMHKKDRTYWRQYCLKMPEPTQLVPGDAPLIKLNRLRKVFGGATLLQLRAAASEHQLRLSSILLALCATYLQRMTGQHELALGMPVAARQLKALRNVPSMVANILPLHLSFTPESTVLSVAANLQRQLRHHLLHQSYRSESMIRDLHAERGNKPLFNTLLNIVAYDQGPGFAGCDTTIQNVANGPADHLGIDIFDRHDDGRLEIGFNANADLYSAEALELHYQRLTALFERFANAPQTLAADYNLFLPDEQQRHYALPPHPEKLPVFAEAFANAVHDYAERPALSQGAQTLSYRRLDDDATRLAAHLRERGVRAGDCVVVMFSRSVEWAVAAVALFKLGACYVPVDPDLPEARIEHIFSDADPAVVIVAPGSQLKVEVAADKLLRLSAETLAQLPAVTQPLSAFDAGLPGYLIYTSGSTGKPKGVEVTQRNLVPIARTAINAAQLQPGARVLQFIAAGFDMSVLEIMMTLLAGAELVITDKVSSAPGKALATLVKREGINLLVMTPSLLACHQTEDFPQDTVLMLGGEPCTPALLARFAHCRLLNVYGPTETSFATSINACYGAGDLSIGPATANTRLYVVDGQQRLLPPGAWGDLFIGGPGVARGYRNRPDLTAKGFVADLLDSASTMYRAGDRVFFDHAGRIHYLGRQDNQIKLRGLRIELDEIKNVLLGCAGVDDATVILRELGHGPAIVGYVASKDSSLDGQHLKQALGRHLPQHMVPSVIMCVSEFPLTPNGKLAVDRLPAPALYDATELAPAQNAEEAAMCKLFAEALDCNEVFANQNFFDLGGHSLLGLQLVSRIKEQFGIALGIADFLAAPTPRQLAQRLQTNSGDSDPFDAVLTLRSEGSRPPLFCIHPGGGIAWPYAGLLPFLPEDQPMYALQSPILRDPTRVIGSLDELAAEYLQRIVDLHPEGPYQLAGWSVGGNLALRIGAMLQARGREVSFLCMFDSYPLQGGPASLKLDDAMIISRMTRAIVGTPRAGLKGLKSAMEEVLGSRQIGDEFLTRLVDDSKLMLELLGRTQYEVFNGDLLFIRATTDILRQDEQQPGLWAPYISGELIQHDVEAPHECLLQRQYLEQFGKAFVEALLKRQASPASETQKLSEV"
                 }
             ]
         },
         "loci": {
-            "accession": "NZ_LVEJ01000014.1",
+            "accession": "LVEJ01000014.1",
             "completeness": "complete",
             "end_coord": 31238,
             "evidence": [
@@ -138,7 +155,7 @@
             "lipid_moiety": "3-oxo fatty acids, variably length and saturation",
             "nrps_genes": [
                 {
-                    "gene_id": "WP_064118616.1",
+                    "gene_id": "A8O26_RS14270",
                     "modules": [
                         {
                             "a_substr_spec": {
