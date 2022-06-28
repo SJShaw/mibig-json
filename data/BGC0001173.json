@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_ABRX01000001.1 dated 30-MAR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -39,8 +49,218 @@
                 ]
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "BAT_RS01135",
+                    "product": "class I SAM-dependent methyltransferase"
+                },
+                {
+                    "id": "BAT_RS01140",
+                    "product": "CPBP family intramembrane metalloprotease"
+                },
+                {
+                    "id": "BAT_RS01145",
+                    "product": "SagB/ThcOx family dehydrogenase"
+                },
+                {
+                    "id": "BAT_RS01150",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "BAT_RS01155",
+                    "product": "TOMM precursor leader peptide-binding protein"
+                },
+                {
+                    "id": "BAT_RS01160",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "BAT_RS19625",
+                    "product": "plantazolicin family RiPP"
+                },
+                {
+                    "id": "BAT_RS01165",
+                    "product": "pentapeptide repeat-containing protein"
+                },
+                {
+                    "id": "BAT_RS01170",
+                    "product": "ABC transporter permease"
+                },
+                {
+                    "id": "BAT_RS01175",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "BAT_RS01180",
+                    "product": "ArsR family transcriptional regulator"
+                },
+                {
+                    "id": "BAT_RS01185",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "BAT_RS01135",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 224167,
+                                "start": 223361
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MMIQEKIKELEVKRALAQSWFSDPDKRKISSNYDNRETPFTRFLSAETFTSYYQLTFKKTPVSILDIGCGQGQMLEYISKQLPLADLTGIDSSEEAIHCANKLNIKANFICTDIKNFSSHAKIYDVILIHLCFGLFENPIELLEQLLPYLSNESMIYIVDLNRDSIESGLSSVQSKEEELYIYDQYHASLTLSEFEQLLTYITKPREDMMYKIGTSIIGGFSPFSMEFLSLIGNGNLQQTLRQAPDQYSSSTQKVPVLLHAWLIKNSG"
+                },
+                {
+                    "id": "BAT_RS01140",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 224864,
+                                "start": 224193
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MISIIAALGILIHFLGPLSSKMVVKIMRDKSTANRRLTTYITPQRSYDGLTIIGASICCGALSQELFVEVSNSKNVFGILFFFLLGVLLPSVLWKIKNKVIVFKGRYAVNVDSIVFLPLTALSEEVIWRFILPALLMNLWESIAISICVSSIGFILLHIPLGGAKSTAYMSLFTLITVISYFAFGILAAIAFHISHNLFIHFFHPLKVKEFKTKPPVLSETDW"
+                },
+                {
+                    "id": "BAT_RS01145",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 225678,
+                                "start": 224869
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MNSIERHATNLADVVYGNEALRFDDPSENWFEATKIYRGSMAWDAPGVAGLLRSQTLQKIATHASKRFDDLPLISLPKPLNTNISLDDVIKGRRSADYFSGGSVSLEQLSTVLQKSYGLVERKEGPRRPIPSGGALYPLDLYIVANKVDTLDKGVYHFDPYRRGLTKMGDYSEKEFEKIMLQEESVQDFAFAIVISANFWRSRFKYGHRSYRFVFMEAGHVMQNMIMLSTAQKINSRPFGGFIDDELMELICGFNGVDDAPIYTLIAGT"
+                },
+                {
+                    "id": "BAT_RS01150",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 227049,
+                                "start": 225703
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MVNKWTTLEESWEILDQLADPYVGIVRREYRKLRDVDDIWGHSYGAHGTDSNILFGVPSNSYNGGGSANPAAARLAAIGETVERYSAAYLPLNSDVVCFGTQKDLINENKSVIGFDKWEMYAVTQYEDPNFPHNVWNEDTKLWWRKGHIAENNEEVWTPAQLIHIANYTEWPGDPNIGHATSNGLACGITYQEAAISGLFETIERDAFMLTWYNKLSLPQIDINTSPRLKHFYERYIKPTSLDLHLVDMTVFSGVPTILAVIRNPHTDLAPFAIGAASAHSIERACEKAAIEGMYTRTWVKTEQRLGNALVDVDYHRDINSFEDHIKLYAGTAIVKEADFLTASKKLVDVNDYTPFDDGSPDILWTSLVSHLSKQGYHVATFDLTSPDIKDAGAYVVKSIIPGYKPIDVLYRGRMLGGERILKHSYQLGLVDKPFKLEELNPIPHPFP"
+                },
+                {
+                    "id": "BAT_RS01155",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 228032,
+                                "start": 227052
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MFVKEQESTRYKLAPHVTLGKLEDSLIGLKAQTVTKIEGEGIIEFIQEISNHLTKDNGVSIKELEENFEIESDQLKHVLEFLVANGICVKTDMNFDLTALLSYERAGGQVLVEDILDRLKTGIVEVIAQDHNPVAVEFIRHLQEAGLHVVLKGEITKQPNIRVAIGKSHLDPILEEINDLALEDHIPWLSIVPYDGQTSWVGPFFIPHQSACLHCYNLRKSANFSDEVLRSDLMKIKPVNPEKKPVYHMPINLVQIGIASNLILEWLTLKDYAPSATPGGFTTINLDDKGVSVHNHRVYRVPRCPKCSPAADTGFPQVWFHGEVKN"
+                },
+                {
+                    "id": "BAT_RS01160",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 228755,
+                                "start": 228057
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSIHYVGIREPIKVYLEKMKVDYDDYPVQVIDLGGAVNYDKEFFINNTDFQTETILLSNRRHNVEDELGSLESELLKIYQNSILYRTSPLDINIELYRGWAGATGKLITAFSPEGVNWINTIDVIKACLIPKKDVRSRAGKAYDLTGPELVSMSRLKDIFEKDLDMKIELYCKSKEEVITILSQNNMPLDVLEWLVGFQEYSSSKQLQPFTKTLEQIIGHPPTSAQLFKNTN"
+                },
+                {
+                    "id": "BAT_RS19625",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 229300,
+                                "start": 229175
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTKITIPTALSAKVHGEGQHLFEPMAARCTCTTIISSSSTF"
+                },
+                {
+                    "id": "BAT_RS01165",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 230357,
+                                "start": 229638
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MLSEKLELYVESCFRPYKKDKTYEEKKKELLEMLGKVKLKLENAGTKDEEVQDMLIEKLKSGEISIDVNTLDIDDHNRVEHVKKIFVNADLDWLTFINVKYKLCDFKGLSIVQKVMNHSEFNGCYLRKMNVSNSKISTSTFEKSDLTQSHFEHCEITNSSLYGCHLPNVRIDESTLINVSFENCYFKNISFENSKLINVNFKSCTFKKLNFIGVTMDKMTYYILEGEGADLSGVKVIDS"
+                },
+                {
+                    "id": "BAT_RS01170",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 231248,
+                                "start": 230502
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MWPLVRIESIKQVKDRSLLFWTILLPVASIILLIELFTSGSSQAQKTLVASQSVTGMSVFFSTFVIISIVISFVKDREKGIVARLASTPLQPHNFFLGKCVPFFVIILFQVLLLTILGVYLYGIEITQYSSYFLVVVLLSMQVTSWGVAIAAFAKTENTGLVMTNMIALGTAVACGLWTPFDQLPSYLKIIGMLFPQYWAHQGLVQSVSTLPGGENLILVTVVLIGYTLLGFILSLVGYKKYIKRARG"
+                },
+                {
+                    "id": "BAT_RS01175",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 232404,
+                                "start": 231511
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MLKIENVSKKYGASQALRSITLTIPEGVCYGLIGPNGSGKSTLMKIISHIIKSYEGKVEHVGESKSALGYIPQDISLEEKLTAKVNMEFFGQIYGLKGKKLDERVEKTLKDVGLWERANDIVEHFSGGMKRRLNIGCALMHAPELILLDEPTVGVDPQSRRYIFDIINKLKEEGRTIIYVSHYMEEIESLCDYVAFIDKGKIVEEGKIGELLNRYAETSVFFDSMIPNKTLTSLGYDFVTYQGGVLVKTTKPLETLEDLAKLSKKESLVPQQLSLYRPRLEDVFFQLTGTDLRDQFQ"
+                },
+                {
+                    "id": "BAT_RS01180",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 232719,
+                                "start": 232426
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSNVNSLNDLIHPKVRLGIMSLLMIYETCDFTFLKGSLSVTDGNLGSHLKKLEEAGYVLITKTFVDKKPKTIVSITDLGEHAYKEYLSVIEAILKNK"
+                },
+                {
+                    "id": "BAT_RS01185",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 233305,
+                                "start": 232712
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MPNEKSNNSEILENLSHIKTITNYKTEYCKQTSIYFIIWGLIWIMGYSIPLLFANPITIGVFWLVLGIVGWVITLTTYFKQRKMIPMPLFLRTQLQYTWLGLGIILGIFIFLICVGLLPYTVDNLPFYIVLLVSIMYLLLGIVLAKEIFIMGFWLSVLGVTTFLLFPSLMNIIFAFIGGGSLLLTGVILKRKGQGNE"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_ABRX01000001.1",
+            "accession": "ABRX01000001.1",
             "completeness": "complete",
             "end_coord": 233305,
             "evidence": [
