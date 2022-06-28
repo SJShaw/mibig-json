@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_003076.8 dated 14-FEB-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -45,7 +55,7 @@
                             ]
                         }
                     ],
-                    "id": "NP_199072.1",
+                    "id": "AT5G42580",
                     "name": "CYP705A12",
                     "product": "cytochrome P450, family 705, subfamily A, polypeptide 12",
                     "tailoring": [
@@ -61,7 +71,7 @@
                             ]
                         }
                     ],
-                    "id": "NP_199073.1",
+                    "id": "AT5G42590",
                     "name": "CYP71A16",
                     "product": "cytochrome P450 71A16",
                     "tailoring": [
@@ -77,7 +87,7 @@
                             ]
                         }
                     ],
-                    "id": "NP_199074.1",
+                    "id": "AT5G42600",
                     "name": "MRN1",
                     "product": "marneral synthase"
                 },
@@ -99,11 +109,118 @@
                         ],
                         "strand": 1
                     }
+                },
+                {
+                    "id": "AT5G42580",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 17025229,
+                                "start": 17024357
+                            },
+                            {
+                                "end": 17024272,
+                                "start": 17023646
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MAELIIVDFQNISIFILLCLFSFLCYALFFKKPKGFDLPPSPPSLPIIGHLHHLLSSSLPHKSFQKLSFKYGPLLHLRIFNFPMVLVSSASMAYEVFRTNDVNVSYRFVPVNKDSLVFGSSGFVTAPYGDYWKFMKKLISTKLLRPHALELSKGNRAEELRRFCLDLQGKARKKESVEIGKVALKLTNNIICRMSMGRSCSEKNGVAERARELVNKSFALSVKLFFSNMFRKDIMGVSREFDEFLERILVEHEENLEGDQDRDMIDHLLEAYRNEEAEYKITRKQIKSLIVEIFLGGTDSSAQTIQWTMAEILNNPGVLEKLRAEIDSVVGGKRLIQESDLPNLPYLQAVVKEGLRLHPSAPVLLRVFGESCEVKEFYVPEKTTLVVNLYAVNRDPDSWEDPDMFKPERFLVSSISGDEEKIREQAVKYVTFGGGRRTCPAVKLAHIFMETAIGAMVQCFDWRIKGEKVYMEEAVSGLSLKMAHPLKCTPVVRFDPFSF"
+                },
+                {
+                    "id": "AT5G42590",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 17033640,
+                                "start": 17033257
+                            },
+                            {
+                                "end": 17032499,
+                                "start": 17032002
+                            },
+                            {
+                                "end": 17031913,
+                                "start": 17031632
+                            },
+                            {
+                                "end": 17031546,
+                                "start": 17031217
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MEMMILISLCLTTFLTILLFFKSLLKRPNSNLPPSPWRLPVIGNLHQLSLHPHRALSSLSARHGPLMLLRFGRVPVLIVSSADVAHDVMKTHDLKFANRPITKSAHKISNGGRDLVFAPYGEYWRNVKSLCTIHLLSNKMVQSSEKRREEEITLLMETLEEASLSSSSVNLSKLITNMVSDIMGKVVLGKKYSGEEGTIDVKTITKSFLDAVGLSPVGEYIPSLAWIGKITGSDGKLEKITKQFGDFIEKVLQEHEDTTADKETPDFVDMLLTIQRDETAQCQLDKSDLKVIIFEMFLGSTTTTSAVIEWAMTRLMRNPECLKKLQDEIRSVSKMNSYVSGKEVENMNYLKAVIKEVLRLHPPLPLLVPRLLSEDVKLKGYDITAGTQVIINAWAIQRDTATWGSDAQEFRPERHFDSTWDFVGRNFKYIPFGAGRRLCPGIGLGSVMASVTLANLVKRFDWRVEDGPSGYDKPDLVEGAGIDVCRKFPLVVFPSSA"
+                },
+                {
+                    "id": "AT5G42600",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 17053769,
+                                "start": 17053566
+                            },
+                            {
+                                "end": 17054079,
+                                "start": 17053894
+                            },
+                            {
+                                "end": 17054287,
+                                "start": 17054198
+                            },
+                            {
+                                "end": 17054835,
+                                "start": 17054635
+                            },
+                            {
+                                "end": 17055027,
+                                "start": 17054943
+                            },
+                            {
+                                "end": 17055299,
+                                "start": 17055133
+                            },
+                            {
+                                "end": 17055579,
+                                "start": 17055388
+                            },
+                            {
+                                "end": 17056007,
+                                "start": 17055894
+                            },
+                            {
+                                "end": 17056629,
+                                "start": 17056387
+                            },
+                            {
+                                "end": 17056823,
+                                "start": 17056725
+                            },
+                            {
+                                "end": 17056989,
+                                "start": 17056933
+                            },
+                            {
+                                "end": 17057187,
+                                "start": 17057141
+                            },
+                            {
+                                "end": 17057762,
+                                "start": 17057276
+                            },
+                            {
+                                "end": 17057975,
+                                "start": 17057862
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MWRLRIGAEARQDPHLFTTNNFAGRQIWEFDANGGSPEELAEVEEARLNFANNKSRFKASPDLFWRRQFLREKKFEQKIPRVRIEDAEKITYEDAKTALRRGVLYYAACQANDGHWPSEVSGSMFLDAPFVICLYITGHLEKIFTLEHVKELLRYMYNTQNEDGGWGLDVESHSVMFCTVLNYICLRILGVEPDHDGQKSACARARKWILDHGGATYAPMVAKAWLSVLGVYDWSGCKPLPPEIWMLPSFSPINGGTLWIYIRDLLMGMSYLYGKKFVATPTALILQLREELYPQPYSKIIWSKARNRCAKEDLLYPKSFGQDLFWEGVHMLSENIINRWPLNKFVRQRALRTTMELVHYHDETTHYITGACVAKPFHMLACWVEDPDGDYFKKHLARVPDFIWIAEDGLKFQLMGMQSWNAALSLQVMLAANMDDEIRSTLIKGYDFLKQSQISENPQGDHLKMFRDITKGGWTFQDREQGLPISDGTAESIECCIHFHRMPSEFIGEKMDVEKLYDAVNFLIYLQSDNGGMPVWEPAPGKKWLEWLSPVEHVENTVVEQEYLECTGSVIAGLVCFKKEFPDHRPKEIEKLIKKGLKYIEDLQMPDGSWYGNWGVCFTYGTLFAVRGLAAAGKTFGNSEAIRRAVQFILNTQNAEGGWGESALSCPNKKYIPSKGNVTNVVNTGQAMMVLLIGGQMERDPSPVHRAAKVLINSQLDIGDFPQQERRGIYMNMLLHYPTYRNMFSLWALALYTNALRLLVS"
                 }
             ]
         },
         "loci": {
-            "accession": "NC_003076.8",
+            "accession": "CP002688.1",
             "completeness": "complete",
             "end_coord": 17058245,
             "evidence": [
