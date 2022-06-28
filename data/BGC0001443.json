@@ -22,7 +22,9 @@
         {
             "comments": [
                 "Corrected NRP module activity",
-                "Removed ketoreductase stereochemistry annotation from modules without ketoreductases"
+                "Removed ketoreductase stereochemistry annotation from modules without ketoreductases",
+                "Gene details extracted from RefSeq accession NZ_KB907224.1 dated 17-APR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -59,8 +61,320 @@
                 "molecular_formula": "C22H40N4O5"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "G339_RS37200",
+                    "product": "methylmalonyl Co-A mutase-associated GTPase MeaB"
+                },
+                {
+                    "id": "G339_RS0128875",
+                    "product": "cobalamin B12-binding domain-containing protein"
+                },
+                {
+                    "id": "G339_RS0128880",
+                    "product": "alpha/beta fold hydrolase"
+                },
+                {
+                    "id": "G339_RS37205",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "G339_RS35690",
+                    "product": "MFS transporter"
+                },
+                {
+                    "id": "G339_RS0128895",
+                    "product": "helix-turn-helix domain-containing protein"
+                },
+                {
+                    "id": "G339_RS0128900",
+                    "product": "crotonyl-CoA carboxylase/reductase"
+                },
+                {
+                    "id": "G339_RS0128905",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "G339_RS0128910",
+                    "product": "AMP-binding protein"
+                },
+                {
+                    "id": "G339_RS0128915",
+                    "product": "acyl carrier protein"
+                },
+                {
+                    "id": "G339_RS0128920",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "G339_RS35695",
+                    "product": "acyl-CoA dehydrogenase"
+                },
+                {
+                    "id": "G339_RS35700",
+                    "product": "FMN-binding negative transcriptional regulator"
+                },
+                {
+                    "id": "G339_RS0128935",
+                    "product": "methylmalonyl-CoA epimerase"
+                },
+                {
+                    "id": "G339_RS0128940",
+                    "product": "lysine N(6)-hydroxylase/L-ornithine N(5)-oxygenase family protein"
+                },
+                {
+                    "id": "G339_RS0128945",
+                    "product": "asparagine synthase (glutamine-hydrolyzing)"
+                },
+                {
+                    "id": "G339_RS35705",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "G339_RS0128955",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "G339_RS37200",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 33449,
+                                "start": 32199
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MGPGGAAAPRGGRVSLLDRARAGDRRAVSRLLTLLDAAGPGGHPAVAEALRRRDRALVVGLTGPPGVGKSTLTSALIAEFRRRDRRVAVLCVDPSSPLTGGALLGDRIRMQRHVGDGGVFVRSMASRGHLGGLSAGTPAAVRVMEAAGFDVVLVETVGVGQSEVEIAALADTTAVVLAPGTGDAVQIAKAGVLEIGDVYVVNKADRPGAARIVRDLNAMTALNTASARPPVITTVATEDEGTAALVDELVARGIRRDGPTAVADVEYVEDEAALLALYGDAAAPAAHNGHSGLDARARDWLAAAALCLLATADAAGRCAVSPRGAARVLDDRTLVLPDGPGGRLDAHRDVLANPRVGLLFLVPGRRDALRVGGRARIVARAPYLAGLGADGEPAPSAIQVAVDEVVLYERWLPDAF"
+                },
+                {
+                    "id": "G339_RS0128875",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 33814,
+                                "start": 33407
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MRRVRVVIAKPGLDGHDRGAKVVARALRDAGLEVIYTGLHQTPEQIVETAIQEGADAIGLSLLSGAHMTLVPRVLDLLAAADAADVAVFCGGIIPPDDIDALTGLGIVRIFTPSSSVEEIIAWARAELRPLEVAE"
+                },
+                {
+                    "id": "G339_RS0128880",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 34746,
+                                "start": 33811
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTVYDVVTNDEAEYGLWPAGRAAAPGWTPTGFQGSRRDCLDHVARVWTDMRPRSVRRGRSPGASRWLVRRRRRGDAALRLYCFPHSGGSPGEFVRWSDALTDVEVLGLQLPGRGARLEEPPFTDMAALVAAVVEDVEFTGPYVLFGHSLGGWVAFETIRALQASGRPLPERLVVSATPPPHFRVERDPLHRMGDDDLLDAVEQRYGGLPPTLREDPDLLALVLPAYRADFQIFEEYEHAPGDPIDVPITVVGGADDAMPADLLRAWDRHTARGADLHMLPGGHFYLRDEPGRTRLLDLVRALAPGTKEADR"
+                },
+                {
+                    "id": "G339_RS37205",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 39389,
+                                "start": 34743
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MAWTAVHRLLAARAAASPDSPAVRHGARTLTYGELDARSDRAAALLAGRGAAPGGVVGVLLPRGADLVVAEAAILKTGAAYAPADPRHPVERTAQAMTRAGAALVVTTAELADGLAARGLRPVLLDEVPADPVAAPPDRTRDRDVAMIVFTSGSTGAPKGVLLEHGSLARFARWDADAFGLGPADRVALIASPGFDASAWDIWPTLAAGACLHAADEDTLLDPRALRDWLVAERITVLFLTTALAERLLTLPWPADTALRTLLTGGERLKFRPPAGLPFQVVNNYGPTETTIIATSGPVAAAGDGPPSIGAPLSIAAVHILDEDLRPVPDGEPGEIYIGGTGVARGYLADPAQTVDRFPPDPFSGRPGARMYRSGDLGRRRPDGEIEFLGRVDDQVKIRGNRVEPGEIAVVLTAHPAVTVAHVAPYTRPGDDETHLVAYVVGGPDDVGELRAYLAERLPRALIPAYFVALDALPLNANGKVDRARLPEPDARRPAASAAHTPPRTGLERRLCALWAELLHLERVGIDDSFFDLGGHSLLLVEVHRTLTEDLGHDLPLVALFEAPTIRSLSDRLEPRDAPAPAPVPASRPRGDSRALAVVGMAGRFPGAPSVAEFWANLCGGVDSIRVLAEGDGHLDVHGVLDDADRFDAAFFGCPPSEALIMDPQHRVFLECAYHALEDAGHDPARFPGTIGLFAGGATTEHLARLRAHRDRLPFVDAWQMRLGTGPDFLAARAADRLGLRGPVVSVQTACSTSLVAVHLAARAVLDGECDMALAGGATVHVPPPRGGYTPGGIISADGRLRAFDADARGAVGGSAAALVALRPLEDALADGDHVHAVLLATAIGNDGGGKVGFTAPGVDGQVRVIRAALDRAGVDPGTVTFVEAHGTGTPLGDLIEVRALTKALGPVAADAGGRALGSVKTNIGHTDAAAGVSAFIKAALAVEHGLLPPTLHFDRPNPELDLDTGRFRVTTDLTKWETGGTPRRAGVNALGIGGTNAHAILEQPPVQPPADTGRGSQLLVVSARSPEALAELSSSLAAAVSARPSGSLADIAWTLQDGRPAHPYRAFAVAGDAAAAARALTAPRPAPSGRTGEWPVVFMFPGQGGQHVGMARELYEQEPEFRRRFDRCADLALPGLGLDLREILFPPPERAADAERTLERISVGQPAVFAVEYALARLWTAWGITPAAVTGHSLGAYAAACVAGIIDLDDAVPLVVERGRLLESLPTGTMLAVQLSEDEVAPLLPPALSVAAVNGPGRTTVTGAAADVARFHEELTARGVDSKPLRIATAGHSPLVDRIRDEFEAAVRAVPLREPAVRFLSDRTGDWAAPAELTDPAYWSGHMRDPVRFSAALSRLFAEPDAVLLEVGPGRTLATLARQHPERPASRVIAQSLPHPADDASALDTALTALGRLWAEGIPVDWARVHEGERRRRVKLPLYPFQRRRFSLETSDADEPAPPPAPASAPEPRSTDAARMAEGFAVILGLDTVDRHDDFFELGGDSLIATRLAAWIRADRGVEVTAREIYGAPTPARLADLVTGRAQEETR"
+                },
+                {
+                    "id": "G339_RS35690",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 40997,
+                                "start": 39435
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MFGAAFLAMVDLSISAVAMPAIRDDLHASLSGLQWIFDCYTLAFAGLLMVGGTISDRLGHRTGLIASTALFTLGSVVCVAADGVWLLIVGRSVQGAAAAMLVPASMAMISRLAPEPERKAKLLGAWGGLSGVAIALGPLLGGWFVHLSGWRLIFGFNIAAGVLLLVLILAAAPKVVPGEGGSLDVPGLVLGVLWPTALAYSLIEGHAQGWSAPGVLAGFVVGALALAVFVVVEVRAEHPMMPVRSFTSRVFAASNLVAAVLGFALSAAYYFLSLYIQQVLGHDALDAGFGFLPGALGLMFCAPLAGKLVKQVGARSLITGGLLLGAVGLFGLSTLGADSGYWASWWAVALVGVGLGLALPANTTQALTSLPPERAGAASGTVETSMQLGTVLGIAVLGTVQATGFTGDLRDRLRGESVTGHALDRAVDDATASRPLRVPGVAADRLHDLVAGAFAHGLHLAFFTAFAVSAATGVIAFALLPRRSAADGPDAEAPEPPKVAVDAGADTGADTGADTPNRDG"
+                },
+                {
+                    "id": "G339_RS0128895",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 41703,
+                                "start": 41092
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MVCKVSDARPDGDNEELAGHPVRRDLLRLLRRDGVVTATTAARELGGSSGLYSFHLRRLAQGGLIEEAPAGRGRVRPWRLATPPSPDAGGPDAGAAPPPEPGPVSDACLDLFARGLEDESFRRWLEHRDAAPARWRQDEAFSQVAYLTPEEMAGMARVIRALVAQYRHRESRPDARPADAAPVAVVSRLFPLLEPGTEPAPPP"
+                },
+                {
+                    "id": "G339_RS0128900",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 43087,
+                                "start": 41744
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MDALAEAVVAGEPADVLERIPVPDAYTAAHTRVQDAGMFRGVEDKDVRKSLRVGEVPMPELAPDEALVAVMASAMNYNTVWSAIFEPLPTFAFLKSFGRQGGWATRHDQPHHVLGSDASGVIVRLGSGVRNWKVGDRVVVATNYVDDQDPATHADGMLGGDQRAWGFETNFGGLAHYAVVRASQLLAKPEHLTWEEAACNPLCAATAYRMLVSDRGANMKQGDLVLIWGAAGGLGGYAVQFARNGGATPIGIVSSDRKAEIARDLGCELVIDRRELGRIGSDPDVVQSAGKKLGKIIRRECGEDPNIVFEHVGQATFGISVFVAARGGTVVTCGSSTGYDHRFDNRYLWMRLKRIIGSHGANLQEQWETNRLVRRGKVASMLSAVYPLAEAPEAARGVQLNEHIGKVGVLCLAPRAGLGVADAALRERVGARGTAPLMVGGPLGAGR"
+                },
+                {
+                    "id": "G339_RS0128905",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 44906,
+                                "start": 43092
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTATRPANAAQLALWAEAQADPSTSSSGYFAVTLRGAVAEPDLRAAAVAVLRRHEPLRSVLRLVGDRLHQVVLAADEALAFATADVPCADGAEDAAVRAWMAAGEGRRSWDLAAEPPIRFHLLRHGADRATVVFAVHHVGFDGRSKFVVAADFTGYLGAIRDGARVRPEALPQPDVPEAGPDIVAEAVDHWRALLADRAGPLELPADAATGRRGVTTTGTVELDPADVAALRGLARDRGVSTFTTLVAALTGQLRRYGNEAPILGIAADVSDARTRAVAGLQINVVPMAVEASPDKDPVGEARAALARLARYRRVPFAALVAELGDRAAGRLMTQFGISFPRPPAGLRLEVEGLAARWEFFTPNTSATFAQTLQLRADWPRCRVRLDYRQEETGPAAADRFLDDFRAAVAALTRPDAAGLGPAAARAVGTGSAASGEPYRRAGRLAGRVEPARDPRDPPVLVPAPGAVITAHGPDGEPLPAAVPGRLRAVLAGGETVDTGDRGYVAGDGRARLLGPAGRRWLLHHGVIDVPLVERVARAHPRVAGARIEVREGRRRAAVLTVRPRGGAPAPTVRAVRAHLHAWLPGHDLPGVIEIAETAEPEED"
+                },
+                {
+                    "id": "G339_RS0128910",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 46468,
+                                "start": 44903
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSAAPSASLWGGPSAAPCLVDALLETAAGRPDATALVDGDRAFTYAELYAWAAGVRDLLADRGVAPGDRVAVCAPRGAAAVAAMLGAILRGATYVPLDPEYPVRRLEHMVADCTPRLLLSHGDTPYLGESVPIPGPDVRAEPATRPCDPDLAVYIIYTSGSTGWPKGVTVGHRCLDTMVGWQAGHSPRPDLRTAQFAPLNFDVSFQEVLGTLRGGGTLVIMPERLRREPVELLSWLGEHRVERLFLPYLALQMLGVAARGDLLAGLRLVEVNTAGEQMVCTPEIRALFAALPGCRLVNHYGQSESAMVTSHILGDDPEDWPALPPIGVPLPGCEVLVDPADPDDPAVGELLVAGDPVSAGYLNRPELTERRYVEIPESPAGNTRAFRTGDLVEIKDGRVRFLTRLDDEVKLRGIRVDLLEVDAQLLADPAVAAAASTIVTTRSGAPSLRAALVTRGDPAELDVPATLERLRAALPEVSVPRSLTVVPELPRTPSGKIDRDAVAALILKELTSSDRRAGRSR"
+                },
+                {
+                    "id": "G339_RS0128915",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 46755,
+                                "start": 46465
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MDGRARLATQGDAVTDTTATTVATVTAIWEATLGVDGIAPDENFLDLGGDSMTATKVIAALHREYALEAPMRLIFDHPTVAELAEAVDELRAGVSR"
+                },
+                {
+                    "id": "G339_RS0128920",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 47975,
+                                "start": 46713
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MAVAGAVGPASHGQHRLWLAEQLAPGAYVIQRAFRLRGAVDEDAVRRAADRLAARHEALRTTYRAARGGIEQVVGEPGAVFDAVDAADVDAVIAAERAARFDLAAGPVLRVRLLRTAADDAVLLLTIHHIAFDGWSMEVFFREFAAAYAAFAAGEEPDLPPAPGFLDHVRREAGRDHAASLEFWRRTLAGAPPVSLPADPAPAGPGGAHAVPVALSDATTARIDRLSRERRCTAYMTTLVLYAAVLARRAGLDEAVLATAASGRLRAEDQNLVGFLSNTVPLRVACPPDATLVEAVDAAREVCLAASEHGAAPYDQVVAASGVARPPGRAPLAQALFDLRPAPGVPELPGLRVEERPIEPTATRLELELHLVRGGAGVRGHLLASPAVLTADTARTLRDRFTRLAAAWTAEPDSQLKEMP"
+                },
+                {
+                    "id": "G339_RS35695",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 49615,
+                                "start": 47975
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MARGSLSVPGVPNVVEEICHGRLPWDLVHPFPAQAGADRAAGDAAVAGVRAALAGLPDEPDGETVAEALRAGGWLHLLAPAEVGGRELSPYNAFRVITEASGEALPAGFMLAIHNGIGAAAYLPVLPDGPIRELVMKRLAAGAVTGMADTEPAGAANRRRFTTATADADGYVLDGDKLYIGNGPIAELLAVTATEDGRPRVFFVDTASPGFEVRARLEFMGLRGFPNGALALRGVRVPRELVLAEQGGQWLSAERAAVLSRGRVHIIAAPALALARRALEHTGEYVRRRSVDGRALGTYDEIQRAVAESAADLYALDATARWTMLGDQGPDPVNLMPEQFAAKDITSLLCWRIVERAMTVMAGEGYETARGKAARGAPPAPLERLYRDARGLRIAGGTEVLLQGRLADRIALACLEPDEIDARAHVPDVPELTARNREHLARLAGQIGTFSQHCADVLRNHPDPAERAGLGRPLTLLGAILEELVTVTLTLARAAGDAPDAQDLADVYCTGAWRSLDAHWSGLVDALAGAGPDHARISAAWLGPVT"
+                },
+                {
+                    "id": "G339_RS35700",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 50300,
+                                "start": 49602
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MFVPPQYRPRGRSWTLETVRSNPLAMLVTRGERALPWITHLPVITHPERPPAELPGATLLGHMNAANPHWAAVASGGPGTLVFTGPHGYVSPTVYELPVAAPTWDFVAVHVHGTLRPLDTPEDARRVVRWTVEAYEGTHGTGWDPEGSLDYFDKILPGVRAFEFHVESVDGMYKLSQEQEPETRRRVVRSFAASGRGAHAELSALIDRFGDPGPGAPATGCPAAREAGDGAR"
+                },
+                {
+                    "id": "G339_RS0128935",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 50733,
+                                "start": 50317
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MFTRVDHVGIACHDLEETIRFYRDSFGFEVCHRETNEEQGVHEAMLRVNGTDDGRATYLQLLSPTRPDSPVGRFLAARGEGVHHVAFGCPDVDRAAAELPAAGPRVLFDPPRPASMGSRATFLHPKDCHGVLVELVTS"
+                },
+                {
+                    "id": "G339_RS0128940",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 52031,
+                                "start": 50733
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTGPATDADDILDIVGVGFGPSNLALAVAVREHNADRPAAEHLTQVYFEKQPAFGWHRGMLIDGATMQVSFIKDLVTMRNPASEYGFLSYLHDNDRLADFINHKSLFPSRVEFHDYLEWVARRFQDVARYGSEVVAMRPGPGGDHIEVIVRRGGEHRVQRARNVVVAVGQEPALPDDIELGDRIWHCAQLLERVERLTEEPRRAVVVGAGQSAAETTEFLHRRFENAEVSAIFLRYGYSVADDTPFANRIFDPESVDVFYGAPENVKRMLFDYHRNTNYSVVDQELADELYRRVYQERVRGVERLRILNASRLHAVRRDVTGDGLRVDVEHLPTGEKRSFGVDLVVYATGYRPIDPANVLGEVAEYCRRDAGKRPAITRDYRLETDDRLRAGIYLQGGTEQTHGISAQLLSNTAVRAGEIVRSIAGARVGAV"
+                },
+                {
+                    "id": "G339_RS0128945",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 53884,
+                                "start": 52028
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MCGITGLVDFRRRADTDDTGLIEAMTDTLHRRGPDERGVWRHGHAALGVRRLSVIDLAGGKQPMVDERPDREPVAIAYTGEVFNCPELRAELGARGHRFETTSDTEVVLRAYLEWGAGCAERLLGMFAFAVWDARTEELLLIRDRLGIYPLYYAEIDGGVVFGSEPKGILAHPQIRPEIDQSGLRAIVTLVKSSDHGIFKGMFEVDPGSIVRFGRGGLAKSRFWSLQAVEHTDDLDTTVRTVRDLLEDSVRRQMVSDVPLGVFLSGGLDSSALAALAIRTGGSDEKLRTFSVNFTGHADAFKPDEVRATPDFPFVKIMSEFLGTRHTAVELSADQLMDAEARSTVLTARDHPTSLGDLDTSLYLLCKAFREQCTVSLTGDGADELFGGYHWFHEERFRGEGTMPWLEFARRMAGKNQMRSSGLLAPDLADVLEADEYERAEYEKAVAGVPVLEGESDIDRELRRITYLNMTGYLRIILDRRDRMGMAAALEGRVPFCDHRLVEYVFNVPWEMKTFDGREKSLLRAAVRDLLPPSVLYRKKAGYPPTDDPRYGALLNARLAEVVADPKAPVRDLLDLGTAKSFVEDPTGPAAEVVNRFSIEMVLGLNEWLGRYDVGLAL"
+                },
+                {
+                    "id": "G339_RS35705",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 55368,
+                                "start": 53923
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MAGPGEFPYEAGIHPTGYTTRPWTVRQLAGLGDGEDTNRRFHYLLERGETGLSLAFDLPTQMGIDPDEPAAEGEVGRAGVSVATVDDFASVFTGIPLDQVSVAYTINATAPMILAMWIVAAEESGVDPAALRGTLQNEMLKEHLARNAVIFDLDDSFRFSLDVIEYCVRHLPKVNPISISGGHAREAGANRALEVALGIADAEQYLDHMIARGYGVDEVAPRLSFIFGTHMELLAEAAKFRALRRMYARRMAERYDARNPRSMRMRIQVNTFGSTLAATEPLNNIARTTVQAVAAVLGGVQSLHVCGFDEAAQIPGRLAARVALRVQQILLTETDLARHVDPLGGSGVIAGLVDEIEADADRWLTEIDKRDGLLACLRSGWLEGEIEEMAYASPGPRVGVADAEDAAEERRLMREQLRTGVAAGRRRPFARVDRPAELAALTDDVALGRNAMPAMIRAVRARASVGQLHRALSAGLARGRA"
+                },
+                {
+                    "id": "G339_RS0128955",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 56356,
+                                "start": 55370
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MRRRISERFGSLSEGGGTLNRSAVFSRWHERAGVRIAPHRKLAEVPAGMRYFPRSLMPYLDHPVVAELPDELHLSLGVWHLYAYLDSVANLESKVVNRATLLVADDGLGLGLPAEVRLDAWKIYCDEAHHAMSNFDLVCQVERKTGVPHLPYTFAPVTGALTRATEPLRADAPGLGRLLEAVIFETVVTSLLETIPRSAEVVPTVRDVVADHARDERLHHAFYTIFFDRLWGGLEPAVRERVARVLPALVRACLATDTVAHTTSLRAAGLTAEQAEQVLAETYTPRFETDQIRQAARRTLRMFAEHDVFDHPGARESFEASGLLIGEI"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_KB907224.1",
+            "accession": "KB907224.1",
             "completeness": "complete",
             "end_coord": 56356,
             "evidence": [
@@ -76,7 +390,7 @@
             "cyclic": false,
             "nrps_genes": [
                 {
-                    "gene_id": "WP_019634556.1",
+                    "gene_id": "G339_RS0128920",
                     "modules": [
                         {
                             "active": true,
@@ -86,7 +400,7 @@
                     ]
                 },
                 {
-                    "gene_id": "WP_026341873.1",
+                    "gene_id": "G339_RS0128905",
                     "modules": [
                         {
                             "active": true,
@@ -96,7 +410,7 @@
                     ]
                 },
                 {
-                    "gene_id": "WP_019634550.1",
+                    "gene_id": "G339_RS37205",
                     "modules": [
                         {
                             "a_substr_spec": {
@@ -120,7 +434,7 @@
             "synthases": [
                 {
                     "genes": [
-                        "WP_019634550.1"
+                        "G339_RS37205"
                     ],
                     "modules": [
                         {
@@ -134,7 +448,7 @@
                             ],
                             "evidence": "Feeding study",
                             "genes": [
-                                "WP_019634550.1"
+                                "G339_RS37205"
                             ],
                             "module_number": "3"
                         }
