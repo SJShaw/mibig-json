@@ -11,10 +11,13 @@
         },
         {
             "comments": [
-                "Remove negative molecular mass"
+                "Remove negative molecular mass",
+                "Gene details extracted from RefSeq accession NC_018586.1 dated 26-FEB-2017",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
-                "3UOU7PODQJXIM6BEPUHHRRA5"
+                "3UOU7PODQJXIM6BEPUHHRRA5",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -32,8 +35,150 @@
                 "mass_spec_ion_type": "[M+H]+"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "LMOSLCC2540_RS13880",
+                    "product": "thioredoxin family protein"
+                },
+                {
+                    "id": "LMOSLCC2540_RS13885",
+                    "product": "thioredoxin family protein"
+                },
+                {
+                    "id": "LMOSLCC2540_RS13890",
+                    "product": "ATP-binding cassette domain-containing protein"
+                },
+                {
+                    "id": "LMOSLCC2540_RS13895",
+                    "product": "ATP-binding cassette domain-containing protein"
+                },
+                {
+                    "id": "LMOSLCC2540_RS13900",
+                    "product": "glycosyltransferase"
+                },
+                {
+                    "id": "LMOSLCC2540_RS13905",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "LMOSLCC2540_RS13910",
+                    "product": "helix-turn-helix transcriptional regulator"
+                },
+                {
+                    "id": "LMOSLCC2540_RS13915",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "LMOSLCC2540_RS13880",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2790640,
+                                "start": 2790122
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MKKLIFSVIILLALALSLVAWIEYNNKNEVKKLEAKVDKLASSYPDIYNYINSISYDNLDLFLNTKKDKNILVYVGRPTCGDCTEFEPKLIQQIKENKLQEKMVYLNVAKTRENEEEWNNFKNKYNIFYTPTLAIFRNGKVIKQLGWTPSNGVDMNEINLFLKNTSNFDNVN"
+                },
+                {
+                    "id": "LMOSLCC2540_RS13885",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2791078,
+                                "start": 2790680
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MKKFIFILLGMVCIFAIVILVMSDQEENYYQRVTTSEAKEILNKSSSKELIYFYKKGCAACNSFKPILNAKIKEDNINVYAIDVEAKENEGVFFEEYNINSTPTLIKFINGKAVSRHEGAMTKKELDTFISK"
+                },
+                {
+                    "id": "LMOSLCC2540_RS13890",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2793024,
+                                "start": 2791075
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MRIMKDLKEEEVLSVIKIILSEKNQKIDVMKHIFMPFNQNNLEEYFQQFYIKTRLETFSFKKMKSDKLNILITKENEIMIISSFDENSFITDNQKDSKRRSWKEYEFKSILNIIDIQIDNLSKAKTVFIFKDLYQQMKSNRLLLINICILMFVSFILVIAMSFYLEVIFDLVLVNYLFSYLWPITFFSLFIMFLMYILQICIEKLVQKYISRLVYRRKNKLLGEIKRKVKNEYLPRIVTFLNDIPVYIFSITIKWLASLPLLFLGFLLFRYDTNMFILCLLMGILNILIGVGLSSRIKNKYKSLIIQRVSCLNNEKESIFSFGKDEKVNLNGKDFNEILLPNPIFRFFLGISILVIFTYLIRMILLDIISVGILFIYLAIALSFLLPFILFGKLYVAGSIYEGYLEIYNSLYRYGKYKEIIFWDNKRISNLRLQNIKFPNYTTSTITNMQFDFGKCDLIAIESGNSSGKTYLSNILTNNTRVPTYTVLYDEVDIEKLSESKEFGKKIVLLNSCEELNCNATILDNITQGENYSEQDVYDACQEACILNFINNLPNKFHTVINSATQFSATEKKLIRLASTLLNEAEVIVFDSFFDNFEPNNERNILGNLKKVPGVKFILSKKTINADLFDSKFLLINGTLQKSEGVSNL"
+                },
+                {
+                    "id": "LMOSLCC2540_RS13895",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2795152,
+                                "start": 2793038
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSRKKRKHIMQNGEFDCGIACVESMLYYLNCPVEKSYLKNILNFNEESMDLRVIYNFFDKIGAQPSIQEFKDKNEGLTGKVKKDLFPAIALIETGELIDHFVIIYEMNSKSITISDPARTRIETKETKEFLKKITYLIILAEKENIISNWPPPANNVFTISPFIKKYRKNILFILIQSIIASILGIIGTFYMGMMIDIYQDSLSKATFINTITVLALVFLFIGFIQNGLNKIKNKTTITNALRLEKDIISNYFNHIFRMKPDNFHYRKSGDLLSRIDDIVSLINIVIELFVSIIINVTVCLFSLVVLFVLNYQMSLFIVGCSFLIIFVIRRYYLLIYESNYDSMQEYSAFNSVVIDSVESMNSIKALSIENLFFEKIRKQLNGFLNVTYKLNNLVINNSFINQLIGIFVNILVITFGIVLVFQKNMSLGELSIFAALCSFYLTSIQSIALSQNEWEKVLVSYHRIKSIFETTQVESDTEDLTEHIDEIKNIELIDFSLYRNETMLLENVNLKINFSQNNILIQGDSGVGKSSMVQCFNKFNDSYKGKLLINSTNIKNISILEIRKKIIYISSNESLINGSILENLSLDKKIRKVRLYKVCKDLGLLDLILSFPNGFNYPIISNGENLSSGQRQRIAIARAVLKQPQIIILDEGLSNIDEVSREEILENLEKYGIKLIYISHHHIDLENTEIYKFEKQTLTHMKI"
+                },
+                {
+                    "id": "LMOSLCC2540_RS13900",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2796571,
+                                "start": 2795171
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MDGTNKRLEDKWFDINFLEMYTRSCLKTFGYFDEILIVKKRIEVLKNVLEKQYLSTNDYAEEFFELNTTLESIKEYIKLNLVIEKEPISICIMVKNEERCIKRCIDSVEILAEEIIIIDTGSTDNTINIIEECANDKIKVFSKEWRNDFSEIRNYAIEKASSEWLVFIDADEYLDEASVLNLLSTLNIFNNHKLKDSIVLCPMINEANNTIHFRTGKFFRKDSGIKFFGTCHEEPRIKGMPNSTLLIPIKVDYLHDGYLAKVQSNKDKKTRNIELLEGMVELEPDNPRWAYMFVRDGFAILDNEYIEKTCLRFLLLDKNVRICVNNLQDHKFTLSLLTILGRLYLRECEFEKSNLIIRILDELIPNSLDGKFLAFMERFSKLKIEINTLLTEVIEYRRNHEVDETSLINTQGYHIDYVLSILLFETGNYAQSKKYFDFLQENHFLEELFQDSSYSIILKMLESVED"
+                },
+                {
+                    "id": "LMOSLCC2540_RS13905",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2796873,
+                                "start": 2796652
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTKGLDKMLLTKKKKDSMGLLNEIDVTTLDEQLGGKMSKAWCRSMVVSCVYNLVDFSSSSDGKKTCALYRKYC"
+                },
+                {
+                    "id": "LMOSLCC2540_RS13910",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2797676,
+                                "start": 2796930
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTQTESDFEVLNMRKIELKKNGKCLIDSKECILVFFDGNQLGIKKLEKNIRLEQNECAFFNNFTQIILENHSDKELRIIICSLGVLNNECKSTSKFKLNEELVILVNLLFSKDLCLEEDTQKSMLSIITSKVLKSKYTSSYSDVIRKTIEYLENNVCANVNLDKLSEICFLSKSRLCILFKQETGKSIITYFTTLKISKAKELINDNEKNISEISEMLGFKNLQYFSNVFRKNTGLCPTKYRKKLFKM"
+                },
+                {
+                    "id": "LMOSLCC2540_RS13915",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2798888,
+                                "start": 2798559
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MKLIFAIVQDQDSNRLSDALTKGNFGATKLATTGGFLKAGNTTFIIGTEDERVEDALAIIKENCKAREQMMTPSASLGVTVDTYVPYPIEVQVGGATVFVMPVESFHHF"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_018586.1",
+            "accession": "FR733645.1",
             "completeness": "complete",
             "end_coord": 2798888,
             "evidence": [
