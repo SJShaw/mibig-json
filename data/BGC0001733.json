@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_019689.1 dated 03-AUG-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -28,8 +38,99 @@
                 "compound": "PcpA"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "PLE7327_RS06800",
+                    "product": "diaminopimelate epimerase"
+                },
+                {
+                    "id": "PLE7327_RS06805",
+                    "product": "Nif11-like leader peptide family natural product precursor"
+                },
+                {
+                    "id": "PLE7327_RS06810",
+                    "product": "nif11-class peptide radical SAM maturase 3"
+                },
+                {
+                    "id": "PLE7327_RS06815",
+                    "product": "efflux RND transporter permease subunit"
+                },
+                {
+                    "id": "PLE7327_RS06820",
+                    "product": "efflux RND transporter periplasmic adaptor subunit"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "PLE7327_RS06800",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1518704,
+                                "start": 1517859
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MVIEFTKYHGLGNDFILLDNRHRSEPLISPEVAVQMCDRHFGIGADGVIFALPGQDGTDYAMRIFNSDGSEPEMCGNGIRCLARFIAQLEGTEAAGKSYRIHTLAGVITPRLEGDEQVTVDMGTPQLTAAQIPTTLGNPDEKVIEQSLEVAGKSWLVTCVSMGNPHCITFVENTDAIALETIGSQFERHPVFPQRTNTEFIQVIRPDYLKMRVWERGAGATLACGTGACASVVAGVLTRRSNRLCTVELPGGCLKIHWSETDGRVYMTGSAKRVFSGSYFI"
+                },
+                {
+                    "id": "PLE7327_RS06805",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1519343,
+                                "start": 1518909
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSSNILEKVKEFFVRLVKDDAFQSQLQNNSIDEVRNILQEAGYIFSKEEFETATIELLDLKERDEFHELTEEELVTAVGGVTGGSGIYGPIQAMYGAVVGDPKPGKDWGWRFPSPLPKPSPIPSPWKPPVDVQPMYGVVVSNDS"
+                },
+                {
+                    "id": "PLE7327_RS06810",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1520711,
+                                "start": 1519449
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTYRRTSYAVWEITLKCNLACSHCGSRAGHTRAKELSTQEALDLVRQMADVGIIEVTLIGGEAFLRPDWLQIAEAITKAGMLCSMTTGGYGISLETARKMKAAGIASVSVSIDGLEETHDRLRGRKGSWQAAFKTMSHLREVGIFFGCNTQINRLSAPEFPLIYERIRDAGARAWQIQLTVPMGRAADNANILLQPYELLDLYPMIARVARRARQEGVQIQPGNNIGYYGPYERLLRGRGSDSEWAFWQGCAAGLSTLGIEADGAIKGCPSLPTSAYTGGNIREHSLREIVEESEQLRFNLGAGTSQGTAHLWGFCQTCEFSELCRGGCTWTAHVFFNRRGNNPYCHHRALFQAEQGIRERVVPKVEAQGLPFDNGEFELIEEPIDAPLPENDPLHFTSDLVQWSASWQEESESIGAVVD"
+                },
+                {
+                    "id": "PLE7327_RS06815",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1524005,
+                                "start": 1520907
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSFHISAWSIKNPIPVIVTFLVLAIVGFFSFLSLGIDNSPNIDVPSVTVTVTQRGAGPEELESEVTKKIEDAIASIGNIDQLTSTVTDGTSTTTVNFVLGTDSDRATNDVRNAIDRIRQDLPQDIDDPIVKRVQFAGGAVMTYAVSSQKRSVAELSDLLDRTINRELVNVPGVAQIDRLGGLDREIRVDLDPSRLQAYGITATQVNDQIRNFNVNLPGGRSEIGGSEQNVRTLGSAKTVEDLQKYPIVLPGGDSVPLSSLGQVRDDRGEARQSAFLNGKPVVAFSVRRSTGSTLVSVEEGVRQKIEELKKTLPQDIKFNLIFTRADAIRASYQDMINDLVFGCLLTVITIGLFLSNARVTLITALSLPLSIIATFGMMKVFGYTLNNMTLLALALAIGNLIDDAVCMIEIIDQHLLMGKKPMQAALDGAKELGLAVLATAATIIAVFIPVAFMGGVAGQFFMPFGVTIAVSTIFSTLVACTLTPMLAAYVLKPKKKSTIQNSKIQYRIQPYRNILAWALRHRITTMLIAIAFFIGSVQLIPFIPKGLFNSGDTGLSTVSVELPPGSTLQETEQVSQEIYRLLKDKPAVENVLATIGNEDRINNATIYVKLTPKEQRDISQKQFQEEMREAFSQIPGARVSFRAQGGAGSNKDLTIVLKSENIPVLTKTANEVERQMREVPGLVEVTSTISLVKPEIVIIPNAERAADLGVSVQAIARTASLAFIGDNDSNLAKFNLPDRQIPIRVQIEPKRRNDIETLKNLRIPGNDGTLVPLSAVADIRLGSGPAEIKRFNRNRQVELSANLQGLSLGQAVAKVRALPAMNSLPPEVTEEPAGDAKIMREIFGRFLGALGLSILSIYAILVLLYNNFLYPFGILASLPLSVGGTFLALLITQKEFGLYALIGIVLLVGLVIKNAILLIDFALIEIKAGKSLFKSVFDASISRFRPIMMTSISTIAGMLPIALGLGADGEVRSPMAVAAIGGFATSTLLTLVVVPVIFTYIYNFYRWLRRLTGEKKLAPVKVQNLSGYSSRS"
+                },
+                {
+                    "id": "PLE7327_RS06820",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1525736,
+                                "start": 1524342
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MALEEDQENEAIEYRQEKPSRPWLSGGRAVLLGVGIGIGITLIGTRFLPFSGHKSVKSPAVEPMANVRVPAQSVTVAEVKTSRVNRTLKATGTVAAFEMTPVTSQATGLQIQQILVDEGDFVKAGQLLVKLDDSVLQAELTQAQAAVAEAEANLEKLRTGNRSEEIERAREQVRMAQAEAMQAESDLELARKRVERNRNLEAEGAIARDRLDEIVNEERSKQSALNTAQAKLREAQQKLKELETGARREEIAQAAAKLAQAKGQVKVVMAQLKDTRVIAPVSGKIAERKARVGDLTSTSEKLFTIIENGRLELRVKVPETQLPLIRMGQSVEITSDVDSNLKLVGRVREIIPIVNEESRQATVEVDLPAQSGLKPGMFLRASITTSTATSLTTPMGAILPQADGSSIAYVLQENQTVKAQPVKTGELLSGDRIEIVEGLQAGDRVVVKGAAYLKDGDRISVISP"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_019689.1",
+            "accession": "CP003590.1",
             "completeness": "Unknown",
             "end_coord": 1525928,
             "start_coord": 1517859
