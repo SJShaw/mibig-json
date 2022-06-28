@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_AABK04000003.1 dated 02-AUG-2005",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -36,8 +46,201 @@
                 "molecular_formula": "C46H66N16O12S2"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "TeryDRAFT_3503",
+                    "product": "Peptidase S8 and S53, subtilisin, kexin, sedolisin"
+                },
+                {
+                    "id": "TeryDRAFT_3504",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "TeryDRAFT_3543",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "TeryDRAFT_3505",
+                    "product": "Peptidase S8 and S53, subtilisin, kexin, sedolisin"
+                },
+                {
+                    "id": "TeryDRAFT_3506",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "TeryDRAFT_3507",
+                    "product": "Protein of unknown function DUF1568"
+                },
+                {
+                    "id": "TeryDRAFT_3508",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "TeryDRAFT_3509",
+                    "product": "similar to XisI protein"
+                },
+                {
+                    "id": "TeryDRAFT_3510",
+                    "product": "Protein of unknown function DUF433"
+                },
+                {
+                    "id": "TeryDRAFT_3511",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "TeryDRAFT_3512",
+                    "product": "Protein of unknown function DUF181"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "TeryDRAFT_3503",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 790309,
+                                "start": 788201
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MPDFADIPGLTKLWTHTKGDPRITVALLDGTADIERGCFQGANVTKINSYWQEAIELDPKDIDTYREIQNSDEKSEVKQAKLKEAIPDEITLQILGAAFHATHVFSNIFGQPGTPVEGIAYKCRGINIPLGYGNDYYIDPINLARGINLAVDLGANIIHCAACRPNQTGIGHEILEKAVRQAQENNVLIVAPTGNNKGECWCLPAILPGVMSVGAMKDNGQVFKFSNWGGQYQQQGIIAPGENILGAQPGTEETVRQKGTSCAAPMVTAISALLMSLQLQQGASPDAEAVRAALTNSAIPCTLEDTEEIERCMLGKLNVAGAYQLLTGKQLEAVGVSAAEATSEEDVILEDSGVDVGEVIVDETSVVPAQENAPISFSLPVGENRESLTNVATNITAASGVEQNNIKPTKVSQTAHGVTPSARSNMIYALGTLGYDFGTEARRDSFKQLMPAVILNGVQVPANPYDGRQMADYLDANLYEGKSLIWTFNIELTPIYALRPVGAFADDIYETLQNMLAGEVEAEDHEDYIDRVSITGRLTDQTVKLFSGQTLPVVKINSPRGMYGWTVNSLIDNALESVRTEQTEAEEEAIRKSLRSFLQRVYYDLRNLGQADRDRAINFAATNAFQATATISEAVAIGMELHSIEVEKSPFCRYNSNCWDVKLKFFNPDNSRRAKRVYRFTIDVSDLMPVTLGKVRSWSVPK"
+                },
+                {
+                    "id": "TeryDRAFT_3504",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 790674,
+                                "start": 790459
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MRLPKQAAPVKRPDIISPHLAVDVEHGRGQDLVAIRMDLMHGANYNDPAPYNYPTYNQIMSSGWGGNYFCL"
+                },
+                {
+                    "id": "TeryDRAFT_3543",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 791232,
+                                "start": 791014
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MIMSKKDVKKTPQAKSEITSPPSQPVQQPELKIEENTILATGLEDYGRWKGMFQDQKREGKPPFPRRGRIWA"
+                },
+                {
+                    "id": "TeryDRAFT_3505",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 793462,
+                                "start": 791462
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MPEISSIPGIKQLWAKTKGNSEVCVAVLDGLVDLKHPCFEGANLTQLPSLVQGQATPQSEMSLHGTHVASIIFGQPNSSVSGIAPHCRGLIVPIFSDYHRRTSQLNLARAIEQAVNAGANIINISGGELTDYGEAEDWLNRAVSLCQNNNVLLVAAAGNDGCECLHVPAALPTVLAAGAMGENGQPLDYSNWGENYQTQGILALGENILGAEPGGGTRQLSGTSFATPVVSGVAALLMSLQLQREEKPDSQKVRTALLKTAVPCHAQEKRRCLVGQMNISGAIAHITGETMSESEQDNSNGIEASCGCESTPEASLPGSVGLENSLPTPADNGVVAAGVVEAGVTASQPLSSTNTSNTSNNQISAMPNNSQSNNSNGITPSQPPQDVTNIVYVIGTLGYDFGTEARRDSFKQLMPAVTIGNTQIPANPYDARQMVDYLANNLSEAKSLIWTLNMELTPIYAIEAVGSFAREVYEALQELLAGEVEAEDAERYIERVSIPGKLTGRTVKLFSGQVVPVIEPVSPRGIYGWRVNTLVGSALEAVRGEQAEADDEQMRRSLSSFLNRVYYDLRNLGQTSQDRALNFAATNAFQAAQTFSTAVAAGMELDSIAVTKSPFCRMDSDCWDVQLKFFDPENNRRAKKVFRFTIDVSDFIPVTLGEVRSWSSPY"
+                },
+                {
+                    "id": "TeryDRAFT_3506",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 794753,
+                                "start": 794415
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTDDGLTEWHPAFLKLANTLEGCAQKYKGFCNKYKPKQKTPKKSHWGSRLLGGITLNFEKRSSQKTKKSSTSFDFPPCQVPPCQVTEKLEVAKVVSQFVEANRPPKQEGKDF"
+                },
+                {
+                    "id": "TeryDRAFT_3507",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 795201,
+                                "start": 794881
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MARKPRNFQTGYSYHITTRCNNREFKLIRRECREVFLYAIKKAIKKYNFKLYALCIMSNHVHYLIEPAQPEDLAKIMHFLNWYTAMCFNRMLKRTGHFLLGKTLFC"
+                },
+                {
+                    "id": "TeryDRAFT_3508",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 796765,
+                                "start": 795338
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTSSLFTLSLTSLVTLIHEDDNIILQAPIRSPLKKTTPTRQVKFEHPSSGLISALNHLKSSQKTYPQLKALVVAADGEEAGERFDVELEKLINTGWVSHSLYPLATVIPIVEKNYRFKSPEIAQLQGKFTLSRFAYLHQSQGKTIIECPLSTSQIIALDWRCGALLAKLSQPQTPSSLSADIPDITEEIAQKFLALLMATQMLSPETEPTPLMYWEFHDLLFHSRSRIGRHNNPTGGTMRFFGKTEPLPIVKPPMSDKVIKLVQPNLEYLTQIDIPLTKALELRQSIREYDEQPIRLQQLGKLLYCCARIKKIETMETEEFGTLHLNYRPYPCGGAIYELEIYPVVNRCQGLAAGVYHYQPLEHCLYQISAHETQVEALIEDAYKSSGEQDQPQVLLVITARFGRIFWKYESIAYALILKHVGVLYQTFYLMATGMHLAPCALGIGDADNFAQITGLDYYEESSVGEFLLGSVRN"
+                },
+                {
+                    "id": "TeryDRAFT_3509",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 797166,
+                                "start": 797023
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MQKIWVQHDGTEDAIADQLVEKGVPAEDIVLAYHPPLLRKYTEFAES"
+                },
+                {
+                    "id": "TeryDRAFT_3510",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 797756,
+                                "start": 797382
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MEITLDPELEKFIRNQVQSGQYCSLDEAINVALRLLATQTLASQGINKTPNVCGGDACVGKTRIPVWSLVSDRRLGMSDPEILAAFPTLSAVDLVNAWVYAERHLEEIESAIRENEVIMETEVE"
+                },
+                {
+                    "id": "TeryDRAFT_3511",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 798096,
+                                "start": 797758
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MVLLYADENFPLPVVKNLTNMGYNVLTAQAAGKANLQIPDEEVLAFAVNNGRAVLTRNRRDFIQLHIANSNHEGIIVCTEDSNFVGVANRIHGTISTTESLKNKLIRINRSS"
+                },
+                {
+                    "id": "TeryDRAFT_3512",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 800715,
+                                "start": 798406
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSNPQIKPHFHIEIIEPKHVYLLGENSTDALTGEFYCQLIPLLDGQHSFEEICETLAEIAYPEDVEYVLNRLKTKGYLTEATPELPPPAAAFWSLLNVEPQFASDCLQKNTVYIASVGETTTDLLIESLTAVGIKTKPWENYPLTSDRKALLVVLTDDYLQPQLKEINKTALSASQPWLLAKPVGGVLWLGPIFEPENTGCWECLSQRLRGHREVEATVLRQKEKSVVSSASKRDVTGCLPPPPVFLPSTLATGINLITTEVAKWIVKESGVEMPKFTTLAGKVVTFNQTDFSTTTHILSKRPQCEACGDSKLLQEMSSYPLSLSSRKKHFTTDGGHRAFTPDQTTKRYKKLISPITGVVSALVRVSDPENPLIHTYSAIHSFGAAKSLGALRRSLRHKSGGKGKSDRQSKASGFCEAIERYSGIFQGDEPRKKSTLAKLGKQGIHPERCLHFSPTQYANREELNANSKVAHDWIPQPFDASQEIEWTPVWSLTEETHKYLPTAWCYYAYKLPKKHNFCVADSNGNAAGNTIEEAILQGFMELVERDSVAIWWYNSLQRPGVDLASFDDPYLLEVQEFYEQNQRELWVLDLTTDLGIPAFTAVSRRVNEEYERVITGFGAHFDPKIAILRAVTEVNQIGLGMDQQDISQMEEGLQRWMTTATLESHPYLAPHPEIPAKVYGDYPKLWSDDIYDDVLTCVKIAQEAGMETLVLDQTRPDIELKVVKVIVPGLRHFWSRFGKGRLYDVPVKMGLLSAALQEEEMNSMPMVF"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_AABK04000003.1",
+            "accession": "AABK04000003.1",
             "completeness": "Unknown",
             "end_coord": 800715,
             "start_coord": 788201
