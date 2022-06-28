@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_003888.3 dated 03-AUG-2016",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -30,8 +40,252 @@
                 "mol_mass": 2138.19
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "SCO2438",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SCO2439",
+                    "product": "calcium-binding protein"
+                },
+                {
+                    "id": "SCO2440",
+                    "product": "transcriptional regulator"
+                },
+                {
+                    "id": "SCO2441",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SCO2442",
+                    "product": "GntR family transcriptional regulator"
+                },
+                {
+                    "id": "SCO2443",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SCO2444",
+                    "product": "acyl-CoA synthetase"
+                },
+                {
+                    "id": "SCO2445",
+                    "product": "acetyl CoA carboxylase subunits alpha/beta"
+                },
+                {
+                    "id": "SCO2446",
+                    "product": "peptidase"
+                },
+                {
+                    "id": "SCO2447",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SCO2448",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SCO2449",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SCO2450",
+                    "product": "Ser/Thr protein kinase (regulator)"
+                },
+                {
+                    "id": "SCO2451",
+                    "product": "rod shape-determining protein MreB"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "SCO2438",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2617732,
+                                "start": 2616326
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSRRAVVVGAGLAGMLAAAVLANAGVAEVVVLDRDELPDGPRQRRGLPQGRHAHLLMPGGLTAMEEIVPGASLRGRLLAAGAHEVSLGSGMLARSPEGWLRRWRRPGPVMLTCTRALVDWTVRAAVLEQTAVEVRRASVVGLTGSSGRVRGVRVSGPGGEEDLDADLVVDASGRGTRIIPWLDGLGLSGVRTRTVDSGLVNASRVYRVPAGAERFPLTVVHADPYVSRPGRSAMVMPIEGDRWLVSCGGTRGGEPPADPEGFLRYTLGLPDPIVGRLISGAEPLTDVHLSRSTSNVRHYLDKVRDWPEGLVVLGDALGTFNPAYGQGMSVAAFGARVLGQELDRAGGLDAPGLARRVLRGAARPVDAAWAMAVGQDVLYPGTRGGGRPGIADRAATAYTRRMTRAATGSLAAASAIWDVTSMRTPPTRLFHPSAVLAALAGPPLPLLTGPPLTPGEREVLDGLDRTGA"
+                },
+                {
+                    "id": "SCO2439",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2618650,
+                                "start": 2617790
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MKRTGTAFEVAVHEEATLGEGPTWDPATGRLLWLDILNSRVHTHDPATGRRTVRRTDQHVGAVKPRAGGGLVLNLRDGIGLLDPDDTFRWLHREPVPGRRGNDAAVAPDGSLWAGTMRYDEARGGGTLTRCTGDGTAETVLDDVTVSNGTGWSPDGTLMYYADTPTRRIDVFDVTADGRVAGRRPLAAIEDGAGFPDGLCVDADGCVWVALWDGGAVRRYTPSGELDRVITLPVPRVTACAFGGPDLTDLYLTTARVGLPDPHPLAGSLLVVPDAGRGVAQPAFAG"
+                },
+                {
+                    "id": "SCO2440",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2619420,
+                                "start": 2618647
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MGRLVPAVTRALDILELFLDGDGTLSAPDIVRRLQLPRTTVHELVTTLAARKYIVPVAGQSGRYRLGVRPYQLGARYAEYLDLAAEGQQVARTVAETCDETVHVAILEDTDVIYIAKVDSTHAVRMVSAAGRRLPAHCTSVGKMLLASLPEPEVAARFPDGAELTAMTPNSITDPAALREALAAIRERGTAVESRESNPDVSCVAAPVRDRTGRVVAALSISVPMIRWSEERRAELEQLAVKGAADLSERLGHRSAA"
+                },
+                {
+                    "id": "SCO2441",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2620149,
+                                "start": 2619547
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MMAAMPTGKRPAGPFTPRDFQLVLLRRMADHNPGPVEDARRELGASVAQMREANRRWQAMLRSPRSRSAAARYRSVLGEPESVAPRRIGDLECEARQWALPLWPGLRFEVLVADRGVVWNEWLVRAPGAPGPELRTLDDLTPWSCTVDEAARAFAPARPLQGSAPTRWGLAFTAPDREGVRHEVVAEFTWGLLQRTAVGG"
+                },
+                {
+                    "id": "SCO2442",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2620881,
+                                "start": 2620174
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTDALRPMTKQRLYEQVLERLRQYVADGGLRAGDRLPPERDLAQRLGVSRASVKQAIVVLEVQGLVEARHGGGTYLVRDSLDVEPVEKMVERRRRLPDVLEAREALETKLAELAAERRTEDDLAAMRSALAVMAEEIDRDGHGVEGDRLFHAAVTAAAHSSLLAEFMRSIAHQIAESRTESLRQPGRPGRSLAQHRAILDAVAARQPRQAAAAMRRHVRTVAKVRLLDWDPEDER"
+                },
+                {
+                    "id": "SCO2443",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2622488,
+                                "start": 2621091
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSPELISILVLVVVFVIATTRSVNMGALAFAAAFGVGTLVADLDADGIFAGFPGDLFVVLVGVTYLFAIARANGTTDWLVHAAVRLVRGRVALIPWVMFALTGALTAIGAVSPAAVAIVAPVALSFATRYSISPLLMGTMVVHGAQAGGFSPISIYGSIVNGIVEREKLPGSEIGLFLASLVANLLIAAVLFAVLGGRKLWARGAVTPEGDGAPGKAGTGTTGSGSDTGTGTGTGTGTSAGTGGTAPTAVAVRSDRETGGAEGTGVRLTPARVATLVALVALVVAVLGFDLDAGLTAVTLAVVLSTAWPDDSRRAVGEIAWSTVLLICGVLTYVGVLEEMGTITWAGEGVGGIGVPLLAAVLLCYIGAIVSAFASSVGIMGALIPLAVPFLAQGEIGAVGMVAALAVSATVVDVSPFSTNGALVLAAAPDVDRDRFFRQLMVYGGIVVAAVPALAWLVLVVPGFG"
+                },
+                {
+                    "id": "SCO2444",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2624033,
+                                "start": 2622576
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSSLFPALSPAPTGAPADRPALRFGERSLTYAELAAAAGATAGRIGGAGRVAVWATPAMETGVAVVAALLAGVAAVPLNPKSGDKELAHILSDSAPSLVLAPPDAELPPALGALERVDVDVRARGAVPEDGADDGDPALVVYTSGTTGPPKGAVIPRRALATTLDALADAWQWTGEDVLVQGLPLFHVHGLVLGILGPLRRGGSVRHLGRFSTEGAARELNDGATMLFGVPTMYHRIAETLPADPELAKALAGARLLVSGSAALPVHDHERIAAATGRRVIERYGMTETLMNTSVRADGEPRAGTVGVPLPGVELRLVEEDGTPIAALDGESVGEIQVRGPNLFTEYLNRPDATAAAFTEDGFFRTGDMAVRDPDGYVRIVGRKATDLIKSGGYKIGAGEIENALLEHPEVREAAVTGEPDPDLGERIVAWIVPADPAAPPALGTLADHVAARLAPHKRPRVVRYLDAVPRNDMGKIMKRALNRD"
+                },
+                {
+                    "id": "SCO2445",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2625402,
+                                "start": 2624026
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTERLTAREFLALVTDDATFSELPHADGPWRPDGPLGWPGYDASRARAAERTGEAESVVCGTGLVEGTRAVLVSFEFGFLGGSLGHRTGDRLEAAYAYAREHRLPVVPLVATGGSRMQEGMLALTQLQRVARQSALTRAAGLAQIAVVRDPATGGGWATLGAGADVVLALPGAQVGFAGSRVRPPDADPAAYTAEAQVAAGSADAVVPPGELRATLGRWLRLLTAPSGGPAPVPEPLGARDLPAGGWEAVRRARDPGRPRAGAYLDAYFTDRVALSGDRCGGRDPEGMLCGFGSHAGRTVAYAAQTGTATRPAGYRTATRLIHLADRLGIPVLTLVDTPGAANDAEAERAGAGPAIADLFGAVASARTPVTTLVIGEGGSGGALALAAPGSTWATPDSYFSVIAPEHAAAILKRPPAEVEATAGQLRLRPQDLAALGVIRTSEQLFPGTGDRRSEERM"
+                },
+                {
+                    "id": "SCO2446",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2629333,
+                                "start": 2625671
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSTGPVRRGAALLSAGLVIALLPAGTSAAQDPPPDPARSRTAAARTAAADAARTVTLVTGDRVTVTDLGGGRKTVAVERPEGATGAVRTSSFGGRTTVVPDEALPYLRDGSLDERLFDVGALLEQGLADSETGELPLIVTYGKGVRAATPRGAERTRSLPSVRGAAVEADKGRAFWREFTRRGAGVEGVWLDGRVTADMAESNAQIGTPEAWEAGLTGKGVTVAVLDSGVDAGHPDLAGRIAQSRSFIPGEEVADRHGHGTHVTSTVGGSGAASDGKEKGVAPGATLAVGKVLDDEGFGSESEIIAGMEWAARDVDADIVSMSLGSTEPSDGTDPMAEAVNTLSRETGALFVIAAGNTGAPSSIGSPGAADAALTVGAVDSADQAAWFTSAGPRYGDNALKPDLSAPGVGILAARSRLAEGSGDYTSMDGTSMATPHIAGVAALLAEEHPDWSGARLKDALMSTSKELDVSAYQLGAGRVSVPAAVGADVTATGSADLGFYSWPYEADEPVTRTVAYTNSSDTDVELKLSVRGAPEGVATLADTSLTVPAHGTASTTVTGDGSKAPVGDTSGQVVAADASGKPLAHTAFGLVKEGERYTLTVHVKDRSGAATPADLTVQRLTEGVDPFPAHVGDSGTLKLRLEPGTYSLSSFLDVRGSHGADSLGLGFLAAPEVVVDRDREITLDGRELREIGADVGRRTETRQLLMEYDRGANGSDLFGAVQVPLTYDSVFAAPTKKVAQGDFEYRTVWRLGKPLLEVKGIDEATVQSGGTLTEGRTRLPLVDVGAVGAGPFPDGVRGKAVLARLTEGTEPAALAQAAQDAGVKVLFVTDDAPGRLMSWWGTDDNADRPLQIATVSAADARRLHRAGRVDMTGTRNTPYVYDLSEGHEGAVPDRDLTYEPGHRDLAVLRTRYHAAEPSSGGEFRYSLTDTFPIGLGFRERIDYPVERTEYVSTGPGQLWHETVTSAGEALEERGGLSRYRGGSRAELNWFKPVWHPYLGTGLGWGQQRAGNRLQFNAPGWGDSGPDHTGFGDVWSEGSGMSQTTSVYLDGEPVDQGPSSAAYVWDAPADEHTYRLVTDTALDAARWPLATKGHAEWTFRSAATPDDRWTFLPLINLSFDVDTDLAGKVRAGKKLRIGLGAAYVAGAPDTGKLGGGKLEASYDGGTTWHQVRLRGGDGEASWYGTLSVPRDAEHVSLRASARDDRGGSVTQEIVRAVAVR"
+                },
+                {
+                    "id": "SCO2447",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2629973,
+                                "start": 2629512
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MVLRTDTYGTRGASGVMDGLVEFRTEDGVRVVVEGVEDEDGARLVSRGDGPARAARTFEDSLDGVRAAAASALRVFRDGSLRPDAVELEFGVKLSAEAGAVIAKGSAEGHLVVRLNWSPEPSPTRTEPQPSATRPEPRPSPAGPEAPDAVALS"
+                },
+                {
+                    "id": "SCO2448",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2631634,
+                                "start": 2629970
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSGAAWHARVECGREVGAGFLVSARRLLTCAHVVRWADRAPVTVTFPGRRELGELSGTVVVHGGWQEGAADLGDLVVLELDREVPLAPAVFARPGTERTVPVPELIAYGFPKGYDEGMLASYRALPGPLISDEWVQLEAVTAHGQPLAAGFSGAALTLADGTVVGMVSAVAGARDVRVGRMLPVEVMARYWPELGELVPTPGHRADARRRLYALVRRAEESGLDCDPNRLYVSAMDAFDPPLPEGGFGSLREAAAYVQWEVPDPAAVARFADRLTERLHAPSGPAPRPAAWSPIVVEIDRSGAGADQVTVEVSAYRDGRRRPVGSRRLARGAVRSFVQEGIDEAFTQLDPGADELLTFVLPREWLNEPVAHWECGEDDSTPLGCAYPLVVTDRYRHRSGRLRHQLHKKWRRLGSGTGGTLHRVDCGTRERPAGLRKRLRDDAELAGFATPPSAAPEYFEVGLNLPVPVLLWPLRECPGEEGPDGRCSGTAFLDELAASVADVPPAELPRLVMELRETADAAEVPEEHWARDVQLLWDDPRCFAEPPALLHSPVG"
+                },
+                {
+                    "id": "SCO2449",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2632795,
+                                "start": 2631773
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPLWPVYTGAPDPHDGIARLPPPPPWRAFDGGPVLDPPDADGDTAAASPDRAHRAATYQATEDTVQLVNAALYLRRPLLVTGPPGTGKSSLAYAVARELRLGPVLRWNITSRSTLGDGLYTYDPLSRLYAARHTTQPPDAPAATGVEDHLRLGPLGTALLPYARPRALLIDEIDKSDLDLPNDLLHVLEEGQYEIPELVRASRDIPDGHAEVLADGTDQRVPVERGRVRCNAFPFVVLTSNGEREFPPAFLRRCVSLRLRQPDDDHLAEIVRAHLGEPDGHARQLIHRFLSRVGSGELATDQLLNAIYLARSSGLGADSLDELAEQLMPYLGRSAQSDAF"
+                },
+                {
+                    "id": "SCO2450",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2636844,
+                                "start": 2632795
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPTDRPGTPDPPPLPLLADLLGRAATGARPTPLELAELLWLAGHMEPPEQDPPDGPASGTRPAEPPPAPEGTREQGQEGDGQRERDRKPERDRHGDRERDRDGDRDRGPGRGPWGDGPGRPSTRSEAPRTPLRLPSPAPAPGTSAAQPHSALLAPAPPMLRHTLALQRALRPLKRRADAPVGHEVDEAATADRIARLGAGPEWWLPVLRPVRERWLRLHLVHDAGPTMPVWRPLVRELQAALAQSGVFRTVTLHRADPDGTVRGDGAQIPADGRTVMLLISDCMGPQWRAGPDGVRWFATLRRWARRAPLAVLQPLPEQLWRDTALPPVPGRLSAPHRAAPSASLAFTPYDTAAPRAPEGTVHVPVLEPGPEWLANWAALVASPGGTPYPGAAAALHRPLPADADDRTDVARLSPEELVLRFRASASPQAYRLAGHLALGRPDLPVMRLVQAAVEPDPRPQHLAEVILGGLLTTVAGPPGSYAFRPGVRELLLRGLPRTARNRTHDLLLRTGGLIDDRAGRSPGEFRALIPSRKGTERAGPSESFATISEESVRQLTVRERPSAPSPFPPGLGARYRPTRRLTPSGRIWLAEDTGPDRTAPDRTPADRTAAHPVPTNRTVAIRLHDPATGPAARQTFLRNARRLTRLSHPNLVTVLDAGIEGDVPYVVMEHLDGIALGALTRSGDGRLPVPLTVSVGAQLARALTALHRAGLAHGGLEASRVVLLPDGTVRLSLFEPALALGPGARSADLRALCEVLLRLTSGTSRPAVPVDSRRLHRLPTALRIHYAHAFDQLLSPSPAAQARGLDLLGDPALLARAGEAYAPRRYRALGPLRVGLPDGPADLPRDVRALLAMLLLKHGRTVTHEELRWGLWDPGNEPRNPRSETTRLAKRLAEILGPGVLATAAHGYALHTSADELDLVRCDELVRRADAARLEGALAEAHDLVSGALSLWGDAEPLAGVPGPAARTARTRLLRLRLALHTKRAELDLVLGEYDRAAAELSGLLRAHPHREDFRRLCLIALRRQGRVEEALEVYEEYELSGGRSPALTALGRELREEYAEPVDDAPPWTEYEQRPVEPGAPESTVSAPDELPEGPFPTEDGLWTPLLDDDAEHDTAQARAEADEREERAESRAALREAMRAEGLEPEPELDEDPGPEEEEEPDEPPWIDFDTGFRACARYTLADGPVDRDARAALHGLVTELLADSGADAAAYELVDEPGGPLVLLAPRAEAAPLLRATVEGLPGRLARLAGLRLRIEFWQVEFGLDGNGEQSLGRADADAVGAVLDASAAQAVVVLSDSLYYDEVREEGQYGPAFPPDLFRPLADDTGWYHLVEGGGRPGPAADLR"
+                },
+                {
+                    "id": "SCO2451",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2638096,
+                                "start": 2637014
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTASTANTASLEALRRCHFAVDLGAARTRVYVKGAGLVVDQPSAAAVNTRTGALIAVGDFAEKMTGRTPGYIRVVRPVSGGTVVDIEMAQRMLRHLLGDRVRRALRRKPRLRAAVCTPHDADPLSQRAAIETLVGLGARRVELVDTLIAAAVGCGLPVEQPEATMIMVCGAHATQVAVLSLGSIVTAVRVPVGGEAVDHAIVQLLRHQHELVLPSQSVRPLQLALSGNGLTPQGPSSTEIHGRDVATGLARSVRVDTATVRNAIQTPLTAVLDGIGKVLRDCPPDLVADLADRGIMMVGGSALLPGFDQMLRQATGMPVHIAERPDVCAVQGLGSMLEGRVEPLVLHPTTAGSDSHADSD"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_003888.3",
+            "accession": "AL645882.2",
             "completeness": "complete",
             "end_coord": 2638096,
             "evidence": [
