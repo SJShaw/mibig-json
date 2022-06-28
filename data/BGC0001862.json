@@ -12,11 +12,14 @@
         {
             "comments": [
                 "Remove negative molecular mass",
-                "Merged annotations from duplicate entry BGC0001930"
+                "Merged annotations from duplicate entry BGC0001930",
+                "Gene details extracted from RefSeq accession NZ_LVHY01000134.1 dated 08-AUG-2019",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "3UOU7PODQJXIM6BEPUHHRRA5",
-                "SJG3CBEHSM6A3I74YXLH6GLA"
+                "SJG3CBEHSM6A3I74YXLH6GLA",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -37,8 +40,100 @@
                 "mass_spec_ion_type": "[M+H]+"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "A3Q35_RS17335",
+                    "product": "pallidocin"
+                },
+                {
+                    "id": "A3Q35_RS17340",
+                    "name": "sunS",
+                    "product": "pallidocin S-glycosyltransferase"
+                },
+                {
+                    "id": "A3Q35_RS17345",
+                    "product": "pallidocin leader peptidase/ABC transporter"
+                },
+                {
+                    "id": "A3Q35_RS17350",
+                    "product": "thioredoxin family protein"
+                },
+                {
+                    "id": "A3Q35_RS17355",
+                    "product": "disulfide bond formation protein B"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "A3Q35_RS17335",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2953,
+                                "start": 2768
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MKDLLKELMYEVDLEEMENLQGSGYSAAQCAWMALSCVNYIPGVGFGCGGYSACELYKRYC"
+                },
+                {
+                    "id": "A3Q35_RS17340",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4356,
+                                "start": 3058
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MGNLRDFYQLMKDNYADSNLFKDLNLIHNISNDIQIGINCDFSEMLGELVGNYDSLNYPSITCGILTYNEERCIKRCLESVVNEFDEIIVLDSVSEDNTVKIIKENFNDVKVYVEPWKNDFSFHRNKIINLATCDWIYFIDADNYYDSKNKGKAMRIAKVMDFLKIEGVVSPTVIEHDNSMSRDTRKMFRLKDNILFSGKVHEEPVYANGEIPRNIIVDINVFHDGYNPKIINMMEKNERNITLTKEMMKIEPNNPKWLYFYSRELYQTQRDIALVQSVLFKALELYENSSYTRYYVDTIALLCRVLFESKNYQKLTECLNILENNTLNCSDIDYYNSALLFYNLLLRIKKISSTLKENIDMYERDYHSFINPSHDHIKILILNMLLLLGDYQDAFKVYKEIKSIEIKDEFLVNVNKFKDNLLSFIDSINKI"
+                },
+                {
+                    "id": "A3Q35_RS17345",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6535,
+                                "start": 4388
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MRYRGFNMILRKFAHVRQQENYDCGAACVATILEHYGIDSNLNELKDRLKTNGYGTSLLSISKLLNEVGLTNKVYNVNDSIEKVIRNIELPCLAVVNNGNTSHYIVIHKINGNDLVISDPLDYKIRKEKITKFKTYFAGILMVIYPSNNFYIESNKKSKLKNNYRKRFFNFLKGNKIFLFWTFVLSLLLTIFGVTLSYFTGILVDEIIPNNLTETLNFIALAFILLAIIQCTFQYFRDRLIVKTARKIEKVLTERYFSHLLQMPYLSIKNREVGEFISRFNDALTLTELFSNTLITAIVDLLLIFISGALLYYVSSDLFLVALMPIVLYIVITYLFFDKLSLKNRKVMEKHADVNAFFIQALNGIENIKSLNKENNIQEINKIKLYSYIDAGLQLDNTNVLSMYFKNIVQFIFPIMILWIGGKQILAAKLTLGALFTFISLMNYFFTSIQKVVNLQPYIQKAIVAAERFFDILDYNLIESCNKGEKINNKINLVDVRNLTFKYNDNNLIFNNVSLSIHRGETIAFVGQSGSGKSTLAKLLVKFLDVEDNSIFINGKDLNEIDVNSLRKRIFYISDKKFFVKGTILDNLCLGGDFKQSDIDEACKIACIYDFINELPGKYNFHLQENASNISLGQAQRLSLARALLHKPDVLILDEVISNIDKDNAISIMNNLKNIDIIKIFINHNIYLKDYYDKVYIFSDNNINLLERNLEVEVL"
+                },
+                {
+                    "id": "A3Q35_RS17350",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6939,
+                                "start": 6532
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MKKFILLLSAIFLTLGVCTYVFKTSASNDNKYKELTFEQYKEKIKKQDSFFIYFHKTGCPACQELAPILNKVIVDKNKIVYAVELSKYKNEYKDYLVKNKITSVPMIIYYDKGVERKRLGNEVITEEMLKDFLSK"
+                },
+                {
+                    "id": "A3Q35_RS17355",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7572,
+                                "start": 7123
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MLRFISYNQYLFFTLIISLSGTIGSLYVSEVLNISPCALCWFQRIFMYTIPIISLIALIKRDNNAKVYLQTFSGIGFIIAVYQYIIQKTEKTSPFCSLDNDCNTIHFELLGFITLPLMGAIAFLCMFLMGFAINNKKEESVNNILVQQR"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_LVHY01000134.1",
+            "accession": "LVHY01000134.1",
             "completeness": "complete",
             "end_coord": 7600,
             "evidence": [
