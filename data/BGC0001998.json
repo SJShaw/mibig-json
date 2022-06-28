@@ -8,6 +8,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NT_107014.1 dated 06-APR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -25,8 +35,122 @@
                 "compound": "aspernidgulene B1"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "AN1784.2",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AN1785.2",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AN1786.2",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AN1787.2",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "AN1784.2",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1183536,
+                                "start": 1176959
+                            },
+                            {
+                                "end": 1176917,
+                                "start": 1176007
+                            },
+                            {
+                                "end": 1175721,
+                                "start": 1175678
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MAYDNTVVEPIAIIGTGCRLPGGSSSPSRLWTLLKNPRVVASETPGDRFDINAFYHEDPGYPGTTNSKEAYYISDDPRPFDAPFFNISATEAESIDPQQRQLLETVYESLESAGLRLDALQGSSTGIFCGVMNNDWGELQSADYKSLPQYLATGAARSIIANRISYFFDWHGPSVVVDTACSSSMVALHHAVTALQQNECTLALATGTNLIQAPNIFISTTKIQMLSPTGRSRMWDANADGYARGEGVISIVLKRLSDAIRDGDDIECVIRATGTNQDGRTMGLTMPSSVSQLQLIQSTYARAGLDPRRVQDRCQYFEAHGTGTLAGDPQEAAAIHHAFFGPPASPEKNGVYNGCDVSVNGAANGAFADDNDILLVGSVKTVVGHTEGTAGLAGIIKASLNLQHGLISPNLLFETLNPALEPFASHLKVVTELTPWPSLPTGAPRRVSVNSFGFGGTNAHAILESYDANVKESGSTVAAGQSLTAALLPFVFSAASEGSLAAVLNSYAGYLKGKPALNLVDFAVTLLRRRSALKFRVSLWASSTEELIGKMEEEAEAIGKRTKTTNSRRCSDTPRILGVFTGQGAQWTQMGWELVGASPVARAWLEEMQNSLNDLPTKYRPSFSLTGELSNSVSKMKSATLSQPLCTALQIIIVNFLRAIGVSFTSVIGHSSGEIAAAYAAGYLTATDAIRIAYLRGFMASRAGGRNSQPGAMLAAGVSAQEAADICAKSKGTITVAAENAPFSVTFSGDANAIQSLEKKLKDENKFCRILQVDTAYHSHHMEPCCRPYLDALEECNISVKDAISGITWYSSVHPGDYIDSASLRGAYWIENMAMPVLFSQAVAHALDEGDSPPDFVIEVGPHPALKGPVQQNIAEFFPAASNVTYLAPCIRGSSSIASLSNVIGSLWETIGAGAIDTTRYLRLFGLGQAKFIKDFPTYPFDHSRSYLAQSRMIKNHLHKRSVPHPLLGSLEPESADGEWRWRHYIRQKDLDWLNGHCIQAQPVFPATGYIVMALEAASSLSSRSIQSIQLGDVAIHQAITLPENEAEGVETLFRFNRMETTDEMTSGTFHIHASTGDAFQLRASGQMIISWGAPNPDLLAQSSGSGSAGMSAVDVDELYAFLAKVGYGYSGVFRGIRSLYRQKDASHGEIQDVLPDGKPCRFLLHPALLDCTLQTMLGAIGAPDDGELYTLLVPTRIKSVIVNSALCRNPTGETFLSNANVTQIDADGISGDVSLFTHNNEGIVQMEGVEIAPLVQPPTERVVFSKLAWGPLNPGHGSFADPVDFSTHALTMEHVALLYIKLVNSQLTDDERRNLAQDHHRSRLAAWIDRTLTKTSAGEHPILHKDWMNGTQADLDTLLAEASGSVMAEIANVVGTTLRRFFRGEASILEEVRKNDVLTRFYRHDVETEMMNERLGRIVGQLAFRYPRMKILEIGAGTGSATHSILENIGRSYHSYTFTDISVGFFEEARSAFAAHEDRFLFAPLNVEIDPAHQNFEAHSYDLIVAANCLHATRSMVETMAHVRSLLKPGGYLVMLEITNLDAIRATFLMGGFEGWWAGEKDGRIWGPMLDVLTWEQLLRDSGFGGIDLRVGLGDPKLCLYEVLVAQAVNDQVNLLREPLSAQAETHTQQQWGDLLILGGSTAKTSALVKELGQMLKARFHLVLVAPTLESLSLTGCSQLSVLCLTDMDSPCFRGLTEQRLQALQMLISVTHKLLWVTAGPESDCLDLGLTKGWLRSLAYERRESLHQYLNVENADAVTAELLATTLMRLVYTESGNDYMLSRLVHATEHEMYFRNGRMDICRLQYENDMNQRYLSARQWLSKQVRATDEISVVPVGKNRYKLRVGTGERQLLRCQSVDGVRIHVQYSTVSAVPVGDGFLHLVLGEDKSTGARLIALTERYENTIECPESWTFKVRHEILAGKEALFLGILAGVLLAAYLVDKTPPHSTLFVHKAGPALCNAIWTRALGKNVNPFFTTDTPTSKTQNTTFVHPRVSTRRLKELLPRNIAVAAALDGNTTDGVSSRVKGLLSLPVRVETLETLYRSSPLRPVCGDTEIHDLLQSSCLLATRLSDMDQQVTVVGIDTVANQDVQPDHILNWNPSSPFEAQVKPVTSLVTLSASKTYILAGMTGDLGQSICEWMVSKGARHVVLASRTPKVAPDWIRTMARKSARVLSLPMQVLRIVSSMRTVLIVYRTIQQQQFPAVGGVVNGALVLEDRLFEQMTLDVMQSTFAAKVQGSMLLDELSGPDVDLDFFILFGSITGVVGNFKQTAYSAATGFQSSLIHARRARGLVGSIIHPGLISGVGYITRKGSRWVQHVRKTTGSLLLSERDIDKLFAEAILAGRPECDSDPEIVIGLPLIDLEQHPDIFWSSNPLTWDFIDYSIKSTSQLGGTLHSRGSLKAVLQSDSISSIEDITPIVSEALIAKVRSKFSVSANTIVSPSTQLTDLGVDSLVAVDIRTWFATELAVDIPLLQILGGASIEELTATAVAKLPAGVDLIDDDSVLGTV"
+                },
+                {
+                    "id": "AN1785.2",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1184696,
+                                "start": 1184329
+                            },
+                            {
+                                "end": 1185444,
+                                "start": 1184757
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSHQSTINFIRFTFVILSLLAIYTILIPSIRKGFFQHITECEVTGKLSRSSGADARMIESFTGVPVLDIFVKALVTSFWPVINGENPALSLLGVPAVASMGVSYLLLLLEARRTRSLLSVTWRLAWVGLLQTNFSQAIILPIYCAIAFSSSKKTNGFRPIPHVTISLILCVYTGMALVALPSPAVIPDGLKQVVVAFMVPWALWVFVMVFMASYLFPIEVEKEKSRRTIYIFALVIAATTHLGALLASLLHADLGPADVFLPPLPWYVTRFPSLEEGMASFLQWDYLIASVTLFLWAVAVYLRDCDEHVDWQRFGLEVCAISVIISPAAMAVLLIWRLDEMLSRRGIAKED"
+                },
+                {
+                    "id": "AN1786.2",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1187166,
+                                "start": 1186551
+                            },
+                            {
+                                "end": 1186493,
+                                "start": 1186147
+                            },
+                            {
+                                "end": 1186035,
+                                "start": 1185571
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MDKRSFKVIVVGGSIAGLTLAHSLDLAGIDYIVLEKHSDPLATVGGSVGLLPNGWRILHQLGLRHQLEQEACPVKVAHMTYPDGFVFSDNFPAAIQERQVPEIQFPIGYMPANDERFGYSLSVLTRQQLIEVLYLGLRDKSKIKVGQRVIKIQHHQNRRGVSVFTESGQEHVGDLVAGADGVHSITRSQMWLQLGQKLDAEKERRQLVAEYSCVFGISSPLKGIPPGEQLIACHDNATVLAFPGKDAHIGWGLIQKLNRPCNSPATTQSSDGETALIMAKSAAGLGLCKDLKFHDLWVNTPKYSFTILEEGLFQIWHHGRIMTPNMAQGANTAIEGAAALANTLRRISQIDKPSEDDINRLLQGYTVRQQKRLRAVHAISRSVTRVHARQGRIKKIIGRYVYPYTPGAALHTFSRIIAPAPCLDYVPMPFPGPGWTRALVSGWSPISGVLLLVIPIIALVYGYSVINFGRDSINN"
+                },
+                {
+                    "id": "AN1787.2",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1187461,
+                                "start": 1187438
+                            },
+                            {
+                                "end": 1188438,
+                                "start": 1187519
+                            },
+                            {
+                                "end": 1188713,
+                                "start": 1188493
+                            },
+                            {
+                                "end": 1189022,
+                                "start": 1188781
+                            },
+                            {
+                                "end": 1189347,
+                                "start": 1189226
+                            },
+                            {
+                                "end": 1189808,
+                                "start": 1189679
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MATVSELCCAALNTSIGNRIAFPGSTAYNESLSSYFGVNAQLPPSCFVLPLSAQDVSVAVQTLTSQPDPCFFAIRSGGHTTSLGASAIEAGVTMDLSGMNTTTYDSSTNTAFIQPGARWGSVYETLLRDNVLVPGGRTASVGVGGYLTGGRNSFHAARVGLACLSIKGYEIVLADGEVAKVDQDSHPNLFRALKGGSNNFGIVTLFDMEAFSTEGTIWGGTVLYDISTKDQYIAAGTAFTDNIPNDPYASWVGMFAYNSTTDQTAIFTSLAYTRPVQSWPQAFSEFYAIPNITHTLRSATVLDLAVENSFPYGYRNVLQTGTYSNNAEIIQKAVIILNNQVKMAKLRARGKDYALFAIVQPWVPLFWEHSEARGGDVLGLERFETNLLNIAWDYSWDNSADDELLYELAQSAREQLDEYARSTGAYNEYIYLNYAGRTQDPLRGYGLENLEFLRRVSEKFDPDGVFQRLCWPLSLTPEATCCVVIACSPLMLAMALRTLPILNFISHCFSLFGQQNHIFQFNQRYILPSLAPNPANLAIAVRSNATASREDD"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NT_107014.1",
+            "accession": "CH236921.1",
             "completeness": "Unknown",
             "end_coord": 1189809,
             "start_coord": 1175678
