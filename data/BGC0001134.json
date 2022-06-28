@@ -20,10 +20,13 @@
         },
         {
             "comments": [
-                "Update compound structure (SMILES) for photopyrone F"
+                "Update compound structure (SMILES) for photopyrone F",
+                "Gene details extracted from RefSeq accession NC_005126.1 dated 11-APR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
-                "H5KVDLSVQ3TJW7SKCDNBDEVC"
+                "H5KVDLSVQ3TJW7SKCDNBDEVC",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -163,8 +166,31 @@
                 "molecular_formula": "C22H38O3"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "PLU_RS20505",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "PLU_RS20505",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4844043,
+                                "start": 4843318
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSEMILMSPILLKGVTLDWSAHRRWSWEFFAGMQEQKLALSNANGEFEVEVPVCEYIQALKSGEGRLANLYASGWRFFEHNPDMLQDFNEPIPAIGDLLQGIPEKLFKPLLWIFIGADCSGTALHYDVLETHAWLAVIEGKKRLALHAPVCWDHEYEQQRAQALQVLETRCNQGEWCYLEVNKGDLLYIPATWWHEVVNEGPTISLTRNFVSPEIARTVTSCARALEFHQLRPWLEGGMTS"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_005126.1",
+            "accession": "BX470251.1",
             "completeness": "complete",
             "end_coord": 4844043,
             "evidence": [
