@@ -20,10 +20,13 @@
         },
         {
             "comments": [
-                "Remove negative molecular mass"
+                "Remove negative molecular mass",
+                "Gene details extracted from RefSeq accession NZ_DS981518.1 dated 30-MAR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
-                "3UOU7PODQJXIM6BEPUHHRRA5"
+                "3UOU7PODQJXIM6BEPUHHRRA5",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -40,8 +43,167 @@
                 "compound": "clostridiolysin S"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "CLOSPO_RS15755",
+                    "product": "clostridiolysin S"
+                },
+                {
+                    "id": "CLOSPO_RS15760",
+                    "product": "SagB/ThcOx family dehydrogenase"
+                },
+                {
+                    "id": "CLOSPO_RS15765",
+                    "product": "streptolysin associated protein SagC"
+                },
+                {
+                    "id": "CLOSPO_RS15770",
+                    "product": "streptolysin associated protein SagD"
+                },
+                {
+                    "id": "CLOSPO_RS15775",
+                    "product": "CPBP family intramembrane metalloprotease"
+                },
+                {
+                    "id": "CLOSPO_RS15780",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "CLOSPO_RS15785",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "CLOSPO_RS15790",
+                    "product": "ABC transporter permease"
+                },
+                {
+                    "id": "CLOSPO_RS15795",
+                    "product": "ABC transporter permease"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "CLOSPO_RS15755",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 691520,
+                                "start": 691347
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MLKFNEHVLTTTNNNNNKVTVAPGSCCCCSCCCCVSVSVGGGSASTGGGAAAGQGGN"
+                },
+                {
+                    "id": "CLOSPO_RS15760",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 692641,
+                                "start": 691685
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MLLKNLKKQKVKKQKNTDIENRMLIHFNTQYSSISPYADSTVVKTPDTVIKGSLYSKHNRFVSQEYLLNYRSNNNNLGFRTGVASFFQRDAALTSVNLNMEEEGEDIIELPSFKNIRVGLSTAIKSRRSVRRYSNKFMSLNDVANILYYTQGICDEVEPYNLESNEKKIKLRANPSAGGLYPIQLYVYMKNIKDLEDGVYTYYPYSHSLKPIKVNKESLKIDKFAEFGTLNSENANIIVFYVYNFLKNSRKYGDGGFAYALIETGEIAQNLQLVSTALGYGACDIGGYEKQYIEELLNIDGVLKHVVHMTVVGWEQED"
+                },
+                {
+                    "id": "CLOSPO_RS15765",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 693726,
+                                "start": 692644
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MENNTIYKLSNNLRIYDSGENEIRFRSGLWNYNEAVLDLSSETPNFIKAFRIIINDLKNNKAFSMKYLDKHNLNDQEKNNLINVISSLSEAGMLCSENEKDNEFEMSKVLLGDFRYNLNKKEGEPQKVLFISDNDYAKETAKSLSDGMNMKLDLCAKETIDNIISMDLTSNLDALEKKSNTENLKNKLKNYSSILICMGHINMNLFRNINRVSIELKKPIIMSFIDGPFITILSTLPPKTGCLECFEQRILSRLEDHVLYHKFIESDFKTSEKPHKSIIPLLNIMTNMLISEGFLINNFNTCKIEGRVLSIFVPTLEIQTQDLLRVPFCPACGNISKAKLSEINISTRNIVDEILEDINS"
+                },
+                {
+                    "id": "CLOSPO_RS15770",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 695100,
+                                "start": 693742
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MIKFYPSFNNILENFKALSGNQSGILEASCMPVVNFNSDVFLKSITGNMPDYHKQVFNKDVSMQYHIIGYGSHYEEALIKYTGESIERYSSIMGPTLLKDKIIYKSHKELSKNNKVMPLKYIDVFTEKQIKKAKELNVAICDKKVKEDDIIGWIKCPSLLNKGEEIYVPAKMMFVGYEEDKSKGEMNFIPSFSTGTAAHKSLKKALLNALIEYIQIDSFMITWYTKGKCSLVKIDDENVLKVLEDVNLGENSPYEIIPVYMALEECPIHNFGVFLRRKDNKLPYLLFGVQGGLDASHALTRGIMEAASISYGAYFNTIYNKNMLNNVMKDDHKFLDLDSNVLYYSLPSKIEEKNKLVEEFIENEINLSSLNKLNIEDVDEQIKTLLNYLKNMSEYAVYLDLTPPETRDKGWYVMRVMIPELIEMCIPEFPFENHPRMKKYGGVINEHPHPMP"
+                },
+                {
+                    "id": "CLOSPO_RS15775",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 695713,
+                                "start": 695075
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MNIRTQCLNLLILLVTFNPIVLTQLFLNNEKSYNESLKKSLKILAIIYIIILMGIFVISQEKFYINIDNNYYWYIIAVIFVPLTIILEIIVGYIVIGISDKILPKFKISLAFTKTNINVIILSVFIGIFEEVVYRQLWFNILFKDFKLHIVGVFIITSFVYALNHIFLGKQVLFQKILAGVVYGGLFYFSGFNILIPIITHCLENTVILLKG"
+                },
+                {
+                    "id": "CLOSPO_RS15780",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 696449,
+                                "start": 695721
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSLYFKILVFILMSMYIVLLYLPININYKKFKSIKKLCLNLGGFIGISPTNCWKLIKYIHLLIIGVIPMAYFLYNGFVKSYNIYTQTNIIESFILIILSFIGVLEISFFIIIVIISYLMKKDSRKEMSKVSWIKFNKRYPFHTGIVKPIIYAFFEVILYYYVMLYIFNDFLELPLIYSITGIAILYCVSKLVFTKNKEQALIYGIWAFVLNFIGSCIMIYSNSIILTLILYLFYSFIIAFKE"
+                },
+                {
+                    "id": "CLOSPO_RS15785",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 697543,
+                                "start": 696611
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MNIVEIKNLEKKFGQNTAVNNINLAVKEGQVFGFLGPNGAGKSTTINMICGLLTPTKGEIFILGKKMDNKAKDLKNNIGIVPQDIAIYEDLTAYENVAFFGGLYGIRGQELKERVKETLEFVGLLDRAKDFPYKFSGGMKRRLNIACALVHQPKLIIMDEPTVGIDPQSRNHILESIKKLNERGCTIIYTSHYIDEVEQLCTDIAIIDKGTIIAKGKKDELVEKYSDLNMVVINTENLTKVDIKALKSIDGVMEVNIKENTIEITNKSSDNLDDIIMYFLKNKIKIKNIENKHSDLETIFLKLTGKKLRD"
+                },
+                {
+                    "id": "CLOSPO_RS15790",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 698679,
+                                "start": 697555
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MKILNILKKEILQNLRDKKSMLLMTLFPMLLITILGTVFSGNFASTINIPEINVMYSINKDVKIDKNFKDFTKEIEKTMKVNFKETKDEKDALEKISNGKTDVYIKIPNDKKIYIYENNLRAFNSQLVSTLLDAFVDKVNMTKEVASKNPMALSKIKVNTSPNFVNTKTIDGKDSPRGIDYYAVTMLTMTILYGTAVGAMSIASEIKRRTYKRLICSNTSPLKILFSKILASFLVIAFQSFLIYLFSKYILGTNWGNNKLALVSVVASLIFMAVSAGVCIANTIKNEGVMSIIIYMFVPILTFLGGGYVPLEPIGSKMLNSVSNISPLKWSNDAIFKIIFGNNLSIFGITMLINIGAGVLFLLIAILFPRKDVI"
+                },
+                {
+                    "id": "CLOSPO_RS15795",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 699823,
+                                "start": 698681
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MKQVFLLTKSILKRTFRKKSNIITFILLPLLAVFIALFLNASGTSYSKIGVVDLNESYLSKDMIKSIDSKKNFVVVKVSKNNMNKQLLDKKVDCVAVIPKDFHKEIIEGNFKKLDIISVRGEDITSWIKNYLNYYIDNLTNISLVSNKDEKTFKDMYDGFKKQDLKLNYKAIGDKTKSKSVTKQSIGLLLVFMLIASSTASSFILKDKANKTYYRIFCSNISKSKYIIANVIANFIIFLIQIFVILFMSLYVLKLNFYIDTKIMFIILCSFGFVSIGFGIIIAAFSKSLNQSSYLSNILITPTCMLSGCFWPLDMMPNFMQKLANIFPQTWILKTIDSLQQGKSFNEVVLYIGIVILFAVSFFIIGILKLTKDENLKSIF"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_DS981518.1",
+            "accession": "DS981518.1",
             "completeness": "complete",
             "end_coord": 699823,
             "evidence": [
