@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_JOAW01000056.1 dated 31-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -44,8 +54,99 @@
                 "molecular_formula": "C79H100N20O21"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "IH29_RS0109280",
+                    "product": "membrane protein"
+                },
+                {
+                    "id": "IH29_RS0109285",
+                    "product": "lasso peptide biosynthesis B2 protein"
+                },
+                {
+                    "id": "IH29_RS51730",
+                    "product": "lasso peptide biosynthesis PqqD family chaperone"
+                },
+                {
+                    "id": "IH29_RS51735",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "IH29_RS50070",
+                    "product": "asparagine synthase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "IH29_RS0109280",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3575,
+                                "start": 3033
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTTTLIWIAVALVAIGLYLSWTAGRLDRLHARIDAARAALDAQLLRRASVAQELATSGVLDPAASIVLYEAAHAARQAEEEQREVAESELSQALRAVFGEAPQVEAVREAPGGEEAARELTEAVRRVPMARRFHNDAVRAARALRRHRKVRWFRLAGHAPFPMAFEMDDEPPAALVDRAG"
+                },
+                {
+                    "id": "IH29_RS0109285",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4063,
+                                "start": 3632
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSMPVALAERRRLPVHRRALPLLAVGVARLLAKVRPARLRTVLEFARRGAAPATAAQALRAREEVVSVSLRCAGQGCLQRSIATALLCRMRGAWPTWCTGVRTHPFAAHAWVEAEEQLVGEGHPKGHFKTLMSIPPLAEDRNR"
+                },
+                {
+                    "id": "IH29_RS51730",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4410,
+                                "start": 4060
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MALQAPAGRRDAWHRPAARAGPLHQGRVQRRGQQRTAPQPAPTDTDDGTVLLNERTGRYWQLNNTGAHVLRELLDGHQPAAIAGGLASRYGIDAQQAERDVSAVIERLRGSELVIS"
+                },
+                {
+                    "id": "IH29_RS51735",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4886,
+                                "start": 4308
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "IAPTPRRTRRRRTVHPVPRLPPRTAPPPSADRPAARPRIPGDEAAWWRSQADRLTDPPPPKRRPALGWGLWTLRAPSWATGTAIEAAREALRDTATRVQPLSGDLAQHQSLLAVRTAAPWYRQLARVFADDGVQLDSPFFDDRVVEAVLAVRAHEHAGPWRYKPLLADAMRGIVPQPVLGRSTKGEFSDEANS"
+                },
+                {
+                    "id": "IH29_RS50070",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5863,
+                                "start": 4793
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSSTGFVVLPDTAAAAVVRAAVPWASPQEYAHASGRPWLVGRWSTGEITVVTAGPVRVAVVGVCPVPAARLSELAARIRTVSDADALATSLPGSCHLVVSAHGEVRFQGSATGLRRVFRTRADEVEVAADRADVLAAMTGAGIDEQALALRVATGGFLPPPLGDRPLWAGISALAPDHCLVWEHERTREKRWWRPPAPELTLKAGAEAVRQALTSAFDDRAPEQGRLSTDLSGGMDSTSLCFLAARGTPDLVTFRWGEAEAGNDDAAFATHAIGALDRAEHLVVPPGDLPSLFTDCDEPVDTEGPYPFARTLARTRHTARLLAGTGSRRHLAGHGGDELFTPFPGYLHGLLRRRPLT"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_JOAW01000056.1",
+            "accession": "JOAW01000056.1",
             "completeness": "Unknown",
             "end_coord": 5863,
             "start_coord": 3033
