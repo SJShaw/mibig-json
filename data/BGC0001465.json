@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_015276.1 dated 25-SEP-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -29,8 +39,201 @@
                 "compound": "bromopyrroles/bromophenols"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "MARME_RS20525",
+                    "product": "ferredoxin--NAD(+) reductase"
+                },
+                {
+                    "id": "MARME_RS20530",
+                    "product": "2Fe-2S iron-sulfur cluster binding domain-containing protein"
+                },
+                {
+                    "id": "MARME_RS20535",
+                    "product": "carboxymuconolactone decarboxylase"
+                },
+                {
+                    "id": "MARME_RS20540",
+                    "product": "alpha/beta fold hydrolase"
+                },
+                {
+                    "id": "MARME_RS20545",
+                    "product": "NAD(P)/FAD-dependent oxidoreductase"
+                },
+                {
+                    "id": "MARME_RS20550",
+                    "product": "sulfite exporter TauE/SafE family protein"
+                },
+                {
+                    "id": "MARME_RS20555",
+                    "product": "acyl-CoA dehydrogenase"
+                },
+                {
+                    "id": "MARME_RS20560",
+                    "product": "amino acid adenylation domain-containing protein"
+                },
+                {
+                    "id": "MARME_RS20565",
+                    "product": "SidA/IucD/PvdA family monooxygenase"
+                },
+                {
+                    "id": "MARME_RS20570",
+                    "product": "DUF98 domain-containing protein"
+                },
+                {
+                    "id": "MARME_RS20575",
+                    "product": "cytochrome P450"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "MARME_RS20525",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4522528,
+                                "start": 4521275
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MKQRCVIVGGGHAGAQVSTSLRKLGWEGKITVFTNEYSFPYHRPPLSKSFLLGNTTEHELLIRPEIAYAKDDIDVLINQEVRDIYPERHSLVMQDGSNIHYDKLVLCMGSKMRRLDVLGSDLRGIFYIKTIRDIRMLSEYLEGGQKNIVMVGGGYVSLETAAVLRKMGHLVTILVRSNRILNGSTSAPVSDFLLEQHTRNGVNIVTQKSVSHFVEDSDSAEHKMRQVICTDGSRYGADLVVIGVGSDADSELARKAGLDVTDGIVVDQYGRTSQEDIFAAGDCTSQLQSNGIAMQIASVPNALEQAKSVASTICGKPKSSNAVQWFWSDQYENKLQMAGLNHGHDQTVLREKSHDQFSLWYLRDGRVIASECINSPADFMLSKRMIAAKTCVPSHVLADVSCSLNEYAKPVKRMSEA"
+                },
+                {
+                    "id": "MARME_RS20530",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4522860,
+                                "start": 4522540
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MPDITFIQHDGSRQTVFAKAGVTIMQAAMENMVEGLEAECGGSGSCATCHCYLSLGWHQKVQAPDSNEEQMLEMVIEPKEGSRLSCQVKVTDAHDGLIVHLPECQY"
+                },
+                {
+                    "id": "MARME_RS20535",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4523461,
+                                "start": 4522883
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTDSMNTLVTPLQRSDAPQLEPVFRGMEQNLGFLPNGILTMGKNPDLAVAFGGLFKCIDAFKHIPTELKWAIAMISSSAAGCMYCKSHFSHIATRTHVNRNKVMAAFEFQTSDFYNEAERAALAFAFANSTSPAHLDKEHFDELARYYSEEAAIEIAAIIAICGFLNRWNAAMDSQIEAAPRATLDEIEKQN"
+                },
+                {
+                    "id": "MARME_RS20540",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4524853,
+                                "start": 4523723
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MIEKLIHFINNDLLEGAADDLDQNTPLLELGILDSLSMVLLLAHIDQQYGVKIPEHEINPEHFENVATLAALINQLSKDETAEAMPQQENVSELARLVKLQETYNIESQMVEVGGGLTQHALRVKGNGPLWVMLPALGNPSTSWSPLLRSVQNRHNAVALDLAGFGLTQSNKDNPSFKDHVNNTLQYLETIEEQEWVLIANSAGSMVAAEVARRFPEKVKALVITGFGLVEDVEGWWQGLKAMSKKPEEFLEAAYYNPPKLTPDLNNLLNEVLSRPAYHNFLDTHAKERISHIFDGITVPTLFIAGNHDQIVPPEWSEKAAESMEDASVVRLSRCGHFSASERPEEFIWVVEDFLMKINQKQNMASQTNNQEASMA"
+                },
+                {
+                    "id": "MARME_RS20545",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4526082,
+                                "start": 4524850
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MNTNANYDVVIIGSGPAGSLCGIECRKKGLSVLCIEKDEFPRFHIGESLTGNAGQIITDLGLYDKMEEAEFPNKLGVNVIGSLSKNEFFIPILAKTWQVRRSSFDKMLKEKALEHGVEYQTGMVTDVLRDGEKVVGATYKTAAGSQNVNSKVLVDASGQTTFLSRKGVAGKRKVEFFSQQIASFAHFENVERDLPPFSTNTTILYSKQYHWSWIIPISPTTDSLGVVIPKDLYYKECNSPEAAIEWGMNNISPELKRRFKNAEQVEASQSMADFSYRIEPFVGDGWLCIGDSHRFLDPIFSYGVSFGMKEGIRSAEAIATSIQTGDWKTPFYAFRDWSNKGQQIAADLIRYFWIYPIFFGYQMQNPDLRDEVIRLLGGCCFDCEGWKAPSIFSNAIKEYDRKQMETKIAS"
+                },
+                {
+                    "id": "MARME_RS20550",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4527024,
+                                "start": 4526146
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MNTRFVLIVASLWLAVLFGVMDNPTWLLQENWPIIFIAFASAAVANATAVGGGFIFLPLFSFAYSLSAAEALKLALATQAFGMSSGALGWSKKVIDFHFLKLGAGAGVLGMFIGTFLFTPPGHLIHNIFGYASIVVSLALFIEMIYIRKTDKTVFDEPNHSLVEFCIWALLGGLITAWTSIGIGEVVALWLLFRAKQSIVKSVATGVAVLAICSISGLLFHIYEGGIVWEYLIFTAPGVLLGGRAGALLGKRMAGVKKQQEPHSHNDNKGFGLKLFVALVIFADGIVVIFNQ"
+                },
+                {
+                    "id": "MARME_RS20555",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4528181,
+                                "start": 4527039
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MNFEWTHEQAELFEHALRFGKELSAPLQEDNGFPRDNWNALGDFGYFGLPIPEKYAKDGSGFDILTTIKIIEGLGQSCTDTGLLFAGAAHTFACSMPILEHGSETLKHQLLPDLATGRKIAANAISEASAGSDISNLATTAQKEGDYYVLNGGKSYVTNGSIADYYVVYATTNKKHGYLGQTAFVVPRNTPGISVGNDYHKLGLRSAPLNQVFFDNCTIHKDYALGREGQGARIFAASMDWERCCLFAIFVGAMQRDLNQCIEYANTRMQGDKTISRFQAVSHRIADMGVRLESARLMLYYAAWQKSQDVDNTKAVAMSKLAISEAFVQSGIDSIRVHGALGYLDEGRVNNSIKDALGSVLFSGTSDIQRELICNRLGLL"
+                },
+                {
+                    "id": "MARME_RS20560",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4529707,
+                                "start": 4528178
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MKRLNYIFSAGMIAGEDNLAVSDTTESLTYKELNNITNQLVRTFQLLGVKEGDRVGLWLEKSCRGIACMLAISRLNASYVPIDPMNPLARVSTIIKDCQMSAIVISQGKLAKFIDSEHRELPLLIPDNLSLDDLNIHSDTNLSHVANWSDVRSQSSEHVDLDVTYSETDLAYILYTSGSTGVPKGVCINHLNACAFINWSIEEVEPRPEDRFSNHAPWHFDLSVFDIYVALGSGASVYLISEMVSYVPAQLVDFIEKNQISIWYSVPTALSLMMDAEPQLETRCSSLHTVIFAGEPFAIKKLKELRKRFPHKALYNFYGPTETNVSTYYKVPNEVPDKLPIGHVCSGDSLSLLDDNGTKVAIGEQGFITIKGPSVFSGYWGKTARTEDAYNTGDIGYFNDKGELMYVGRNDHMIKVKGYRIHLGEIETTIEKHPAIEECCVLLGEDKALHAYLVQQDDSALSLIKIKLHCSAHLPKYMLPDFVHFLPMLPRNGNGKVARKDLAALEVSA"
+                },
+                {
+                    "id": "MARME_RS20565",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4531337,
+                                "start": 4529787
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MKKRIAIIGAGLSGIAAIKQLTDEGHHVVCYEKAESFGGVFAAKKIYEDLHLTISNYFMAYSDFLPTEQSLKFWSKQEYVQYLKRYLAHFDIEKHIVYNHKVVNAEQNGDKWTVKVQSGSGEETESEFDMVVVCSGHFQEPKTPDLEGLSDFMGDIIHSNDYRDKMAFKGKRVMCVGLGESSADITSEISEVAEKCILSLRRYPAVAPRYMAFQEDPYFTIDTSWLTSRIVNKLPFSYHRGITKNIFHKYVNSRNLHLRIRGEWLHKSGPSIHQAVTKNERLFKPIAEGKVLPNIGGIERFEGNTVIFKDGTHEEIDAIVFCTGYKLSFPFLQHKIECMRDLYKQIFIPSVGSSLAFVGFVRPQQGGIPVIAEMQSRYLAQLASGVKSLPSLEKQKEVIMEDANHWETEYHITPHVASLVNYCHYMDSMARLVGCMPKTPSLLKDPLLRVKLLHNPQFAAQYRLEGPHPMSESSRDFLVNFPNISTWPRIIHFECALAMQKLLSFLSMDNLRELKK"
+                },
+                {
+                    "id": "MARME_RS20570",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4532020,
+                                "start": 4531391
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MIVISSEKQSNQNKELNLDQYNEHSLSVLQRLILESDGTLTQLVGNLVGESIIAEKLFEGPTPDSRSQTSSLQQDERYLQKRIVSLKGQKSGFCYLYANSIVYHDNLNVNFSRALLDSKITIGRAWERYRVETYKELDAWGFESAGTLGRHFNLSSEALLLFRTYSVYSGGKKIFLITEKFPMAWFQKPNQTYPANSQPHAQERYDEIL"
+                },
+                {
+                    "id": "MARME_RS20575",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4533494,
+                                "start": 4532007
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MRYYEEDANVTDSPNRNAAPKLIPTIKLGSQDNHDMMWNEDFHLTITNMAKKYGAIYALETGKTTLIALNDHNAVREALVNQSDVFNIRADLEILQVAPQKHFLELEAGELWSLHRKTFATAMRDYFRDRWDTMDQWLVTEIDDIEAAWKSQGDQAVFDPNRDISIKLASFLHRVMFDRRFGEFEESVFDEKSLSWLPAGFINSTRYELMPEHNKESYYAHYGDVIEKFASNLNGLDAYVSMNVLKEKECYNKGQYRHLTDFLLNACDDIPNDVKQQVGATEKEIIIGSLTQVAGAGGGVGAFALRWMLLYLASFPEKQKQVHAELDQVIGQNETPQQSHKGDLHYTQAFIAEVLRHCSITSMPASNYAASKDTFIDGYFVAKGTPLIVNNYGMTRDEALWENPDEFIPERFLEADGTFSKKQQAKSFPFGIGQRRCLGELFGKFLINTLFTHLAHRFEFSLPNNEPINLRAISGVFLVPEKVDIKAKSRSLSDS"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_015276.1",
+            "accession": "CP002583.1",
             "completeness": "Unknown",
             "end_coord": 4533494,
             "start_coord": 4521275
