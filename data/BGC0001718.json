@@ -18,6 +18,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NW_017962980.1 dated 13-MAR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -35,8 +45,119 @@
                 "molecular_formula": "C33H34N4O6"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "ASPACDRAFT_115976",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "ASPACDRAFT_115979",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "ASPACDRAFT_26742",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "ASPACDRAFT_77104",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "ASPACDRAFT_77105",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "ASPACDRAFT_115976",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 588930,
+                                "start": 588517
+                            },
+                            {
+                                "end": 588456,
+                                "start": 583042
+                            },
+                            {
+                                "end": 582956,
+                                "start": 582792
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSSPDIDSCLFPCIASSTSLLPDEAIVFWDKFEWEVTISDGSLLQSLMHSWAIVLAKYIDSDTLRFGALSGSTGKQTCDDISVEEYEAYVNSAGHLSDAVSLIRRKKCRTHEWNCRDRINTCVATDLHSGWLNDWKSSSNHSIQLLLAATQQEWPCISLYGKAGLVDRSSIRYLSTVLQHILQSTLERPQELLQSFTLTPDNHYRQIRDWNKHILEEPFAQCIHDIIQDKCIESPDAEAVNAWDGAMNYASLSQESAKVMKLLRRQGAGPEAIVPLLFEKSKWTIVAMLGVLKAGAAFVLLEPSHPLERLQSICQDVSAQVLLTSELHKNVGLQLADNVISVPSDIENGALCRGKVSPSQVQAKPGNAAYVAFTSGSTGKPKGVVVEHGSFCTNAMVSSEAQNLNGSSRVLQFASYAFDVSIHESLVPLMLGGCVCIPSASDRVDRLEYTILQLRVNWMELTPSVARLLSPQQIPAVKTLVVGGESISPSEVARWAPYLRLAVAYGPAECTVVSLVHPNFTKAADPFSIGWACGGSVWVVEPEDHNKLVPIGAVGELVIGGPIVSRGYLHRPEQTAAAFIQDPHWHRTKNSRFYKTGDLVRQRTDGSVSFLGRKDTQVKLRGQRIELGEIEHQAAEFFPGAAIAVEVGKLYHGNSSLVMFVEWSSSKQEKRCKDKDSCRVTHKECHRFWPRALRAKTGLAQILPSYMVPDLMMPLCAIPLSPTGKVDRKALRSMISSWSREEIRKHQPTASSLSSKERHHDPAAPEATQQMIEMVARVLSLNESDINEHDNFFQLGGDSISAMMLAQESESIPSLHFTVADIFQSVDISELARRAHTNTLEKNPRECSIPNHILPFSLLSPGKVDAYIQIAAEHSGVDASQIEDIYPCSPLQERLMARTAKQPGAFQGRFTFKLSRGLNKDRLRWAWNRAANSLPILRTRIIHAWQLGAENLLQVVVRDKDIEWIEAGTRSGSEVKRSMSFGSPLIYLVASRARPNPTLTVVIHHSLFDLVVFQQILTTVETAYRGEALLSQPFVPFIKYLGDLNVPQASDFWKREFAGLNALPLLSNKNSTRSKHPAISWTRRRSRLPDPSQLGTTTTSLIRLAWAMVLSQYTGSSDVVFGVTVMGRSMPGTVDVKGPTIATYPLRFTLHGDRSVSRTLRCIHDWAMSIAPFEQTGIQRIRQCGREAAIACEFQSMLIVQPPLEKTPLGRKGTSQLMTLDETGAWKRKSYTSFSTQALSVVCEPSADNLETTAYFDRNLIKSHQATDMLRSMNRILRLLVRYPDAPLRRLLKKCPPTCALTDNRHESVSLACLEKAASGYLGPGIPVIADWITPRASQVPSLALFVGVVSSDTLSDDCPVLGKVEEPLRTRIIQLMRELQERLLGKTVRCCCVPVSLRYKPSVTRLLLDRASALEAAAKLTWASLISWQSSQNSIASEDLLPVEEGLRRALATVLQLKPREIGVEDDLVSLGCDSLVVMQFAAQCNLDGIQVTVADIFQAKSLRSLALIVKGRPVQDFQSKALARFSLLKPTHESQKSFEQDIFTTVDSGELGKAIEDAFPCTPSHLGLLSELGNCQSHTVWEVGGPDERINPKHLAESWSKLVEHHAALRTLLLPSLSNPARMYHVVLKKSLDAVEILTDIDGASILEIARRPRLSSCNREGLPYKFTVFQSTSGRVLCKLEGRYAFLDATSVIILLTDLRRSLQGIPLSGSTVNSYSSWVSYQQSWAKDSSNLQFWDQYLANLHPCILTGAVAHDRSAVLPHSQNHERKVAENGCCRQMRSHHQTLVQDSRPLRGWCDQRGVTFTNVIQVAWALVLSEQTGREDVCFGALVSGRDAPVPHIGNMLGSLFNVLACRITVQSEPDHHVLNHVLQANHRSIRERASHQFCSLSEVTRRVLGKKEFGAPSSLFNTCLSVEQPLTDQTGPMDGFFRVLETVEETEYDMVVAATVLSDRIEAQLMFWDSFCDASRAADLGQALARAVERIMACDKMEVGA"
+                },
+                {
+                    "id": "ASPACDRAFT_115979",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 589806,
+                                "start": 589653
+                            },
+                            {
+                                "end": 590481,
+                                "start": 589883
+                            },
+                            {
+                                "end": 591145,
+                                "start": 590546
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTFESMAQNDLNKLTVIIVGLGIAGLSVAIECHGKGHNVMVFEKYEELKQMEGDGISIGSNGARVTAKWGDGAFHKLIRPLEFQTNRAKVFDYTGYCYGTFELHGYNEGHGYTVNRGALVYAMHQYAQSIGIPIALGSEVTKYWETEDEAGIEVDGRRISADCVVCAEGIHSHGRLSITGQQMNLQETDYAASRGYLDAQVAARNPSLSWILSEEESRSEDCIYGWLGPGVHFGITTKKKDNELFWYCSHKAASTAPQNDDETMNQILQCMNGWEVRDQLEAVIKGVMSGRFISEKLAIRTPLTTWLSPRRRMIVVGDAAHAALPSSGQGGTQAIEDAATLAIALDLAGKKNVPLALSVTEKIRYQRAQIVQQGGLAVLQFVMNHVDFDALRQDPTMVKPPHPAWILDHDCQDYALKEFSKVAEAVRNGQEYVPCNIPSDGQYRMEYDSK"
+                },
+                {
+                    "id": "ASPACDRAFT_26742",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 593940,
+                                "start": 592844
+                            },
+                            {
+                                "end": 592785,
+                                "start": 592635
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSKELNLRSDEERLWWEKTGVMLARVLSSASYTRDEQLQYLQFYAQALLPLLGPYPQSFRSSITRSGLPLELSINYQQQEKPLVVRIGFEPLNALSGTPTDPFNCLPASELLSSLAPLRIPGYDEQIWHQVIQDHTVSQAEREALQGVDLEAGYIRSQTAFGFDLTREGKVAVKGYSFPALKCKVTGQSMAQLMATSIANLTPLIDCSPAFATVDAYLREVGYDDRSFFSWDFVDPARSRLKLYTGSNSVTWEKLAEVWTLGDRVQSSTVARGLEYLRQLWDRMQLAAGERDIVVAFDDQQSTSKATPLLWNYEMRAGDPTPLTKLYFPVHGESDWKVITAVADFLCHIGLERHGKGYVEKVKSYYPGIDLTTTDRFTSWVSFAYTEKTGVYLSTYYHSSTDNPWKITVEEEEQA"
+                },
+                {
+                    "id": "ASPACDRAFT_77104",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 596417,
+                                "start": 594831
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MALSIFLAALTPTGLALVFLITIYLILSYYHLTPTGKKSQLPLPPGPRGLPIIGNLHQAPRQKAWEVYKQWSDQYGPIMTVNNGGNITIVVSSHHIVETFLAKHNALFSSRPQLLVLERALYGFTTPALPYGEKWLTHRALRGAVLKPTMAVKYRGINDLESKQLLHELLTKGDRFTECVRRQAASLFLGIAYGHRFPEETAEILDIDRAVAQLGGISESMFAGTAMLREFFPILKYLPGNDKFLKQLDDVGERLANIYVKRFRDGLSTPAWNWAKEYVSRPEAKGMSELELSFCIGSTYQASLTPYEILRIIVLAAIFHPEEMRRLQREIDAVAGPDRLPDWEHRDRIPWVMAFVYEALRWHAFSPLGAPRAISSDIEYNGYLLPKGATLVLNQWAMDHDENVYDDPFTFRPQRWIDNPNLPHVIFGFGLRGCPGQHLAREHLFINTARLFWAYDFGHAYENGKKVELDLDELMQPRGGGSAFNQVPSFPASVVIRSEKRKEIVEKAWDAVEKDEQKILAEVMPLKA"
+                },
+                {
+                    "id": "ASPACDRAFT_77105",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 598007,
+                                "start": 597108
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSSPETPNKPPIRRFPATTPPQTLWQAVCDDGAAIIEGFLPAHTIEKFDQELSHRSATTTGGQMNQEFYQMPVPTTTKWMNDLTATCPTFRHQILNNPVLHSLCEEVFAPHGDYWLLNGMAMEMMPGNPTQELHNDHGTHPILQYLADDAPSPVFSIITAVNEFTEANGATRVILGSHRWPKGQRGKDEQTVRAVLKPGDALVLYRTTKHGGAAHGAENPDHRRLLLLSVGSCQLAPYETHVTVPRAVVESMTPLAQKMIGWRSTKPVISNVTGLNTVRMKHLETQIGLRSEVPLEGEC"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NW_017962980.1",
+            "accession": "KV878974.1",
             "completeness": "Unknown",
             "end_coord": 598007,
             "start_coord": 582792
