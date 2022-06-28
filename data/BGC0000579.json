@@ -20,7 +20,9 @@
         },
         {
             "comments": [
-                "Removed duplicate gene annotation"
+                "Removed duplicate gene annotation",
+                "Gene details extracted from RefSeq accession NZ_CM000951.1 dated 22-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -64,6 +66,42 @@
                     ],
                     "id": "SSEG_09672",
                     "product": "lactamase"
+                },
+                {
+                    "id": "SSEG_RS44950",
+                    "product": "lasso RiPP family leader peptide-containing protein"
+                },
+                {
+                    "id": "SSEG_RS34070",
+                    "product": "asparagine synthase"
+                },
+                {
+                    "id": "SSEG_RS34075",
+                    "product": "asparagine synthase"
+                },
+                {
+                    "id": "SSEG_RS34080",
+                    "product": "lasso peptide biosynthesis PqqD family chaperone"
+                },
+                {
+                    "id": "SSEG_RS34085",
+                    "product": "lasso peptide biosynthesis B2 protein"
+                },
+                {
+                    "id": "SSEG_RS34090",
+                    "product": "daunorubicin resistance protein DrrA family ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "SSEG_RS34095",
+                    "product": "ABC transporter permease subunit"
+                },
+                {
+                    "id": "SSEG_RS34100",
+                    "product": "DoxX family membrane protein"
+                },
+                {
+                    "id": "SSEG_RS34105",
+                    "product": "thioredoxin domain-containing protein"
                 }
             ],
             "extra_genes": [
@@ -90,11 +128,128 @@
                         ],
                         "strand": 1
                     }
+                },
+                {
+                    "id": "SSEG_RS44950",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7626893,
+                                "start": 7626759
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTSTDELYEAPELIEIGDYAELTRCVWGGDCTDFLGCGTAWICV"
+                },
+                {
+                    "id": "SSEG_RS34070",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7627335,
+                                "start": 7627017
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MDFLILPDREEAARLLPDHLARSDDEMIRHPSGRPWLLGRWEPHELTVVTAGARRLVMLGPTRIDHPTVERVLGRARTLHGLDAVARSLPGNPYLIASMDGQVRAQ"
+                },
+                {
+                    "id": "SSEG_RS34075",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7628883,
+                                "start": 7627436
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "ADRPDRLVGPTGSTVDEDSLALRLLSPQPPWPLSQRGLWSSVSVPPVGHWTLLGPTGPARTVHWWSPPAPEVPLPEAAGTLRAALHDAVGVRTAGPGTVSADLSGGMDSTTLCFVAAAEGADLLTYHVEPLDRANEDARWARLAAERLTDARHLTVPSQGASSWFDLPVSDGHLGEGPLPWHGGRTHLEGLAHTVAEHGSRTHLTGLGGDELFGIMPSILWSLAHRHPLRSLPVLRRYQLLNRWGLFAMARGLTDRTGFAQAVGGAADTLTCSRPPAGRLALGWSIDPRMPPWATPDTVDTVRRLLRETAETAPVPLDPDRFRHRVLESLVLEGSTVRQLGRYTEPYGVTWEAPFLDDRVVEAALSVRVEDRAVPGRFKPLLTAAMRGLVPDALLDRPDKGEFSAEMFRGLNDNKRRLRELCADLRAADRGLVDAGALREALTRPVPDARHLGPFQNTLACESWLRTLASAPAAHSGGGSR"
+                },
+                {
+                    "id": "SSEG_RS34080",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7629143,
+                                "start": 7628880
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTVALAPHVTLTEVEGGMVLLDQRVGRFWQLNRSGAATVRLLLEGRSPEDVATHLSRQSPDAAERAVGDVRALLDALTRARLVVSAS"
+                },
+                {
+                    "id": "SSEG_RS34085",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7629637,
+                                "start": 7629140
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSIPVAVEGSVPLPWRRRVTARSAAGAARLLVRLPPRRLCQVLRFVSRGSRPADAERALAARQAVVTVSLRCAGIAGCLQRSVATALLCRLAGRWPDWCSGFRTRPFGAHAWVEVDGTAIGEPGDMTLFHTVLSVRHQDRDQHLHQGRRQARRQARAGRHEGRQP"
+                },
+                {
+                    "id": "SSEG_RS34090",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7630611,
+                                "start": 7629634
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSERDGIAVRTEGLAKRYGTTEAVSGLDLTVESGQIFGFLGPNGAGKTTTIGVLTTLLRPTAGRAEVTGHDVARHPHRVRRQIGLVFQESTLEGDFTAAENLRFQADLFGVPRRAVPGLIDMLLDLVDLSDRRDTLVRTFSGGMRRRLEIVRGLMHGPRLLFLDEPTTGLDPQTRNAIWEYLIRLRREQGTTVFLTTHHLEEAEHCDRIAIMDRGQLVTQGGPAELKTVVGADLVTLRTGDDALTTRTLRDTFGLEPEHGADGVRLRVADGAAMVPRLCTEIGVPVHSVTVTPPTLDDVFLHHTGRTIRDTDTGPRALTDHVARR"
+                },
+                {
+                    "id": "SSEG_RS34095",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7631501,
+                                "start": 7630617
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MLRTEPSSGTTAPRPPRETAAPPSTRVSSHSNLRAVRVLWQREMTRLTRNPVRLAMGLLTPLLFLVVLGTGMSSSPGSAGDGMRQYRTFLYPGVLLMSVQAPAIAVGISIVWDRKSGLLRQMLVAPVRRGALILGVCLGGAAAGTVYGAMVVALAWVADIPYEPRLLLVLPELALISLVFTSLAVLAAVAMKRIETFQVAVSLGMMPLLFTSGAMFPVGGLPGWLGFAVNVNPLTYAVDAIRRTLPGIGAEYGGRAAGPTWGGWSPPVALELGVIAAIAALAVLGAARRFSRTE"
+                },
+                {
+                    "id": "SSEG_RS34100",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7632025,
+                                "start": 7631537
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MNVIISTVCRLGLAGLWIASGVAKAMDPGQTYIAVAAFDVMPDQLTSTVAAVLPFLELGLGLLLLLGVGTRAAAALSVGVLVAFIAGIVQAWARGLSIDCGCFGGGGQVSAGRTEYPMEIARDLGFLALALVLVRRPATRLSADGLLARHSARSASPVTEGK"
+                },
+                {
+                    "id": "SSEG_RS34105",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7632847,
+                                "start": 7632029
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MALTRRTALARQAEPGQPSGPRRPPPAPRPPRNGRVVALVVGAVLALAVTVGTVVQGNERDRVANTVISASSLATKSSYPVELDEGTGTVRVGREDAEVSIDIYEDFLCPVCGQFEKQYFTAIERELEAGRIKVEYHMLDLLNPLSNPPGYSQRAANVALAVAAKDPRKFMDFHYSLLRTQPKEGSAGWTDGQLLDLAERLQVPVDDVTALGDAGRYDDRIHANSTRAAADRSLWQGTGSGKAFGTPTVVSGDRIIPWQQDTSWLRKLVGSD"
                 }
             ]
         },
         "loci": {
-            "accession": "NZ_CM000951.1",
+            "accession": "CM000951.1",
             "completeness": "complete",
             "end_coord": 7632847,
             "evidence": [
