@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_CM000950.1 dated 22-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -31,8 +41,31 @@
                 "molecular_formula": "C15H26O"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "SSDG_RS31275",
+                    "product": "pentalenene synthase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "SSDG_RS31275",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7138013,
+                                "start": 7136895
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MAHETTSGRRLPDPTSPSDPTRRTAAIRIPFPARLNPHAERARQHTLQWVQETGLLTGDEATAEYDTLRLERLMAYFYPDASAGDLELAADFNAWFFIFDDQFDGGLGTRPHEIRGVVDALVGTMTTDGAPRPADVRDTPLVRAFRDIWLRSTAGAPYAWRLRFRDHWQAYLAAHVGEAHHRNADRLPSLEQFLEVRRHSIGVQPCLDFTERCGGYALPDELYRSFPLREMREITGDVVIFVNDIVSLVKELAAGDINNSVVIEREHKGCTLEESVEHITALANARTARFARLAASLPGTLADLGVPAPSREHVSHYVDGMRHVMAGNLSWSLATSRYDETGIAAVSGGRRRPWDGLTTATGTASPRHPRRA"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_CM000950.1",
+            "accession": "CM000950.1",
             "completeness": "Unknown",
             "end_coord": 7138013,
             "start_coord": 7136895
