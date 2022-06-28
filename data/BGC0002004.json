@@ -11,7 +11,9 @@
         },
         {
             "comments": [
-                "Fetch compound properties from PubChem"
+                "Fetch compound properties from PubChem",
+                "Gene details extracted from RefSeq accession NZ_CP023737.1 dated 16-AUG-2018",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -34,8 +36,153 @@
                 "molecular_formula": "C44H58N12O16S5"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "CQW49_RS07145",
+                    "product": "di-heme enzyme"
+                },
+                {
+                    "id": "CQW49_RS07150",
+                    "product": "metallo-mystery pair system four-Cys motif protein"
+                },
+                {
+                    "id": "CQW49_RS07155",
+                    "product": "histidinol-phosphate aminotransferase family protein"
+                },
+                {
+                    "id": "CQW49_RS07160",
+                    "product": "multi antimicrobial extrusion protein MatE"
+                },
+                {
+                    "id": "CQW49_RS07165",
+                    "name": "mbnC",
+                    "product": "methanobactin biosynthesis cassette protein MbnC"
+                },
+                {
+                    "id": "CQW49_RS07170",
+                    "name": "mbnB",
+                    "product": "methanobactin biosynthesis cassette protein MbnB"
+                },
+                {
+                    "id": "CQW49_RS07175",
+                    "name": "mbnA",
+                    "product": "methanobactin"
+                },
+                {
+                    "id": "CQW49_RS07180",
+                    "product": "TonB-dependent receptor"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "CQW49_RS07145",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1499886,
+                                "start": 1498747
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MRASFLVLAALVLGARSAAEPAPAWNWDLPKYIPPPRVPVDNPMSEEKFQLGRRLFYDKRLSGNGTLSCSSCHLQERAFTDGRTVSIGSTGAKTPRNAPSIAYSGWHGTLTWANPALVTLERQMLNPLFGADPIEMGASDANKAEIVARFRADADYRRWFAAAFPEMSEPISFATIIAAISAFQRGVYSFDSRYDHYLQGEAQLTEAEQRGHDLYFGEKAECHHCHGSVGLDDQFVHARTREPELPFHNTGLYDIDGKGAYPAPNHGLFDITGDPDDMGKFRAPSLRNIALTAPYMHDGSVATLEEVIDIYSEGGRKIASGPHAGDGRASALKSGLIVKIDLTAQEKADLLAFLKTLTDESLIASPRFSDPWRTPTAAK"
+                },
+                {
+                    "id": "CQW49_RS07150",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1500860,
+                                "start": 1499886
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MWELHRARTATIAAGALIVAGAALAAGVKTQPVAVRFALVADGKEVGCGAPLANLGSGRLAGKLHEARLYVYGFELVDAKGKHTPIALTQNDWQYADVALLDFKDARGGNAACTPGNPAKNTTVVGAAPQGAYVGLAFSVGAPVESLVDGKPVFVNHSNVEAAPPPLDISGMAWNWQAGRRFVTIEVIPPAAVIKPDGSKSRTWMVHVGSTGCKGNPATGEIVACAHENRFPVVFDRFDPKTQRVELDLTTLFESSDISVDKGGAVGCMSALDDPDCPAVFRALGLNLADSAPGANDAGKPSRPGVSPIFSVGAAASKVAGGKQ"
+                },
+                {
+                    "id": "CQW49_RS07155",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1502316,
+                                "start": 1501273
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MFAVAPRPDGILLDSNEFRFPLPKRFLKRVADELWPVDLRCYPDFAEVEKIKVALARDLGVEPDNLLLGVGSTELLDLISRAFGERDHRIVTPIPSFPMYAHYANLNDRKFVPVPLDDDLSLSSKVAEALLREPGSKSFYVCSPNNPTGLSIERETFDALASDPRAILCLDEAYAEYSGRSFVTEAATRDNVVVTRSFSKIGLAGCRFGYAVASKNLIRELAKAALPYALNSLTLRIAQIFIEEMPLIRAVVEDVKRERARLSTALANLPGFHPYRSDANFLLCAAPGDAAALARRLIELRKIWVRPFSPQSRLRDCLRIAVGSPEDNDILLDALRQESTIHAPRSE"
+                },
+                {
+                    "id": "CQW49_RS07160",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1503733,
+                                "start": 1502423
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTRPKTGFWRGYWPLLMALASAQLAQQADIVMMSRLGGPAAGAYVMMMRLALVEVVLMTAMGAVASTVVAQAQRNGGAAPVIGRILGLALLTGLLCGALGWLLYPTAARWLAGEGDVASLVGEGVFWHALAAPFRFVVNIGAFVLHALGRGPSVVRWKLTEAAAKIAANLLLMDVLGWGFSGCFLSGLIVGALSSIWCRRMLPPGDARLSLPGCSWTLRFLRPIYWEAQRLISVQLAILACFSLFAAPWLANYSVSRMNSFAAGQTLMLMLFTPFVALTRFLAFRHAALRDGRLSASMWRVWAQGAPVVVAAALALLESDELLGRLYGQSGHWWSTLIQALAISLPLRFAANIARALFHSQGSFAMVAAADGAAFWLIATPLVAIGLYVDSPAVAYSSLILPEAACAAWMWGRLGILAFREKGPVGADEGVKALLE"
+                },
+                {
+                    "id": "CQW49_RS07165",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1504317,
+                                "start": 1503730
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSLLPTAPVRIDADLYDDLANPARQSLYPRDSRGFIRIDISLRAYWHTLFDTCPRLLELSGPSGGAIFLPFMAWARENNLAFDWSFFLWVYVWLQQSEFRERLDEDQLLPVMTASATRWLMIDRDIDACQIVLGSRSLAGAAVVGAKIDSIHCRLEQVQQVEFEKPLPLPDGEFGYFLTPGFEIDHFPGWRPLPR"
+                },
+                {
+                    "id": "CQW49_RS07170",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1505119,
+                                "start": 1504289
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MQIGFNFTLTGTLDMVQQMIKERKIDYVEMLIDNFVHLPPEQIADSFDCPVAFHIMLSKYLERDREELEKLGKRLRRFIDVMRPVYVSDHILYFTHNGRSLFHLGEIDYREYDHVRSKVEQWQDMLGTRLYLENYPSIMDGAWDAPSFYERLSRETGVGVLFDASNAICAQNNTGAPVELWKKIIETTRHFHVAGYGTAFIEPRVKADTHDREMAEDTLDFLSRMRTSFDKPGATITYERDFDIDYESISVDLKRLRDIFPCVEEERHEPVAHCAG"
+                },
+                {
+                    "id": "CQW49_RS07175",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1505296,
+                                "start": 1505204
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTVKIAQKKVLPVIGRAAALCGSCYPCSCM"
+                },
+                {
+                    "id": "CQW49_RS07180",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1508549,
+                                "start": 1506111
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MGVLTIGAGAADSPAQASIPARERLGWIQKYEIPPGSMATALNTFAYVSGLHIAYDARVTERLTTSGLDGAFSTKDGLDRLLRGSGLAYRFADNGRSVSIVLAQNDTGVRTDASGATALPTIDVGREARSERGAAGVRGPGDRATGYSAPSATSALKTDTPILQTPVAVQVVTRQTMDDQQAISIQEALTTNASSVSQNPSASTYDSFNIRGFSTNYGVYRNNLRRHLVSTLDTSNLQSVEILKGPAGMLYGRVEPGGIIDLVVKRPLETPYYSFQEQAGSFGMTRTSVDATGPLTPDRTWLYRISGNFMHADSYIDYANSQNVFIAPTITFHPDEQFRLNVDAEFQDSILVDVYQTIPAIGTRPASVPISRYLQDPAVTANNPTRHTRELIGYDWTFAFDKDWSLTNRLLYEYGYHGVTTTYFGSINEATGDATRRLFMTPTYVGSLSTNLDLKGKFETGPLRHDLLVGGDFFTENQDQYNGYLGVSPYVKSINIYAPVYGSGVPYKPTPNAFTYARENWKGLYLQDMISAFDDRAHLLLGGRYDWADAVNSFSSVSYVSAKNAAVTIYNEAFSPRIGLSIQPFPWLSFYGNYSQSFGANNGVTGGNIPLAPQRARQWEGGVKAEFFDKRLTATFAYYDITKTNIPTPDPLNPRFSTLIGEAESEGVEFDLTGRLDDNWSVIGNFSHDYAVVTKDNNKANIGRRLPSAPLNAGNLWLKYDAHGAFEGLSLGGGVSIVGSMQGDTANDFQLPDYTLVNAMASYRFEVEGAAVTAQLNVKNLTDAIYYPASLNRTTITVGAPRTVLGSIRVEF"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_CP023737.1",
+            "accession": "CP023737.1",
             "completeness": "Unknown",
             "end_coord": 1508549,
             "start_coord": 1498747
