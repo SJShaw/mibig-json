@@ -8,6 +8,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_CP033071.1 dated 25-OCT-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -19,8 +29,82 @@
                 "compound": "albusnodin"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "DUI70_RS10785",
+                    "product": "lasso peptide albusnodin"
+                },
+                {
+                    "id": "DUI70_RS10790",
+                    "product": "asparagine synthetase B family protein"
+                },
+                {
+                    "id": "DUI70_RS10795",
+                    "product": "lasso peptide biosynthesis B2 protein"
+                },
+                {
+                    "id": "DUI70_RS10800",
+                    "product": "GNAT family N-acetyltransferase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "DUI70_RS10785",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2834065,
+                                "start": 2833928
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MDSLLSTETVISDDELLPIEVGGTAELTEGQGGGQSEDKRRAYNC"
+                },
+                {
+                    "id": "DUI70_RS10790",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2835957,
+                                "start": 2834140
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MFGGFSTTREVRQRPGNAEFIATDSPIWRLGRSPARCVAADHGQRRLVVLGECGATDGELSRLATAGLPTDITWRWPGVYVVVEEQPERTVLHTDPAAALPVYATPWQGGWAWSTSARILARLTEAPIDGQRLACSVLAPSVPALSGTRTFFAGIEQLALGSRIELPVDGSRLRVTVRWRPDPVPGEPYHRLRTALTEAVALRVNRAPDLSCDLSGGLDSTSLAVLAAVCLPESHHLNAITIHPEGDESGADLRYARLAAAHHGRIRHHLLPLAAEHLPYTEITAVPPTTEPAPSTLTRARLAWQLDWMRQHLGSRTHMTGDGGDSVLFQPPAHLADLLRHRQWRRTLSESLGWARLRHTSVLPLLRGAATLARTSRRSGLQDLARALAGAGQQGDGRGNVSWFAPLPLPGWATPTARRLLLDAADEAISTADPLPGLDTSLRVLIDEIREVARTAAADAELADAHGTTLHNPFLDPRTIDAVLRTPIAHRPAVHSYKPALGHAMQDLLPGAVARRSTKGSFNADHYAGMRANLPALTALADGHLADLGLLEPTRFRSHLRQAAAGIPMPLAAIEQALSAEAWCHAHHATPSPAWTTQPPEHPHA"
+                },
+                {
+                    "id": "DUI70_RS10795",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2836681,
+                                "start": 2835950
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPELPRFATAPRHVRALDFGHVLVLIDYRSNHVQCLLPAAAAHWTATARTGRLDTMPAALATQLLTSALLVPRPTATPWTAPVAAPPAPPSWGGSEHPAGTSRPRARHRHSTTAAAALACVLAIKAAGPTRYAMQRLTTVVKAAASTCRRPATPAQATAAALAVRQACWYSPARTACLEESAATVILLATRRLSSTWCHGVAPDPIRLHAWVETEDGTPVAEPASTLAYTPALTIGGHHQHQP"
+                },
+                {
+                    "id": "DUI70_RS10800",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 2837273,
+                                "start": 2836689
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MWISTDTCGLGPYRADLVDTYWQWEQDPTLLVGYGRQSPQSLEARTEGMAHQLRGDNIRFTIYDLCSSTPTPAGVATLLPDHSVRTAEYVIMLAPEARGRGLGTTATQLTLDYAFHITNLRMVWLKVLAPNTAGIRAYEKAGFRTVGALREAGYWLGKVCDEVLMDALAKDFTGPSAVHAALTGASGRQLRRAP"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_CP033071.1",
+            "accession": "CP033071.1",
             "completeness": "Unknown",
             "end_coord": 2837273,
             "start_coord": 2833928
