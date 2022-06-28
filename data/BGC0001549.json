@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_AOPZ01000017.1 dated 29-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -28,8 +38,99 @@
                 "compound": "citrulassin B"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "STRAU_RS02290",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "STRAU_RS02295",
+                    "product": "lasso peptide biosynthesis B2 protein"
+                },
+                {
+                    "id": "STRAU_RS02300",
+                    "product": "lasso peptide biosynthesis PqqD family chaperone"
+                },
+                {
+                    "id": "STRAU_RS02305",
+                    "product": "asparagine synthetase B family protein"
+                },
+                {
+                    "id": "STRAU_RS41245",
+                    "product": "lasso RiPP family leader peptide-containing protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "STRAU_RS02290",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 100369,
+                                "start": 98591
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MFRLTAGHRSAMTIASVLTLGGSALGLAQPLLAKTIVDASSHGHIVVPVLVLAALFVAEAATGAAGRFVLERMGEGIVRGLRSSLVSRLLRLEMREYDRHRTGDLISRVTTDTSLLREVVSQALVDLMTGSLVAVGALALMLWIDPLLLLMVLLTVVAAAVVVASLLTGLRTAAEHMQGAIGAIAAELERALGALPMVRVHRAEEREAERMGACIDTAYSAGVRTARLSSVLSPAVELAVHGSFLLVLVIGGLRVNGNANTLGDLVAFMLYATYLMVPLSSVFQAVGLVQRGMGAFQRIDEALSLQAEPAEPEPAESESPKRPVPARCSPRPAPTTPEPALALDDVWFGYRPHCPVLQGVSLTVPPRRQVALVGRSGAGKSTIFALIARFYEPDSGTLRFDGHPAAELGRPECRSRIAVVDQNTHVVHGSLWDNITYAAPTASPAEVRKAVELANLTDVIDRLPGGLNGTVGERGSTLSAGERQRVALARALLTRPSLLLLDEPTSHLDAINEAALSRVLQDVTRQCALLVIAHRLSTVQNADQIILLEAGRAIAAGRHEDLLTTSADYRELVAGQALRTQSTNGRGTMRLR"
+                },
+                {
+                    "id": "STRAU_RS02295",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 100863,
+                                "start": 100429
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTTPSALTRPTGIPLTRRLAARLVLIAAFLLSFLPPRRIRAVLNAVRRGAAPASATQAKSARDAICAVSLRCAGPRGCLPRSLGTALLCRLGGTWPTWCTGVRMVPPFTAHAWVEIDGRLVDEGVPDDYFSRLLTVPPVGRPTR"
+                },
+                {
+                    "id": "STRAU_RS02300",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 101114,
+                                "start": 100860
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MALRFAPDITTAETEYGTVLLDQRSGHYWELNPTGTLVVRTLLEGGEEKDAVDAVIAEFDIDRAQAAQDVAALIHLLRTSGLTA"
+                },
+                {
+                    "id": "STRAU_RS02305",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 103009,
+                                "start": 101159
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MPTSHETGGVGPGDAHFAVLPDCVDAIAAARSFLRPEARTLAHPSGRPWLVGRWSDQEIVTAHAGRAAIAVVGCCSVGPDELKGYAERLRDLTELDALARRLSGSFHLVAALDGRLRVQGTASGLRLVFHAIVDGVQVAATSAEVLAAATGAEPDEERLAVRLLWPAPYPLSETSLWRTVTAVPPEDAVVVAPDGRTARHSRWWAPPDPVRSLAESAPLVREALADAVDARTSAGGVVSCDLSGGLDSTSVCFLAARSPARVVASTWPGRDPADSDLYWAKKAARFLPDIEHVIWDADESPLVYDDLLAIDDLIDEPTIGVMDRSRVLHHLPGLGQRGSRVHLTGIGGDHVAWCSEAYYHRLVRTRPLIALRNLRGFRTLFHWPLGATARALADARPYGQWLAHSSRDLREATAPPVSGTLGWGTPPRLFDWITPEAARVAGQALRDAAASAVPLHPDRGMHTDLEQIRSCTRIVRQWDRMAARAGVPMASPFFDDRVIEACLAVNPIERVTPWAYKPLLTTAMRQIVPDVCLERANKAQASMDASNGLRERRGDLMKLWEDSHLAQLGLVDGRALMELARRPSTPGLGEGTLYSTIACEVWLRSLSRHRREVFRG"
+                },
+                {
+                    "id": "STRAU_RS41245",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 103146,
+                                "start": 103036
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MKKAYEAPTLVRLGTFRQRTGLLQRHGNDRLIFSKN"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_AOPZ01000017.1",
+            "accession": "AOPZ01000017.1",
             "completeness": "Unknown",
             "end_coord": 103347,
             "start_coord": 98591
