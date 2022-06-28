@@ -11,7 +11,9 @@
         },
         {
             "comments": [
-                "Fetch compound properties from PubChem"
+                "Fetch compound properties from PubChem",
+                "Gene details extracted from RefSeq accession NC_006039.1 dated 25-SEP-2017",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -39,8 +41,82 @@
                 "molecular_formula": "C12H22Fe2N2O4+2"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "KLLA0_C19184g",
+                    "product": "uncharacterized protein"
+                },
+                {
+                    "id": "KLLA0_C19206g",
+                    "product": "uncharacterized protein"
+                },
+                {
+                    "id": "KLLA0_C19228g",
+                    "product": "uncharacterized protein"
+                },
+                {
+                    "id": "KLLA0_C19250g",
+                    "product": "uncharacterized protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "KLLA0_C19184g",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1710936,
+                                "start": 1709494
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MYQLLFQRLGVTLTAGNDKKTSIPSNQLVGHLIGLILLCDDLNEAFADFQALLQNGIAISSSDRGYLVFDAHVTDCGCHLRAQMIQDVFSYFKNHEVTKLYIFDAVAKKLNELKRHCISLIQTLCWENTSAQKLGFPKNIKSYEELLKLLQWDTADISSAIADSFPMNPNNADQNEKGLVWNVTKLEVVLEFLYCSHFLSKNKIYNKKENLDSVTIDFNNAFEKRQLLSNKFHCQGTGKLGVGCRYLKHAKQSKNSFISVVSNLQSRLALLSIAFLKSRCTLPCDIEALQKNSPRNVSAIPNFLHFLILEREWSQNETPILLAVRKLHEHEHCDLYFEARINPHTFEWTLQHKECCEFEHHTPYIVITALATGSSTTKTAQLLAWELMKAQKNFRQFWLTFMSQHRQYPFEIEHDEDQLLETQVSQDIFELYCQSKREDRNQILFDDSTSLLPKHIFTEYPSIFFNFQKNVCSKHGALVI"
+                },
+                {
+                    "id": "KLLA0_C19206g",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1713348,
+                                "start": 1711813
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MLADILIPLIKKNWMAFVYFTPVLFVVLYLLKEWRAAYGFNNLGQTVAAPFGYERKTLPYNKENCARTKFLDGKSLSIKNRDQCGDLYLQRSGTYKEIVLTTPKQLMEYYKSNSKNHSKLDSFGAGAFLVALLGECLGFQNGSEWLSMRKVFDSFFTHKAAVENFPVMIDYISEWIKDLDTEQISDIDPLQLVSDLPFTCIAKYLYGSELCSKQFLQALKDLIPMHTELMHYSFLTVAGRFKIFQYFPSKKMKQVSQFQRQFIDLSLKQVELSRQSGQETVVEKLYRHVESGKFTFNNWIQTIDEILFANIEVTSTVMAWALVEMGSNIEEQNRLRCEILKVKEQSSKDDFNKETDPMQRYMKLTDTYLQYCVWETLRMHPLLWFSFPEISSETLFIDGIRISPNTPIVVDQYQINYNSPIWNPSDKPKDFGKKFAPSRFENITLRDALYSQVTFGAGSRKCLGRNFAELLIKSELAYILSKYKVTLTEKVEFSKDTFVVQPKTKIQLTAL"
+                },
+                {
+                    "id": "KLLA0_C19228g",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1715562,
+                                "start": 1713787
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MACLECKKRKQKCDGQKPCRRCTKLNVKCIYGTDRRKDKRKIKDGSNMFIFKNQTLCNDKINGIVPHPLSHDTITTKETWEPSYPLFSDDINPADIISMENTDGSIPLQFDLDFTSLESCDVNDFLRLIGDTFPANDADTLDMNQMGGFNTPSISHNTQDDKSQIAIQRNRLIDVIFGDDSHTPPGILREHIFELSERHEDLEALDFDDNGKFLLSTVLCLGALTLRKRELLNRDSNQPSTNGIPEVAAGAYKYYTIATDLIPAVHAAPNIDGFCGLVLMANFMTIMIPLEGQLYLSNNALEVAVALNFHKRESYDEMIVSNPAQLGVFLLFWNLWCSSCMLATLLGKQPFLTLDNISLPPPHQMQHTVSSSPLSINFMRLRIQLATLQTKIFQRLYVYGSLNKVLFQEIETELSLLSTQISNMKCYPIYDEGLFYRSKVLMLELSCLKAHNAFLLYRPNLIQKKSLHAVDAAKHIILEIWSHYTKQFPKNEKDLVDHLDWNFSYPLRTASLTLSISCVILQKYQQSLNFLEEYGIFEYNLALGVLNDLIQVVPIEKRLINLLTVSRTTVEDANESNREDSLRFWTNMLMC"
+                },
+                {
+                    "id": "KLLA0_C19250g",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1717470,
+                                "start": 1716088
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MKLTDSQKHLYSQYLAVTLIAVQFSFDTCVYLSSVVQYVKECGSDDPENYLFILQAVSAAVQVFFSFIIGDIASYVGSIKWVIIFLYFLSFVGNFLYSCAGAVSLNTLLGGRIICGAASSSGAVVYSYITAISKDRTTIFKLFSIYRTSAGICMALAQLVAILFALCDFTVRGYRITSYNAPTFASSFIILLICVLLMFVLENPPVKSARNPKNYLDAWKKFFSAGSNRLIASLILLWNMFLSTFFMCEVLYFMPIFLTLNVGWKTEYEGVAFMVSAVLGVAGSFFAPDLVKLFAKLNTPSTQDETDTSDNDKIEKEESEQKSDINTLHRNQVSLTIFALFVALIGQAFMIGASEALSNDKLPKTNSGIFFTAGLSITMLGYNFMGSSVPALFSMYIDPQVKVQLMPFIGAIAGVGKLVAPIVLAALYKTPLGLPIGVGFGMILVGISIPSLVYLRRNKM"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_006039.1",
+            "accession": "CR382123.1",
             "completeness": "Unknown",
             "end_coord": 1717470,
             "start_coord": 1709494
