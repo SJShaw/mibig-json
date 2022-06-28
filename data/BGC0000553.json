@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_DS999644.1 dated 22-JUL-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -30,8 +40,133 @@
                 "mol_mass": 2212.18
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "SSGG_RS0133190",
+                    "product": "lantipeptide synthetase"
+                },
+                {
+                    "id": "SSGG_RS09930",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SSGG_RS09925",
+                    "product": "SapB/AmfS family lantipeptide"
+                },
+                {
+                    "id": "SSGG_RS0133195",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "SSGG_RS0133200",
+                    "product": "ATP-binding cassette domain-containing protein"
+                },
+                {
+                    "id": "SSGG_RS34700",
+                    "product": "ATP-binding cassette domain-containing protein"
+                },
+                {
+                    "id": "SSGG_RS09915",
+                    "product": "response regulator transcription factor"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "SSGG_RS0133190",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5222843,
+                                "start": 5221416
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "VNPEYAAYCQADRRFYDAPHRSAGPGGGAVDEENAYYAAVRGSAPEGWTRSRRGDWLAYHPDGLRLPPQGWKIHVSAALDNAASVLGRVLAHCLEHRLAFKCIPNAGLLALRNAKYADRAGSGKFITVYPPSEEAFPEVCTALMELLEGEHGPYILSDLRCGNGPVHTRYGAFAARFCSGPDGRPVPAVADPRGRLVPDDRGPAFRVPSWVTPPGFLMPHLEARAAVGLAGLPYTVEKALHFSNGGGVYLGRDTRTGEQVVLKEARPYAGLAADGADAVARLERERAALEQLAGLDCVPDVRDVFEVGDHHFLVLQYIPGTTLNTVFARRFPLARQHPSPDLLAEHAAWAEELYGQVERAVAAVHDRGIVISDLHMSNVMVDEEAGRIVLLDFEAASPAAERRRQIVANPAFVAPPDRRGTDIDRYALACLRLALYLPLTTLFGIDRTKAAGLARDIARAFPVPEDALRPAVEEIL"
+                },
+                {
+                    "id": "SSGG_RS09930",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5224227,
+                                "start": 5224025
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "SPSRASS"
+                },
+                {
+                    "id": "SSGG_RS09925",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5224384,
+                                "start": 5224253
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MALLDLQAMDTPAEDSFGELATGSQVSLLVCEYSSLSVVLCTP"
+                },
+                {
+                    "id": "SSGG_RS0133195",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5225542,
+                                "start": 5224477
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "VPLSHPDPSPGTASGTRRLARLHPAALSWLFLCSTGGALAALALPAALGHTVDRLVSGGPEPWAGLLLCAALTLAETGFDAAAAVTGTTTTARLTASLRIRTAGRILAAEPRRALALPTGDLTARLTARTADAASAPVTAAGAVAGVLLPLGALVGLLLIDVWTAAALLLGAPLLVVLLRTFTRHTADAGADYQRAQSLIAHRLTEALDGADTIRAARTGAREHRRVLEPLAALADHGRRTWTVYGRAVGRSGLLLPLLMLLVLAVAGLRLAAGAIGVGELVAASRYASLAVGIGALTGALGSLARSRAAARSLDPLLSLAPLPHRGLGPVPDAPGHLELRDVGVEQDGRPLLSG"
+                },
+                {
+                    "id": "SSGG_RS0133200",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5226171,
+                                "start": 5225826
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "ARAARADGFLALLPYGYATPVADAPLSGGERQRLGLARAFAHPGRLLILDDALSSLDTVTEHHVRRALDARAGHCTRIIVAHRLSSAARADRVAWLEDGRLRATGRHDELWQDPE"
+                },
+                {
+                    "id": "SSGG_RS34700",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5228215,
+                                "start": 5226437
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "RSCGWPGGPCWSSRRPSSADTGSPAPSTTASSPDVRPPGSSGWPPPPSPCCPPCSPPAGCSAGSPIWSSRCATGWSGARWRGRCRARSAAPATSAPGPSPRSPIRVRSPATAGPDSS"
+                },
+                {
+                    "id": "SSGG_RS09915",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5228789,
+                                "start": 5228184
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTTVLLVHTVPLWRASLASLLGTGRGIEVRTAERGAIRAALNGHGPDVLLTDLDCPGARDVLDELKTVTAPHGGTYPLAVLTRSDQPRGLRRAYEAGALGYIDKYRPVDDLSEVMHKLADGGRHIDESLAFSLLQVADMPLSPRELSVLSMAEEGDNVAGIAGRLHLTPGTVRNYLAAAIRKSGARNRLDAIRRAKEAGWI"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_DS999644.1",
+            "accession": "DS999644.1",
             "completeness": "complete",
             "end_coord": 5228789,
             "evidence": [
