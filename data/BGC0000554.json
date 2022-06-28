@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_DS999644.1 dated 22-JUL-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -29,8 +39,83 @@
                 "mol_mass": 3108.3
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "SSGG_RS13165",
+                    "product": "mersacidin/lichenicidin family type 2 lantibiotic"
+                },
+                {
+                    "id": "SSGG_RS13160",
+                    "product": "mersacidin/lichenicidin family type 2 lantibiotic"
+                },
+                {
+                    "id": "SSGG_RS13155",
+                    "name": "lanM",
+                    "product": "type 2 lantipeptide synthetase LanM"
+                },
+                {
+                    "id": "SSGG_RS13150",
+                    "product": "peptidase domain-containing ABC transporter"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "SSGG_RS13165",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4445329,
+                                "start": 4445108
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MNLVRAWKDPEYRATLSEAPANPAGLVELADDQLDGVAGGTTWACATVTLTVTVCSPTGTLCGSCSMGTRGCC"
+                },
+                {
+                    "id": "SSGG_RS13160",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4445598,
+                                "start": 4445362
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MDIVRSWKDADYRLSLGSEAPAHPSGEGLTAITDEELTEINGAGSGVLGTLGCCSCLPWYSGWTVCGLACNPGKPCKN"
+                },
+                {
+                    "id": "SSGG_RS13155",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4449002,
+                                "start": 4445688
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPDDASEHPTVRPAGAHLPWRRAATLSERLAGTPSQTDPVRGEKRLAMWRELAPLTGELSTLDTRLEPLGVDTDRLTALLGEDDASLAARMADEPDWHRTFRRWWAEGMATTDATRRLDPDMGLLEVIRPLVEGAVHELDALVEEAVRASDDPVMADPGHILDIVRATAPAADLLSHVQRTLVLELNIARVEDRLVGETPEERFASYVELLRSEGNALAIWDEYPVLARLIVGQLRFWIDTRAELITALVADLPVLRETLLAARPPQRLDRLEFGAGDKHRRGRSVAMVEFDTCTLVFKPRSLAMDTAFDGLLAWVGRQNPTHDLARIGILERGDHGWVEEVDTTATTDAAGGDRYAWRLGALTALLYLLHATDFHFENVLAAGEYPVLVDLEALLHNDKTAAVVKIDGETDIAAVTLADSVQSVGILPNHLLVRGEDGTFGLDVSGLAGHGGQLTPMPVPIWEDSGTDRMRLVKRRMEMDAERNHPMTADGEPIDLVGRVDAFVEGFTHVYRLLETGRDELLAPEGPLAAFGAVRTRLIARPTHIYGRLLLESTHPDFLRDGLDHARSLARLAGGHVEMPESRNAMVLDEIAELTLGDIPMFTVDADSGTLRGGLDGEPIGTRYPPLTAVRERLAALGDADLAFQERVIRSCVAATAMGESDARWPNWHRPRMDGAADPGDFADEALRLAHRLADLCVRDAHGLGWIGLDLVDEKYWQYAPAPIGLYTGTAGIAHALDAVAAVTGDERTGELARAAFDQVAKRSVLIAETLAGLAKKPGADEFGIGAFGPFGGAIYALAHAAVRHDRPEYAEAAATLLPAIDELVEEDPLLDIVSGSAGAILALLALETARPGTGAARIAERCAERLLATRQETADGWGWATPINPEQPLAGFSHGASGIAYAFARLDRVTPRAEYREAVRHALTYERTVFDPELRTWRDLRPANLGGRTVMNAWCHGAPGIAMARNAFQELGTAPELADLIERDRHTAVLAAISTGLDLDPVSGLGNHSLCHGDIGNLLIIDAATRADQEPEVAGLLPKVWKTLLHEGRENGWLCGVPKGVETPGLMTGLAGIAWGLARKAAPERVPDLLTLAAPDTGRTTC"
+                },
+                {
+                    "id": "SSGG_RS13150",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4451653,
+                                "start": 4448996
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MLNGGPAPAAPPDGAIADGVYRPSMVAAYRANPRGAARTGFQPDAMRPRWRWALAGALLLAATVVAGLVVRVPVGPTGNLAGTDGRQGVLAFPDFSPPAKDSDVLAERGRPRGGGPGEGLPGRPGRGSRHHGPRRTPRRRRRGTGGGRVRGPRPGHPPPAHGSLGRKGRPVSIIRRRVPVRLQSTSVECGVAALAMVLGYHGRSTAVAELRDRMVLSRDGASAASIARQARELGMKVRAFRAEPDALRDLALPLIAHWGMNHFVVIERFTRRGVDIVDPASGRRHISHAELDASFTGVTLELEPTGELERRDGAETGLWSFVRPFLPRSVPIVSAIIGASATLTLLGLLPAFLTAYVVDRVLPGRSEDTLLVLAAGLVAYTVSHALMTLARAELLLWLQTRMDWSMMGTFLRHLMSLPYKFFQLRTGGDLLVRVSSMTYVRDAVSSQLLAVFLDVALLGVYLVVIGFKSLLFVAAILAVAAVQLGVMFASARAAQRLTERELQALGEAQSTLLESVTGAETVKSSGAEHIVVRRWSRKFSEQLDASVRRSRLDNGIDSVLGMLGTASPLLMLILGASLVFSDNLSLGTMLALIALAGAALAPVAQLGRSIKTFQTIRVHLDRLRDVLNEPAESVGQGDAQVDLSEPITLTDVGFRYSGDGPEALSGISLTVRPGEKIAIVGSSGSGKSTLARLILGLYDPTDGEITYGSTPLTDLDLGHLRRQCGVVTQDADIFSGSVLTNIALVMPEATLDDVVEAARLAAVHEDITHMPMGYETILGEGGNGLSGGQRQRVALARAVVHRPRVLLLDEATSHLDATTEAIVHENLSELDCTRIVIAHRLSTVRDADRILVIDRGRIVEQGDHDELVARNGAYAALVGQQLVHD"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_DS999644.1",
+            "accession": "DS999644.1",
             "completeness": "complete",
             "end_coord": 4451653,
             "evidence": [
