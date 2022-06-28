@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NT_165937.1 dated 05-JAN-2011",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -31,8 +41,150 @@
                 "molecular_formula": "C32H30N2O4"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "ATEG_09065",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "ATEG_09066",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "ATEG_09067",
+                    "product": "phospho-2-dehydro-3-deoxyheptonate aldolase"
+                },
+                {
+                    "id": "ATEG_09068",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "ATEG_09065",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 168965,
+                                "start": 168854
+                            },
+                            {
+                                "end": 169367,
+                                "start": 169072
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MQAAESVRVQSQIDRRTCRRVKPMKVLVLGLCRTGTLSTWLALQELGYDTYHMTSIMQNPQDAVMWKEAFQGKYYGGKKFTREDWDQLLGHVEAITDFPGAVFVEELTEAYPGRQGRADAARRGRLGWARCGRPS"
+                },
+                {
+                    "id": "ATEG_09066",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 171502,
+                                "start": 171401
+                            },
+                            {
+                                "end": 171730,
+                                "start": 171669
+                            },
+                            {
+                                "end": 171880,
+                                "start": 171807
+                            },
+                            {
+                                "end": 172009,
+                                "start": 171953
+                            },
+                            {
+                                "end": 172081,
+                                "start": 172079
+                            },
+                            {
+                                "end": 172209,
+                                "start": 172133
+                            },
+                            {
+                                "end": 172257,
+                                "start": 172255
+                            },
+                            {
+                                "end": 172322,
+                                "start": 172320
+                            },
+                            {
+                                "end": 172371,
+                                "start": 172369
+                            },
+                            {
+                                "end": 172611,
+                                "start": 172585
+                            },
+                            {
+                                "end": 172676,
+                                "start": 172648
+                            },
+                            {
+                                "end": 172728,
+                                "start": 172716
+                            },
+                            {
+                                "end": 172939,
+                                "start": 172799
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MQFLWTAALIVGCLGAPLTPPFSKVAESMEGMTQTPMGSVDLALTERDRRVCSSLLYVPRPNPTNALDMMITDSVPWIEQCMIKLPILHGRAILTSAGHCGMYPSVCLNKSELAPLTQASSAFQNNNVLTMLMSLQSLMSAFCVSSFFRQCYTLRGSSRVPVTDQSQRESPTMTTDGDVNPTNDGTVNNNVSFLRFC"
+                },
+                {
+                    "id": "ATEG_09067",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 175164,
+                                "start": 175077
+                            },
+                            {
+                                "end": 175015,
+                                "start": 174236
+                            },
+                            {
+                                "end": 174180,
+                                "start": 173909
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MPSFTSANEPVLDASNLELLRQKLAEDVRIEKYTPLAPPELVQFEIGLSAESLLTVLNSRIEARQIIRRESDRLLVLVGPCSIHDPETALEYAARLRELAAELRDDLCIVMRAYLEKPRTTVGWKGIINDPDVNDSYNINKGVKIARKLLADITHLGVPVASEMLDTISPQYTADLISVGAIGARTTESQLHRELASGLSFPVGFKNATDGSVNTAVDSLKSMRGRHHFMGTTKQGVVAITTTKGNEDGYVILRGGTRGTNYDAESVKAARELLHSKGERDVVMIDCSHGNSQKDHRNQPKVLKVIEEQLRQGENGIIGVMVESNIREGNQKPAPGLQGCEKGVSITDACIDWETTETSLRSLAQAVKDRRARFSMGKN"
+                },
+                {
+                    "id": "ATEG_09068",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 177686,
+                                "start": 177150
+                            },
+                            {
+                                "end": 178423,
+                                "start": 177753
+                            },
+                            {
+                                "end": 184269,
+                                "start": 178554
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPSTIIDDAGRLQQHWSRLVADVTPSHLPSGYLTKQSTQSPIGQLNVSLQLPLIHACCQQCDVSPLGLVQAAWAAVLRSYSGSDDVMFAGIGLEPPTTKKQWTNTSIFRGRLEAENVLISAASEIREEGLLEADALVSVPEALKVFSTLDPKPCNSAIWLRDPASKSELCESDIVNSKTFDYVLRLDPSVSTLSLIFYKPTVSRAQAEYIASTFSDVLQHVCVDPNQTVGNLCHPSELDTLQIETWNHALPRGSTACVDQLIEEAVQRSPDAPALLSWEGQMTFSEFNQTATKLAAYLDQAGVQRGQLVPICFEKTMWTIITMIALWKVGAGFVPLDPKHPRQRMETIIESVQARTVIVSATNQELLAGSVPQLITLDAKLAGEILAGEPVDFPSRSQPHDVSSVPTRLLSALLKSSRPSSLGVVSVSRPTTTVTPTFALSSGPGMLTGPSFTPSFARSVHHEDVPSLETLIVAGEAVAQDIIDRWSTRAQLINIYGASECSVIMVGPMSKDTPRTCIGRATGGLSWIVDANDHDRLVPIGAIGELVIEGPTLARGYLADPEKTDAVYISDPFWARKPGMTRRFYKTGDLVRYGDDGRVHLIGRKDLQVKIRGQRVELTEIEAHMRAINNNVKTAVAMVHPGGKAMLAAFISAQSGFGPEFASPFHAAPDNKAEITALASEMNSRLAERLPPYMIPSAFLPLLYMPLTASGKTDRRLITTYGSSLSPAEIAAVAGSGAASRPRRPSTAAEMKLQQLWAEILHCPAEEIGAEDNFFHMGGDSIEAMNLTRRCRAEGFQLQVSDILKNLVLSDMAKVMTRGAFAEVTIGKPFELLGDDVETIRSNVLSATGFNDPELIQDAYPCSPLQAGLMALSTKISGSYIARHWLELPSSLSVNRFKELWELIVSNNDVLRTMMVDTDDYGTVQVVNRARVQWNHDVDLENYLQNDEKQPMLMGDPLTRYAIISGEQTYFVLTIHHAIYDGLSLEIIWNDLVQAIQGTVPPLRPQFRNFVQHVEEMNANKETKEYWRNELSDGDLIPFPTLPSATYQPVANDAYIHTLQLNRNGPSDYTTATLIRAAWALLQARYCDSPDTVFGCTVSGRNASVPGVEDMVGPVIATVPVKAHVDGQQSVADYLNMINTQSVDMTKTQNYGLQNIARVSDTAAAACGFQTLLVIQPATSVPEDSVLPPFSAPRAKFSTVALTLECSLSADGGVLIHVYFDNAILPQAQIVRIVNQFEHVLQQLAVTPTGKISELEMISPQDKDDILGWNRTIPDVIDDCVHNLIAMNTIKTPHAPAICAWDGELTYAELESISSKLAAHLVNLGVGPEVFVPLCFEKSMWTIVAMIATMKAGGAFVPMDASQPTSRMKLVVKEVGAHLMLCSENELGRCPGLVEKAIAVGPGMTQAATPKTMPTPVKSTNAAYVIFTSGSTGTPKGSVVEHRAFCTGAISHKEGLQMGSRVLQFASYTFDASILEILSTLVQGGCVCVPSESERRGNISEAITRMNVDWAVLTPSFVNTIDPTTVPTLKTLVLAGEAMTAAHVAAWTPHVQLVNGYGPSECCVCSSSNRRVLPGTLPNDIGTSVGAACWVADRVDHNKLSPIGCIGELLVEGHTLARHYLNNQEKTDAAFIPRPSWLPWTRCDRLYKTGDLVKYAPDGSILFIGRKDTQVKIRGQRVELGEIEYHLCLPAEVTQAVVAYPKKGLYANKLTAILELSGATGSDMVPLSKARIQRTGFDLGSLSHYLSETLPVHMVPVIWIIVEKIPSSSSTKIDRKTVDNWLAALPSDFEPTMGIKQEGPATSTLSAHESKAMAISKKIAALINRDDTPIEGRDFNISSMGIDSVQVISLASFIKQNFGVKVDVSRILDGHMTVRSLASFIDAELNGTKKEEVPTFDVMKEASSILKNIIKNSAVRKTVFVTGVTGFLGTQILRQLCERSDVGRVIAHVRASTPSEAFMRVKDAAIRAQWWTDYYLGKLDVWAGNLAKPQLGLKPRQWASLTGESPNDGLVHAIIHAGAAVNWNAGTNILRAANVDSTAELIKASVTSPARPRLIYVSGGHKWSLDETDQDIAREVSQANGYAQTKYLSELLVKQFAARYPNQFAIIKPGLILGTPEEGVANTDDFVWRLASAVVDARCFSQDHGDGWMFVTSSTRVAEETINQAFCPAHAMKTVTYMTDGITEREFWEVFSRELKYPIRPVSHSAWMQTMHSSIQKETNSHPLWPVSQVFDAVQGHLGVDSLEDTSIVTPSQKQHVKATIRRNVQFLVEAGFIASPTGKKMQYMAEKVFQRSGNVWENVKGMVNAL"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NT_165937.1",
+            "accession": "CH476607.1",
             "completeness": "Unknown",
             "end_coord": 184270,
             "start_coord": 159865
