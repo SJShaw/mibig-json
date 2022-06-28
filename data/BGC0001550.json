@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_JNZY01000033.1 dated 30-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -28,8 +38,99 @@
                 "compound": "citrulassin D"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "IF09_RS45020",
+                    "product": "lasso RiPP family leader peptide-containing protein"
+                },
+                {
+                    "id": "IF09_RS0130345",
+                    "product": "asparagine synthetase B family protein"
+                },
+                {
+                    "id": "IF09_RS0130350",
+                    "product": "lasso peptide biosynthesis PqqD family chaperone"
+                },
+                {
+                    "id": "IF09_RS0130355",
+                    "product": "lasso peptide biosynthesis B2 protein"
+                },
+                {
+                    "id": "IF09_RS0130360",
+                    "product": "ABC transporter ATP-binding protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "IF09_RS45020",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3060,
+                                "start": 2950
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MKKAYEAPTLARLGSFRKKTGLLGRSGNDRLVLSKN"
+                },
+                {
+                    "id": "IF09_RS0130345",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4953,
+                                "start": 3088
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTESHESAAPGPGDANFAVFPDREDAAAVARRFARPGLRTLSHPSGRPWLVGHWHDDEIVTARAGSTALTLIGCCPLDASGLQRHAAKVQDVTQLDALARALPGSFHLAAALDGRLRVQGTASGLRLVFHAHIDGVAVAATRADVLAAGLGREPDEERLAVRLLWPVPHPLGEEPMWRGITAVPPQDALIVAADGRTVRHSRWWSPPEPVRTLADGAPQVREALTEAVDARTRKGGVVSCDLSGGLDSTSICFLADRSPARVVASTWPGRDPADTDLQWAEQAVGFLPDVEHVVWDADASPLVYDDLLSIDDLLDEPTIGVMDRSRVLHHLPGMAERGSRLHLTGIGGDHVAWCSEAYYHRLLRTRPLTAVRQLRGFRALWQWPLSGTVRALADSRPYGAWLADAAGRLRDPQPATVSTSLAWGMPPRLFDWVTPDAERAASRALREAARGVSPHHPDRGLHSDLEQIRSGTRIIRQWDRMAARAGVPMASPFLDDRVIEACLAVRPHERVTPWAYKPLLTAAMHGIVPEPCLRRTNKAAASMDAADGLRAHRADLMALWEDSRLERLGLVDGDVLRRLAQRPSTPGLRDAILYSTIACEVWLRGLPPVKKSGAEPAAAPL"
+                },
+                {
+                    "id": "IF09_RS0130350",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5264,
+                                "start": 5010
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPLRFGADVSTADTDYGTVLLDERNGQYWELNPTGTLVVQTLMGGGDEAAAADALVAEFDIDRSQAEQDIAALVTELRASGLAV"
+                },
+                {
+                    "id": "IF09_RS0130355",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5695,
+                                "start": 5261
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTTPSALERPPGVPFARRTAARLVLLPAIVLSLLPPRRIRAVLGVLRRGARPAAAAEAKGARDAMCAVSLRCAGPRGCLPRSLGAALLCRLTGSWPTWCTGVRVVPPFTAHAWIEAEGRPVDEGVPDDYFTRLMAVAPVSRPAR"
+                },
+                {
+                    "id": "IF09_RS0130360",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7545,
+                                "start": 5749
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MYGLTAGHRAAAVTAAVLTLVGSALGLAQPLVAKNAVDASGHGRALGPLLALLAVLFVAEAATGAVGRFVLERMGEGVVRQLRHGLVARLLRLEMKEHGRHRGGDLISRVTADTTLLREVVSQALVDLVTGALVAAGAVALMVWIDPLLLLLVALTVAAAAAVVASLLKGIRAASERMQSSVGAIAADLERALGALPMVRVHRAEGREAARIGERVESAYSAGVQTAKLASVMSPAVELAVQGSFLLVLVIGGLRVNGHDTSLGDLVAFLLYASYLVLPLSSVFRAVGLMQRGMGAYQRIEHVLDLPVEPAEPAEQATPAVGARTLPQSPYTGQAGTPPALALRDVHFGYDPDRPVLHGVSFAVPHRRQVALVGRSGTGKSTIFALAARFYEPDSGTLLFGGRPAVELSRSECRARIAVVDQSTHVVHGTLRDNITYAVPDADEAEVRRVVELARLDGVVRRLPGGLSGVLGERGSTLSAGERQRVALARALLARPALLLLDEPTSHLDAINENALAKVMRDVAGECALLVIAHRLSTVQHADRIIVLDNGRSVAAGCHGELLATSPSYRALATGQMLRPAGSPGAAPKAPPGTRPSP"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_JNZY01000033.1",
+            "accession": "JNZY01000033.1",
             "completeness": "Unknown",
             "end_coord": 7545,
             "start_coord": 2136
