@@ -11,7 +11,9 @@
         },
         {
             "comments": [
-                "Fetch compound properties from PubChem"
+                "Fetch compound properties from PubChem",
+                "Gene details extracted from RefSeq accession NZ_MKCP01000039.1 dated 20-AUG-2019",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -39,8 +41,252 @@
                 "molecular_formula": "C97H131N23O26S4"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "BIU87_RS24165",
+                    "product": "response regulator transcription factor"
+                },
+                {
+                    "id": "BIU87_RS24170",
+                    "product": "sensor histidine kinase"
+                },
+                {
+                    "id": "BIU87_RS24175",
+                    "product": "ATP-binding cassette domain-containing protein"
+                },
+                {
+                    "id": "BIU87_RS24180",
+                    "product": "ABC transporter permease"
+                },
+                {
+                    "id": "BIU87_RS24185",
+                    "product": "aborycin family tricyclic lasso peptide"
+                },
+                {
+                    "id": "BIU87_RS24190",
+                    "product": "lasso peptide isopeptide bond-forming cyclase"
+                },
+                {
+                    "id": "BIU87_RS24195",
+                    "product": "lasso peptide biosynthesis PqqD family chaperone"
+                },
+                {
+                    "id": "BIU87_RS24200",
+                    "product": "lasso peptide biosynthesis B2 protein"
+                },
+                {
+                    "id": "BIU87_RS24205",
+                    "product": "ATP-binding cassette domain-containing protein"
+                },
+                {
+                    "id": "BIU87_RS24210",
+                    "product": "ABC transporter"
+                },
+                {
+                    "id": "BIU87_RS24215",
+                    "product": "DoxX family membrane protein"
+                },
+                {
+                    "id": "BIU87_RS24220",
+                    "product": "thioredoxin domain-containing protein"
+                },
+                {
+                    "id": "BIU87_RS24225",
+                    "product": "CapA family protein"
+                },
+                {
+                    "id": "BIU87_RS24230",
+                    "product": "response regulator transcription factor"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "BIU87_RS24165",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19250,
+                                "start": 18549
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTVNLFVVSDNAVSLAGLEAIVDQDEECALVGRATDDSDDLRCLSDLAGTALHPDVVVLSEPSSSRTVSARVRHIASAFPDEASRPHTIVVAQNDDDEMIVSALRAGVNGYLSRLGSADELLRSLKVVARGGAAFCPSVAARMSRYFSAMQGLHDGAGFPGLTSRELEILELLAGGMGNRQIARRLFLAEKTVRNYVSRIFAKLEVHDRATAVVMARDAGFGEPAGELVRNGA"
+                },
+                {
+                    "id": "BIU87_RS24170",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 20871,
+                                "start": 19732
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MGEGSRRRAIVLDAAAACAFTLLPQVSLLRPAVDGGTGGGFLWLLSLAAGLPLAVRRLWPVPVFVLVLAAACGALAAGLGPASFLAAAYAVHTVATTRRRDPGVSAVAVAGLCAAVAALLTLSGGQSYQGGSTAVQAVFGLLVLGATWAAGSAVRERRRSTRRAIEHAAEQAKTEERLRIARDIHDVVTHSVGLIAVKAGIANHVVATRPEEAKEALAVIEDVSRRALRDMRATLTVLRGEDRSEAGDLRPARGLADLPALLETAEAAGVRVELRTRYDQEPPEGVALAAFRIVQESLTNVLKHAAPTGCRVDVTARQGVLTVDVTDDGPGPGRRTTVPGGGMGLVGMKERAAAHGGTLAAGPRPGGGFRVTATLPFQA"
+                },
+                {
+                    "id": "BIU87_RS24175",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 21884,
+                                "start": 20943
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MRSRGARRETRHVMLAERLTKRYGPATVVDDLSFTVRPGVVTGFLGPNGAGKSTTMRMMLGLTRPDGGTATVGGRAYRDLTYPLRHVGALLETSAPHRGMTAVGHLSWLARSNRVPRRRVDEALDAVGLTEAARKRVGTFSLGMGQRLGLAAALLGDPPVLVLDEPVNGLDAEGIRWLRELLRAKAAEGRTILVSSHLMAEMAQVADELIVISRGRLLAETSVSEFLGRHGRTFVRVRTSEPLRAAQEFQAKGATSVRRAADGGLEVDGLPAGEVNRIAAAAGVPVEELSTHTGSLEETFLKLVDDGGDPTHV"
+                },
+                {
+                    "id": "BIU87_RS24180",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 22629,
+                                "start": 21877
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSETLAAARAEFTKMRAVRATSVALLLFVAVSVFIAALGGWSAKGAIESGNPGLRSDFTPEQAGLDGILYGQLALIVFGVLMMSGEYTSGMMRVSLLAVPRRGRLYLAKTAVTAVAALAVALPVTVVSYLVTQLALGPHGSTLDADGVPRALAGAVVYLTLMSLLAVGVAAAARSAVLPLAVLLPLVLVGSQILSVIGATKEVARWFPDRAGAQMLTVDSGDALTGLVVLLAWTAAALTAGWLRHRSWDG"
+                },
+                {
+                    "id": "BIU87_RS24185",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 22874,
+                                "start": 22746
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTAIYEPPALQEIGDFDELTKCLGIGSCNDFAGCGYAVVCFW"
+                },
+                {
+                    "id": "BIU87_RS24190",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 24747,
+                                "start": 22936
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MEFTVLPDCPAGAALADRVAAPKRIDHASGRPWIVGDWPEGGTTVTEAGTRRLAVFGHTRPDDAGTASALGRMRSLHDVDRVASRLPGVFHLAASLDGAVRLQGSVAGVRQVFTARVDGVTVAASAVDPLLRLTGAGLDETLLAARLLAPGGAPWPLSPRPVRRGVDALPTGHWLELGADGRARSVRWWELPEATLSLEEGAGAVRSALTDALATRVDPHRTISADLSGGLDSTTLCFLADAAGADLVTYHVVPLDEANEDTAWARKAAAHLPHARHHMLAADRAANLFDIGYTADTVNAAPEGPSTWASGLAHIRDLAGRATAEGAALHLSGFGGDELFGRMPACAWSLARLRPADGLRLVNRYRLANRWPWRSTLRQLADRSTFAQNLAEVAGRITAPPPPVNEPDFGWVFAPRMPAWATPDAVAAVRDLLTTAAERTPEPLDADRARHQALSSIVFEGNTVRQVNTAVAGTGLVWEAPFLDDRVLEAAFTTRIDERLAAGRFKPLLTTAVRGLVPDDFLARRDKGEFSAETFRGIERNRDRILDLCEDSLLARLGLVDPHAFRAAVLNPGPMSHHLQPIQTTVACESWLRAHPQDTGENR"
+                },
+                {
+                    "id": "BIU87_RS24195",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 25007,
+                                "start": 24744
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MKLSLARDVTLTPVDSGAVLLDGRRGRYYQLNASGSAILHKLLDGDTPAAAAASLSESAPVSEERVHQDVLALVRSLSEADLVEVTQ"
+                },
+                {
+                    "id": "BIU87_RS24200",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 25429,
+                                "start": 25004
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTTPAVAEQATRLPLHRQIAPRCAAGAARLLVRLPPARLHRVLRVLSKGSRPAGYGQVARARRSVVSVSTRCAGLGCLQRSVATVLLLRVRGRWADWCTGFRVQPFAAHAWVEAGGRPVDEPGEVGVFRTVLAVRRTGGGS"
+                },
+                {
+                    "id": "BIU87_RS24205",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 26391,
+                                "start": 25426
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTAIRAEGLYAYYGTTPAVNGLHLNVPEGATFGFLGPNGAGKTTTISMLTTLLRPTAGRAEVAGFDVTTHAAEVRRRIGIVFQESTLDLELTATENLRFQADLCGLGRAEARAAVAAMLDMMELTGRDRTPVRHFSTGLRRRLEIARGLLGSPRVLFLDEPTTGLDTQTRAAVWHHLDRLREEQGITVFFTTHQLEEAEHCDRIAIFDRGKLVTEGSPAELKSVIGADVVDLRTEDDRLAVDLLSDRFGLTAENTPGGLRLRVQDGASMVPRLCTGLGLGVRSVTVTPPSLDDVYLHHTGTAIRDSGSDARSLDSLGEGLR"
+                },
+                {
+                    "id": "BIU87_RS24210",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 27257,
+                                "start": 26388
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTRTDIPPSVTVTKPAPPSSEGRTRHTVRPYALLWRREMTRLRHNPLRLVMGLVTPLLFLVVLGTGLEAASSTLGKAQLNDYRAYLFPGALVMSVQAPAIAVGISLVWDRRLGMLRQMLVSPFPRSSIVLGLALGGATTGAVYGLALLAVGGIAGVRYTPMLLVVLVELLLVSLLFTSFGLLAAVTIRQVDTFQIVVNLSLMPLMFFSGAMFPPNGLPGWLDTVVKLNPLTYGVDAVRRTLPGPDVLTSEQTRLVLGDWNPPVYAELGVLAALTAAVLGLATYRFSRTQ"
+                },
+                {
+                    "id": "BIU87_RS24215",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 27744,
+                                "start": 27271
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTFVQTWAGTAARIVLAAVLGYAGWVKVQDLTGAGRTVALYQLVPEESAQLVGAAVAFVELALALLLLAGLATRAVAAVTALLMVTYIAAIASVWARGMSIDCGCFSSGGTLTGGAERGYVVDIARDLAFLGAAAFLITRPRTRYALDRLVLETKER"
+                },
+                {
+                    "id": "BIU87_RS24220",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 28472,
+                                "start": 27747
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MQPSTDAQVREMVHRRRRRRRTVLVSLAAVVTVLGAALVGAGLVRATDTEPGDAPEEVPAGVAADRAGLVTSEGPVRVDLYLDYLCPECRITEKALAPELREMQERGEVRVVHHPVAFLDDRSAPAGYSTRAASAAACAADRNKFEPYTAALFDEQPPEQGPGLDTDRLVALGRDVGITGAAFERCVRDGTYRPWVTYVSDVAASRGVALTPTVKVAGKRVELSGPDRAKAFVRAVEESRS"
+                },
+                {
+                    "id": "BIU87_RS24225",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 29815,
+                                "start": 28469
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSRLTVALTGDCMMTRGAPVTSDPAAGRLGEVLHTADFAFTNLEVAPATGRGHPVPDAASGGGLIADPAVLDDVTAMGFSVLSCANNHALDLGTEGVLGTVDLLRAKGVPFAGIGADLTAARRPVYVDRPAGSLALIACTATFRDGQEAAAPSPDLPGRPGLSPLRHGVTLRVTAAQLEALREIDGATGLRSRRAEARTLLGFDPAMPGPGRLALFGTRFETADTPGLTTACDPRDVHDLTRWVAEARRRADLVLVSVHSHEPGPTPETPAEFLRDFARAVIDAGADAVVGHGPHMLRGVELHRGRPVFHSLGNIVSQIELADRIPAEDYARAGTGEALTPGGYFERITAHGRRMFAPHRRYWQSLVPVLTFDDGVFAGARLHPVDLGFGQPVHRRGRPRLAGPVDAKEILTDFARLAEPHGVTVTVGDDGTGELVAAETDGGHRPGR"
+                },
+                {
+                    "id": "BIU87_RS24230",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 30566,
+                                "start": 29889
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MAEAVRVLIADDQALLRGSFRVLVDSTPGMETVGEAGDGAEAVALARELTPDVVLMDLRMPVMDGIAATREICSDASMAGVRVLALTMFDMDEYVYPALQAGASGFMLKDTSPDDLVAGIRVIATGEGVLAPSVTRRVIANFSHRDTAARPAPRLVGLTRREQEVLVLIAKGLSNAEIADRLVISLPTVKTHVSSLLSKLNARDRAQLVIVAYESGIAERGMPPA"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_MKCP01000039.1",
+            "accession": "MKCP01000039.1",
             "completeness": "Unknown",
             "end_coord": 30566,
             "start_coord": 18549
