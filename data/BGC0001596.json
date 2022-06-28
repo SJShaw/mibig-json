@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_CP010519.1 dated 01-APR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -28,8 +38,746 @@
                 "compound": "fluostatins M-Q"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "SLNWT_RS23545",
+                    "product": "ATP-binding protein"
+                },
+                {
+                    "id": "SLNWT_RS23550",
+                    "product": "TetR/AcrR family transcriptional regulator"
+                },
+                {
+                    "id": "SLNWT_RS23555",
+                    "product": "TIGR03618 family F420-dependent PPOX class oxidoreductase"
+                },
+                {
+                    "id": "SLNWT_RS23560",
+                    "product": "nuclear transport factor 2 family protein"
+                },
+                {
+                    "id": "SLNWT_RS23565",
+                    "product": "monooxygenase"
+                },
+                {
+                    "id": "SLNWT_RS23570",
+                    "product": "Anthrone monooxygenase"
+                },
+                {
+                    "id": "SLNWT_RS23575",
+                    "product": "bilirubin oxidase"
+                },
+                {
+                    "id": "SLNWT_RS23580",
+                    "product": "TcmI family type II polyketide cyclase"
+                },
+                {
+                    "id": "SLNWT_RS23585",
+                    "product": "beta-ketoacyl-[acyl-carrier-protein] synthase family protein"
+                },
+                {
+                    "id": "SLNWT_RS23590",
+                    "product": "ketosynthase chain-length factor"
+                },
+                {
+                    "id": "SLNWT_RS23595",
+                    "product": "acyl carrier protein"
+                },
+                {
+                    "id": "SLNWT_RS23600",
+                    "product": "SDR family NAD(P)-dependent oxidoreductase"
+                },
+                {
+                    "id": "SLNWT_RS23605",
+                    "product": "cyclase"
+                },
+                {
+                    "id": "SLNWT_RS23610",
+                    "product": "oxidoreductase"
+                },
+                {
+                    "id": "SLNWT_RS23615",
+                    "product": "monooxygenase"
+                },
+                {
+                    "id": "SLNWT_RS23620",
+                    "product": "alpha/beta fold hydrolase"
+                },
+                {
+                    "id": "SLNWT_RS23625",
+                    "product": "4'-phosphopantetheinyl transferase superfamily protein"
+                },
+                {
+                    "id": "SLNWT_RS23630",
+                    "product": "acyl-CoA carboxylase subunit beta"
+                },
+                {
+                    "id": "SLNWT_RS23635",
+                    "product": "acyl-CoA carboxylase subunit epsilon"
+                },
+                {
+                    "id": "SLNWT_RS23640",
+                    "product": "DUF3050 domain-containing protein"
+                },
+                {
+                    "id": "SLNWT_RS23645",
+                    "product": "4Fe-4S ferredoxin"
+                },
+                {
+                    "id": "SLNWT_RS23650",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SLNWT_RS23655",
+                    "product": "amidase"
+                },
+                {
+                    "id": "SLNWT_RS23660",
+                    "product": "glutamine synthetase"
+                },
+                {
+                    "id": "SLNWT_RS23665",
+                    "name": "purB",
+                    "product": "adenylosuccinate lyase"
+                },
+                {
+                    "id": "SLNWT_RS23670",
+                    "product": "GNAT family N-acetyltransferase"
+                },
+                {
+                    "id": "SLNWT_RS23675",
+                    "product": "response regulator transcription factor"
+                },
+                {
+                    "id": "SLNWT_RS23680",
+                    "product": "sigma-70 family RNA polymerase sigma factor"
+                },
+                {
+                    "id": "SLNWT_RS23685",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SLNWT_RS23690",
+                    "product": "myo-inositol-1-phosphate synthase"
+                },
+                {
+                    "id": "SLNWT_RS23695",
+                    "product": "prenyltransferase UbiA"
+                },
+                {
+                    "id": "SLNWT_RS23700",
+                    "product": "TIM barrel protein"
+                },
+                {
+                    "id": "SLNWT_RS23705",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "SLNWT_RS23710",
+                    "product": "hydrolase TatD"
+                },
+                {
+                    "id": "SLNWT_RS23715",
+                    "product": "TIM barrel protein"
+                },
+                {
+                    "id": "SLNWT_RS23720",
+                    "product": "alkaline phosphatase family protein"
+                },
+                {
+                    "id": "SLNWT_RS23725",
+                    "product": "GNAT family N-acetyltransferase"
+                },
+                {
+                    "id": "SLNWT_RS23730",
+                    "product": "TetR family transcriptional regulator"
+                },
+                {
+                    "id": "SLNWT_RS23735",
+                    "product": "hydroxyneurosporene methyltransferase"
+                },
+                {
+                    "id": "SLNWT_RS23740",
+                    "product": "ScyD/ScyE family protein"
+                },
+                {
+                    "id": "SLNWT_RS35725",
+                    "product": "cupin domain-containing protein"
+                },
+                {
+                    "id": "SLNWT_RS23750",
+                    "product": "MFS transporter"
+                },
+                {
+                    "id": "SLNWT_RS23755",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "SLNWT_RS23545",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5974529,
+                                "start": 5974062
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSTVRDPGPLAAPVRLAPRATALRETEALCSMPVSAEAVPLLRRFARDTSRQWDLPGSAQEAACVIVTELVTNVLLHSGSRDVTLRIVLSDFALTVHVDDEGRWKHRPAARLATEDAGARCGRGLQLVDAYAVACDVDRTERGTRVRAEIAVAAA"
+                },
+                {
+                    "id": "SLNWT_RS23550",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5975178,
+                                "start": 5974570
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MAAGSEKTTGAEKAQSTRPRLRADAERNRARVLNAARELFAERGAEVSMDEVARRAEVGIGTLYRHFPTKEAMVIAAGQQRFGEILTYYRTVCRDSAEPLQALHLLLTRIAEVESRDRGFATAVTEGSLGSEGPRSPLREDLEAELMALIGKGQEGGSIRQDMASVDILSLTCGLTSIVHRRSGDWRRYIDIMLDGLKSQAA"
+                },
+                {
+                    "id": "SLNWT_RS23555",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5975893,
+                                "start": 5975483
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSRERASAPRVTPSVEAFLAEPHLATLTTLRPDGTPHVVAVRFTWDARSGLARVMTVRDSRKVRNVLAAPGGRAALCQVAGFKWVTLEGAATVSEDPVRVTEGARRYAARYLSPPPNPPGRVVVEIAVDRVMSLNS"
+                },
+                {
+                    "id": "SLNWT_RS23560",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5976523,
+                                "start": 5976074
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTPSESTAEIAGLLDRYLITLDDEKLDDDWTRSLFTEDASVTFPVGGHQGAAGMGAFHQRTLDAFTCTQHMGTHAFVEIEGGGDTARLRANCTSTHVHRPENAAELGPLFRTGTFVDGRARRTPEGWRLSALSFRLMWKHGTPPGGGGR"
+                },
+                {
+                    "id": "SLNWT_RS23565",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5978157,
+                                "start": 5976688
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MENFDADVIIVGAGPTGLMLAGELGLHGISALAVDRLEEPIQQSRALGFSARTIEEFGQRGLLARFGQVDVIPFGHFGGVPLDFQIVEGGSYGARGIPQSRTEGVLAGWAREKGAEIRRGVEVTGLDDDGEGVTLQVRTGEGESRLRGRYVVGCDGARSVVRKAAGIGFPGSEAEIELRFADISGIQLRPRFIGEKVPGGMVMVLPLGPDRSRIIYFDRTQPLRESAEPITFEEASEAFQRLCGEDISGATPHWVSSTTDVSRQAEAYRSGRVFVAGDAAHIHLPIGAQGMSAGIQDAVNLGWKLALDLKGRAPEGLLDTYHEERHPVGRRILVNTLAQRSLYLGGEEMKPLVDVMGELAGYEVVRKHLVGMVTGLDIRHSTVPGEHPLLGRRLPDRELAVGGEKTTVFALLTEGRGVLLDLSGSAEARKAAEGHAGRVEVVTAESHGIGAELDALLVRPDGYVAWVAPAGSGAEGLLEALDHWFGAAD"
+                },
+                {
+                    "id": "SLNWT_RS23570",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5978916,
+                                "start": 5978227
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPKISTEDGYLTVLNLFTADAPEKQEKLLGEMRKIVDAATYEGWISSTVHAGVDQPGTANFIQWRSGEDLEKRYAGEEFKHRTLPVFGEMTTSIRLLQNDIVYTQRAPELNGVTEISPDRDDYTVITVFGVEKENQDALVEALSQDHFLKVDGYRSHSVLKGRAARGLEGSFVVAYSQWASKEAYDAFNSQPEGERSAERKEAEATVRSLITSVDSNTYRVVHTRAAGE"
+                },
+                {
+                    "id": "SLNWT_RS23575",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5980552,
+                                "start": 5979066
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MFTRRTALRSGAALTGTLGAAGLAVPLLGGTEAGAAAPGEAAGQAGAGAAGFDVSALVKFTRPLPALPVLSPRRRTARAETYELRQRETECEIVPGLKTRVRTFDGCFAPPVIKAVRGRRTVIRQVNELTVPTSIHLHGGHVPESSDGGPMDLVQPGASRTYTYPNEQAHANLWFHDHAHHQESETVFRGLTGLICSPTRPSSGCRCPRAPTTCRSRSATSASTRPGRSSTP"
+                },
+                {
+                    "id": "SLNWT_RS23580",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5981457,
+                                "start": 5981134
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MHSTLIVARMDLGSSKDVAGLFGEFDATEMPHRMGTRRRQLFAYKGLYFHLQDFDEDNGGERIEEAKTDPRFIGISQDLKPFIEAYDPATWRSPADAMAQRFYTWEA"
+                },
+                {
+                    "id": "SLNWT_RS23585",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5982730,
+                                "start": 5981459
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPGRRVVITGMEVLAPGGVGTKNFWSLLSEGRTATRGITFFDPAPFRSRVAAEIDFDPYAHGLSPHEVRRMDRAAQLAVVAARGALADSGLETAALEPHRTGVTVGSAVGATMGLDEEYRVVSDGGRLDLVDHAYAVPHLYNHLVPSSFAAEVAWAVGAEGPSTVVSTGCTSGIDALGYALELVREGSVDVMVAGASDAPISPITMACFDAIKATTPRHDDPEHASRPFDGTRNGFVLGEGSAFFVLEEWESARRRGAHVYAELAGYATRSNAYHMTGLRTDGAEMAEAIRLALDEARLAPEAIDYVNAHGSGTKQNDRHETAAFKKSLGAHAYATPVSSIKSMVGHSLGAIGSIEIAASALAMEHHTVPPTANLTTPDPECDLDYVPLHAREQRTDAVLSVGSGFGGFQSAMVLARPERSPA"
+                },
+                {
+                    "id": "SLNWT_RS23590",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5983941,
+                                "start": 5982727
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSAPAVITGIGVAAPNGLGLRDYWAATLGGKSGIARLTHFDPSGYPAQLAGEVPGFVAEDHLPSRLIPQTDRMTRMALAAADWALADAGITPAELPSFDMGVVTASSSGGFEFGQGELRKLWSQGSQFVSAYQSFAWFYAVNSGQISIRNGMKGPSGVVVSDQAGGLDALAQARRQIRRGTPLIVTGAVDASLCPWGWVAQLSGGRMSTSAEAARAYLPFDREARGYVPGEGGAILIMEDAEAARARGARVHGRILGYGATFDPRPGSGRPPALRRAAQTALADAGVDAADIDVVFADAAGEPAADRAEAEVLTALFGIRGVPVTAPKTMTGRLYSGAAPLDVTAALLALRDQVIPPTVHVEPCPEYGLDLVLAQPRPAKLRTALVLARGHGGFNSALVVRGPE"
+                },
+                {
+                    "id": "SLNWT_RS23595",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5984305,
+                                "start": 5984036
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MATAAFTLDDLKRILLQSAGAAEGVDLDGEILDTEFEVLGYESLALLETGGAIEREYGISLDDEVITDAETPRALIDAVNAHLSTAGAA"
+                },
+                {
+                    "id": "SLNWT_RS23600",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5985118,
+                                "start": 5984324
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTENTQEHGRLALVSGGTSGIGLASARLLAEQGHRVFLGARDADRVAATVKELAGEGLPVDGTVLDVREDASVRAFVQAAVDRFGTVDVLVNNAGRSGGGVTADIPFELWADVIETNLTSVFRMTKEVLNAGGMRAKSRGRIINIASTAGKQGVVLGAPYSASKHGVVGFTKALGNELAPTGITVNAVCPGYVETPMAQRVRQGYADAYDTSEEAILEKFQAKIPLGRYSTPEEVAGLVGYLASDTAASLTSQALNVCGGLGNF"
+                },
+                {
+                    "id": "SLNWT_RS23605",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5986109,
+                                "start": 5985168
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTTREVEHEITIAAPAAAVYRLLAEVANWPRIFPPTLYVDREELGPGQERIHIWATANGEAKNWTSHRTLDEDALRITFRQEVSPEPVAEMNGTWIIEPQGASSSRVRLLHAFKAIGDDPHDLLWIETAVDKNSTKELAGLKENVELAHAAEELTFSFTDTVRIDGAAKDAYDFIDQADKWDERLPHVARVRLTEDTPGLQELEMDTRAKDGSTHTTKSYRVTFPHHRIAYKQVTLPALMTLHTGIWTFEEDPTGTHTTASSQHTVTLRPENIEKILGPDATVADARAYVQSALSTNSTATLGHAKNHAERQG"
+                },
+                {
+                    "id": "SLNWT_RS23610",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5987566,
+                                "start": 5986109
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MDTADRLETQVIIVGAGPVGLLLAGELRLGGAEVVVLEQREAPTTESRASTLHARTMEILDSRGLLAGLGTPPQEPRGHFGGIPLDLTLPSRYPGQWKVPQFRTEELLQEWALGLGADIRRGHQVHALNPGDQAEYVEAEATGPGGRRVLVRGRHLVACDGEEGTVRRLTGVVFPGQSATRELLRADVDGIDVPDRRFERLPRGLAIAARRGDGVTRVMAHVFGSTAQPRTGEAEFGEVVAAWKQVTGEDISGGTPLWVNTFGDASRQLVHYRRGRILFAGDAAHVQMPIGGQALNLGLQDAFNLGWKLARQLREPGGEALLDSYHTERHAVGRRVLGNIKAQAMLLLGGPEVEPLRTLLAELIRHEKVRAHLAGMISGLDIRYQLPGPAHPLLGARLPHTVLTSPQGRVSVSELLRTGRGVWINPGVDVPDGARLSTLTGRPEEGPLTDKDSVLVRPDGHVAWAGSTGTPPPAEALGPGWEATA"
+                },
+                {
+                    "id": "SLNWT_RS23615",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5989169,
+                                "start": 5987649
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MAGTAQGTAVDADVIIVGAGPTGLMLAGELRLGGARVIVAERLAEPTGQSRGLGFTARAMEIFDQRGLLPRFGQGETLETSPMGHFGGLQFDFTTLPGAHFGARGIPQYQTEAVLEEWAAGLGADIRRGWEFLELAEGFLTGEGVEVTFGTPEGVRTLRAAYLVGCDGGGSQVRKAAGFAFPGLPATRAMFLADVTGLNLKPRFLGERLPHGMVMAAPLAEGVDRIIVCPHGTPARDRDESVTFEEVAAAWQHITGEDISHGGADWVSSFSDAARQVDSYRRGRVLLAGDAAHIHLPAGGQGLSTGVQDAANLGWKLAATVAGRAPAGLLDSYHTERHAVGSRLLMNTRAQGFVFLGGEPADPLRTVFAELLGHEEVKQHLAGIVSHLDVHYAAPEGAHPLTGHRLGEHILVGKEGESAVFAELHGGRGLLLDLADDAGVRAAGAGLTDRLTTVTATLKSAPGDADRLDGVRALLVRPDGYVAWAGETTEGLAEAVRRWFGEASPA"
+                },
+                {
+                    "id": "SLNWT_RS23620",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5990256,
+                                "start": 5989315
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTALGSTPTGDTDPPAPEPPAPDPPVPGAFSTGVRRITLDAGGLDLSALLSEPEQGPPRATVVAVHGGGMSAGYFDGQAHPEQSLMTLGAQLGYTVLSVDRPGYGSSAAWLPEGLTLGEQAVVLHAALDDFRRHYAHGAGLFLLAHSLGGALVMATAAGAEADRALLGLDVSGCGHRYAVVPDQGRTTRRNTLRHWGPLRLYPPNTFATSTGLVAPVPAREAGELARWPELFAALAPRISVPVRLTFAEHEAWWRHGEQDLADLAAQLTASPRVLVERQPDAGHNISLGWAARAYHLRSLAFLEDCLTHTGRE"
+                },
+                {
+                    "id": "SLNWT_RS23625",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5991056,
+                                "start": 5990403
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPAPGTYQLWVFDSLTEEGIPATRAEAGPEALGPEERRRARLFRRPADRRQYESAHLVLRRLLADHTGLAPERLEFGREGGRRGKPRLLGSPVPVHFSLSHSHGLVAIALAADPVGVDVQRVPGARTVERCLPSLHPAERAELTALPESERPDAFALLWTRKEAYLKGLGTGLARPLAADYLGSGGLAARPPDWTVHNTAARPGHAAAAALRTPATG"
+                },
+                {
+                    "id": "SLNWT_RS23630",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5992670,
+                                "start": 5991096
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MATATEDTHHPRALAAELGARKEEARQGPDPRATERQHAKGKLTARERIDLLLDKNSFTEVEQLRRHRATGFGLEARKPYTDGVVTGWGTVEGRTVFVYAHDFRIFGGALGEAHAAKIHKIMDMALAAGAPLVSLNDGAGARIQEGVSALAGYGGIFQRNTRASGVIPQISVMLGPCAGGAAYSPALTDFVFMVRDTSQMFITGPDVVQAVTGEEISQNGLGGAEVHAGTSGVAHFAYDDEETCLAEVRYLLSFLPSNNRSMPPHLPSADPADRPGERLTEVVPADGNRAYDVREVIEEVVDDGEYLEVHASWAPNLVCALARLDGHVVGVVANQPNAFAGVLDIRASEKGARFVQFCDSFSIPLVTLVDVPGFLPGVDQEHEGIIRRGAKLLYAYCNATVPRVSVVLRKAYGGAYIVMDSRSIGADIALAWPTNEIAVMGAEGAANVVFRREIAAAADPGEMRAQKIKEYREELVHPYYAAERGLVDDVIDPRETRAVLCRAVTMLAAKDADLPRRKHGNPPQ"
+                },
+                {
+                    "id": "SLNWT_RS23635",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5993105,
+                                "start": 5992815
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSERNTGAAGEPESGEGGRETPCRQLLRVVRGNPAPEELAVLSALLFARLSAPEAQAAGPLGRAVAGWRRPERGSMFDGPRTWRGTGSAAHPTGGR"
+                },
+                {
+                    "id": "SLNWT_RS23640",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5994046,
+                                "start": 5993261
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSRYDWGKENASIEKLRKVIDDARLEVVKHPIYHRLATLEDVNTFNENHVFAVWDFMSLLKSLQRSLTCVDVPWVPQGSSESRRLINDIVLVEESDELGDGFISHFELYVNGMAEAGADVTVINNFLDRIRGGEGVRTALVGASVPAAAATFVNATFDFIEGAPLHCRAAAFAFGREDLIPEMFDQVIKVDDQGGKLATFREYLARHIEVDGEEHTPMAMAMVADLCGEDEAKWQEAAETVTAALRARVALWDGIVAALDA"
+                },
+                {
+                    "id": "SLNWT_RS23645",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5994974,
+                                "start": 5994639
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPWEKNEAAGGETSGRDARIAARAREENWKKPPRRIESAECITCDSCLRGCPAEFGAIFDRGLDVVIIPELCSGCPACVLECPVDCIYVDEDWAPTDESLWKHIELTADGA"
+                },
+                {
+                    "id": "SLNWT_RS23650",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5996893,
+                                "start": 5994974
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPSPAERGLSRREINARKRQSRRPSRHGSAAGAAPGPDYPREDGVGFPGLLDRAWRAALAAGELPAAVDALLTLDGHVPGDIQLRALRTADEAALKVLCGASWRGVRDGGQASGASAERAQVPPQDAVFDGEIALSTTGRILVRVPSQGPLAESGNLVAPALQVPWSAADLAAYRTESARAAARYSSAVVDCRQWLAAHSTQAREELLDLLKDAALRTAPFVLYQEDRQYTNFRDPNTLTGKTLWPGHPDCALSSLAGLPLDQWSDSEAVLVVCLTLLVRSASYARIEEANGTQLTPDHVGHLLEGVRRNYNAHSRGEAVPPAASARVADLDALAGALRARRTEVLGEVQLYREIHGPLMHKIERTAAPRGAAARHREAEVTARLTEALPLAGEDLGALAAHLAESPAWLTKPHGEFRTGLEALVHASVAASTEAFEADFAMSRGMRSLAGLREALRAQAWAEITDWGITDFFCCVVPDPAARRHFGDSVDRLADTAWAMSSRMQYNSWHFIAGNLPKVPAVVARDHFVPPTLPDIAFYSDQHHHGHVAAKVRFSIRSPQAVEIDGRRFNGFMDLRLLRCEGTPFGEQDLLAAHRVSAFVAGATGLAAELVAAGEEIEVTSFDSAWHGESVRAAVKARG"
+                },
+                {
+                    "id": "SLNWT_RS23655",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5998338,
+                                "start": 5996899
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSPSEAGSVRPVTSEETQLTAYGIAATRALLGRGERTATEHLAAHLAAIEERDPGLGAFVAVAGEGALRAAAAADARLRALGPAAFQDQPLLGVPVSVKDLIQTGELPTRRGSLLPNRRPAADAPAVARLKAAGAIVVGKTTTSEYGWSASTVSRVSPPTRNPWDPAYSAGGSSGGAAASVAAGLCTAALGTDGAGSIRIPAAFCGVVGYKPSFGRVPYVPAGADRLSHLGPLARSVEDVMEIAAVLPGPHRQDPDSGLGALESRPERRGLRVGWIEFPGTAPEVRRVSERALEALAALGHHPERIEVPFRDPYPALLDILAAAEAAGAAPGDEADGDPGRLAVVRHGRGLDGAAVMRAEEVRMELRTRLAAVMERHDLLAMATVPVEPFAPEAIGPDWASDPESLLWLAWSPATYPFNMTGQPAVSLPAGLSRAGLPVGVQLVGPVGADALVLDTARDLEAGLGPLPEVPQRVSERML"
+                },
+                {
+                    "id": "SLNWT_RS23660",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5999852,
+                                "start": 5998341
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MYTRKWSRPAAEDGVGRSDFVAEHGLWDERQRAAAAEIEAHLGEVDLIRLVFGDPHGLARSKTLTVEAFRAALRGGMDYSPGPFLFDTGHAVAVDFLSDPGVDVPELLGAGNFVVVPDPVTFQLLPGGEARTAWVIGEEYLPDGRPHPLSSRHVLRKVIAAYAAQEYTPVLGLEVEWYLTRRLEGPVGNAGNGFGLQGEAPRVAAMNPGYQFNSDNAFASVAAFAHPLSALLRQLGLPLRSMEHESGPGQIETTFAPMHALDTADAMLLFRTLVKQRAAQGGYHATFMSLPRIDGFDPSGWHVHQSVVDTRTGRNLFAPDDPAAPLSAAGLAYAEGLLRRARELCLLSVPTVNGHRRLGSGFSLSPTRIGWSPEDRTAMVRVVGAGGSRHLENRTGEPCANPYLALAAQLFAGLEGMNSDSLVPRPALGPDAAGAETLPGSLEESLAAFRQGSPADLLGTPLARCLAKLKQSELDRFRTWAEKEQPPEGEVTEWEQREYFEAF"
+                },
+                {
+                    "id": "SLNWT_RS23665",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6001208,
+                                "start": 5999922
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MIPRYTRPEMAELFSDQARYETWVRVEILATEAQVRLGAVPGSALADMRRAPVPLASRVAEIEKERDHEVLSFLAAYCEEIPEESARWVHLGMTSYDLVDTALGHTLARGTDLLLDAARALRRILAERAVEHWDTVCVGRTHGVHAEPTTFGHKLAGYAFAVDRSLTRLRAAREAVAVGTVSGSVGTYALIDPAVERHVLTALGLAAEPAPSQVVARDRHAQLVQAVAALGAVVEQVALEMRLLQRTEVREVEERRTGAYQGSSAMPHKRNPTTSERLVGLARLLRGHAGTALENVALWHERDLAHQSVERVILPDSLSVGHFQVTMATELLTHLAVFPERMRAHLEQTGGLVYSSAVLAELLATGTEREKAYRGVQAAANRTLAGGADFAAALAEEGIDLGPLGPERFLGHHDVIRERLEQLRDLED"
+                },
+                {
+                    "id": "SLNWT_RS23670",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6001596,
+                                "start": 6001192
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTWKIERVPGDGLDLDEVLTVYRESGLGERRPIEDRERFAAMLRGANLVVVCRTEEGRLIGIARSVSDFSYVTYLSDIAVSADFQRAGIGRALIAGTQAETPGVKIVLLSAPAAVDYYPHLGFTRHESAWVLQP"
+                },
+                {
+                    "id": "SLNWT_RS23675",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6002467,
+                                "start": 6001682
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MAQSSTEAVLESGIPFQRAMPSPRFAEDEGFGPTTRKVAGLPTGQRILVVDNDSDYAEALVCRLRRHGHETTRVQQGGTALQSLEDIDLVLLDLELPDLDGLEVCGAIRSVSCLPVIIVTARGTELDRVLGLQAGADDFLVKPYGFRELLARIDAVMRRVHQQPQRVREIQHGPLKIDASSREVSLDGREVGLTRKEFDLLHLLASNPDTVIPRKRLLQQVWGDSWSRRTVDTHVSSLRSKLGDSGWIITVRGVGFKLGSA"
+                },
+                {
+                    "id": "SLNWT_RS23680",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6003597,
+                                "start": 6002701
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MDKGEWPALAEKFESQRPHLRAVAYRMLGSVAEADDAVQETWLRLSRSEAGEIGNLGGWLTTVAGRICLDMLRSRSSRREDPLGDHLPEHGPRDQAAAPTDPAHEAQLVDSVGLALLVVLDTLDPAERIAFVLHDMFSVPFGEIAPIVGRTPVAARQLASRARRRVQAVDTSPDSDLPRQRAVVDAFLAAARGGEFEALLALLDPDVVLRVDAAATPAGAPMEIVGAQPVAAQAGLYSGRAHLARTALVDGRLGLATAAPRQLSVVMDFTVSEGRITAMNIIADPTRLAGLDVAILSA"
+                },
+                {
+                    "id": "SLNWT_RS23685",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6005074,
+                                "start": 6003713
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPAAGRTSRCARPVLTSVKSTRHIHRAVGECSRRRSRCRAVCAPASRARCPCARPRGGRRSPGPAPPEPAAGWPESAPAQLPLLTRLLTPLSGVPSNAATGTGFRFRIAVRRCTLSLAEQLTYPAVDLDEIESSAIWIESHPITRVRIDSLVFEGSPRLGGEDHDHVRVLAEAGDSLPAITVHRPTLRVIDGTHRVRAALLNGRTEIAARMLDCDEAAAFVLSVKANVTHGLPLSRQERAAAAARIIMTHPQWSDRAVAAATGISDKTVSRIRSQSGADSAQSATRLGRDGRLRPLDSGQRRRRAAAMFLDRPDAGLREVARATGLSPATVRDVRQRIDRGEDPVPGRYRTAESPGGATAARQRPAAGRLDRRTVVVDRQRLLAKLSEDPSLRLNEAGRRALRWLHHYSVDGNGIETLGQGLPCHWAPDVADLARSCAAAWAELAEQLQQRAE"
+                },
+                {
+                    "id": "SLNWT_RS23690",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6006907,
+                                "start": 6005741
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSQHPEKAGPPGAPASGPGTGVWFIGARGSVATTAVTGAAALAAGLQPPTGLVTEAPEFAGSGLPALSSLVFGGHDTADWPLPKRAEALAEGGVLPRGLAAAVQRELAAADEEIRPGGPLPGDRRGDEELIADFAADIADFTRRTGVARTVVVNLASTEPLPEPNSARLPASSLYAAAALRAGAAYVNFTPSAGLHHPALAEAAASARVPYAGRDGKTGQTLLRSVLAPMFRQRALDVRAWSGTNLLGGGDGAALADPAAAEAKNAGKNRVLEDTLGALPEGEVHIDEVPALGEWKTAWDHVAFEGFLGSRMILQTIWQGCDSALAAPLVLDLARLAARAQEAGLTGQLPALGFYFKDPDGGSSALAEQYAALLAFAARLGARPAEAS"
+                },
+                {
+                    "id": "SLNWT_RS23695",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6007830,
+                                "start": 6006904
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSTPRDWAELLRVSALLSVPGDALAGAAASRRRPNSRTALALCSSLCLYEAGMALNDWADRAEDAEERPHRPLPSGRIAPGAALAAAAGLTAAGLGLAARAGRPAALCATALAGAVWAYDLRLKHTAAGPAAMAAARGLDLVLGALATAGPRSGEAAGSVLGRALPPAAVLGAHTWAVTAVSRAETQGGSAGRPLAALGTTAALGTLLAPAGARPLRLERARRLPETPRELAQAALAGAYAATAGRSYLHAALNPSPPLTQRAVGGGIRAMIPLQAALAARSGALATAASLGALVPLARSLARKVSPT"
+                },
+                {
+                    "id": "SLNWT_RS23700",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6008774,
+                                "start": 6007827
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSIRLGYGTNGLTDLRLREALTLLAELGYQGVGLTLDHMHLDPLARGLSGRAKALARTLGALGLDVTVETGARYVLDPRRKHGPSLLDPDPEARVAREALLVTAVEVAAELGAHAVHCFSGVRPEGTDEGTAWQRLADSLGPVLDAAQRDGIPLALEPEPGHLVESLADFHRLRALLGDPELLGLTLDIGHCQCLEPASPAECVTAAAPWLRHVQIEDMRRGVHEHLPFGEGEIDFPPVLAALEASGYRGLTVVELPRHSHAGPELARRSMEFLRPLVAAAAREDRAAGAPSPVRARPVPLLTGPPLRQEAPSRT"
+                },
+                {
+                    "id": "SLNWT_RS23705",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6009470,
+                                "start": 6008856
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MRREAAELRERLSAEGADWLDGALAEAARAAAEPAPAESRAVPGWELRFAAAGRACGTEAAESARVLLLRAARPGPAALTRLYRHGTGEERRAVLRALPRLPLAPGEGLPLVEDALRTNDTRLVAAAVGPYAAAHLDDHAWRHAVLKCLFTQVPVRALARLPERARGDAELARMLRDFAAERTAAGRAVPADLDHVLALTAKDA"
+                },
+                {
+                    "id": "SLNWT_RS23710",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6010318,
+                                "start": 6009470
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MRIFDPHIHMTSRTTDDYEAMYAAGVRALVEPAFWLGQPRTSPESFFDYFDALLGWEPFRAAQYGIAHHCTLALNPKEANDPRCLPVLDALPRYLVKDHVVAVGEIGYDAMTPAEDTALAAQLELAAEHGLPALVHTPHRDKLTGLRRTLDVVAESKLPTERVLIDHLNETTVKEARESGSWLGFSVYPDTKMDEHRMVALLKEYGPERVLVNSAADWGKSDPLKTRKVGEAMLAAGFGEDEVHRVLWENPVAFYGLSGRLDLEVPGTEALHEGNSLLRGGE"
+                },
+                {
+                    "id": "SLNWT_RS23715",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6011491,
+                                "start": 6010322
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MRFRHPDGSLVHLAYCTNVHPAEDLDGVLAQLGAYCEPVRRRLGTERLGIGLWLARDAARALTTEASALRRLRTELDRRGLEVVTLNGFPYRGFGAEKVKYRVYQPDWRDAERLEYTAELAGLLAELLPPDVTEGTLSTLPLAWRSDFDAAGAAAAERQLTELARRLDDLEERTGRSIRVALEPEPGCAVERTADALAPLAALPAHRFGLCLDTCHLATCFEEPAAALAALERAGATVPKVQLSAALHAEDPADPAVRAALAAFDEPRFLHQTRALAEGVLHGTDDLGPALAGGTLPETVPWRAHFHVPLHAPPAPPLTSTMDVLRGSLDVLLGQDAPRSRHFEVETYTWQALPPEARPADAAQLADGIAAELALARGLFRDLGLKELP"
+                },
+                {
+                    "id": "SLNWT_RS23720",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6012888,
+                                "start": 6011488
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTATPTPLLVLDVVGLTPALLEQMPRLKSLARKGSSAGLGTVLPAVTCAAQSTFLTGAPPAEHGIVGNGWYFRELGEVLLWRQHNGLVAGDKLWDAARRAHPGYTVANVCWWYAMGADTDWTVTPRPVYYADGRKEPDCYTRPVELHDELTDALGTFPLFHFWGPGADLVSSRWIIDATRHLNRTRHPDLTLCYLPHLDYDLQRFGPRDPRSLRAAAELDAALGPLLDEAEAEGRTVVVLSEYGITEVSRPVDINRALRRAGLLEVHTQDGMEYLDPMASRAFAVADHQLAHVYVRRPEDLARVREVLEGLDGVAELLGDEGKKAHGLDHPRAGELVALAAPEAWFTYYYWLDDERAPDFAQLVEIHRKPGYDPAELFLDPLDPYVKLRAAGALARKKLGMRYRMAVVPLDPAPVRGSHGRLPARPEDGPVLLCSRPGALPGEVAATEVKSLLLGLAGLAEVPATG"
+                },
+                {
+                    "id": "SLNWT_RS23725",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6013447,
+                                "start": 6012893
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MYAVPLAEDAALRPLEPWQAEEFLAHMDRARPHTDPWIPWASRSTDLDSARATLQDYADKQAADTGRLYGIWRAGTLVGGVMFVHFDTRLGNCEIGVWTEPAGEGHGLITAAVRHLIDYAFAERGMHRVEWFSSTRNARSRAVAQRVGMQLDGTLREYFPNRGFRHDKEVWSLLAPEWPGAAAV"
+                },
+                {
+                    "id": "SLNWT_RS23730",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6014176,
+                                "start": 6013580
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MWQVLAARGFGGLTLRAVAAQMGATTGLLTHYFPGKRALLAHALDVLDRRSAERPRPAAEEAGEAAGLVMLRAMLLDILPLDAASAASNRIWVGSWDAALTDPELAEEHAARYRRARARMTGYVADAQRLGELPAGPAAEEIAAAAQSFVLGLVVQALFAPGEFPPERQVALLDAHLAKAAAGADRAPGTPPVPAGES"
+                },
+                {
+                    "id": "SLNWT_RS23735",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6015310,
+                                "start": 6014222
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MPKLPPAKVVRAVEGVRAGLVKLTRLLAPPPFALLELSQGSMVTQALYVAAELKVADELKDGPLTAAQLAQRVGADPESLHRLLRLLATYSVFEERADGSFKLKPMGQALRSDTPQSMRATVLLMGHPTHWEEWAHLVDAVRTGEASLPKLRGMGAFEFIDANPEYGEIFTAGMGAMSETETLPLLAAYDFRRFRTIVDYGAGRGGLLAAALQQAKDARGVLFDARIDTNGAADYLREQGVADRCTLEKGGLFDPAPAGGDAYLLKHIVHDWPEEQVIEILRNVRKVIDPDGRILLMEFVTPDDKPNKPHPAKLVDLWLMLLVGGKERSEKQYAEVLAAGGFRLEKITETAAPISVIEARPV"
+                },
+                {
+                    "id": "SLNWT_RS23740",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6016853,
+                                "start": 6015732
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MHAPHSGGVPGKGRDMSRAHKPWAGALLAAAVVAGLTATAAPSQAAHRAGPEVLATNLNNPRDITLQADGSILVAESGSGPATACAPGTSCLGFTGSIYRVNGSQKGRVVTGLPSKLEVRADGGASVAGPNQVEARTGGYTVSSSFGGDAADRKALGAGGETLGTLHIAKGKVLGDLVDHETRLDPDGPLGNNDVHSNAWMFAHHGKDYLVTDAGGNDLIRVLPDGTTKTEFVFPNNGENETVPTGIVAAPDGSFYISDLSGQAAGKSRIWRYVPGSAPKVFATGLTNVTDLALDGKGGLIALTLTKGYTETGPLPGALNRVDLKSGKATEIPTADRLVNSLGLAVGKGGEIYVTNKTVGTTGELLKFPAARR"
+                },
+                {
+                    "id": "SLNWT_RS35725",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6017949,
+                                "start": 6017041
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSCTDIVHGCRVRHRVRPGVRIAYGSAFGLGVRPGNPQSHSKRESGGPEYAVAAPVIRGNPAFPRGRKKSPRAPFPLVFWACAARDTARTISRLRFYATAGTHAREGLMTKIILPEDRPAGRRGFEIVLPSSLTDGAASLVEAHVSEAMSGPPLHTHAESDETYFVLGGALIMIIDGKLTELRAGGLAHISKDTSHTWATRPDEGAHFLTLHLPGGYELYHPTALHAEHEKGGPLEQKDLFELAARFDWRLAGPPEPHRLTPTGVLVPAGKADAEAEATKALATAEYERALAASIEAADSGS"
+                },
+                {
+                    "id": "SLNWT_RS23750",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6019868,
+                                "start": 6018132
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MDLLDVTIVNVVLPSVLADLDAAYTHGEWIVAGYVLGFAALMITGGRLGDILGRRKVFLAGVAGFTAASLLCGLADGPGALIAARFLQGAMAGLMVPQILAIIHVTFPAEERGKVLGIWGGVLGAASAAGLVAGGLLAEADPYGLGWRAVFLVNVPVGAAALLAAWFLVPDSRAPERPRLDPLGALLSAAGILLLVYPLTEGRGLGWPPWTFLLMGAAVLVLGLFVLQQRGRTRADNSPLMSLRLFRARAFSAGMAVWALFWIALGGFFFIWTLYMQVGLGWPPLRAGLTSSAFAVGCAAGSGTAVEFFTPRFGRKALLAGALLCGTGFLGYVLVAAHYGPAVAPWQMVAPLLVAGIGFGLVVAPMIDAVLTEVPVREAGSASGVLGTVQQIGIALGTALAGVLFFQQLDHDAARAVARAAPALRQELTRAEVPAAERERILDAFADCLADRAAATDPTAEPASCRGPLPSPEVRALVIGAGQRATADNFSRTFALTLRWGAGSMGLVFLGLFALPRRVEFRGLDGGGPGPGSGPSVPGASEGGAAVGPGAGPASGPGKERSAPARSGGQDAGTHPAG"
+                },
+                {
+                    "id": "SLNWT_RS23755",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6020749,
+                                "start": 6020264
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MRRRHVLPLAAAALAMPAALLSTGSASAAPADKPQVLSSFTQTSASSYNAWNAARNNQGQWAAYGFDWSTDYCSTSPDNPFGFPFETACARHDFGYRNYKAMGTFSANKARIDSALYEDLKRVCSRYSGATKTSCDGLAWTYYHAVDIFGIKGFKQLDKAA"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_CP010519.1",
+            "accession": "CP010519.1",
             "completeness": "Unknown",
             "end_coord": 6020749,
             "start_coord": 5974062
