@@ -3,7 +3,9 @@
         {
             "comments": [
                 "Submitted",
-                "Added version to NCBI accession"
+                "Added version to NCBI accession",
+                "Gene details extracted from RefSeq accession NZ_ACCC01000028.1 dated 03-MAY-2020",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "SJG3CBEHSM6A3I74YXLH6GLA",
@@ -40,8 +42,308 @@
                 ]
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "YRUCK0001_RS11345",
+                    "name": "mntP",
+                    "product": "manganese efflux pump MntP"
+                },
+                {
+                    "id": "YRUCK0001_RS11350",
+                    "product": "flavoprotein"
+                },
+                {
+                    "id": "YRUCK0001_RS11355",
+                    "product": "group II truncated hemoglobin"
+                },
+                {
+                    "id": "YRUCK0001_RS11360",
+                    "product": "GNAT family N-acetyltransferase"
+                },
+                {
+                    "id": "YRUCK0001_RS11365",
+                    "product": "acyl-CoA dehydrogenase family protein"
+                },
+                {
+                    "id": "YRUCK0001_RS11370",
+                    "product": "thioesterase domain-containing protein"
+                },
+                {
+                    "id": "YRUCK0001_RS11375",
+                    "product": "GMC family oxidoreductase N-terminal domain-containing protein"
+                },
+                {
+                    "id": "YRUCK0001_RS11380",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "YRUCK0001_RS11385",
+                    "product": "MFS transporter"
+                },
+                {
+                    "id": "YRUCK0001_RS11390",
+                    "product": "metalloregulator ArsR/SmtB family transcription factor"
+                },
+                {
+                    "id": "YRUCK0001_RS11395",
+                    "product": "DUF2938 domain-containing protein"
+                },
+                {
+                    "id": "YRUCK0001_RS11400",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "YRUCK0001_RS11405",
+                    "name": "rlmA",
+                    "product": "23S rRNA (guanine(745)-N(1))-methyltransferase"
+                },
+                {
+                    "id": "YRUCK0001_RS11410",
+                    "name": "ftsI",
+                    "product": "peptidoglycan glycosyltransferase FtsI"
+                },
+                {
+                    "id": "YRUCK0001_RS11415",
+                    "name": "pgeF",
+                    "product": "peptidoglycan editing factor PgeF"
+                },
+                {
+                    "id": "YRUCK0001_RS11420",
+                    "name": "cspE",
+                    "product": "transcription antiterminator/RNA stability regulator CspE"
+                },
+                {
+                    "id": "YRUCK0001_RS17245",
+                    "product": "DUF2627 domain-containing protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "YRUCK0001_RS11345",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4163,
+                                "start": 3594
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MNLSATLILAFAMSMDAFAASIGKGATLYKPRFREAIRTGLIFGVIEAITPLIGWGIGLFASQYIMEWDHWIAFALLFILGCRMIIEGCKGPTEDEPQVRRHSFWVLVMTAIATSLDAMAIGVGLAFLQVNILHTAMAIGMATMIMATLGMLIGRYIGPLLGKRAEIIGGIILIGIGFNILYEHLYKLA"
+                },
+                {
+                    "id": "YRUCK0001_RS11350",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4795,
+                                "start": 4250
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MEKKRILVGATGSVDITLLPGYLRAIKASIDCSLTLLMTPQATGFIPAETMRLWADRVIAGERPTDWPTDKPSKIVADHDIMLVLPATANTLADAAQGAAPNRLTTVILASDFPVLFFPVMGAVMWDKPAVQRNIRQLREDGYEVLEPEWHENYDTALGKKVSHPSLPSASTLVSLLIERL"
+                },
+                {
+                    "id": "YRUCK0001_RS11355",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5321,
+                                "start": 4857
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSEQTPTLFEWMGGREVLLKLMTVFYAKIEKDELLAPMFVHMHADHPEHVAIWLEEVLGGEANYTAHRGGFKGMVAKHRGRAIQPEQRKRWVDLMMECADEVNLPADPEFRSAFAGYIEFGSRRAQANSQPKAERSKRETVKLWGWGEAPPGTP"
+                },
+                {
+                    "id": "YRUCK0001_RS11360",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6238,
+                                "start": 5369
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MKNVVKSTDKAFSVHLATPAEWQSAVEMARNEHWDLGHGDDRIFLNVDKNGFFIGRTEGRIVASISIVNFDPGYAHLGHYIVTPEYRGKGLGLELWTAAIEHAGERCIGLDGMPMQEENYKKWGFRTHYHTYRIQGRASGIAIKADNISEVSSHHLSAIADFDTSFSGCNRASLLSSWFTADNRQGFVVTEGASVKGVIALRPSDEGYRIGPFYAPDENHAIALLQTALGALPKNALVTLDVPEQAGATLDVLKVAGFSPLFHTCRMYRGTPPVSYQKGNNAVASLELG"
+                },
+                {
+                    "id": "YRUCK0001_RS11365",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7396,
+                                "start": 6266
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MDNKELSAFRASCRTFLEHEAKPYLSVWEKEGLVSRDFWRHAGEAGILGIGVSGRWGGQNQADYQYASVLTEELIRAEMTAPVVIAHNDVIASYIDAHGTDEQRDRWLPGLCKGELIAAIAVTEPNGGSDSADLETTAVRQDQHYVVNGQKSFITNGINADLILTAVRTSKAERGRGISLLVIERDTAGFTRGAPLKKLGWHASDTANLHFSNCLVPCNNLIGKENIGNFYFMGGMPRERLSISTVAVATAELLLERTLEWVKKRHAFGQPVGSFQHNRFRLAELDTNVRIARIYLNDAIDKFNRRELNVADAARIKLWTTELQIQVADQCMQLHGGAGYLSDSFIGKTWVNSRVQTIYGGTSEVLKEFISKSMGL"
+                },
+                {
+                    "id": "YRUCK0001_RS11370",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8165,
+                                "start": 7413
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MNLSSGRVVYAFPHAGAGTGVYRHWLSRFNDESKLVFSPVGIPGRDRLSREKVIDDLAVLASRISADIYADFTQRKKAGITEFATFGHSFGGVLSVIVSHLLADKYAMNPVFSVVSGSIAPTAQAEDDRYLWSDEKILEKMRADNGTPESILREPAIARRLVTALRTDYILRQQFLAYRDMRVEQPLLLISADKDEHVTAQMQLAWLNHTRSRVSITEIQGGHFAVYDNFNTVRTLLSQSSVEHNVSIPA"
+                },
+                {
+                    "id": "YRUCK0001_RS11375",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 9784,
+                                "start": 8165
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSQDMGLSHYDYIVVGGGTAGCVMASRLSENSAKSVLLIEAGLDSNADDHSSPLNDASRLVLENYNWEYEANVRGAERLSRFLQPDAESHAPRDRRKPFGYRLGKVLGGSSAINGAVALRAFPRDFACWVDMGCPTWSWQDVLPWYRKLENDRDIADETLHGHAGPLLLRRPTAEETLPLETGFASACVSHGIPWVEDFNTGEDAAVGAVPANVLQGAERFDFCRAYLTPARMRSNLQIMTEMTVERVLFANGAATGVEVHRNGKYQTLSASRVVLCAGAIGSAALLQRSGVGDSELLHKLDIPVVADIPAVGNNLSDHASVVMWALPRASNSKVKTPWRQTAARMSSGYDEQLDVQLGLMNNVASDTVPGFHNRTEYPFLVGASVMLMRPKAKGRVFIRSRDSDKLPAIDLPLSQNEEDVQRLVGGVRQMWQLINHPEVSVCLEGVQFWRESMMGNDEVMRNAIINLVSPGWHASGTIRMGTSADPESAADKKGNIHGLRNITVADASLFPCIPSMPTNLTTAMVAERIASFLMEENV"
+                },
+                {
+                    "id": "YRUCK0001_RS11380",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 13152,
+                                "start": 9781
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MKMMREATDKLGLTLSLDNDVPIVLQYDSNSDNVALNLTALMCGILPAGEINYSDNRREENDSEPFSLTDIQYAYLIGRNAAIPLGGVPASHYTEIEVYNPDFDRLNDALGRVIACHPVMRSALTDSGRQRFLPAMGDDVIPLIDCSGQDPQSVHDQVGKTRIEMIEAMRTQGNVRPFDIRATQIGNRNIRLHLCFDLMFFDLHSIKIIMRDWWEFYENPEMQKTESRLNFSDYISLEKELQKSQQGERDKAYWINKIKNIPGAPELPLHQSPELIRHPVIKTLKKEIPFETINKLRHAAAQNGITLEVLFLGVYTEVLRQWSRRQDFTLTLTQNGRRAYSEDITHITGNFLQSCLLCVNSPSSDSFAERLVSLQTELLLNRWHSSFNGIQVLREMTRLNSDGRAFSLPVVFSNTLNAELEDIVSDDLWRNAARIVHTATRTPGVWLENQLMRINGELVMNWNYVDGLFPDGMAEAMFEAADKLLCACADNPSVWSQRHSMVTLPKADEKARLDANATQYHLPPTLLHESLLDAARRFPDKTAVLQGTREVSYRELVTAAHDIATQLHAQVDINPGDIIAVSLHQSPEMLAAILGVLIAGAAYVSVDPQLPEQRQHRLIERCAAKAVLTFDGNVAVQGMVIVVTTIVSGTLRPLPPTPRKQSPDDLAYVIFTSGSTGEPKGVMISHTNAVNTVADINRRFSVNSQDRVYSIAPAGFDLSVYDYFGVLGAGGSILFAAENEPADPGLWAEQIVKQGVTLWNTVPAPVKALFERAGEQLRDSSLRLVLMSGDWIPVDLPDQIRHVSEKIDVISLGGATEGSIWSIVYPVQTVDTTWKSIPYGKPLANQRFHVLNEWLEPSPKWVTGEIFIAGDGVAQGYLGDDEKTQARFFQHPRTGERLYRTGDLGRYINEGLIEILGREDNQVKINGYRIELGEIEAALLEHPSASHVVINAVTHPKSGQKQLAAYIVATHSAGYDKNRLENELRETAMATLPSYMVPMWFVLLDEMPLTPNGKIDRNALPAVWADSVAEDSRNVPADETETRLYSIWAAQLQHSDFGVTDGFFDIGGDSLHAVSLLSAVRQSFRVSPSSEQDMIESLFMNASVRDFSKILAEVTLDPEEALS"
+                },
+                {
+                    "id": "YRUCK0001_RS11385",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 15346,
+                                "start": 13907
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MNDGFTVVTDNAAASHNRTSGSQDAPVNNVRLLFSTLAVIQATLIFTIVMIGVPLPAIGTEFGLVQAELVLVSAGYGLPFSGLLLLGGRLTDRYSGRKMFTLGVILFGTASLYGMFVPDYWTLVVVRFIQGTGAAMTAPALMALLRQLYPDSADFGRAMATWGGVSVLGGAAGFLSSGIVTHWLSWRWMFIIPVVVAFVGLVIVRKVMVATEEKTSAQPGLDLGGALLASSGISLFSFGLIFSGEYPWSAPIVWGSVMVGLLLFVAFLSVEKRVSFPLLPPRFIHNPARAIGLAGILLAAAGMGLITFLLSLYLQQFQGWPPLATSMAFIPYTLGLLVMNRAAGTLIARYHALTVTIVGLLISAVGLFLLAMINPETDYMTGLLPGLFILPAGASLVFSGSAVLATANIPLHQAGLAGGVMNTAMELGPTMGLAALMAVAATQVDVIDGYGLAFGTAGCIYVVAAMAAILCYRNIKSPC"
+                },
+                {
+                    "id": "YRUCK0001_RS11390",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 16074,
+                                "start": 15403
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSTNNENINHPVFHELAEVTRSLGNAHRLILLEHISQGERSVERLAELANISIANASQHLQHLKRVGFVQARRDGKNVLYSLGRGPVQNLLTAIRQYVEYRHNEMSNFVSETLNQRERFESVSREELLNRLNEGDVTLLDVRPYEEFSHGHLPGAINIPVEQLEGRLSELPLAQDIVAYCRGPYCVLSVNAMKVLREHGYNVRCLEDGFPEWKAAGLEVQNHR"
+                },
+                {
+                    "id": "YRUCK0001_RS11395",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 16716,
+                                "start": 16228
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MDITLQAVAIGIGATLIMDIWAILQKRLLNIPSLDYRLVGRWLGHMSRGQFVHHTILQANAVRGEVLVGWLAHYAIGIIFSFLLITATGPGWLVEPTFLPALIVGIISIVAPFFIMQPGFGFGIAASRLPQPNVARRRSLIAHTSFGVGLYISAQVLRFMLN"
+                },
+                {
+                    "id": "YRUCK0001_RS11400",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 17218,
+                                "start": 16940
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPYFTVSVRLHNAEDGDYQSLNEKMTEAGFTRLIGREKVYKLPDGEYNYGSGSLNKQEVADLALQVAEKIRFVPSILVTESGGRTWRNLDSK"
+                },
+                {
+                    "id": "YRUCK0001_RS11405",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 18375,
+                                "start": 17521
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSYQCPLCHQALQLNQQQWRCSNNHQFDCAKEGYVNLLPVQHKGSKQPGDSPEMMQARRAFLDAGYYQPLQQRVAALLDERLSSEAKILLDIGCGEGYYTAAVAERLNQQRTMQVYGLDVAKVAVRYGAKRYPSVNFCVASSHRLPFADASLDAVLRIYAPCKAEELARGVKSGGIVVTVSPGPRHLYQLKEIIYPQVQLHAENDEQLSGFESISSESLAYPMILPGAQAMNLLQMTPFAWRASIEMGQALAAMDNFACETDFIIRVYQRQAEAVELSEKPVTW"
+                },
+                {
+                    "id": "YRUCK0001_RS11410",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 20182,
+                                "start": 18473
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MISKVNVETNNFIRWRFSLLCGCILLSLLGLLGRVAWLQVVEAESLAKEENLRSVRVMTTPNMRGMITDHNGQPLAVSVPVDAIWADPQVVLDKGGVGKGPRWQALAQTLHQSLTEIASRINQSPTGRFVYLARQVEPTSADYIQRLKLPGIALRAESRRFYPAGATVANLVGFTNIDDQGIEGIEKSFNQLLSGTAGHRVVRKDRYGHVVEDISATDSHPGQNVQLSIDERLQTEASHALTNAVLFNKAESGSAVLVDVNTGEVLAMANYPTYNPNNRADTPTENFRNRAISDIFEPGSTVKPMVIMTALQRKLVKPDSVLDTHPYTLSGHQIRDVGFYPTLSLTGVLQKSSDVGVSRLALAMPASALLQTYGLFGLGKPTELGLTGESSGLMPQRQRWSDLDRATFSFGYGLMVTPLQLARVYATIGSYGIYRPLSITKVDPPVVGHRVMLAERVKEVEYMMESVALPGGGGVKAAVRGYRVAVKTGTAKKIGPNGQYIDKYVAYTAGVAPASQPRFALVVVINNPQGGKYYGGAVAAPVFSEIMGEILRTMNVEPDALPTQALRHS"
+                },
+                {
+                    "id": "YRUCK0001_RS11415",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 21134,
+                                "start": 20394
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTDVSSIFTPIPGILHGFGSKTALLPVVLQPFRTSLPEKKQVHGTRIVDVTEPNQICGEADGLYTTRPGVLLTVLTADCLPVIFSRRDGKAIAVAHAGWRGLLDGILQKMAERIAREDSLNDWVVAIGPAVGSCCYEVTEQLVAQFIEKMSVPATVISPRYRHLNLTAIAEYQLQSLGFYQVDRVGSCTLCTLAETVSVQSVSGEQIEAIPFKYTSFRRNSNQRARDPSHPGISGRNQYSGLIIQP"
+                },
+                {
+                    "id": "YRUCK0001_RS11420",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 21407,
+                                "start": 21198
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MAKIKGQVKWFNESKGFGFITPADGSKDVFVHFSAIQGNGFKTLGEGQNVEFEIQDGQKGPSAVNVTAI"
+                },
+                {
+                    "id": "YRUCK0001_RS17245",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 21565,
+                                "start": 21449
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MCGIFSKEVLSKDVSVEYRFSADPYLSASSSNDSSLSM"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_ACCC01000028.1",
+            "accession": "ACCC01000028.1",
             "completeness": "complete",
             "end_coord": 21565,
             "evidence": [
