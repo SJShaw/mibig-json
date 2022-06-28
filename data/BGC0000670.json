@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_003076.8 dated 14-FEB-2019",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -43,8 +53,506 @@
                 "molecular_formula": "C30H48O3"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "AT5G47980",
+                    "product": "HXXXD-type acyl-transferase family protein"
+                },
+                {
+                    "id": "AT5G47990",
+                    "name": "CYP705A5",
+                    "product": "cytochrome P450, family 705, subfamily A, polypeptide 5"
+                },
+                {
+                    "id": "AT5G48000_NP_001032030.1",
+                    "product": "cytochrome P450, family 708, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT5G48000_NP_199611.2",
+                    "product": "cytochrome P450, family 708, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT5G48000_NP_851153.1",
+                    "product": "cytochrome P450, family 708, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT5G48000_NP_001078732.1",
+                    "product": "cytochrome P450, family 708, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT5G48000_NP_001330320.1",
+                    "product": "cytochrome P450, family 708, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT5G48000_NP_001318756.1",
+                    "product": "cytochrome P450, family 708, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT5G48000",
+                    "product": "cytochrome P450, family 708, subfamily A, polypeptide 2"
+                },
+                {
+                    "id": "AT5G48010_NP_199612.3",
+                    "product": "thalianol synthase 1"
+                },
+                {
+                    "id": "AT5G48010",
+                    "product": "thalianol synthase 1"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "AT5G47980",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19430301,
+                                "start": 19428970
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MELNLEVIQREVIKPSSPAPHDRLQLSVIDFGIAEACVPMIFFYNLADLAEKSPDIVSTRLRSSLSQALSRFYPLAGKKEGVSISCNDEGAVFTEARTNLLLSEFLRNIDINSLKILIPTLAPGESLDSRPLLSVQATFFGSGSGLAVGICVSHCICDAASVSTFVRGWAATARGDSNDELSTPQFAEVAIHPPADISIHGSPFNALSEVREKCVTNRFVFESDKITKLKIVAASKSVPSPTRVEAVMSLIWRCARNASHANLIVPRATMMTQSMDLRLRIPTNVLSPDAIGNLQGVFFLKRGPGSEIEISEVVAEFRKEKEEFNEMIKENVNGGHTNTTLGQKIMSGIANYMSELKPNIDTYTMSSWCRKAFYEVDFGWGRPAWVGLGHQDIQDGVMYVLLVDAKDGEGVEVWVGIPEQDMAAFVCDQELLSYASLNPPVLI"
+                },
+                {
+                    "id": "AT5G47990",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19435747,
+                                "start": 19434827
+                            },
+                            {
+                                "end": 19436444,
+                                "start": 19435830
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MASMITVDFENCFIFLLLCLFSRLSYDLFFRKTKDSRAGCALPPSPPSLPIIGHLHLILFVPIHQSFKNISSKYGPLLHLRFFNFPIVLVSSASTAYEIFKAQDVNVSSRPPPPIEESLILGSSSFINTPYGDYSKFMKKFMVQKLLGPQALQRSRNIRADELERFYKTLLDKAMKKQTVEIRNEAMKLTNNTICKMIMGRSCSEENGEAETVRGLVTESIFLTKKHFLGAMFHKPLKKLGISLFAKELMNVSNRFDELLEKILVEHEEKLQEHHQTSDMLDMLLEAYGDENAEYKITRDQIKSLFVDLFSAGTEASANTIQWTMAEIIKNPKICERLREEIDSVVGKTRLVQETDLPNLPYLQAIVKEGLRLHPPGPVVRTFKETCEIKGFYIPEKTRLFVNVYAIMRDPDFWEDPEEFKPERFLASSRLGEEDEKREDMLKYIPFGSGRRACPGSHLAYTVVGSVIGMMVQHFDWIIKGEKINMKEGGTMTLTMAHPLKCTPVPRNLNT"
+                },
+                {
+                    "id": "AT5G48000_NP_001032030.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19446970,
+                                "start": 19446762
+                            },
+                            {
+                                "end": 19446681,
+                                "start": 19446357
+                            },
+                            {
+                                "end": 19446262,
+                                "start": 19446110
+                            },
+                            {
+                                "end": 19446018,
+                                "start": 19445770
+                            },
+                            {
+                                "end": 19445660,
+                                "start": 19445568
+                            },
+                            {
+                                "end": 19444929,
+                                "start": 19444851
+                            },
+                            {
+                                "end": 19444712,
+                                "start": 19444606
+                            },
+                            {
+                                "end": 19444531,
+                                "start": 19444313
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSFVWSAAVWVIAVAAVVISKWLYRWSNPKCNGKLPPGSMGLPIIGETCDFFEPHGLYEISPFVKKRMLKYGPLFRTNIFGSNTVVLTEPDIIFEVFRQENKSFVFSYPEAFVKPFGKENVFLKHGNIHKHVKQISLQHLGSEALKKKMIGEIDRVTYEHLRSKANQGSFDAKEAVESVIMAHLTPKIISNLKPETQATLVDNIMALGSEWFQSPLKLTTLISIYKVFIARRYALQVIKDVFTRRKASREMCGDFLDTMVEEGEKEDVIFNEESAINLIFAILVVAKESTSSVTSLAIKFLAENHKALAELKREHAAILQNRNGKGAGVSWEEYRHQMTFTNMVINETLRMANMAPIMYRKAVNDVEIKGYTIPAGWIVAVIPPAVHFNDAIYENPLEFNPWRWEGKELRSGSKTFMVFGGGVRQCVGAEFARLQISIFIHHLVTTYDFSLAQESEFIRAPLPYFPKGLPIKISQSL"
+                },
+                {
+                    "id": "AT5G48000_NP_199611.2",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19446970,
+                                "start": 19446762
+                            },
+                            {
+                                "end": 19446681,
+                                "start": 19446357
+                            },
+                            {
+                                "end": 19446262,
+                                "start": 19446110
+                            },
+                            {
+                                "end": 19446018,
+                                "start": 19445770
+                            },
+                            {
+                                "end": 19445660,
+                                "start": 19445568
+                            },
+                            {
+                                "end": 19444929,
+                                "start": 19444851
+                            },
+                            {
+                                "end": 19444712,
+                                "start": 19444606
+                            },
+                            {
+                                "end": 19444531,
+                                "start": 19444313
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSFVWSAAVWVIAVAAVVISKWLYRWSNPKCNGKLPPGSMGLPIIGETCDFFEPHGLYEISPFVKKRMLKYGPLFRTNIFGSNTVVLTEPDIIFEVFRQENKSFVFSYPEAFVKPFGKENVFLKHGNIHKHVKQISLQHLGSEALKKKMIGEIDRVTYEHLRSKANQGSFDAKEAVESVIMAHLTPKIISNLKPETQATLVDNIMALGSEWFQSPLKLTTLISIYKVFIARRYALQVIKDVFTRRKASREMCGDFLDTMVEEGEKEDVIFNEESAINLIFAILVVAKESTSSVTSLAIKFLAENHKALAELKREHAAILQNRNGKGAGVSWEEYRHQMTFTNMVINETLRMANMAPIMYRKAVNDVEIKGYTIPAGWIVAVIPPAVHFNDAIYENPLEFNPWRWEGKELRSGSKTFMVFGGGVRQCVGAEFARLQISIFIHHLVTTYDFSLAQESEFIRAPLPYFPKGLPIKISQSL"
+                },
+                {
+                    "id": "AT5G48000_NP_851153.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19446970,
+                                "start": 19446762
+                            },
+                            {
+                                "end": 19446681,
+                                "start": 19446357
+                            },
+                            {
+                                "end": 19446262,
+                                "start": 19446110
+                            },
+                            {
+                                "end": 19446018,
+                                "start": 19445770
+                            },
+                            {
+                                "end": 19445660,
+                                "start": 19445568
+                            },
+                            {
+                                "end": 19444929,
+                                "start": 19444851
+                            },
+                            {
+                                "end": 19444712,
+                                "start": 19444606
+                            },
+                            {
+                                "end": 19444531,
+                                "start": 19444313
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSFVWSAAVWVIAVAAVVISKWLYRWSNPKCNGKLPPGSMGLPIIGETCDFFEPHGLYEISPFVKKRMLKYGPLFRTNIFGSNTVVLTEPDIIFEVFRQENKSFVFSYPEAFVKPFGKENVFLKHGNIHKHVKQISLQHLGSEALKKKMIGEIDRVTYEHLRSKANQGSFDAKEAVESVIMAHLTPKIISNLKPETQATLVDNIMALGSEWFQSPLKLTTLISIYKVFIARRYALQVIKDVFTRRKASREMCGDFLDTMVEEGEKEDVIFNEESAINLIFAILVVAKESTSSVTSLAIKFLAENHKALAELKREHAAILQNRNGKGAGVSWEEYRHQMTFTNMVINETLRMANMAPIMYRKAVNDVEIKGYTIPAGWIVAVIPPAVHFNDAIYENPLEFNPWRWEGKELRSGSKTFMVFGGGVRQCVGAEFARLQISIFIHHLVTTYDFSLAQESEFIRAPLPYFPKGLPIKISQSL"
+                },
+                {
+                    "id": "AT5G48000_NP_001078732.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19446970,
+                                "start": 19446762
+                            },
+                            {
+                                "end": 19446681,
+                                "start": 19446357
+                            },
+                            {
+                                "end": 19446262,
+                                "start": 19446110
+                            },
+                            {
+                                "end": 19446018,
+                                "start": 19445770
+                            },
+                            {
+                                "end": 19445660,
+                                "start": 19445568
+                            },
+                            {
+                                "end": 19444929,
+                                "start": 19444851
+                            },
+                            {
+                                "end": 19444712,
+                                "start": 19444606
+                            },
+                            {
+                                "end": 19444531,
+                                "start": 19444313
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSFVWSAAVWVIAVAAVVISKWLYRWSNPKCNGKLPPGSMGLPIIGETCDFFEPHGLYEISPFVKKRMLKYGPLFRTNIFGSNTVVLTEPDIIFEVFRQENKSFVFSYPEAFVKPFGKENVFLKHGNIHKHVKQISLQHLGSEALKKKMIGEIDRVTYEHLRSKANQGSFDAKEAVESVIMAHLTPKIISNLKPETQATLVDNIMALGSEWFQSPLKLTTLISIYKVFIARRYALQVIKDVFTRRKASREMCGDFLDTMVEEGEKEDVIFNEESAINLIFAILVVAKESTSSVTSLAIKFLAENHKALAELKREHAAILQNRNGKGAGVSWEEYRHQMTFTNMVINETLRMANMAPIMYRKAVNDVEIKGYTIPAGWIVAVIPPAVHFNDAIYENPLEFNPWRWEGKELRSGSKTFMVFGGGVRQCVGAEFARLQISIFIHHLVTTYDFSLAQESEFIRAPLPYFPKGLPIKISQSL"
+                },
+                {
+                    "id": "AT5G48000_NP_001330320.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19446970,
+                                "start": 19446762
+                            },
+                            {
+                                "end": 19446681,
+                                "start": 19446357
+                            },
+                            {
+                                "end": 19446262,
+                                "start": 19446110
+                            },
+                            {
+                                "end": 19446018,
+                                "start": 19445770
+                            },
+                            {
+                                "end": 19445660,
+                                "start": 19445568
+                            },
+                            {
+                                "end": 19444929,
+                                "start": 19444851
+                            },
+                            {
+                                "end": 19444712,
+                                "start": 19444606
+                            },
+                            {
+                                "end": 19444531,
+                                "start": 19444313
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSFVWSAAVWVIAVAAVVISKWLYRWSNPKCNGKLPPGSMGLPIIGETCDFFEPHGLYEISPFVKKRMLKYGPLFRTNIFGSNTVVLTEPDIIFEVFRQENKSFVFSYPEAFVKPFGKENVFLKHGNIHKHVKQISLQHLGSEALKKKMIGEIDRVTYEHLRSKANQGSFDAKEAVESVIMAHLTPKIISNLKPETQATLVDNIMALGSEWFQSPLKLTTLISIYKVFIARRYALQVIKDVFTRRKASREMCGDFLDTMVEEGEKEDVIFNEESAINLIFAILVVAKESTSSVTSLAIKFLAENHKALAELKREHAAILQNRNGKGAGVSWEEYRHQMTFTNMVINETLRMANMAPIMYRKAVNDVEIKGYTIPAGWIVAVIPPAVHFNDAIYENPLEFNPWRWEGKELRSGSKTFMVFGGGVRQCVGAEFARLQISIFIHHLVTTYDFSLAQESEFIRAPLPYFPKGLPIKISQSL"
+                },
+                {
+                    "id": "AT5G48000_NP_001318756.1",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19446970,
+                                "start": 19446762
+                            },
+                            {
+                                "end": 19446681,
+                                "start": 19446357
+                            },
+                            {
+                                "end": 19446262,
+                                "start": 19446110
+                            },
+                            {
+                                "end": 19446018,
+                                "start": 19445770
+                            },
+                            {
+                                "end": 19445660,
+                                "start": 19445568
+                            },
+                            {
+                                "end": 19444929,
+                                "start": 19444851
+                            },
+                            {
+                                "end": 19444712,
+                                "start": 19444606
+                            },
+                            {
+                                "end": 19444531,
+                                "start": 19444313
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSFVWSAAVWVIAVAAVVISKWLYRWSNPKCNGKLPPGSMGLPIIGETCDFFEPHGLYEISPFVKKRMLKYGPLFRTNIFGSNTVVLTEPDIIFEVFRQENKSFVFSYPEAFVKPFGKENVFLKHGNIHKHVKQISLQHLGSEALKKKMIGEIDRVTYEHLRSKANQGSFDAKEAVESVIMAHLTPKIISNLKPETQATLVDNIMALGSEWFQSPLKLTTLISIYKVFIARRYALQVIKDVFTRRKASREMCGDFLDTMVEEGEKEDVIFNEESAINLIFAILVVAKESTSSVTSLAIKFLAENHKALAELKREHAAILQNRNGKGAGVSWEEYRHQMTFTNMVINETLRMANMAPIMYRKAVNDVEIKGYTIPAGWIVAVIPPAVHFNDAIYENPLEFNPWRWEGKELRSGSKTFMVFGGGVRQCVGAEFARLQISIFIHHLVTTYDFSLAQESEFIRAPLPYFPKGLPIKISQSL"
+                },
+                {
+                    "id": "AT5G48000",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19447790,
+                                "start": 19447706
+                            },
+                            {
+                                "end": 19447008,
+                                "start": 19446762
+                            },
+                            {
+                                "end": 19446681,
+                                "start": 19446357
+                            },
+                            {
+                                "end": 19446262,
+                                "start": 19446110
+                            },
+                            {
+                                "end": 19446018,
+                                "start": 19445770
+                            },
+                            {
+                                "end": 19445660,
+                                "start": 19445568
+                            },
+                            {
+                                "end": 19444929,
+                                "start": 19444851
+                            },
+                            {
+                                "end": 19444712,
+                                "start": 19444606
+                            },
+                            {
+                                "end": 19444531,
+                                "start": 19444313
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MDRRGKYWAGPMWIGLSMCGSGSDTILECRLRLFKLQRQNQMSFVWSAAVWVIAVAAVVISKWLYRWSNPKCNGKLPPGSMGLPIIGETCDFFEPHGLYEISPFVKKRMLKYGPLFRTNIFGSNTVVLTEPDIIFEVFRQENKSFVFSYPEAFVKPFGKENVFLKHGNIHKHVKQISLQHLGSEALKKKMIGEIDRVTYEHLRSKANQGSFDAKEAVESVIMAHLTPKIISNLKPETQATLVDNIMALGSEWFQSPLKLTTLISIYKVFIARRYALQVIKDVFTRRKASREMCGDFLDTMVEEGEKEDVIFNEESAINLIFAILVVAKESTSSVTSLAIKFLAENHKALAELKREHAAILQNRNGKGAGVSWEEYRHQMTFTNMVINETLRMANMAPIMYRKAVNDVEIKGYTIPAGWIVAVIPPAVHFNDAIYENPLEFNPWRWEGKELRSGSKTFMVFGGGVRQCVGAEFARLQISIFIHHLVTTYDFSLAQESEFIRAPLPYFPKGLPIKISQSL"
+                },
+                {
+                    "id": "AT5G48010_NP_199612.3",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19457204,
+                                "start": 19457001
+                            },
+                            {
+                                "end": 19457483,
+                                "start": 19457298
+                            },
+                            {
+                                "end": 19457711,
+                                "start": 19457622
+                            },
+                            {
+                                "end": 19457993,
+                                "start": 19457793
+                            },
+                            {
+                                "end": 19458196,
+                                "start": 19458112
+                            },
+                            {
+                                "end": 19458481,
+                                "start": 19458315
+                            },
+                            {
+                                "end": 19459219,
+                                "start": 19459028
+                            },
+                            {
+                                "end": 19459425,
+                                "start": 19459312
+                            },
+                            {
+                                "end": 19459785,
+                                "start": 19459531
+                            },
+                            {
+                                "end": 19459972,
+                                "start": 19459874
+                            },
+                            {
+                                "end": 19460434,
+                                "start": 19460378
+                            },
+                            {
+                                "end": 19461136,
+                                "start": 19460627
+                            },
+                            {
+                                "end": 19461538,
+                                "start": 19461422
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MWRLRTGPKAGEDTHLFTTNNYAGRQIWEFDANAGSPQEIAEVEDARHKFSDNTSRFKTTADLLWRMQFLREKKFEQKIPRVIIEDARKIKYEDAKTALKRGLLYFTALQADDGHWPAENSGPNFYTPPFLICLYITGHLEKIFTPEHVKELLRHIYNMQNEDGGWGLHVESHSVMFCTVINYVCLRIVGEEVGHDDQRNGCAKAHKWIMDHGGATYTPLIGKALLSVLGVYDWSGCNPIPPEFWLLPSSFPVNGGTLWIYLRDTFMGLSYLYGKKFVAPPTPLILQLREELYPEPYAKINWTQTRNRCGKEDLYYPRSFLQDLFWKSVHMFSESILDRWPLNKLIRQRALQSTMALIHYHDESTRYITGGCLPKAFHMLACWIEDPKSDYFKKHLARVREYIWIGEDGLKIQSFGSQLWDTALSLHALLDGIDDHDVDDEIKTTLVKGYDYLKKSQITENPRGDHFKMFRHKTKGGWTFSDQDQGWPVSDCTAESLECCLFFESMPSELIGKKMDVEKLYDAVDYLLYLQSDNGGIAAWQPVEGKAWLELLNIMIFRYVECTGSAIAALTQFNKQFPGYKNVEVKRFITKAAKYIEDMQTVDGSWYGNWGVCFIYGTFFAVRGLVAAGKTYSNCEAIRKAVRFLLDTQNPEGGWGESFLSCPSKKYTPLKGNSTNVVQTAQALMVLIMGDQMERDPLPVHRAAQVLINSQLDNGDFPQQEIMGTFMRTVMLHFPTYRNTFSLWALTHYTHALRRLLP"
+                },
+                {
+                    "id": "AT5G48010",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 19457204,
+                                "start": 19457001
+                            },
+                            {
+                                "end": 19457483,
+                                "start": 19457298
+                            },
+                            {
+                                "end": 19457711,
+                                "start": 19457622
+                            },
+                            {
+                                "end": 19457993,
+                                "start": 19457793
+                            },
+                            {
+                                "end": 19458196,
+                                "start": 19458112
+                            },
+                            {
+                                "end": 19458481,
+                                "start": 19458315
+                            },
+                            {
+                                "end": 19459219,
+                                "start": 19459028
+                            },
+                            {
+                                "end": 19459425,
+                                "start": 19459312
+                            },
+                            {
+                                "end": 19459785,
+                                "start": 19459531
+                            },
+                            {
+                                "end": 19459972,
+                                "start": 19459874
+                            },
+                            {
+                                "end": 19460434,
+                                "start": 19460378
+                            },
+                            {
+                                "end": 19460558,
+                                "start": 19460512
+                            },
+                            {
+                                "end": 19461136,
+                                "start": 19460650
+                            },
+                            {
+                                "end": 19461538,
+                                "start": 19461422
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MWRLRTGPKAGEDTHLFTTNNYAGRQIWEFDANAGSPQEIAEVEDARHKFSDNTSRFKTTADLLWRMQFLREKKFEQKIPRVIIEDARKIKYEDAKTALKRGLLYFTALQADDGHWPAENSGPNFYTPPFLICLYITGHLEKIFTPEHVKELLRHIYNMQNEDGGWGLHVESHSVMFCTVINYVCLRIVGEEVGHDDQRNGCAKAHKWIMDHGGATYTPLIGKALLSVLGVYDWSGCNPIPPEFWLLPSSFPVNGGTLWIYLRDTFMGLSYLYGKKFVAPPTPLILQLREELYPEPYAKINWTQTRNRCGKEDLYYPRSFLQDLFWKSVHMFSESILDRWPLNKLIRQRALQSTMALIHYHDESTRYITGGCLPKAFHMLACWIEDPKSDYFKKHLARVREYIWIGEDGLKIQSFGSQLWDTALSLHALLDGIDDHDVDDEIKTTLVKGYDYLKKSQITENPRGDHFKMFRHKTKGGWTFSDQDQGWPVSDCTAESLECCLFFESMPSELIGKKMDVEKLYDAVDYLLYLQSDNGGIAAWQPVEGKAWLEWLSPVEFLEDTIVEYEYVECTGSAIAALTQFNKQFPGYKNVEVKRFITKAAKYIEDMQTVDGSWYGNWGVCFIYGTFFAVRGLVAAGKTYSNCEAIRKAVRFLLDTQNPEGGWGESFLSCPSKKYTPLKGNSTNVVQTAQALMVLIMGDQMERDPLPVHRAAQVLINSQLDNGDFPQQEIMGTFMRTVMLHFPTYRNTFSLWALTHYTHALRRLLP"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_003076.8",
+            "accession": "CP002688.1",
             "completeness": "complete",
             "end_coord": 19461689,
             "evidence": [
