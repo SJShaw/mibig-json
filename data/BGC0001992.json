@@ -12,7 +12,9 @@
         {
             "comments": [
                 "Fetch compound properties from PubChem",
-                "Fix incorrect accession and location"
+                "Fix incorrect accession and location",
+                "Gene details extracted from RefSeq accession NC_013971.1 dated 11-SEP-2019",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -278,8 +280,99 @@
                 "molecular_formula": "C5H5N5S"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "EAMY_RS34800",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "EAMY_RS34805",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "EAMY_RS22415",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "EAMY_RS22425",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "EAMY_RS22430",
+                    "product": "OsmC family protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "EAMY_RS34800",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1135195,
+                                "start": 1134935
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTTYRVRVGFHNPSALTFRQLDEIFEPQRFWRTDSCGGKFRYFMEYQYHSEAKDLCSVCSLAYSQACKVKKCPLVLVEIMPEADMR"
+                },
+                {
+                    "id": "EAMY_RS34805",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1135622,
+                                "start": 1135317
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MLWLEQGLYLRVQEMENGPRPLPLQSGFSSNTAYRALGCFNPSETSDAYYILSNDRDEIWFICNRHLRTVCLINESNDFRLPIVATSPIFNAAQNGASKPN"
+                },
+                {
+                    "id": "EAMY_RS22415",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1136546,
+                                "start": 1136250
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MYKKIMLCLVWGLLSACTASVGQNFDDTKLAQIKYDVTSRQDLIALFGQPSSETPFPQGQTILMWTWSQAKAMSTTQGRTLTIRLLNGKVKSYAASQS"
+                },
+                {
+                    "id": "EAMY_RS22425",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1137398,
+                                "start": 1137156
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MLPMVDILLSFASQFPGIAAPDAINQNKNAIAAKKISPGAIALLFTPFHLVLVIKGEGEVYHIQYMALQQSRCFAGKMRF"
+                },
+                {
+                    "id": "EAMY_RS22430",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 1138000,
+                                "start": 1137569
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTIHKKGQAHWEGNIKQGKGTVSTESGALSQQPYGFNTRFEGKPGTNPEELIGAAHAACFSMALSLMLGEAGHTPESIDTTADVSLDKVDGGFSITKVALQSKIALPGIEKSTFDGIIQQAKAGCPISKLLNTEISLDYQLEN"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_013971.1",
+            "accession": "FN434113.1",
             "completeness": "Unknown",
             "end_coord": 1138555,
             "start_coord": 1133807
