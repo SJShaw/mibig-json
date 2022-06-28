@@ -11,7 +11,9 @@
         },
         {
             "comments": [
-                "Removed gene names of 'No gene ID'"
+                "Removed gene names of 'No gene ID'",
+                "Gene details extracted from RefSeq accession NW_001884561.1 dated 06-SEP-2017",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -49,7 +51,7 @@
                             ]
                         }
                     ],
-                    "id": "XP_001798910.1",
+                    "id": "SNOG_08601",
                     "name": "elcH",
                     "product": "elsinochrome synthase",
                     "tailoring": [
@@ -57,27 +59,27 @@
                     ]
                 },
                 {
-                    "id": "XP_001798911.1",
+                    "id": "SNOG_08602",
                     "product": "hypothetical protein"
                 },
                 {
-                    "id": "XP_001798912.1",
+                    "id": "SNOG_08603",
                     "product": "hypothetical protein"
                 },
                 {
-                    "id": "XP_001798913.1",
+                    "id": "SNOG_08604",
                     "product": "hypothetical protein"
                 },
                 {
-                    "id": "XP_001798914.1",
+                    "id": "SNOG_08605",
                     "product": "hypothetical protein"
                 },
                 {
-                    "id": "XP_001798915.1",
+                    "id": "SNOG_08606",
                     "product": "hypothetical protein"
                 },
                 {
-                    "id": "XP_001798916.1",
+                    "id": "SNOG_08607",
                     "product": "hypothetical protein"
                 },
                 {
@@ -89,7 +91,7 @@
                             ]
                         }
                     ],
-                    "id": "XP_001798917.1",
+                    "id": "SNOG_08608",
                     "name": "elcE",
                     "product": "FAD-dependent oxidoreductase",
                     "tailoring": [
@@ -105,7 +107,7 @@
                             ]
                         }
                     ],
-                    "id": "XP_001798918.1",
+                    "id": "SNOG_08609",
                     "name": "elcR",
                     "product": "Transcription factor"
                 },
@@ -118,7 +120,7 @@
                             ]
                         }
                     ],
-                    "id": "XP_001798919.1",
+                    "id": "SNOG_08610",
                     "name": "elcD",
                     "product": "O-methyltransferase",
                     "tailoring": [
@@ -126,7 +128,7 @@
                     ]
                 },
                 {
-                    "id": "XP_001798920.1",
+                    "id": "SNOG_08611",
                     "name": "elcC",
                     "product": "MFS transporter"
                 },
@@ -139,7 +141,7 @@
                             ]
                         }
                     ],
-                    "id": "XP_001798921.1",
+                    "id": "SNOG_08612",
                     "name": "elcB",
                     "product": "O-methyltransferase/FAD-dependentmonooxygenase",
                     "tailoring": [
@@ -155,7 +157,7 @@
                             ]
                         }
                     ],
-                    "id": "XP_001798923.1",
+                    "id": "SNOG_08614",
                     "name": "elcA",
                     "product": "polyketide synthase"
                 },
@@ -168,7 +170,7 @@
                             ]
                         }
                     ],
-                    "id": "XP_001798924.1",
+                    "id": "SNOG_08615",
                     "name": "elcF",
                     "product": "fasciclin"
                 },
@@ -181,17 +183,343 @@
                             ]
                         }
                     ],
-                    "id": "XP_001798925.1",
+                    "id": "SNOG_08616",
                     "name": "elcG",
                     "product": "multi-copper oxidase/laccase",
                     "tailoring": [
                         "Oxidation"
                     ]
+                },
+                {
+                    "id": "SNOG_08613",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "SNOG_08601",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 276693,
+                                "start": 276370
+                            },
+                            {
+                                "end": 276311,
+                                "start": 275740
+                            },
+                            {
+                                "end": 275686,
+                                "start": 275125
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MFTLRSLAILAVFAATALASKQSSNDRELVVAIYGGGLASATLAQALKGSSNLNVQYFDPALDLTPTSFRLFGFDPKVHDALALVNEEAGGAIERSGWYPEEPSVVVVGQGSDADTVVLDWAQLKNTTHHPQVTVVDPKPFLQQMLNGTDESRLHPNKTLVSITRKDLSAKYPLELKFQDGSIQHADVLIGDDGPFGQMRSEVLGAKHPANAPVFMNFLSAVAHVAPDDAEKLLGQKYGNRDLGRRFERVGMGSWFLNAYLEGFSTCLGSFYTEEAYDLSQFTRTTSVKELTARFSNLNEADNSQKILSGYSGLRLIPEIEHSPAPTYINGLVAMQGNAAHFMTNFQQLGPSQQIEDAMILGTLLRSAHSRADVEAALYAYDTVRRPRSQWVSEHGKRLGWLWTGMVEDVGIDAKKLKKAMLQWKQDSEAFDLKAHKNEAVKIMKQTIKERSGSEKIITQEEKIKAGFQGLWEAMREKSGEQVEL"
+                },
+                {
+                    "id": "SNOG_08602",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 277214,
+                                "start": 277185
+                            },
+                            {
+                                "end": 278124,
+                                "start": 277321
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSDLSGKVILRPGKIYLAARDISKGSWASDLIKKHVPEAPVTVLECDLSSLSSVRNAARKVASESSRLDILMCNAGVVACPKGLSEDGYEIQFATNHLGHALLIKLLLQMLRKTAKLHGNARIVSLTSPGFGFSPKGGIQFNSLHSEQDLGFGGPPKRYGQSKLANILYADELSRRNPQLTCVSIDPGAAKTELFTNQGWLMKTFITITTWMRGEMMWSAEEGAYNQLWAATADIPINGALYKPIGKHFEPTGHLKDAELRQMLWDWTEGELKAYAL"
+                },
+                {
+                    "id": "SNOG_08603",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 278632,
+                                "start": 278464
+                            },
+                            {
+                                "end": 278931,
+                                "start": 278784
+                            },
+                            {
+                                "end": 279024,
+                                "start": 278983
+                            },
+                            {
+                                "end": 279165,
+                                "start": 279078
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MAGSKTVNWHVDSGVGQLPIVPDHSLATRNHGKNWPGVAIYKGAQLPLARVGNSVTAPSAPNAEPYHIQSFAEIIEGIADPMQASDCQAGTFYCDTNTAESYHVVTYCVAFFQILWHRNGCTAIMHRAIPSSLFGRGKYSQVRTAGMT"
+                },
+                {
+                    "id": "SNOG_08604",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 280224,
+                                "start": 279995
+                            },
+                            {
+                                "end": 279868,
+                                "start": 279815
+                            },
+                            {
+                                "end": 279735,
+                                "start": 279408
+                            },
+                            {
+                                "end": 279354,
+                                "start": 279277
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MLSLATAILAILSAVVAAPQPHIEERQNSFNAIQNWANDFADVTFKNNAGGNFNVTWDNNPGGNFVVGKGYRPGRDMLFNYTGTFKVNGWAYLALRAVLIILSQKVGKHNPSDNASANYFGTLDSDGATYEIWQKERTNAPSIIGDNTDFQQYWSIRTKMHCGGTINTGNHFRAWEAAGLKLGKQNYMVMGIEGQQGSGEADITKCQEDEYEADFDKGSGYHNESNDDH"
+                },
+                {
+                    "id": "SNOG_08605",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 282672,
+                                "start": 282621
+                            },
+                            {
+                                "end": 282484,
+                                "start": 281061
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTNETYSMWVDGKEVSGDVDNAVQTAQKAFKSGIWSKAPRHVRADTLDRIAELLVKNLPRLIELEVRQTGRAVREMNAQVPTLVKWFKYYAALIRTEERSVLPTMGRLHNWVDRVPLGVVAQITPFNHPLLIAVKKIAPALAGGNSIVLKPSELTPLTSIELGKLMKEAGLPDGVFNVLPGDGLTTGKALVEHPLIKKVDVTGGTPAGRAIGAIAGRNLAHYTAELGGKAPLIVFEKAHLDLAVNGIVFGSFIASGQTCVAATRIIVQNSIIDKVVEKLKDKAQSIERRIGSPKNVESMMGPLISGKQLGNVSTLVKDAIDAGVTVVTGGQRMSGTAALDGTEFAKGYFYAPTILTDSQTKKIVDTRIWNEEAFGPVIVVVGFDTEEEALNFANDSEFGLGAAIWTQDLSQAFRVSESVESGICWVNTHHRNDPSSPWGGIKSSGVGSENGIDAYNAYTTTKSTIINYATAEDGLASDDWFREEGGDVRYG"
+                },
+                {
+                    "id": "SNOG_08606",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 283891,
+                                "start": 283640
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MQFSAIILAAFYSLALAAPAPAAEADASAAVEAAIAARQACRDATYRCGGNNPEVCQFGIWMLAARCGGGQKCVIANGAPYCL"
+                },
+                {
+                    "id": "SNOG_08607",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 285314,
+                                "start": 285156
+                            },
+                            {
+                                "end": 285442,
+                                "start": 285374
+                            },
+                            {
+                                "end": 285597,
+                                "start": 285468
+                            },
+                            {
+                                "end": 285693,
+                                "start": 285650
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MFIQRLRQWVLFLADFAPSQEGHSETILNPSNSVKHVDHRLVVAEAIRVSNSCCEAIAKQLKSRVAFPNNQQFTTSSKTSSQDAWCYRNLRMKSRKSCKPYPLVYTCGKIGVDMLYEAQDTPLLLVQQTLKMA"
+                },
+                {
+                    "id": "SNOG_08608",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 286797,
+                                "start": 285968
+                            },
+                            {
+                                "end": 286960,
+                                "start": 286834
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MVENFEVVLANGDIVNANATSHRKLWKALRGGSNNFGIVTAITLRVFSQGKFWGGQTFHPISTRKDHFHALENLIAAVPYDKYAHFINTIVITNASYGNWFIGNSLQYTKSDPPTPFPETFKPFTDIPRVALFPGAPDNTLRVDNHTAFTLEYAALNVYPKRWQFATISFGNSAEMMEDFFQMANETIQPFLTLPGFLLSVAYQPLPTLMSERYGEVDSLGPIQTQGNMFYIHWAMSVDGSEVETDRKFEKVTRDLFQRAEAKAREKGLRRDFLQLTSNGTLKELWRVSKEYDPTGMFQKQVPGGFKLSEMDEDSMEL"
+                },
+                {
+                    "id": "SNOG_08609",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 289910,
+                                "start": 289812
+                            },
+                            {
+                                "end": 289746,
+                                "start": 288580
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MATQLPSPTATTSHSGNEPRRVIRESCNNCSAQKIRCGKQRPACARCVNKKLQCNYSYSQRSGRRSSSMNTQRGGPHIAFLPGIPDTPATMPDANAMSAMYGSLTTSSPGLQGTTLSPSIETSLEYDQNPFEDPNQYHDLTFDFLASPPNTEPLHSRSTSSNTGTDMGDTAMVDSEAFWHSFPSMPPQNLDALRSVSNHPIFDQDQVASFRRSLEKTVQHGHDCMALALQVVNDLSVTREPCLVATSNPMTGIETHQMQARDVDTVLFINRDAAQSVKKILDCSCSSDQAVSLACYLATSKIVDWYGAAIEAVGERTEDFSKNAGPKTSQGIMAERIIARPIYMGKYCLDPEVQRVVRAQVVLGELKEHVQPLLNSLPRFHITGLEAESDSSANGQQACILRNQLRNVIQSARDLNGTGSS"
+                },
+                {
+                    "id": "SNOG_08610",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 292239,
+                                "start": 291149
+                            },
+                            {
+                                "end": 291088,
+                                "start": 290866
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSLLQLTASITKAAADLDDATNNAAKASEIESKAKTALLDAAERLVLAYRSPRQWLIDLSFQHCATASLQMIMKYRLHHAVPKQGSRSFAEIAEIITTPDQPGKLPESLVGRLLQHAMSFGLFTPAASGRVAHNDASLLLVTDPDLEAWVYLCSNVAYPAGAQLPKAIEQYGASSEPSETAYSVSIGRRISQFERFREPDGHAEHEMFARAMKGISAGGAYDVGHVVDGGYPWHELPEGTLVVDVGGGPGHVAIALARKYPQLLFEVQDLVETVEFGAKNCPKDLQHRVSFRAQDFFKPQPQRETDSRTIVYFARFILHDWSDKYAGQIVEPLAQAMRPQDRLILNEVVVPEPSVEQRIERKSHDRDLLMLMNLNGRERTLVAFEGLFEVVSPRLRVEKVHKPTTGGELSLITASVDKLTGRKSAGGDIFGANVDEA"
+                },
+                {
+                    "id": "SNOG_08611",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 292574,
+                                "start": 292467
+                            },
+                            {
+                                "end": 293051,
+                                "start": 292884
+                            },
+                            {
+                                "end": 293186,
+                                "start": 293109
+                            },
+                            {
+                                "end": 293281,
+                                "start": 293239
+                            },
+                            {
+                                "end": 293926,
+                                "start": 293337
+                            },
+                            {
+                                "end": 294348,
+                                "start": 293977
+                            },
+                            {
+                                "end": 294732,
+                                "start": 294403
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTGAKTNQVDQRPLSITDLLHFIPYDLQQTFLFEAILSYGKIYNLYPIKWVFLIALALFEIGSLICGAAPSSVGLIMGRVVAGIGSGGLFAGAILLVAEFKPLNERAFYNGMLGAMYSVASVAGPLMGGAFTERVTWRLCFYINLPLGVVTAVIVFLLVPNNYDSGRDSRRGLPLKKKLQEMDLYGLVVLVPTIICILLATQWGGTKYSWGNARIIALFVVGFVLFVAFVVIEIWQGDRAIVPPSLVKRRTVWACSIFSFCLFGSFLVVAYFLPLWFQAIKGDTATESGIHNLPSILGTTIFSVAAGGMVFGLGYYTWACILGSVLAAVGAGLLSTLEVDSNAAKWIGYQVLYGAGCGFGLNQPLIAIQAALPDFQKSEGTAVVIFMQTFGGTIAIAVAQNVFNNKLVSNILAAGIPVDPAALLSVGATKLQGLVQPQFFGRLQLAYNDSITQTFYVAVATAGLSMAGSILIPWLSVKQAVAPEDAETANTVMPFQHPSSDVDLAMPAILRQSGEIASEDSQSSDIEKVPRNNEVSTYDSQTSEVEKSSVGSTNRKVESIRN"
+                },
+                {
+                    "id": "SNOG_08612",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 299526,
+                                "start": 299293
+                            },
+                            {
+                                "end": 299175,
+                                "start": 296614
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MAASTGLSTVLKEIVQVCREVESHLATESHLDSGEGAPGKNTFPIGLEGPRKQLANAAAQLSQLVTDPREYLEQLSANHGSIAYTDLANRASVPESQLKSVLRMTAAHGFLAEVTPLEISHSPTSALIATNPSFYDWARWLTNYSVPSAYHFADATQKWGRTEVKNETAFNIAMNVEVPFFGYLKENAKMNSMFSSYMRNVASSEATSFKHMISGFDWGGLTPGSKVIDVGGSGGHGSRALASAFPGLNFVVQDLPDTIENAKAALNTDESKLHADRVRFMSHDFFTPQPVVDGDIYFLRMIIHDWPDETAITILAHLRDALKKPGARIVIMDTILPQPGTVSLLQERQLRVRDLTMMQVFNAKEREYDTWKALVEKVGLRIIHVEQPEGSNMGLLELGLADATDLKAGGNARLVFNGNMKTPSVNLNINGASTINEFAHGSTPETFAVNGIHTTDKARPNGDTTHSGQASIPNGVSARISTRPMYARDVLPVLIIGAGISGLCLAQYLHKHAIPFVVFERDPSSEHRPQGYRLKLEADAAAALRESLTAEVYSAFEASCAESAIGETDFDPISGACIKSRAGGGLAGAQGLRASYTVDRTVFRRILMTGISDKIYFGREITRYDICEDNVQSYVVATFKDGATAEGRFLVGADGTRSAIRKQLVPEHKFLDTGATCIYGKTVMTPELLARYPARALRWMTVVADRAPLIQSILIGESPLTLLSEPIRFSRDEPTASLPEDYVYWVLIGRRELFTDATNTSASSTGHGVNSDKAYNTESAQASAAQSLALTEEWHPSLRSLFELQDVSQASTMRVVSAPPKLPVWPSNSCVTLLGDAVHAMSPCGGVGANVALRDAAELGKVFASTAASNEEDAIQSVGGKASDQHDMAQQIASFEGELRKRAFGGIMRSFVGSKAMFGQRTFEELDVAEL"
+                },
+                {
+                    "id": "SNOG_08613",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 300302,
+                                "start": 300196
+                            },
+                            {
+                                "end": 300150,
+                                "start": 300065
+                            },
+                            {
+                                "end": 300004,
+                                "start": 299952
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MALMIEKLAPPSKRSMTKFTQHCTGNCGQFWPKTWFWSRSSFIHWRLVSRHWPLAPFQLPKTTMAYALVNTKLSALRDIGN"
+                },
+                {
+                    "id": "SNOG_08614",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 301175,
+                                "start": 301168
+                            },
+                            {
+                                "end": 306352,
+                                "start": 301278
+                            },
+                            {
+                                "end": 307317,
+                                "start": 306680
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MKHVSAPPPVLDELLKTTALSKAIKFDLPITAPYHAPHLYTAENVNTILCGVDDVVATTIIPIVSSSTGTVVTSATFRDALRVAVEACLQLMIRSDLIAPGIASHVQHADGFAIRHIATAPDGLALAVQTALSQAGGRSQSGRVNAPDQNDTTSIPNALSTPRAKAKIAILSMSGRFPQAPSMEAFWHVLENGIDTHELALASRWNTRTHVGDLSLKELPKNTSGTGFGCWLHDAAQFDARYFNMSPREAPQVDPAQRLALLTATEALEQAGIVPGRTSSTQKDRVGVYFGSTSNDWMETNSAQNIDTYFIPGGNRAFIPGRINYHFKFSGPSYTIDTACSSSFTALHLACNALWKGEVDTAIVGGTNVLTNPDMTVGLDRGHFLSRTGNCSTFDDGADGYCRGEAVATLVLKRLDDAVADKDPVQACILAIATNHSAEAASITRPHVGAQQDLFASVLADAGVKHTDISYCEMHGTGTQAGDAGETTSVLQSLAPIEPPNAVRKQHQPLYIGAAKSNVGHGEAAAGVTSLAKVLLMLKKSTIPPHCGIKTKINHKLPDLPSRNTAIAMEAVSWPRPVNGKRQVLLNNFSAAGGNTALILEDAPEVPTLDVPDIRQCHLVAVSAKTPASLENNVKNMLAWLDEKSDASNLTLARLSYTSTARRIHHPHRVMINATSLDSVKASLRTALDLKKGSSRPKGTPRFVFAFTGQGAQYAGMGADLFAQFTGFRADISRYDQICRQLNFPPVRQLFEDPTTFCDATPTTLQLAMVCFQMALYRMWVTLGVTPSAVVGHSLGEYAALYAASVLTQADVINIVGSRAQLLEKHCEQGSHTMLAVRSNAEDLEAALGPSGLTYELSCHNGRESVVLGGTKSQIETIRPTLQRSRMSNRVLEVPYAYHTSQVEPILASLAAVARGVHFAKPAIPVISPAFGTVLTQSEDFGSDFIVKHCRNKVNMLGALQAARQMSLLDEKMMGIELGPEPVVIKMVKEVAGPAFQTFASSRKDEPALNILASALSAFYTAGTDVKWTAYHADFPSAQVVLELPAYAWDLKEYWIQYVNDWSLRKGDAPLVIERTTLEGTCIHKVVSNSLGVSGGELLVEADLSREDLHPMVQGHKVYGVPLCTPSVYADIALTIGEYAKQFSGEGSTKLGVEIANMNIQSALVATSDGKPQMLRTHASYDAKQKSLYCTFSTLDDAGKVKEQHSNCLIKLFDVEAARTALKSSAPAIKSRISILQLQLNEFGNTFRYSKAMIYKMVGQLADFDPKYRALEEITLDSDALEALGRVNFTKVSAEGKFHTNPAYIDALSQLGGFVMNGNEGVDLDKELFVNHGWASLKLLEAIDPTKTYTTHVKMTEGTDKLWTGDITILDGEAVVGVFGGVALQGVPKRLMSYIVHAASKRTNGVAPRTAGEPQTQRVTAPEVVSAVVKTTTKQLVTQAPVEDRSITTAISIISQESGVEAADLTDDTSFDDIGVDSLLGIMVSSRIRDELGIDVDSAAFLEVRTVGSFKTFLRGLTGTTEQFTTVTKTVTKEITPTELRESSFAQSAVAGDSFGVWTNVLAILAEESGIDVSDLTGDTYFSDIGVDSLLSLVVVSRLRDEFDLDLPEQSLFIDYPTVASLKARITGCTRSPSVFSDSDATTDVPSVFSPSLEVETTSEDFQPLAFSKKEALVAVAEVALTPLEKADPFMSIGLASYVESLQRHQPHGPYHLAGWSAGGVLAYAVAQELMATGEEIATLTLIDSPPPTDGLDRLPRRFFDHCSAVGIFGGEMSAINPSNKRAKLPEWLMPHFEATIELLHDYCAPPMPLTTNAPKKINLIWAGGCAFGGKYAPLPPASMVGEDTEGMKFLTEQRTDFGPDKWTDLFPGRHIDIDVVEGEHHFSMMRGKGAQQLGGFLRKTLGLLA"
+                },
+                {
+                    "id": "SNOG_08615",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 309004,
+                                "start": 308066
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MKLFTLLLPALTSAHSLSTLLSTHPTLSTLHSLLKQFSLLDDFNTLANITVIAPTNQAYLDLANWGFNVSQIPAPVARALFQYHVLDGEWESESIIGKGKVVHTYLKPPVLTNVTAGAAVKLSSVDGTIMTESGLGVAGGVEDVNLRFDGGVLHTLNASMVLPHNITLTAQINGLGRFLELMNRAGVVAEFEGLKDVTVFVPHDDALEKADVGKMSKEQLASLLRGHVVPNRVLYGEVFGKKGGYKSSNGWEIHVGKTADGTLTVNGIKVVKEDVILYAGVAHVIDKVLVADRVEHKGDRSYLHLDAQKPLR"
+                },
+                {
+                    "id": "SNOG_08616",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 310050,
+                                "start": 309376
+                            },
+                            {
+                                "end": 311307,
+                                "start": 310108
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MACNILNFLTGLLSLSSTLPSTYFPSCIKPSNSHVSQNPVRFEVHLTPGRANPTGAGFRDVILVNGTFTGPTLRLSRGDNVEFLVRNHLREDTAVHFHGITQSLSPWADGTPGIAQRPIRPGAAYLYRWRADESGVFFYHAHSRGQLMDGMYGAIVIERGEDEPSPFHMISHEASDWELMREAEREVQTLMISDWSQFSFGEVMGVEREANIDFTCMDAIVVNGAGSEYCLERELLNEYTNPLVKFILSHTDEKEITDKGCVPPLRLFQGNYSLHLDTLPPEAFRKCIPGVGGGANHTVTVHSSNRWAALTFINPGGLYPLKVTIDNHPMHVFAVDGHYIYPQIVDQILVNNGERYSVFVKLDQEVGRYTIRIANDLLGQVLGGFAALSYNGVMDDPPHPKPLMNYAGGSLVKNIRVFDEFNTRPYPPKPPASVADRTHKFMVRKLAQPHGAYEWTMSGIEGLNMTTEDVASPFLFQDPSQIETSELMLTTKKNEWVDLIIEVEGPFAQSHPMHKHGNKAFIVGRGVGFFPWATVEEAEKHLPRGTFNFIDPPYKDTFKTLEGVNNNAWLALRYHANSPGAWLFHCHIQTHLAGGMGVVILDGVDEWPELPEAYAEWNGFEAPV"
                 }
             ]
         },
         "loci": {
-            "accession": "NW_001884561.1",
+            "accession": "CH445337.1",
             "completeness": "complete",
             "end_coord": 311307,
             "evidence": [
