@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NW_006763134.1 dated 23-APR-2014",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -31,8 +41,723 @@
                 "molecular_formula": "C15H24"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "STEHIDRAFT_129488",
+                    "product": "FMN-linked oxidoreductase"
+                },
+                {
+                    "id": "STEHIDRAFT_93873",
+                    "product": "Aldo/keto reductase"
+                },
+                {
+                    "id": "STEHIDRAFT_119681",
+                    "product": "Aldo/keto reductase"
+                },
+                {
+                    "id": "STEHIDRAFT_138053",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "STEHIDRAFT_166863",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "STEHIDRAFT_119684",
+                    "product": "FAD/NAD-P-binding domain-containing protein"
+                },
+                {
+                    "id": "STEHIDRAFT_53380",
+                    "product": "hydroxymethylglutaryl-CoA synthase"
+                },
+                {
+                    "id": "STEHIDRAFT_52743",
+                    "product": "terpenoid synthase"
+                },
+                {
+                    "id": "STEHIDRAFT_138057",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "STEHIDRAFT_154619",
+                    "product": "cytochrome P450"
+                },
+                {
+                    "id": "STEHIDRAFT_75693",
+                    "product": "NAD-P-binding protein"
+                },
+                {
+                    "id": "STEHIDRAFT_75699",
+                    "product": "cytochrome P450"
+                },
+                {
+                    "id": "STEHIDRAFT_119691",
+                    "product": "cytochrome P450"
+                },
+                {
+                    "id": "STEHIDRAFT_145717",
+                    "product": "cytochrome P450"
+                },
+                {
+                    "id": "STEHIDRAFT_75716",
+                    "product": "FAD-binding domain-containing protein"
+                },
+                {
+                    "id": "STEHIDRAFT_109229",
+                    "product": "MFS general substrate transporter"
+                },
+                {
+                    "id": "STEHIDRAFT_119694",
+                    "product": "NAD-P-binding protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "STEHIDRAFT_129488",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 912069,
+                                "start": 911832
+                            },
+                            {
+                                "end": 912500,
+                                "start": 912405
+                            },
+                            {
+                                "end": 912883,
+                                "start": 912562
+                            },
+                            {
+                                "end": 913082,
+                                "start": 912947
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MINQSDLPFRLLARSHGATLAYTQMLIPERILNDQEYLEFHQRELGMQVERPVVVQVCGNEVESVVQAAKKMVGLCDGVDLNLGCPQEAAREGHYGAYLLGQKDWPLVESLVSSLVQSLPIPVSTKLRLCQPTPSTVTLAKRLEHAGSSWITLHARHSSARRRRQGAADLEQVRILKEAVSIPVVSNGNVRTWDDVVKNEELTGADGIMVGETLLGNPCLFEGMVPDPVQISLEYLSICRDHPNTATLETIQTHIRHFVDFQW"
+                },
+                {
+                    "id": "STEHIDRAFT_93873",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 913842,
+                                "start": 913764
+                            },
+                            {
+                                "end": 914021,
+                                "start": 913911
+                            },
+                            {
+                                "end": 914601,
+                                "start": 914094
+                            },
+                            {
+                                "end": 914856,
+                                "start": 914678
+                            },
+                            {
+                                "end": 915140,
+                                "start": 914938
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTSPKYPTRQLGANGPYVSAIGLGAMGIGAYYGETDYDETFKMLTYACDNGVTFWDTADIYGSSEETLGKWFASTGRRSEIFLASKFGASGMRDESERPEAPNENGIPPPNSKPSYILRQLQRSLSLLQTDHIDLYYQHRPDPHVPVEVVLETLRPAFEDGRIRWFGISECSVDVVRRAKAVKGLGEKFICVQMEYGPFELVHERSGLLAEVEKLGVGVVAYSPLGRGLITGKFRSRADFEKGDLRLLLPRFDEANFPANVRLADQMKNLATKYNATSAQLALAWILAEHPGYIPIPGSRTIERLRENMESANLATKLSPEDIREIRDWVDKADVQGSRYPSFFQRSNECGKLEDWRGE"
+                },
+                {
+                    "id": "STEHIDRAFT_119681",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 915776,
+                                "start": 915707
+                            },
+                            {
+                                "end": 915958,
+                                "start": 915848
+                            },
+                            {
+                                "end": 916538,
+                                "start": 916031
+                            },
+                            {
+                                "end": 916797,
+                                "start": 916619
+                            },
+                            {
+                                "end": 917083,
+                                "start": 916878
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTFPTRQLGANGPFVSAIGLGAMGIGECYGKTDYDEAFKMLTYACDNGVTFWDTADIYGSSEETLGKWFASTGRRSEIFLASKFGAADMRDESERPEAPNENGLPPPNSKPSYILRQLQRSLSLLQTDHIDLYYQHRPDPQVPIEVVLEALRPAFEDGRIRWFGMSECSLDVVRRAKAVDELGKKVICVQMEYGPFELVHERSGLLAEVEKLAVGVVAYSPLNRGLITGKFRSRADFEEGDHRLRLPRFSEANFPANVKLVDHMKSMAAKYNATSAQLALAWILAEHPGYIPIPGSRAIERLRENMQSAYLAAKLSPEDIREIREWVDKADVQGDRYPVIFQRPNECGKLEDWKGEY"
+                },
+                {
+                    "id": "STEHIDRAFT_138053",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 922090,
+                                "start": 921820
+                            },
+                            {
+                                "end": 921758,
+                                "start": 921498
+                            },
+                            {
+                                "end": 921436,
+                                "start": 921416
+                            },
+                            {
+                                "end": 921364,
+                                "start": 920757
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSLTLPIEEMVRLRMSVRLGTDGRLTLNMQPILPSVASSSSSSGRLQSNLKLHFNGTADATGTLCLDIWAEDDVPFSSTSSVLTPSTTDPEPAQQLPMPQSDVAPGTMPFDPSTFSFGSGYGQATDLSNFSQSNLGALSGNQWFDQNIADIDMTDTLFCELASSQSNMLWPSQFDMTQRMPPYDADITGKDMSSIISPHVDDGQAIMDALFPTPPLTETSSPIPSTSTSCQSTPDTMATLPTIPEPSPDQENINHSHSDVDDSPLPASPASTLTEEQTQGSGVPGSTSRPFPCLEPGCTLRFTRKYTRKVHMETHTRAKQQRKSFVCGVAGCGECFSRKHDRLRHEVGKHGQECEWTCRQCGRFFSSQTTLERHMMDAGHRNERVQ"
+                },
+                {
+                    "id": "STEHIDRAFT_166863",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 928350,
+                                "start": 928141
+                            },
+                            {
+                                "end": 928009,
+                                "start": 927849
+                            },
+                            {
+                                "end": 927675,
+                                "start": 927582
+                            },
+                            {
+                                "end": 927505,
+                                "start": 927149
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MARGRKAANGTPETPATTNSAPDTPDSSTSARAALSLASGAGAAADRDVIKVNNANLTELKNACDDALKRFLARPDLFQQIHTHTDVRLALGWAGVFVAAGTAFYGYKVEFEESKPVMWVGLIVYMVLTTLQALYAYFIEGEIIFVGKRKTFDKRILTERITISSRTTPASSPPPSSSQLPFPLSLFTSPSTNPAPTSSKSAPAHTPPKPTITNSPSYTLNLSYIRTSSAGKSLLSKQNTLDSREYARFFDEEGVLDQEGFEAWVGGLVGALM"
+                },
+                {
+                    "id": "STEHIDRAFT_119684",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 928909,
+                                "start": 928670
+                            },
+                            {
+                                "end": 930004,
+                                "start": 928967
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MARPHVAIIGGGLTGLSAAFHISRALPQARITLLEKSPRLGGWVRSERVQVEDTQGNSASVVLEAGPRTLRPNAQSVLELIHLLELKDETITTPKSSLAAKSRFLHIPPRRGLLPLPHSLISLCTSPLAPLLFRAILTDLFRKPSRPQLDLSTSALSKASFPDRRSWSDDKITDETFHSFLSRRFGDAFATKFGSALVHGIYATDSRRLSVQAAFPSLWKLEEKGKGRVALGVTREIRDSILKRKEIDRKESGSEKVERATKDTISAGPTVSGSSSLASTSDATSSQSWAWEVGMSPHDPLEKSWAEKIKGAAILSFRDGMETLTRKLVKRLGEREGVEIRVGDKGQVKAIKFDDTGKLEVGTRVSCISEGSDTLSDACSSATIAPPFSKSSRILLLVLTMRVRLILTHNSLPSSIAHCRVHHRF"
+                },
+                {
+                    "id": "STEHIDRAFT_53380",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 933189,
+                                "start": 933091
+                            },
+                            {
+                                "end": 933037,
+                                "start": 932554
+                            },
+                            {
+                                "end": 932434,
+                                "start": 932136
+                            },
+                            {
+                                "end": 932079,
+                                "start": 931657
+                            },
+                            {
+                                "end": 931593,
+                                "start": 931465
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTNPHSHLQDNVVPLPRPENVGIIGLEVYFPKRCISIDALEDFDGVAKGKYTIGLGQQYLAFTDDREDINSFALSAVSSLLEKYNIDPRSIGRLDVGTETLIDKSKSVKTTLMDLFAASGNHDVEGIDSKNACYGSTAAVLNAVNWIESSSWDGRYAIVFAGDIAIYAEGPARPVGGAGAVALLIGPDAPLVLEHMFQSYMANTYDFYKPRMESEYPVVDGPSSVTTYITALDESFKAYQRKVQEGSSRDVPPPYANGANGKASATKSVKLSDFDYSVFHSPYGKLVQKAYGRLTYHDFVAHPTAPVYRDLPTDILSKDASATLTDKSVEKTFAAASASMYKQVVTPSLLISNRCGNMYTGSLYGGLASLLTSIPSYELFDKRISMFAYGSGCASTFFAIKVRGDTSHIKAKLDLERRLAEMDVRPCEDYVVALKLREETHNAPSYIPNDSDAGLWPGSYRLEAVDGKYRRSYTVTH"
+                },
+                {
+                    "id": "STEHIDRAFT_52743",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 934799,
+                                "start": 934709
+                            },
+                            {
+                                "end": 934495,
+                                "start": 934359
+                            },
+                            {
+                                "end": 934232,
+                                "start": 934114
+                            },
+                            {
+                                "end": 934052,
+                                "start": 933979
+                            },
+                            {
+                                "end": 933856,
+                                "start": 933770
+                            },
+                            {
+                                "end": 933712,
+                                "start": 933387
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSETKVGKVAPFPPLPGAPYPPVRNHPRWKGAPAADFDRMVWGARIAGIFFLADDYIDSGKMLDRIPGFKAVCTFLPLHKEDQAEICHDIVFRAIKATSHPRTFDQLTKCTHEWWDSNIHEPFQNLDQYLAVRRVNIAMVTYFRYTLDINLTDEQVNHPLMREAEGIVSDHVGLTNDFFSYLKEKMTNSDDTNIIRILMDHEHLSYEEAKTVIEKKIRQKEQDFIGAGMAVLNDPELGKDREIYRWIANLQYCMGGNLAWSQEVSENHYGIHVLDIT"
+                },
+                {
+                    "id": "STEHIDRAFT_138057",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 936283,
+                                "start": 936213
+                            },
+                            {
+                                "end": 936141,
+                                "start": 936072
+                            },
+                            {
+                                "end": 936017,
+                                "start": 935880
+                            },
+                            {
+                                "end": 935818,
+                                "start": 935726
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTVRLLCFIKRLPHVSFEEFDHHWKNTHGKLVASLQPIVDGKITYTQLHVNPVASSTLQAATFPVISYDGIAEFHAETVEEILQLFGSQEYQEKVAFDEATLGFDRAAVQVMVGENHVPQPAK"
+                },
+                {
+                    "id": "STEHIDRAFT_154619",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 936770,
+                                "start": 936539
+                            },
+                            {
+                                "end": 936910,
+                                "start": 936833
+                            },
+                            {
+                                "end": 936993,
+                                "start": 936960
+                            },
+                            {
+                                "end": 937127,
+                                "start": 937062
+                            },
+                            {
+                                "end": 937325,
+                                "start": 937182
+                            },
+                            {
+                                "end": 937459,
+                                "start": 937375
+                            },
+                            {
+                                "end": 937700,
+                                "start": 937524
+                            },
+                            {
+                                "end": 937874,
+                                "start": 937771
+                            },
+                            {
+                                "end": 937951,
+                                "start": 937933
+                            },
+                            {
+                                "end": 938145,
+                                "start": 938008
+                            },
+                            {
+                                "end": 938255,
+                                "start": 938211
+                            },
+                            {
+                                "end": 938377,
+                                "start": 938314
+                            },
+                            {
+                                "end": 938600,
+                                "start": 938435
+                            },
+                            {
+                                "end": 938811,
+                                "start": 938662
+                            },
+                            {
+                                "end": 938967,
+                                "start": 938877
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MANISQPLSLIQDVDFSSFSRPWSTLAIIATIALVARSALKPKRNLPPGPKGLPLVGNLFQLPQFQWLRFTEWKEEFGPIFSLNFAGQPVVVLNSHKVTTDLLDRRSTIYSDRPRFIMASEILTGSIFIAFSSYGDLWRKLRKAAHEGLNVRAAEAYQPLQEKDAAVLVADLLKEPLYWDDHLKRSAASTVLTAVYGMEPIKSKDDPLVVRINDLMHRLVRATLPGAFLVEIFPVMKRLPEFLAPWKKEGLEWHRRDTVMFQEFMDKVRGQMKAGESKPSFAAGLIEKEKHHNLSKKEESWLAGTMFGAGAETTAAALSVFFLAMRLYPDVMRKAQAEIDSVVGRDRLPTFEDRARLPYIRAIVKEVLRWRPVGPLGLPRRAMQDDVYEGYFIPKGTLVIANVWAMNRDPTLFPDFDEFRPERFLDETGTVDVVPADTHNQGHVTFGFGRRICIGLNIANQALFIDVASTLWAASIEPALDDFGNEIVPSRNESVDEGLVVRPVPFKCKIVPRAEDVDAMLEMTEKKLVW"
+                },
+                {
+                    "id": "STEHIDRAFT_75693",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 939673,
+                                "start": 939584
+                            },
+                            {
+                                "end": 940026,
+                                "start": 939742
+                            },
+                            {
+                                "end": 940173,
+                                "start": 940106
+                            },
+                            {
+                                "end": 940407,
+                                "start": 940233
+                            },
+                            {
+                                "end": 940572,
+                                "start": 940486
+                            },
+                            {
+                                "end": 940870,
+                                "start": 940646
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSPLPIAIVFGGSGLTGTSIVNGLLERKEFEVKVPVRPSSVDKPSVVELRNKGVAIIPVDLATASSDHLQEILRGANTVICSLVYTQLGLQHKIIEAAKAVGVPRFVPCDFGTPGRRGVRKLHDEKLDIQDAVKASGIGYTFIDVGFWYQLHLIYTDVEKAYVPWLYEASRYVYNDGLVKTAYTDLTDIGRFVARIVADPRTLNHHVFAWGEEITQQDLVNLARKYGDPNVEVIRKTTADLEALVAEAKEKKLGTLAYWDYHYSMWVLGENRAEVAKLEGALDARELYPDYKVRPLEDYAVEFYKCKLL"
+                },
+                {
+                    "id": "STEHIDRAFT_75699",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 943747,
+                                "start": 943571
+                            },
+                            {
+                                "end": 943505,
+                                "start": 943455
+                            },
+                            {
+                                "end": 943400,
+                                "start": 943246
+                            },
+                            {
+                                "end": 943184,
+                                "start": 943131
+                            },
+                            {
+                                "end": 943078,
+                                "start": 942953
+                            },
+                            {
+                                "end": 942890,
+                                "start": 942873
+                            },
+                            {
+                                "end": 942816,
+                                "start": 942738
+                            },
+                            {
+                                "end": 942680,
+                                "start": 942498
+                            },
+                            {
+                                "end": 942425,
+                                "start": 942322
+                            },
+                            {
+                                "end": 942264,
+                                "start": 942128
+                            },
+                            {
+                                "end": 942065,
+                                "start": 941938
+                            },
+                            {
+                                "end": 941885,
+                                "start": 941713
+                            },
+                            {
+                                "end": 941643,
+                                "start": 941494
+                            },
+                            {
+                                "end": 941437,
+                                "start": 941347
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MGNSSSVVSSLPESFSGPMNSLYDAAGKNAYNLVGLAVLAVAVSWFTKRPKGPFPPGPKGIPFFGNVFQLPHSFTWFKFTEWGEQYGPIVGLNMAGQPMVVLNTGKVCADLMDRRSVIYSDRPRFIMASEILTGGMLVGFANYGAVWRRLRKAAHLGLHLRAAEAYYPIEEREAAILVQDLLRDPGSWDGHIRRSIASTMFNVVYNGESLATKDDPTVAKINALMHRVVQAALPGRFLVEILPWMRYLPDWMASWKRKGKESFRQDSNMFKGFLQNVKNEVATGDYKPTFGSHLVYPGNPHGLSKDEEAWLAGIIFGAGSDSTAGTLGWFMLLMALYPEAQAKAQEEIDRVVGRHRLPNFEDRDSLPYVVALMKEVLRWHPVSPLGLPHRLTEDDWYEGYFLPKGTIVVSNIYGINRDPEFFPDPDAFRPERYYNDDEDLTKKAEFDDTHGQGHYSYGFGRRVCVGMNLANNALFINMVSILWAVNIKCPVGPDGKTIVPDRNKFIDDGLVVRPEQFQCILEPRENDVSAKLGSANAQAVY"
+                },
+                {
+                    "id": "STEHIDRAFT_119691",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 946118,
+                                "start": 945870
+                            },
+                            {
+                                "end": 946229,
+                                "start": 946178
+                            },
+                            {
+                                "end": 946361,
+                                "start": 946284
+                            },
+                            {
+                                "end": 946511,
+                                "start": 946412
+                            },
+                            {
+                                "end": 946715,
+                                "start": 946572
+                            },
+                            {
+                                "end": 946934,
+                                "start": 946785
+                            },
+                            {
+                                "end": 947110,
+                                "start": 947002
+                            },
+                            {
+                                "end": 947287,
+                                "start": 947174
+                            },
+                            {
+                                "end": 947518,
+                                "start": 947352
+                            },
+                            {
+                                "end": 947626,
+                                "start": 947581
+                            },
+                            {
+                                "end": 947745,
+                                "start": 947687
+                            },
+                            {
+                                "end": 947935,
+                                "start": 947798
+                            },
+                            {
+                                "end": 948149,
+                                "start": 947994
+                            },
+                            {
+                                "end": 948302,
+                                "start": 948215
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPNADLPNLVPLDPSPVIMDSIMSRPLVSTLFAADGFQLASLSALLVTVLVFVRFSKRNPSNPQNLPLPPGPRGLPVLGNLLQIPSEHYWLKFDEWIREYGPIVSINLAGKPVIILGTPKVAAELFDRRSAIYSDRPRWVLAYEILAKGMHAGVMPYGDKLRRFRKAIHAGLQPRALASYHPIEEREARIYLKEVSKNPTDFRNSVKRFTGAVIMSTTYGHTVTTFKDDKFVRRIFASAARFAGSLAPGEFMVDVFPWLWYIPSWVPGAGWKKKAAKWAQEDHELFSTMREAARANGDKQKSFISEGLSNAYGVNEEELAYIGGTISQTPDTLMSVSSCFMLAMVRWPEIQKRAQAEIDSVVGRGRFPTYADQPNLPYVTAVVKETCRWRPVAPLSVPHASTQDDVYEGYFIPAGTTVISSIWSIHRDPETYPDPDSFNPERFIDEHGNEKNTKESKAFGHHLYGFGRRLCPGATMADQAVWVFASHILWALNLDREKDEFGKEIVPDVSPLMFTSGGEASHPLPFKCKISVRPGVDDFLDEIELPTAI"
+                },
+                {
+                    "id": "STEHIDRAFT_145717",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 951036,
+                                "start": 950663
+                            },
+                            {
+                                "end": 950608,
+                                "start": 950465
+                            },
+                            {
+                                "end": 950411,
+                                "start": 950333
+                            },
+                            {
+                                "end": 950270,
+                                "start": 950088
+                            },
+                            {
+                                "end": 950027,
+                                "start": 949924
+                            },
+                            {
+                                "end": 949867,
+                                "start": 949849
+                            },
+                            {
+                                "end": 949783,
+                                "start": 949591
+                            },
+                            {
+                                "end": 949513,
+                                "start": 949494
+                            },
+                            {
+                                "end": 949431,
+                                "start": 949235
+                            },
+                            {
+                                "end": 949174,
+                                "start": 949022
+                            },
+                            {
+                                "end": 948946,
+                                "start": 948859
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSLSRTDVMALLGLFLVLYLSTGYTRKAKGKLPPSPPGGLPLLGNVLQMPKRNGWLLMHEWSKTLGPIFHLNMAGQPVIVLNSNEAALELLERRSQIYSDRPRLIMTGEIMSRNLVVGFQRFSDRWKRFRKAAHAGINIRAAEAYYGIMERESALLVTELHKSPKHWDDHLQRVIASSLFTALYGGEPMLNKNDPIVEQINDCMHRLTGAALPGAFLVDVFPVLKRLPGWLYRPKGEGLNWYKKDNAMFNNWLDRVKKDMDGNTPPPSFGRVLLEAQEQFQLLDREVPWLAGSMFGAGSDATAGIMRWFMLAATLYPERIQRAQDEVDLVVGRSRLPTFDDRESMPYLRAFCREVMRWRTVAPLGVPHRLIEDDHYMGYYLPAGSIVLSNIYSINRSPEAFDDADSFKPERFLNEEGTFEVLHPETHNQGHYTFGFGRRACAGMHIANNLMFINAAHILWSFNIRKAKDAQGNEITPSATNYHDTGLIVRPHLWEVDIIPRGPEVLQVAKERFAKGI"
+                },
+                {
+                    "id": "STEHIDRAFT_75716",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 951927,
+                                "start": 951685
+                            },
+                            {
+                                "end": 952135,
+                                "start": 951983
+                            },
+                            {
+                                "end": 952422,
+                                "start": 952201
+                            },
+                            {
+                                "end": 952510,
+                                "start": 952480
+                            },
+                            {
+                                "end": 952659,
+                                "start": 952572
+                            },
+                            {
+                                "end": 952766,
+                                "start": 952721
+                            },
+                            {
+                                "end": 952974,
+                                "start": 952828
+                            },
+                            {
+                                "end": 953154,
+                                "start": 953035
+                            },
+                            {
+                                "end": 953379,
+                                "start": 953208
+                            },
+                            {
+                                "end": 953833,
+                                "start": 953454
+                            },
+                            {
+                                "end": 954054,
+                                "start": 953899
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MATLLAFSAALASVYGVSAASSPYASVTASQWAALNSSVNGRLATSVPIAQPCFDAYSGIVNSNTLAPDSEACSEVQSLWTNTTYRVTQFGTYEQIWSERLNGSACDLDALDPTDPAAMNLTCTLGSIPPYYIDVTSPEDIQAALTFSNQTGVPIVIKNTGHDYLGRSSAPGSLALWTKNLLNQTFSEEFVPEGCNASVGRALTNGAGVTWIEAYKVADANNATVVGGAFPTVGASGGWLFGGGHGFLTGVNGVGADSSLQFKVVTPDGVYRIANACQNEDLFWALRGGGSGFGVVLESTIAAHPAYDIKIAVIEIQNITLDAQFEVFRVFAGLREQLAQEGWGGAFLPQYTDGTMAVTMINPTLTDEQAAATFAPVIDYVNSINGTDGILVTANGFVPGGSYLYLQENYISTVPVGLGAFIGSRLLPLSSFTSNSSLDELITAMKSGLEKVGPGEWPPMEILMDTPLLTPDSNNETSVNPVWRSSAFVMVYGVSYEYNATAADELALMQTVHDALDYVRAVTPGSGEYNNEADILQEDWQEAYWGVQYPALLAIKQKYDPYNLLTGWQYVGFDKGNSMFDRYNI"
+                },
+                {
+                    "id": "STEHIDRAFT_109229",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 956711,
+                                "start": 956475
+                            },
+                            {
+                                "end": 956416,
+                                "start": 956330
+                            },
+                            {
+                                "end": 956271,
+                                "start": 956048
+                            },
+                            {
+                                "end": 955983,
+                                "start": 955772
+                            },
+                            {
+                                "end": 955708,
+                                "start": 955408
+                            },
+                            {
+                                "end": 955379,
+                                "start": 955122
+                            },
+                            {
+                                "end": 955060,
+                                "start": 954706
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSDSVEKGRSFQTPSPAGPEHNGQSSAPSSEAAAPAEPVVHIIDPNASSFRKATVLVVVCLALFIDSFNTGGMIICLNNIEEDLGQSPAIVQWILTAFNLTFGSFLLLSGRISDIYHPKPIFISGFFIVGVFGIGAGFVNNIIGLIIIRALQGIGASMTIPSAISMLTSAYTDPESRGIALTFFASAGTLGLCLGFVIGGIIVQFASWRWVFWGIACVAVPISLLSIWLIPVQSLRMNSKNKKMDYPGVATLTASIILLIFAFSQAPTFGWGTARVLAPLLVALLLLGVFFFWQTRLSDERALIPPKMWFIPNFLILILVSFSNQIYFIGPVVLYSNYYPTNYGWSPLTIGLHLPTSTFLTEILSFSLPTGIISGIICIIFPRQILRLPPKMVLVAGQLMAGVFGILYAFAYTRERYWSYTFPAMVLATAGSSVTYLVSNVGVITSVPVDKVGVGAAVFNAAQQVGSAVNVAIVTTILVETTKTDPQTPKESYHGVSSAIWWIVAIGCAEAIASAIFFRPRKNSLEGDGGEGMETQKLQARDDEVKEAVATGSAGGI"
+                },
+                {
+                    "id": "STEHIDRAFT_119694",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 957240,
+                                "start": 957197
+                            },
+                            {
+                                "end": 957633,
+                                "start": 957293
+                            },
+                            {
+                                "end": 957773,
+                                "start": 957698
+                            },
+                            {
+                                "end": 958143,
+                                "start": 957838
+                            },
+                            {
+                                "end": 958327,
+                                "start": 958225
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSVPVEDLPVTRENDVYPGIDPKPHFEGQTYAGKVVLVTGASRGIGSEIALYYARAGASLALLSRTQAVLDKTKAHILEAAPKAQITTFVADVVDTQAIKAAVDGTVKTFGKIDIVVANAGKADPWKKPFTEYDPDNWWKTVEVNVRGVYNVAHFSLPHLGATSGYFLVIGSIGAQMRMPFASSYVLSKHAVNRLVEYIKTENPNVKTFSLNPGAIKTDMADNNPEAAPWLIDTLQLPAATALRVTSGKEDWLNGKYLSANWNLDEVEQKWKEKIIAEDALVNRLHVPV"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NW_006763134.1",
+            "accession": "JH687382.1",
             "completeness": "Unknown",
             "end_coord": 958327,
             "start_coord": 911832
