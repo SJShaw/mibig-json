@@ -21,10 +21,13 @@
         },
         {
             "comments": [
-                "Added missing compound details"
+                "Added missing compound details",
+                "Gene details extracted from RefSeq accession NW_002477244.1 dated 03-APR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
-                "YQF4634PJETKNUL6ADZ4RRW4"
+                "YQF4634PJETKNUL6ADZ4RRW4",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -89,8 +92,232 @@
                 "molecular_formula": "C28H34N4O8"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "AFLA_064240",
+                    "product": "nonribosomal peptide synthase, putative"
+                },
+                {
+                    "id": "AFLA_064250",
+                    "product": "phenol 2-monooxygenase, putative"
+                },
+                {
+                    "id": "AFLA_064260",
+                    "product": "oligopeptide transporter, putative"
+                },
+                {
+                    "id": "AFLA_064270",
+                    "product": "gibberellin 2-oxidase, putative"
+                },
+                {
+                    "id": "AFLA_064280",
+                    "product": "N-methyltransferase, putative"
+                },
+                {
+                    "id": "AFLA_064290",
+                    "product": "O-methyltransferase, putative"
+                },
+                {
+                    "id": "AFLA_064300",
+                    "product": "fructosyl amino acid oxidase, putative"
+                },
+                {
+                    "id": "AFLA_064310",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AFLA_064320",
+                    "product": "oligopeptide transporter, putative"
+                },
+                {
+                    "id": "AFLA_064330",
+                    "product": "conserved hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "AFLA_064240",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 35391,
+                                "start": 34957
+                            },
+                            {
+                                "end": 34884,
+                                "start": 29095
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MLSPAVCYHTDEGKNGYTFPNLETPKNGVVQTPVQYLIQTAPLHDFCSHQMVDLRTLLQCAWSRVIAQLDSTTDLKADAIYGTKSKSLLEGFISEVKKSQQSTQLENERILTEKLLLPLNPRGTSSLSWLQNDLLCATGGEYGEQSTGGFELAQCGSWIAISASFNPLIVSSRWVNDYIEVFRSFLVALVVGDDELSAPENYLTPEDCARIRNWNSAVPPEINASILDVFSEQVKAHPGSTAVSGWDASLTYQELEDCADQLAYQLQSRGVGPGMLIPLCFEKSAWTVVAIIAVISTGAAFVLLDASQPEARLRSIVMQTRATLMITSSQKKDLGRRLVPEVVSVQPTKSTKNSERSRALRPVIKPDSLLYVVFTSGSTGQPKGAMISHSNFVSAVHYRRSELYNVTPRVLDFASYSFDISIESTLAPLLLGGCVCVPSDASREADPSDAIKAFNVNQVMLTPSVARLVEPENVPSLRLLHLGGEQISRFDIERWPSTVKLINGYGPAECTVVSTANTVSPSSPEAHTIGRGLGAVTWVVDPADTGRLVPVGAVGELVIEGPLVGSGYLHDEGRTLAAFIVDPPWLRAFGRRGRLYRTGDLVSYNSNGTLTFIGRKDTQVKVNGQRVELGEIEHNLQQEIYNQGNCVVDVVVDLISVNSNSGKQSILLAFLGLERAAQERFAASGTPSVQELTSAMWEILEPINLFKVLPRYMVPSIYIPLWRMPLLPSGKINRLKLRSMGESLSVDDLAAFRKPQVATVDTQGRITPQEKLLQSLWGQIFPHCAGSIQPDDNFFSLGGDSLTAMKLVGLIRKHGIENKHSETIRIADILQWPRLADMARCITRVDDKQGDVQDALFDLLPDHIAPSNARQIAAPQCDVQPEQIVDIYPCTPLQEGLMALSAERSGAYIAQNIFELSDRTNIDTLRMAWTHIVMSSVIFRTRIVQLDSQTLAQAVVTVPIEWECYDGKLNDFVAIDRHRPMGIGKALMRLTVVTERSEESLLKCFLVWTAHHAVFDDWILNLITSLVGKMYHGRPPSSFHLTPYKRFIRHLQELNRESFSNYWRQELEGTNAAIFPHLPSAVDKPVADATANFAFSLNDSKLNVHASLPTILRAAWSILVSRHTQTDDVIFGETLTGRNAPVAGVEEMDGPTLTTIPRRVKVQNEMRVAEFLEEIRRHEINSIPYEGFGLQNIQKLSDDARTACQFATLLVIQRDPEVSFDSPMINVTEKVLHEDCGEDGKPYASFFTTYPLMVTISIKDNQINIYASFDSRIIERSQMQVLMHQLEVITRQVIQEPHEVVGGINCLTRKELHQIWSWNRLPWVPVSGSVHDSIAEVSNTRPTAPAVCAWDGSLTYGELDNLSTRLGSYLFKVGVEAESLVPLCFEKSVWTIVSMLAVIKAGGAFVLLDPTQPKQRLGEIIVRAKANYVLTSPLQYGMVSDLASEFNLTIVLVSKSPLDALTDDATVTDRMPQHLDSDRPLFVTFTSGSTGKPKGVISTHGSYLSGVNYRRSILQLPNLDMRVFDFASYSFDVSTDVILSTLLTGGCVCVPSDFDRKNNIPGAINALRVNAADLTPSVSRLLSPESVPGLKVLKLGGEANTAADHALWLGKTTLVNIYGPSECLVVTAKTVLPGIDPCNIGRGLGANTWVADPTNHDRLAPIGSIGELLVEGPILGRGYLDDQKQTDAVFIHNPTWLVKGLPGFQPGREGRVYKTGDLVRYNPDGTLHYIGRKDRQLKVRGQRVEPAEIEGAIKRHMQSKLGMTIDVVADLVTSNRDQRKRLIAFLGLNQVLESRGYSEKDHLGDTVLRDIMWEVTAGLEVLLSQTLPPYMVPSVYVPLRHIPLLPSGKTDRRKLQSAAASLSPEDLSFFRERPKAQNRAIATPKEEKLQKIWADALGVKSIQAEDNFFTIGGDSIAAMRLVGLARDQGLLLSVADIFQRPRLYEMAEKAAETGTELLDIPAFSLLPGANPYVIDEREVAAAQCGCSIELIEDIYPCTPLQEGLMALSTKTPGAYISQNVFQMGNATNTDLMKEAWDYVVRSNPIMRTRVILSARQDLVQVTVQEGIHWRVMTL"
+                },
+                {
+                    "id": "AFLA_064250",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 36499,
+                                "start": 36311
+                            },
+                            {
+                                "end": 36675,
+                                "start": 36561
+                            },
+                            {
+                                "end": 37102,
+                                "start": 36735
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MIENLRKRSTIEVEWRKQPVHMDIDLDQVDNPEAYPITVSVETSKDGSDPGLLWQPMHAERDSIVKETIHAKYVLGCDGARSWIRQRLGVSFIGDLTDSTWGVMDIVPKTSFPDIRKVAVIHSSKGTVMSVPREDKLVRFYIQIDAVNPNAASGLARRDLKVEDLLDAARAIMFPYTMEAAECAWWSAYRVGQRVANEFARHDRIFLAGDSVREYCLEVIRCQ"
+                },
+                {
+                    "id": "AFLA_064260",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 40510,
+                                "start": 40315
+                            },
+                            {
+                                "end": 40260,
+                                "start": 40082
+                            },
+                            {
+                                "end": 39541,
+                                "start": 39532
+                            },
+                            {
+                                "end": 39478,
+                                "start": 39292
+                            },
+                            {
+                                "end": 39230,
+                                "start": 38582
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTAPADSTEKSETSETTTLQTTEVSTVDVDPDLPRVLAKVPGTVWVVAFIAAAERFTYWGITTPWQLHAKPPQASEFARCIRPRRSESIHDIQCLHVFLLFNTNSFRDNLGRLSRSLSDIAPEFDKRFRKLPPTGNILPKAGSVLSCAIRGRFQLDAAMPSYQREHFAKEVSWDETFVNEIRRGLVACRVILGFILFFTCLSQASNNLISQAGQMKTYGIPNDTITAMNPIFCVIMGPVIQKGLYPLLNKNNVKFQSITRMATGFIMMSASMAFAAGVQKIIYDTGPCYDRPLTCPGAENGRIPNQVNVFLQTPTYIILAVAEIFSFVTLSEYTYTKAPTDMKAVVQALGQLGAAAGSAIGIAITPLAHDPSLIWMYTGLAVAMFLVAVVFWILFKKYNAIDREDK"
+                },
+                {
+                    "id": "AFLA_064270",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 41336,
+                                "start": 41154
+                            },
+                            {
+                                "end": 42314,
+                                "start": 41403
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTMLSDLPKIPTLDWADFAEGDTDQRLKLAQGLVQGFKRFGFVKLVNHGLSDELIQQLFAEVKRFYRLPDELKQKAAHPPGPNPQRGWSGIGVESTSKLYGEQTERPSGKLKDAKVGTDFSSSKLSRELTHMKEHYDIGPPTDTQFPTRWPDEQDIPGWRAFMESYYARGQSFCLDLMEALEIGLELPKNTLRSMCIPDGSELRLLHYPEIPAAELRTGDTARIWPHTDFGLITLLFQDGVGGLEVEDPLQQGHYIEVAREQPYEMIVNVSATFERWMNGVIKAAVHRVNITPEGKHVEDAVVPERWSAAYFFKAHKMAHAGPLPAFVTPERPALYDNITALEFQKRRTDLVYTGQQLKVEEAA"
+                },
+                {
+                    "id": "AFLA_064280",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 43212,
+                                "start": 42851
+                            },
+                            {
+                                "end": 44016,
+                                "start": 43269
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MMTEAQGPVVSIGSATVTYDHPPIISPVSYPKARPTQILDIRKRTSRIDLYHEILAGLRAKDKELPSLLLWNDRGLDLFSEILNSDEYYPRRRETQLLQTHVNEFTRSISSGERLIELGAGNLQKTVSVLRCLEQSRKHVEYCALDVSHAALQASITELKAQLPFASYVTIRGLLGTYNDCASWLKQSGATVRTTFLWLGNSIANFEPEDATSILADFLQTKASPSHSPQMIIAVDGCQDVEQILEAYDMPNKLSQKFVFNGLSHANQILGSEVFRPQHWTFEGKWNPVKSMHESFYVAKKPMSLDIGNERFHVHAGEKIRAITSGKWPKDKVTSICQSAGIKVLKGWTDEEGSYGKRVTQVYSRGSSC"
+                },
+                {
+                    "id": "AFLA_064290",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 45186,
+                                "start": 44443
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTATTTTTSQIFVSEDYNQDPNWYAVDNYTLSHLQPPTRPNHASLHQTLENSAKRGLEDISAFPTQAKFMALQCQLGGVKHALEVGTLGGYTAIYIASLNPDIRIVSIEIDPKSAEVAKENIAAAGYQDRIEVLVGAAIDLLPILQAKVENGEQERFGFTFIDANKDNGWDYFDYAVKMSRPRASIIVDNVVRAGKLVQEDYIKNDINVRGSRRTVENVGKDDRVDAVVLQTLSEKSYDGFLMAVVK"
+                },
+                {
+                    "id": "AFLA_064300",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 46964,
+                                "start": 46916
+                            },
+                            {
+                                "end": 46840,
+                                "start": 45453
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MPAPKSIIIVGSGVFGLSTAHAMSQNNEFASSKITLIDSWNFEPSGPSASAPNPSAANFDTSRIIRSDYSHRTYATLAREAQQKWKADWGADGRYRNQSIVMIGEGHSMKQPMKALESINYVKHAYAQSYERAGRNSDIVHILDSESAVWEALGLGTPDEASKAGPNASELRGYRNHNCGWAESGATMAWLRQKTIHSDRIDIHIGQVVGLRVCSDSPSESHVNAEPRVCGVILDDGSQLTADLTVLAAGAMTPRLLGSPTLCDVYSETVAYVQLTEMERRELVRREFPLIVNVARKIFAIGPDNQGFLKLARFSWSGYRDVQKFAGVDVGPRSQAAPQEEDGYGACGDLDQTKLSPDVESTLQDYRGFLRELFRSGDGGDLGGLRNIATRPFAQVRRCWYADTVSTDFIVDYHPAYGKSLFIATGGSDHAFKFLPVLGERICELILQSDNGKAGPSESIQELQRLWKFPGGDSHAKL"
+                },
+                {
+                    "id": "AFLA_064310",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 47725,
+                                "start": 47408
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSSGEPTTMTPSPSERTPLLSNGSGGAADDGGTTVTISKPNDGVRRIADSLPLSVWLISTIELCERFAYFGTIAPMQNYIQNPRNDPLRPGGIGKTASTMIYPAV"
+                },
+                {
+                    "id": "AFLA_064320",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 48101,
+                                "start": 47758
+                            },
+                            {
+                                "end": 48727,
+                                "start": 48158
+                            },
+                            {
+                                "end": 50991,
+                                "start": 50373
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MVNQAFMLWCYITPVLGAVVAEQYIGRVKTIIFSSSVYLCGLVTLFLSSLPTAYAMGISLPGLLVSLFLIGIGTGGIKTNVSSLIAEQYTGPKESRRILKSGEEVIVDRDLTIQRIFTTFFLYINIGSFSPLLITIIEKEYGFSAAFSLSAITFSIGFIIVLVSRHLYISRDPDSSIIFNACKAFWIAIKHKGNLDYARPSYQTEQAATRRLSWDDSFIDDLRRAIASCKIFILYPIYWAAYSQFLTNFISQAATMETHGVPNDIMTNIDPITVLILLPVLDRIVFPFLRRQGVPVRHVDRITIGMPDFQPFVQESYQICQRTCFQIISAIELGLGLQAGRLTQCCQPAASEIRLLYYPPTTKNLFDEGLKKRAWPHTDLGIITLLFQDMVGGLEVEDRAAGKPRSFIPVKRVSPNEMIVNTSDSLQRWTNNVIRAGLHQVTAPDAAKLSNGVDMLPARCSSVFFFKAGRDTSVGPLPEFVTEDRPAAFEDMTALQYQQLKTRILHGVEG"
+                },
+                {
+                    "id": "AFLA_064330",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 53073,
+                                "start": 51418
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MEPDTTRRSACDRCRGQKLRCVRLPGPAREDSPRSARSVNQPCERCKRAKVVCYTTKPVSRRLPQSYTRRRSTAYADDVMHSEVDLDEGMIGSNRLRDEPTIKRTPPAIADRLAHDPFPTELWSGLDISHASLDSSAVLSHVPDPGNMVESVAAQRANSNTLPSHQHGWPEDPHGALNYFEERAHDLPDVMSVSSPTDVRLGLDTVDRRPAAATSRTNQAIHSDTVNMHSQAPGSGETSERGLYSRASNTVADAAQLCTTQLSELNMRLMKDIESTTSFRQGMSAASDPNYPASGLGETSPSSSMVKFTNTMLANCQSFLDILQRLRSPTVELRGSSNSECSYGDLEYSSNEYSSSRSQSRNHSTSASSRSKDGRISAGGGLQSVLNSDTIGLSPSLDPIKADSSALDFSAFLSILSCYTHILRAYDALFTEILEMLMESSCIQLDLKIHNLVPEVSLGGFRLSGHGDLQIKCLLHMSFIILEKIESMLGVNAPEKDPYGSNGGLLNNSQLRGLLEALYHQKEFDYIRADGTRAARVKKTMKSIQRILDSI"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NW_002477244.1",
+            "accession": "EQ963479.1",
             "completeness": "Unknown",
             "end_coord": 53073,
             "start_coord": 25905
