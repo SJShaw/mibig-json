@@ -25,7 +25,7 @@ with open("empty_refseq_dates") as handle:
         if os.sep in bgc:
             bgc = os.path.basename(bgc)
         if bgc.endswith(".json"):
-            bgc.rsplit(".", 1)[0]
+            bgc = bgc.rsplit(".", 1)[0]
         EMPTIES[bgc] = (acc, pair)
 
 
