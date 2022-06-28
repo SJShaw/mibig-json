@@ -6,7 +6,9 @@
                 "Corrected NRP module activity",
                 "Removed ketoreductase stereochemistry annotation from modules without ketoreductases",
                 "Changed reference accession to RefSeq for gene annotations",
-                "Fixed gene identifiers of 'no_accession'"
+                "Fixed gene identifiers of 'no_accession'",
+                "Gene details extracted from RefSeq accession NZ_ALYY01000026.1 dated 25-FEB-2020",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "BBFIVXCXOEHHFWOS2XMPTW4C",
@@ -83,7 +85,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_002277502.1",
+                    "id": "B900_RS0101610",
                     "name": "mucI",
                     "product": "multi efflux pump, transporter"
                 },
@@ -96,7 +98,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_002277501.1",
+                    "id": "B900_RS0101615",
                     "name": "mucH",
                     "product": "TetR, AcrR family transcriptional regulator"
                 },
@@ -109,7 +111,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_002283497.1",
+                    "id": "B900_RS0101620",
                     "name": "mucG",
                     "product": "TetR  family transcriptional regulator"
                 },
@@ -122,7 +124,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_002277499.1",
+                    "id": "B900_RS0101625",
                     "name": "mucF",
                     "product": "aminoacylase"
                 },
@@ -135,7 +137,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_002283498.1",
+                    "id": "B900_RS0101630",
                     "name": "mucE",
                     "product": "PKS"
                 },
@@ -148,7 +150,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_002308266.1",
+                    "id": "B900_RS0101635",
                     "name": "mucD",
                     "product": "NRPS, A-domain Leucine"
                 },
@@ -161,7 +163,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_002277496.1",
+                    "id": "B900_RS0101640",
                     "name": "mucC",
                     "product": "Putative C-acetyltransferase",
                     "tailoring": [
@@ -177,7 +179,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_002277495.1",
+                    "id": "B900_RS0101645",
                     "name": "mucB",
                     "product": "Thiolase"
                 },
@@ -190,14 +192,133 @@
                             ]
                         }
                     ],
-                    "id": "WP_002277494.1",
+                    "id": "B900_RS0101650",
                     "name": "mucA",
                     "product": "Hydroxymethyl-glutaryl-CoA synthase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "B900_RS0101610",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 31487,
+                                "start": 29691
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSNTRKTVGFIGLILAMFMGALDATIVNIAIPDIMDDLHTGLTDTSWVATIYVLAMSVFIITVSKLADIYGRKLVMLIGVVLFGGFSFACMTANSLLPLIIYRFFQGLGGAILTPIVLPMGIELFGKEKTSRITAVMGAFGALAAAGGPVIGGVIINWTSYRWIFGINIPIAILAFLLILIGTKESYDKTISKSIDWLGMIFLTITLGGLVFGLLEGREYGWSSQMIVSSFVSSLIGLILLIFTERKVKSPIIELTLFKEKTFTASSIVYMIFGFAIIVPSFVVNYFLQNVRNYSALHSAYLIVPASLAIAVSMPLATKMYQKISAKLLIGIGIVVTAGGLFMLGLVEYDTPKSIIICCNIIIGLGLGFMAMSLTSSVKYLPVTKTGIGSGIVNASRYIGQALGIALLVTILNGNINTAKTNIKDTAYHQIDRHVLSSKVKKVAREEIKVTFKTSKDSTKVSGKQRHMIKRIKKAARDTSQLPQPKKGSDYRKLYNANKLLVNGSEKLIATIPIPQTKLGLTTLSAGQKKMSSAIQLLAQKKELTDSLHAITQSKNDELSKAFDQVFNIGGIIVLVCIPLAFLTERKRSDASIEKQAI"
+                },
+                {
+                    "id": "B900_RS0101615",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 32208,
+                                "start": 31666
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSKTRQTHSIDHLKEALIDLLLEKEYHKITVGNITKKARVSRGTFYQHFLDKDDLAYTIGEETLQRFWNILAQRNLDKREKVIEALEHIQLDFKHFKAISQASHVHFSKKVQDLIKNIINNNPALKKRIKEHTRVDNDIIIQVFCASFETIISTWIKNSLKESPSEVADTIMKIEDIFWK"
+                },
+                {
+                    "id": "B900_RS0101620",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 32892,
+                                "start": 32350
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTSRVYASKKVIADTFFKKLEKDNFNAITISEIVGEANLSRSTFYRYFKNKYSIVQFFIEDLLDVYLLAVDEREIEDFTSLLVIYFEFWKKNKYYLELFKRHNLLDFALDIERKKFLKVLPYSDLPWHHNSSENELFADLIVIGGVWNISLYWLENDFQLEPADLAEEIVKSLSSYKIFI"
+                },
+                {
+                    "id": "B900_RS0101625",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 33525,
+                                "start": 33022
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MNLLSNYFMLPILFILHDFEEMIFVPLWKNSKKVQSLNKTAKFFGRVNNGPAFSIGVLEEFVILLIISAICQATHNTELYLGFCIAYAYHFLIHFRMCIQYKGYVPGIYTVILQIPIMVIIILHYWKVDIFFIFYLIPIMLLSYINLYIMHKIMPSLQHWLLNLFKG"
+                },
+                {
+                    "id": "B900_RS0101630",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 36455,
+                                "start": 33714
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MKKYAIIGMAGRFPDANTPTQFFDNLLNGKSSFRKLSNKEVEESPYSQDEHFIPVTSTIDNVYDFDIDLFKMTAAEARLTDPQQRIFLKCCYEALEDASQVNSKDRIGVFASSAQSSYLISNIFRSKGLNIRFDYSTYIGNETDFNATRVSYKLNLTGPSMSVQSGCSSALVALNEACRNMDSDTCDLALVGGISITFPLASGYSYKEGTTFSRSGQLRAFDKDADGMIKGDGCGVVVIKPYDRALLDNDNIYAVISGIGISNDGNSKVGYTAPSIRGERAAIKDAIASSKVDPECIDYIEAHGTGTKIGDPIEVRALSQAYHFQKPHKIGSVKSNIGHLDTASGIVGLIKGALILKNSIVPKSIGFTSENPQANLESSHLFVDPQNNTELPKDKKNYVGVSSFGIGGTNVHVILESDLSVENDKKEEFKEYVIQISAKSKNSLDNYRNKLASFLEEHSELNLIDVVRTLNEGRKHFENKYNFEAASIPELIEKLFNGETTDKSPSTVQEGRFISLPTYAFNEQNYSLIPNGSLLKKTNSTSATKPKNRGLTESDIISDICSIWEDELGEEILETSDFFELNGDSLIAVGLIDRINKKFDVKLGTDTLLDYPTPRELAAHILNDFQYSDQSNIDLSNVYCLNKGQKGSKNLFLIHPAGGSIFCFKELFKHIDLDFFNIYAISFPQTIDSRLNITELSKIYIQQIRSIQPTGKYLLGGYSFGGNVAIEMARILEKDGFEVKRIYMIDSLVPEAYPKKQPSGDSYLKIFPLALSFMSAKTTDSNVDLSYIEDYSSIEAIINSMKENNALPKSFDTNYLKDIFGIWEANHIALLNQSKEVVNSDITVFSAKENMPEEMYINMNMKKTDAKDWQNYTSGHVNVIKVSGNHFTSMSNSDNLTRLADIFESNLEEIISF"
+                },
+                {
+                    "id": "B900_RS0101635",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 39533,
+                                "start": 36459
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MNKELSSLQQSIILNQQLQPDNASYNLPYLWKLTGQVKVNKLYASLMNTFNNHAVYHSFLKDGELVYDSNTKFRPKIIEMTYPTDEEFEIAVMEQAKIYANTPFNNSVWPLQQAIIFINTRDFSEEYFLFINVSHLICDIYSAYEIINEISDRYNNKVTTLLEEKKPLSVNKISEKREQRAKDYFSSRLPLISSLEQPSLTIEHTSNRRNIDITVSRNVVTKLMNLSKKTEFEVLLTAYTILLSSITSQQIVTIGIPLANRHPEERHSHGCFVNNLPLIINVGESEQLHDLLQDVSFNLHNLLRFQSFDLQSHLKELVDSRENYKFMNNSVTLYKYEVNFDFDHIACENIIVEQTSPMFPLAMEFENSNDKVIVHIQTSGQYSPYFIGRYFKDILLSMDSLTKSIQDDFAMGKELKNELIALENDKIEAILPEDINRSVLELFHDECTLHPDSLAVRYKETELTYKELDVLSTKIANKLRTIDLEKIVVSMESDSRLIAIILGVFKSGKIYVPLDKNMPEQRKTVILEQLDNFLVLTDYNSPIFNRQANLNIDDLLEDIEHYTNITEASIKNNEVAYIIFTSGSTGVPKGVEVKHSSLFTLMSDCKKKLKNPFGKNWILFHSYGFDYSIFEIMAPVTSGGTLNIVPTNIRKFPDRFRNFLIENDINILTQTPSAFLSLQKVDTSLDNFIESLEYIFIGGEDVKFADLSLWFDKYGYKHPKVFNLYGLTETTIISTAHQISQYDVDNKKRNNIGKSIDNTLVYVKNKNNKMVLPGFEGELIISGPAVSKGYYKNEVKTKEVFDKKTNSFKTGDLVKVLLNGELQYISRIDKQVQVSGHRIELGEIESAINSCQSCEESYVMAQDFAAGDRRLVGYYRLSSYGKIEADLIRKEIKTKLPDYMIPSFFIEVEEFPLNTSGKIDSSKLPPVNVKKTPEQQKSVPLVVDEETTVLASVKNIWSDVLGTKINGDDNFFEVGGTSVLITEIYYRMLKEFELSENDMTMIDLFDYVTPSEVSKFIENILKEK"
+                },
+                {
+                    "id": "B900_RS0101640",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 39986,
+                                "start": 39540
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MFSNEQISNPTIESSLKDWREQGGLTRLEGSKCPHCDELFYPRRFVCPYCFCRSLKTYKFSGMGKIKNIEINSISQVAVIGYREISPRYLSVIELAEGVDVLGEIIECSEIESIHSLIGREVMSVVRKQSRSGNTSWKYGYKFKLKEG"
+                },
+                {
+                    "id": "B900_RS0101645",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 41198,
+                                "start": 39987
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MGIKIQVSGVGCTNAPGLPHINKSFKELLVEAAYKALDDAFLSPHLIDGASFSYAGEGEIGHGGIVPTLVDALGLAPLEGYINIGNCASSHMALLQGCEMIESGRYRHVLVAGFDKMTDILPFENYMLMSTDSLYDYNLGFSHIDAFLLQQEYISKYGIQPIKLKEALLKFSTLMKKYGAVNKVSSNFGKELPTPKELENQPFFGNAMSAGEGASAVILSAMETNNKNSSQEKVIIAGRGYTNTSHYIPHRYKEKLLHHKNKDSNDEVGMFNGIPLELSINQAYSEAKISSKDLNILELYDQGLNSFISMEAAGICPKGEAIEYICNGGGTIDSSVAINTDGGNIARGHAGGGASLYQIIEIVKQLQGRASGMQIKKRQYGLSTVIGGAYATAAAIVLKNEEY"
+                },
+                {
+                    "id": "B900_RS0101650",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 42292,
+                                "start": 41213
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MGNKQIGIKSYGVSIPYFRLPVEETIKVWNNNNVDYIKNKIGVKRRTVVSSDEDTLTLAMEAGQEAVLHFKEDVAKIDSVLLGSCTTPDIFKSNANQLMSFLLNKNDYFGCDIRASENSGAASLVLGYSLVSSGLSNTSLIFSADTLSKNIFPSELREPYIGSGAASIILGKGEDILAEIIGIGNSNASFPEQGRTEDNRYLRVLANLNYSVVKEGRIKRSLESINNALENASLKAEDIKYFVFQDGTEQTYKEFSHFFHFDNVINQDIFKNLGYIGSASPIISMLAALESAEVGDIILMCGYGHSSGSTTVIFRVTEEITFKNKIIDKLKNYKDINYSEAMKHEFKYSQPEISLGTFI"
                 }
             ]
         },
         "loci": {
-            "accession": "NZ_ALYY01000026.1",
+            "accession": "ALYY01000026.1",
             "completeness": "complete",
             "end_coord": 42300,
             "evidence": [
@@ -211,7 +332,7 @@
         "nrp": {
             "nrps_genes": [
                 {
-                    "gene_id": "WP_002308266.1",
+                    "gene_id": "B900_RS0101635",
                     "modules": [
                         {
                             "active": true,
@@ -227,7 +348,7 @@
             "synthases": [
                 {
                     "genes": [
-                        "WP_002283498.1"
+                        "B900_RS0101630"
                     ],
                     "modules": [
                         {
@@ -240,7 +361,7 @@
                                 "Thioesterase"
                             ],
                             "genes": [
-                                "WP_002283498.1"
+                                "B900_RS0101630"
                             ],
                             "module_number": "2"
                         }
