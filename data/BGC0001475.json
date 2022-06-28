@@ -22,7 +22,9 @@
         },
         {
             "comments": [
-                "Corrected product class"
+                "Corrected product class",
+                "Gene details extracted from RefSeq accession NT_165929.1 dated 05-JAN-2011",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -45,8 +47,110 @@
                 "molecular_formula": "C15H22O4"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "ATEG_04415",
+                    "product": "dihydroxy-acid dehydratase"
+                },
+                {
+                    "id": "ATEG_04416",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "ATEG_04417",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "ATEG_04418",
+                    "product": "hypothetical protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "ATEG_04415",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 472469,
+                                "start": 472405
+                            },
+                            {
+                                "end": 474278,
+                                "start": 472547
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MFASRIRSRALGLHPRARFENTRLPASTTGRRYKSDETLNRVSSKITQPKSQGASQAMLYATGLTEEDMSKPQVGISSVWFEGNPCNMHLHDLSAIVRDSVHRAGLVPMRFNSVGVSDGISMGTKGMRYSLQSRELIADGIETVMNAQWYDANVSLPGCDKNMPGVLMAMGRTNRPSIMVYGGSIKPGCSAKGQKLDLVSAFQSYGQFITGQIDEKERFDIIRNACPGRGACGGMYTANTLATAIETMGMTVPGSSSCPADDPKKLVECENIGEVVKTMLREDIKPRDVLTRQAFENAMIVVNILGGSTNAVLHLIAIADSVGIKLTIDDFQAVSDKTPFLADLKPSGKYLMNDLYNIGGTPALLKYLLKEGLIDGSGITVTGKTMKENVASWPDFPADQDIIRPLSNPIKPSGHLQILRGSLAPGGSVGKITGKEGLRFEGTAKCYDYEDAFIESLERGEIKKGEKTVVIIRYEGPKGGPGMPEMLKPSAAIMGAGLGQDVALLTDGRFSGGSHGFLIGHIVPEAMEGGPIALARDGDRIVIDAEERVVDLDIPTEELEKRRKEWKAPPLRYQKGTLKKYCTLVSDASHGCVTDGPI"
+                },
+                {
+                    "id": "ATEG_04416",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 476785,
+                                "start": 475556
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MDMNTFPASTYCESIVRFLDAIEYHDDNLTHEERVEGLRHVHSKTAQYFTEPLPRSILKGVAPRRIAAVTRTISHFIVYCWSKLPREAQVDVSIYLSIINVLDDEISSEPSTQMTSFWSDLIQGKQPKHPFWVLFNSHLPRLLRHYGSFCAFNIMRCTFDYFEGCWIEQHNFQGYPGADCYPSFLRRLNCLGGAVAGTIFPAAKFDEQKLFAQMSCVMAQIDGPVALMNDLFSFYKEYDQDEANLVSNWCTVDGITMDQALTRLTDDTIHACVRILDILKDKDPDMLATIRGFIHGYATWHICDFRYRLREIYDREDLQESGARFREYFDKAIDVGWVDVEEWTCQVQGFEVEGPAPSGSEVQAYQANAFGFSVDTQRHHNIDYVGSSILGLFEWATRYLRGKLPLGNA"
+                },
+                {
+                    "id": "ATEG_04417",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 478108,
+                                "start": 477886
+                            },
+                            {
+                                "end": 479030,
+                                "start": 478165
+                            },
+                            {
+                                "end": 479191,
+                                "start": 479081
+                            },
+                            {
+                                "end": 479411,
+                                "start": 479245
+                            },
+                            {
+                                "end": 479645,
+                                "start": 479474
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MLFQDLSFPAAIGAVFGAVAISVAARCIYDLFFHPLRNFPGPKRAAIWSFYEFYYDVIRDGTYLWEIEKMHQKYGPIVRINSRSLHIHDPEYFNTIYAGSGRKVNKELSAVSGYTFPHSTISTLDHDLHRKRRAIVSPYFSKRAIAEIEPVIHERLNVLISRLAEAKGSIVDLTSAFSAYTADVVTYHFYGTHANYIGSKDFKYGLKDALTVLLNLYNLTRFLPVPANTLKNLPLPILGLINPNFPLVVSAREANKKMVLGYLNKPDEDKKAMKDARSKSVIVSALTDPNVPDAEKTLDRLLDEGETIIFAGIDTTARTLGVALFHLLNNKDVLMKLRKELQAVAKPDGQQWTTTELEAVPYMRGVVQEAIRLAYGLVVRIPRISPHEALRYNGFVIPPGTPVSQSTYLVNNDPSVFPNPQVFDPERWVKAAQDGVSLDKYMVSFSKGSRGCLGINLAYAKLYLGIARVATSLDMELFETTAKAISVYHTRGFAFPKEGDGAVKARVMGLCK"
+                },
+                {
+                    "id": "ATEG_04418",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 480535,
+                                "start": 480302
+                            },
+                            {
+                                "end": 480968,
+                                "start": 480584
+                            },
+                            {
+                                "end": 482017,
+                                "start": 481020
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MGASTFSQSFAEGYAAWALMLPALVGCALLIYRAFFAIRYPANLPLAGEPDGKRTFSWRTRWRYYIDCEALYKETYDNYTKHGKTVLLPGLGFRHDIVLPQSAMRDIMARPEKELSHADAVLELVQLKYSLGHEKYKADPWPCMLVKSDINSKLEAVCDGMNEELKYAFDKYVGCDTESWKEVDLLETIRMIIMAAASRFTVGFPLCRSEAYLRACWKVNDGIMMNGGLTGATPRLLRPIVGPLVTMKLRQSIEQVKKHVEPIYRQRVQALSQQNSAEKPASDETQDLFQQMLRYAQRERPGELHDLPSMCRRLCFANFAAVHQTTLLVTNMVLNIVSSDPQHNTISVLRDEVKDVIGPDSNAKWTKYKVAQMIKSDSVARETMRLYSNTNRGVFRKVLVEGIKTEDGIELPKGAYVSFLGRPLQCDPETFEDPFEYNPFRFSRIREQAPRDTKGRSSASHLSFVSTSPEHLPFGHGGHSCPGRFLVDFEVKMIVAYLLMNYDVEFPAEYKGQRPANRWMAEALMPPSGARIRIKRRS"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NT_165929.1",
+            "accession": "CH476599.1",
             "completeness": "Unknown",
             "end_coord": 482020,
             "start_coord": 472400
