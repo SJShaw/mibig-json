@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NZ_KB907211.1 dated 17-APR-2017",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -28,8 +38,337 @@
                 "compound": "cinnamycin B"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "G339_RS0111955",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "G339_RS33370",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "G339_RS0111965",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "G339_RS0111970",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "G339_RS0111975",
+                    "product": "helix-turn-helix domain-containing protein"
+                },
+                {
+                    "id": "G339_RS0111980",
+                    "product": "DUF4180 domain-containing protein"
+                },
+                {
+                    "id": "G339_RS0111985",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "G339_RS0111990",
+                    "product": "NAD(P)H-binding protein"
+                },
+                {
+                    "id": "G339_RS36605",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "G339_RS0112000",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "G339_RS0112005",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "G339_RS0112010",
+                    "product": "glucose 1-dehydrogenase"
+                },
+                {
+                    "id": "G339_RS37670",
+                    "product": "ABC transporter permease subunit"
+                },
+                {
+                    "id": "G339_RS33385",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "G339_RS0112020",
+                    "product": "Nif11-like leader peptide family natural product precursor"
+                },
+                {
+                    "id": "G339_RS0112025",
+                    "product": "type 2 lantipeptide synthetase LanM"
+                },
+                {
+                    "id": "G339_RS0112030",
+                    "product": "cinnamycin family lantibiotic"
+                },
+                {
+                    "id": "G339_RS0112035",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "G339_RS0112040",
+                    "product": "LacI family transcriptional regulator"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "G339_RS0111955",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 318291,
+                                "start": 317878
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MPQGAEGTAHPGPGEVHRRVFEGYRESRFEDALELIDPDVVDHREGAHVDHRGRDAWRRKWERGRADSMFRDVSLTIEQNVVSGDTSVNRYTVRGTHTASGRRYEVLSLDMVRVRDGRIIEHWALLDTDAMRDQLGL"
+                },
+                {
+                    "id": "G339_RS33370",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 318701,
+                                "start": 318321
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MAALGARSQSLLAEGPLGDALFEWLRDFIAHVAAKRELALAITDDRTGRRSALFDRWHHSMRTAASALLVRAQSAGAVRADLDASELLALANGIALTTTGAAQAERLVLLIRQGTDTPATPDVSNR"
+                },
+                {
+                    "id": "G339_RS0111965",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 320105,
+                                "start": 318873
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MKYGTASAEARIDEASNVLIAPADLQNNELISGFSGSAVTPEALESKALDLAQKTVYLCGDVSEISARRLHGAARVFIIRELSDGYRADVDGTWPVVDVGRVPVRVHGAGVYYRRFFDLGADHFGSIRAEHAFQSLTESTKPGAAHRSGIYLTPVARDGDELHFRLLRCSTNLSGPTEGFRPTDTGIVDALNREAAFVFRDHAPLNHVLAQIYHNTPATTGRKQAKAKISAHADKTKDMPVNGIMAFCTFYDRLDKLQPLADDAFDYGVKGVSGLTKLRFRLKDPTAERDAVALPPQFTLTLYPGSVFFMPLSTNRLYTHEIRSSMLDAELLPTRLGYVVRCSSAEAVHKHGDTFLKVDGDLVKLGPPTPEGMDRLRRLYAEENKTTSFIDYGDELLFSMNEGDYVAPRP"
+                },
+                {
+                    "id": "G339_RS0111970",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 320859,
+                                "start": 320089
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPRGPEISDEILACVLPTDENLFAELFTSTRWEDVGKGRQGAVLARVDDAGGVPLVRTATRYVRPAQRFRAVHERLANQIQEHAAFPTAFNNALVECYTNAYRKMGGHSDQALDLADGSFIAVFSCYRHPDADPPRKLIFEPKEPGGEKFDIPLAHNSVVAFSIDSNRRLKHKIVLDAPVQTPDNQWLGVTFRASKTLVQFHDGNAYLPQGARLTLADDEQKGEFYQLRRRENNETDFVYPPLAYTISESDLIPPV"
+                },
+                {
+                    "id": "G339_RS0111975",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 321479,
+                                "start": 321051
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MDNKLYSVEDVAELLGLHVRTVRGYIRSGRLRAVRIGKQYRIARADLDELIGKPEPASTAASAEVSSIVQLDGVDRRTADRLSTLVLAAVNGGSDPGRPLRVQVVHDEERQRMKIVILGGVAETADVLQLIDAMFGEEARDG"
+                },
+                {
+                    "id": "G339_RS0111980",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 321843,
+                                "start": 321472
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MADAVQTRAGVAVLVCDPDGPPIATMDDALDLIGATYLGAEAVAVPAARLDERFFSLGTRFAGEIMQKFANYRLTLAVVGDISEHLAASSALRALVRESDRSGHVWFVPDLDALDARLAGRRP"
+                },
+                {
+                    "id": "G339_RS0111985",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 322390,
+                                "start": 321989
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSAGWCRIGRVGSVERTEHAVAITNEQVSEHRFLEEMFGDTYFPDHLVERGKQILLRFCERIEAERPADLPALYALSAAATAEFNELQEDFWAAGSEIETAARDCIAVDFGFVATAYGFPNADLEELVADRDW"
+                },
+                {
+                    "id": "G339_RS0111990",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 323241,
+                                "start": 322408
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTILITGARGTVARSLVRQLHDAGHRVRAGGRVPAEVDAPAGVEVVAADPTRPGDLGPALAGVEKVFVYAERSGLGGFLAAAGAAGVRHVVLLSALGASPHAADAITRAHGEAERAVLDSGLEWSFVRPGGFATNRLMWAPMTRAGGPVLDPFPESQSALVHEADVAAVALAALTLPGQAGAIHSVTGPESQTARRHAELIGEAIGRPVEVAAQSLDDYQASLADRLPPDLLEARIARLAALVGRAQPTTDTVRTVTGRPARTFARWAADHAADFTG"
+                },
+                {
+                    "id": "G339_RS36605",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 324197,
+                                "start": 323335
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "VDGSELGGFLRSRRARVRPADAGFADGGRRRTPGLRRAEVALLAGISVDYYVRLEQGRGPRPSAQVLTALGRALRLTADERDYLLRLGAPPPPERAAAGPTSPRPCGGSSTGSTTSPPSPSTPATTWSPGTRCSSR"
+                },
+                {
+                    "id": "G339_RS0112000",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 324406,
+                                "start": 324194
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MKRTLAVIVAAAAAVGCVVAARVALASADRPGGKEPAKSSTSPVQPPNTGYWTPERMQSAKPAPMPDPDD"
+                },
+                {
+                    "id": "G339_RS0112005",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 325505,
+                                "start": 324492
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MRSLRTLIGVTAAAALVATGTATAAGAAPAAPAAKTTAATTAATPRLTGGAAVNSASAAAKVAKYWTAARMKAAKPVPEPRSARGTLSAKAAPTGPAGSTPSARAVASAANKLAGGNAKLAASITESAVVGKVFFHKPSGGDWVCSASALNSASKQLVITAGHCVHEGAGGNWVTNWTFAPRYRSGSRPFGTFAAKQFRTFNSWISSSDQDRDVAMVTTWPLNGNKVVNVVGGNGLNWNWGKTVAVTILGYPQNANGGEIQQWCQGTTYDGGGNKIALGCNFNGGSSGGPWIMNFDNNTGLGQTDGVMSTIDGNGVNRASYFDDAVKAMFDAQGSVT"
+                },
+                {
+                    "id": "G339_RS0112010",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 326891,
+                                "start": 325842
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MKAISVVPGDPDSVEVRDVAEPRPGADELLVRGRLLGICGTDADIVSGPGYGWAPPGSDRLVIGHESLGTVLHAPDGSGFAPGDLVAGAVRRPDPEPCVPCAHGEWDFCSNGRYTERGIKELDGYGAQCWTVETDFAVRLDPALGDCGVLLEPTSVVAKAWAQADRFTGRTSARPRTALVTGAGPIGLLAALLGVQRGLDVTVLDVNDRGPKAELVTDLGARFHVGSVADLGLCPDVVIECTGHGPLVAELAAASAPNAVICLAGISSRPGSATVDLDEVNKEIVLRNTLLFGSVSASPGDFRRAADALARADRDWLSRLITRRVPMEEFARNVRKDPDDVKVVVDLEA"
+                },
+                {
+                    "id": "G339_RS37670",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 327758,
+                                "start": 326979
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MRMVWRREMLHFGRDRAGTAISLLQPLLFLFILGVGLAGLMSGVSSRSYQLFLFSGALVTAAQGPAIGAGSSILWDRQAGFLREMLAGPVHRGTLLLGKCLGGATVATCQAGVLLAAGWLIGVPHDAVLTVLLLGQLALAALAMTALSILLATFIRRPQTFGTAVTVLAAPLVFLSGSMFPLTAMPGWMARVALANPLTYAVDAMRRTMAARLPATPAPLFHPLTWGSWHPSVVLEWALVTGLALLALGWAARRFSRAE"
+                },
+                {
+                    "id": "G339_RS33385",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 328973,
+                                "start": 328017
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "LPADAPPAAAAAAVPAIRAAGLRKRYPGVTAVDGVDLCVAPGESFGFLGPNGAGKSTTIAMLTTLAVPTAGRVEIAGHDTRTDPVAARRSIGLIFQESTLDGELTAAENLRFHADLYDVPVERVPARVAETLALVGLTDCRDRLVRTLSGGMRRRLEIARALLHRPRVLFMDEPTIGLDPRTRADVWRYLRLVREREAVTLFLTTHYLDEAEQCDRVAILHGGRIVAQGSPAELKSVLGADRVELRTGDDAAAARVLRERFGAAVAEGPGGLAFRAPDSARVLPRLFAELDVPVFEARVTPPSLDDVFLHHTGHRIRDD"
+                },
+                {
+                    "id": "G339_RS0112020",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 329884,
+                                "start": 328976
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSVESCAAFLRVVNDDARLRQQLKALTGVAEMIRLGEAHGFRFDGRDLATASASVVPPPAAPPASRAPEPEPEPAAEFLHHEYDLDALAAAHPGFATVLAEFPRLKVRPSDVDLAAFDAEFRPGDLRSTELAPRGEEYRRWAAELAATARPGDRRDFHLVNLDDHVGHADYDDYLDAKTRVVGALEDVFGAEVRFSGSMWYPPSSYRLWHTNETQPGWRMYLIDLDDDFEDAEHTSFFRYQHPETGELVTLRERRRMARFFRIEQRPDRLFWHCIVNPTRRHRWSFGFAVPDSWTAALAGLA"
+                },
+                {
+                    "id": "G339_RS0112025",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 333122,
+                                "start": 329901
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MNQLYPADIAARAANLSERARIVAALAPPPDAPHPGAGPLDPFDAWKTRRVADRLAARFREEARRGAAPARHTEAALTETLTAYRRHELGLADPADPFGRAVRDAQRAWLPVYTAALDGFRPESEEAARAGWREPEVYYGRLAKACEPFLLELGRRLTAVLDAAPGAGPVVDRRLVEEFQLRLLDRFALALAWAVEADTKVYCRLRGIDPATATTDDYLAFLDKTFADAESYHRFYLDFPVLGRWLAHTTGLLAEHGRDLVVRLRRDAADVGAAFFGQPVAAVRSAGLGRSDDHAGARGVVMVGAELADGTEATFVYKPRCVRGEAGLQRLLVRLRADGVLDFADRAVLPRDGYGYEALIPAGRNRVATREAARPVYAELGGYLAIFYVLGGGDLHFENVLVADGHAFVCDCETVLGALPKGQPRPAGTLMDSVFKTGLIEWPTPPDAAGEMRLSGYSGGGSFELPMPVPQLGDRRMSFEASVTHRAGLRVDPGSANRVFVGDGLAAPEEYVADVKDGFDRVYRWFQDDPDGTAAQVAELFSGTRVRFVNWSTQIYTQLLLAARHPKCLMDPLEVDLLFNTVRTFPRNWDVEGVLPAWELESMWRLDVPLFTVDADGDRLVHDHRTPVPATLEAGPLEHAAARIRGLTTRNRVQQDQYIAAGLAGGDVTSADFAATCVEQAAALGERLCAALRPQDAPAPWTSYVITAEGRTEVDIEGDLYNGSAGIALFLAYLNDLDPRPEFEHAARRALDHALASLDGERIGAFPGTGGLIYTLLHLHALWGESALLDRAVALADRIDGLIEQDRHLDVFHGVAGLVPVLLALADATGGRGARQAHRCAARLLATARADGDVLSWPNSDPAASLADLTGLSHGSGGIGWALTLLGTRADRPEYLSAARRAFAYEARHFDADAQDWYDLRTVAGGPTRGGRHYANAWCNGASGIGLTRIASWSLLGGDDEELLRDATVALTTTMRNFPRLGNDSLCHGRTGNAELFLRYALLRDQPAFRLEANVQAQSQWRDLGGARPGREAGFFPGLMLGLAGFGTHFLRLARPDRVPSVLLLDPPRASTN"
+                },
+                {
+                    "id": "G339_RS0112030",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 333503,
+                                "start": 333264
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSPSTILRQAAADAEFRTALLTDPEVFGVAADAVPESVEQQDQESLGFWTEGVAAIDAYACASTCSAGPFTFVCDGTTK"
+                },
+                {
+                    "id": "G339_RS0112035",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 333906,
+                                "start": 333535
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MRSGPKPPSDLTKHRNIDTVRQLQHLVLLCSLTPPGTKLHELLTLALNTDERGLPERVSPVQDLHPQTTKTWLEGIWNPELISADEMELVAWQNNKAHMDVAVDQIQRIERRLGIRLATEKIS"
+                },
+                {
+                    "id": "G339_RS0112040",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 335461,
+                                "start": 334451
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MAGRGTRPTLEEVAARAGVGRGTVSRVVNGSPRVSEQARAAVLKAIEELGYVPNRAARSLVTHRTDTVALVVAESDQRLFGEPYFAGIIRGISTALGDTGLQLLLALARSPGEYARLADYLTAQHVDGVLLTSLHAEDPLPAKLEAGGVPTVLGGRPPGLSPVSYVDVDNRSGARQAVEHLVAHGRRRIATIAGPQDMGVGIDRLGGYRDALADAGLPELIAYGDFSEASGIAAAEELLARDPGLDAVFAADDPMALGALRVLRRLGRTVPGDVAVVGFDDSAAAPLADPPLTTVHQSPEEMGREMARLLVARIRGEDLDEPVVILRPHLVKRESA"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_KB907211.1",
+            "accession": "KB907211.1",
             "completeness": "Unknown",
             "end_coord": 335464,
             "start_coord": 317875
