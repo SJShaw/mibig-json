@@ -12,7 +12,9 @@
         {
             "comments": [
                 "Removed gene names of 'No gene ID'",
-                "Removed gene annotations with no information"
+                "Removed gene annotations with no information",
+                "Gene details extracted from RefSeq accession NZ_JNZG01000006.1 dated 01-APR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -39,57 +41,57 @@
         "genes": {
             "annotations": [
                 {
-                    "id": "WP_031146977.1",
+                    "id": "IO28_RS0104710",
                     "product": "3-ketoreductase"
                 },
                 {
-                    "id": "WP_031146979.1",
+                    "id": "IO28_RS0104715",
                     "product": "aminotransferase"
                 },
                 {
-                    "id": "WP_031146981.1",
+                    "id": "IO28_RS0104720",
                     "product": "aminomethylase"
                 },
                 {
-                    "id": "WP_031146983.1",
+                    "id": "IO28_RS0104725",
                     "product": "2nd and 3rd ring cyclase"
                 },
                 {
-                    "id": "WP_051892794.1",
+                    "id": "IO28_RS0104735",
                     "product": "4-ketoreductase"
                 },
                 {
-                    "id": "WP_031146990.1",
+                    "id": "IO28_RS0104740",
                     "product": "acyl carrier protein"
                 },
                 {
-                    "id": "WP_031146991.1",
+                    "id": "IO28_RS0104745",
                     "product": "aminomethylase"
                 },
                 {
-                    "id": "WP_031146993.1",
+                    "id": "IO28_RS0104755",
                     "product": "3-methyltransferase"
                 },
                 {
-                    "id": "WP_031146995.1",
+                    "id": "IO28_RS0104760",
                     "product": "glycosyltransferase",
                     "tailoring": [
                         "Glycosylation"
                     ]
                 },
                 {
-                    "id": "WP_031146996.1",
+                    "id": "IO28_RS0104765",
                     "product": "oxidase"
                 },
                 {
-                    "id": "WP_031146998.1",
+                    "id": "IO28_RS0104770",
                     "product": "glycosyltransferase",
                     "tailoring": [
                         "Glycosylation"
                     ]
                 },
                 {
-                    "id": "WP_031147000.1",
+                    "id": "IO28_RS0104775",
                     "product": "4,6-dehydratase"
                 },
                 {
@@ -101,7 +103,7 @@
                             ]
                         }
                     ],
-                    "id": "WP_078959125.1",
+                    "id": "IO28_RS0104785",
                     "product": "10-decarboxylase",
                     "tailoring": [
                         "Decarboxylation"
@@ -116,118 +118,677 @@
                             ]
                         }
                     ],
-                    "id": "WP_031147007.1",
+                    "id": "IO28_RS0104790",
                     "product": "15-methylesterase",
                     "tailoring": [
                         "Demethylation"
                     ]
                 },
                 {
-                    "id": "WP_031147011.1",
+                    "id": "IO28_RS0104800",
                     "product": "4th ring cyclase"
                 },
                 {
-                    "id": "WP_031147013.1",
+                    "id": "IO28_RS0104805",
                     "product": "monooxygenase"
                 },
                 {
-                    "id": "WP_031147015.1",
+                    "id": "IO28_RS0104810",
                     "product": "ketosynthase α-subunit"
                 },
                 {
-                    "id": "WP_031147017.1",
+                    "id": "IO28_RS0104815",
                     "product": "ketosynthase β-subunit"
                 },
                 {
-                    "id": "WP_031147019.1",
+                    "id": "IO28_RS0104820",
                     "product": "9-ketoreductase"
                 },
                 {
-                    "id": "WP_031147021.1",
+                    "id": "IO28_RS0104825",
                     "product": "aromatase"
                 },
                 {
-                    "id": "WP_031147023.1",
+                    "id": "IO28_RS0104830",
                     "product": "glycosyltransferase",
                     "tailoring": [
                         "Glycosylation"
                     ]
                 },
                 {
-                    "id": "WP_051892705.1",
+                    "id": "IO28_RS0104835",
                     "product": "7-ketoreductase"
                 },
                 {
-                    "id": "WP_031147027.1",
+                    "id": "IO28_RS0104840",
                     "product": "P450-like",
                     "tailoring": [
                         "Glycosylation"
                     ]
                 },
                 {
-                    "id": "WP_030957368.1",
+                    "id": "IO28_RS0104850",
                     "product": "ABC transporter"
                 },
                 {
-                    "id": "WP_031147034.1",
+                    "id": "IO28_RS0104860",
                     "product": "glycosyltransferase",
                     "tailoring": [
                         "Glycosylation"
                     ]
                 },
                 {
-                    "id": "WP_031147036.1",
+                    "id": "IO28_RS0104865",
                     "product": "11-hydroxylase",
                     "tailoring": [
                         "Glycosylation"
                     ]
                 },
                 {
-                    "id": "WP_031147038.1",
+                    "id": "IO28_RS0104870",
                     "product": " 2-oxoglutarate and non-heme iron family"
                 },
                 {
-                    "id": "WP_051892707.1",
+                    "id": "IO28_RS0104875",
                     "product": "cytocrome P450-like",
                     "tailoring": [
                         "Glycosylation"
                     ]
                 },
                 {
-                    "id": "WP_031147042.1",
+                    "id": "IO28_RS0104880",
                     "product": "glycosyltransferase",
                     "tailoring": [
                         "Glycosylation"
                     ]
                 },
                 {
-                    "id": "WP_031147044.1",
+                    "id": "IO28_RS0104885",
                     "product": "putative O-methyltransferase"
                 },
                 {
-                    "id": "WP_051892708.1",
+                    "id": "IO28_RS0104890",
                     "product": "DUF418"
                 },
                 {
-                    "id": "WP_031147048.1",
+                    "id": "IO28_RS0104895",
                     "product": "15-methyltransferase"
                 },
                 {
-                    "id": "WP_031147050.1",
+                    "id": "IO28_RS0104900",
                     "product": "3,5-epimerase"
                 },
                 {
-                    "id": "WP_037631640.1",
+                    "id": "IO28_RS0104905",
                     "product": "2,3-dehydratase"
                 },
                 {
-                    "id": "WP_051892710.1",
+                    "id": "IO28_RS0104910",
                     "product": "SARP family"
+                },
+                {
+                    "id": "IO28_RS0104730",
+                    "product": "nuclear transport factor 2 family protein"
+                },
+                {
+                    "id": "IO28_RS0104750",
+                    "product": "aromatic ring-hydroxylating dioxygenase subunit alpha"
+                },
+                {
+                    "id": "IO28_RS0104780",
+                    "product": "acyl-CoA dehydrogenase"
+                },
+                {
+                    "id": "IO28_RS0104795",
+                    "product": "DSBA oxidoreductase"
+                },
+                {
+                    "id": "IO28_RS0104845",
+                    "product": "ABC transporter ATP-binding protein"
+                },
+                {
+                    "id": "IO28_RS35035",
+                    "product": "helix-turn-helix transcriptional regulator"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "IO28_RS0104710",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 187386,
+                                "start": 186424
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MGVLGCADIALRRMLPAIAAAESAELVAVASRDAAKAQRAAARFGCAGVKGYRTLLERDDIDAVYVPLPPALHFEQVAEALLAGKHVLCEKPLCTTHAEAAELMELARRHRRILAENFMFLHHSQHAGVRSLVESGAIGGLEVLSGSFGVPPLDPTGFRYAPSLGGGALLDVGVYPLRTAQMYLSGEPEVLAATLRVDDATGVDVAGTALLCAPDGVAAQLEFGFRHSYRSRYALWGGAGRISVERAYTPPEVLKPVVRLQQQDRLTELAMPADDQVRNALAAFTAAVLAGGDGPVGEAESLLQARLVEDVRKVARIVGG"
+                },
+                {
+                    "id": "IO28_RS0104715",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 188543,
+                                "start": 187434
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTTYVWDYLREYENEREDIHDAVETVLRSGQLVLGASGRGFEEEFAAYHGVGHAVGVDNGTNAIKLGLQAIGVGPGDEVITVSNTAAPTVVAIDSVGATPVFVDVHPDTYLMDVEQVSAAVTERTRCLLPVHLYGQCVDMTALQAVADEHGLVVFEDCAQAHGARRGGRLAGTWGAAAGFSFYPTKVLGAYGDGGAVITSDPAVDAALRRLRYYGMEERYYVVQTPGHNSRLDELHAEILRRKLRRLDAYVEGRRAVARRYAEGLAGTGLVLPSTAPGNDHVHYVYVVRHPRRDAIIEALKAYDIQLNISYPWPVHTMTGFAHLGYAKGSLPVTESAAEEIFSLPMYPSLDPAVQDKVIGALHDVLASL"
+                },
+                {
+                    "id": "IO28_RS0104720",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 189303,
+                                "start": 188593
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MYGQELAEVYEIFYRSRGKDWPAEAAHVTDLVRARCPEADSLLDVACGTGAHLETFGTLFKHTEGLEIAAPMRELAHRRLPAVTVHPGDMRAFGLGRTFDAVVCMFCAIGYLGTVADMRDAVRSMARHVRPGGVLVIEPWWFPENHVEGYVAGDLGRENGRTVARISHSTLQGRATRMEVRFLVGDSSGIREFTEVDVLTLFTKDEYLAAFADAGCTVEYLPGDPTGRGLFVGVRQ"
+                },
+                {
+                    "id": "IO28_RS0104725",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 190122,
+                                "start": 189343
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MRLIDLSSAVDATAYEPDPVVHEVLTPRQGAEHMSAEMRTHFGLEFSPEELPDGEFLSLDRITLTSHTGTHVDAPSHYGSRAGYGDGVPRHIDRMPLDWFCRPGIVLDLTDAATGVVGAARLEKEFERIGRTPAPMDIVLLRTGASARAGTPEYFTEFAGLDGPAVHLLLDLGVRVIGTDAFSLDAPFTDIIERYRRTGDRSVLWPAHFAGRDREYCQIERLANLDALPAPYGFTVVCFPVKIAGAGAGWTRAVAMVDE"
+                },
+                {
+                    "id": "IO28_RS0104730",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 190748,
+                                "start": 190311
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MRTGTSSSFDSLYAEVQQFYADHMHLLDAGDGEGWARTFTEDGSFAPPSLPEPVVGRAALAEGVDKAAAALAEAGEVHRHLLGMVSVRPGEDGSLSVRSYAQIIATARGGSPRLHLMCVCDDVLVRVDGELKVRERRVTRDDRRP"
+                },
+                {
+                    "id": "IO28_RS0104735",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 191754,
+                                "start": 190810
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTAEEVGRATGRRTVAVLGATGTIGRQVAAAFTRAGHEVLGVARHPAPHTARHPFVPLDVAEADPRDIADLLAERNVDVVVNATGGWVVTEEAMHHAHVRLVERMLAGVAKLPTRPRVVHVGSIHEYGFVSPDPDGIDESVPPEPTTPYARTKLAGSQAVLEAARTGDVDGVVLRPVNVCGPHPSEASFLGTVLNRLRALTPGERLELVIADAARDYVDVRDVASAVLVAADAAASGTVFNIGRGEAPTMRELVTTLVEAAGFPPGTVKETGGAVESKGGGWTKADIRRAERVLGWRPAIGLRASLHDMWKAAG"
+                },
+                {
+                    "id": "IO28_RS0104740",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 192082,
+                                "start": 191825
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSELTLPVLVEIFRECAGEADGADLDGEDVGDVELNVLGYDSLALLEAISQVERRYSIGMPDAETRIKTLNQFLEQANEQLVQRS"
+                },
+                {
+                    "id": "IO28_RS0104745",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 192825,
+                                "start": 192106
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MYGAELAEIYELIHRSRGKDYLEEAAEVERQVRAHKPDAASLLDVACGTGAHLRRFDELFDEVAGLELSEPMARFAQAALPHVPVHVGDMRDFELGRTYDVITCMFGSIGYLLTQDALVGALRRFARHLAPDGVLAVDPWWFPETYLHGHVAGATATVGGRTVSRVSHSVREGDASRMNVHYLVADGASGVRHFHETHLIGLFSRERYEAAFGAAGFRVDYVPVAPAGRGLFVGVPSAG"
+                },
+                {
+                    "id": "IO28_RS0104750",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 194257,
+                                "start": 193010
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPGSGHHGPAAQVGVPTVSTGTSTDRTADARAGSPSAEVAELLDVLRGYLDLAPQLSLPPRAFTSPELYELERTRVFGRSWVLVAHRDELAEPNSYVSVDIAGEQILVTRDADGALHGMSPICRHRMMPLVEPGATGRADSFTCPYHLWRYGLDGRLIGATHMRRNPDFDPKDCRLPAFAVEEWHGFVYVNLDAAAAPLAPELKRISGDLTNYRLDEMAQLGSWSEEWACNWKVAVENAHENYHVMGFHPETLQQSTPGGSDTDVRVDSPWALRLLVPFTEPQEAYALPLTDTEKAHLYGIFVFPAASLAAAGEMVIWLSLIPQTIDRTLVRGGILVPRAALEGADLDEMRRQAETYAGMINSEDRNGLEAVQRAVGSRFAARGHLSPKEPGVVAFYQNLARALLRADDDWPGGL"
+                },
+                {
+                    "id": "IO28_RS0104755",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 195561,
+                                "start": 194344
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MLSCRICGGRLHEFIDFGQQPLSSGLLEPEYLGDEFFFRLAVGVCGDCTMVQLTEEVPRHLMFNSHYPYLSSGSSVMRGHFEETARHFLATELTGKDAFLVELGCNDGVMLRALAEAGVRHLGVEPSQSVADIARRQGIRVATEFFQESTAADIRKEEGHAQVIFAANTICHIPYLDSIFRGVDELLAPDGVFVFEDPYLADIVDLASFDQIYDEHYYFFSVSSVSAMVERFGFELVDVERLSVHGGEVRYTIARAGRRTPAPAVAELLGQERARGLSELATLQGFVARVERARDELVALLRRLRDEGRTVVGYGATAKSATVANYCGIGPDLISFISDTTPNKQGRLTPGSHIPVRSRADFENPYPDYALLFAWNHAEEIIAKEQQFRASGGKWIRYVPDVRVL"
+                },
+                {
+                    "id": "IO28_RS0104760",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 196986,
+                                "start": 195613
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MRVLFTTHTAKSHLFAQVSLAWALRAAGHEVHMAGQPDLADDITRTGLTAVTAGAALDLAAQMESYEHDEHDGSGDGTVQDPGAWEGTGGADDYRAIAERYEYWTDMTEIRPQKLSYEYMHGVFTAMTTQVFQQYSAPAMIDDLVRHARWWRPDLVVWDPLTFAGPVAARAVGAAHVRLLFGLDLIGRMRRPYLDALRRLPPAQREDPMEEWLGDTVRRYGGEFGEDLVVGQRTIDPLPPALRFLDGPDRVPMRCAPHNGSSVLPDWLREPQERRRVCLTLGVSHRELLGADRLPLGEVLAALAGVDAEVVATLNAAQLASVTEVPDNVRVVDFVPLETLLPSCSAVIHHGGAGTFNTALSCGVPQLILPDGVWDTDHKARLLEERGAGIRVAQPEKADAATLHGMITRLLEEPSFGRAAARLRDESRDMPAPSAVVPVLEELAAGRRPHQRQGEWQ"
+                },
+                {
+                    "id": "IO28_RS0104765",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 198602,
+                                "start": 196983
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MKDLSRRGFIAGGVAAGGAAALTAAGTGTAAADTTAAGCFPAPPAKDIRPGDPRYAELTARGYNGRFSGRPESVRLVHRADQVVAAVDDALRTGRRIAVRSGGHCFEGFVDDPAVQVVVDVSEMKSVHYDPRHKAFAIESGATLGEVYRTLYLGWGVTVPAGACPGVGAGGHIAGGGYGGLSRHHGFVADHLYGVEVVVADRPGRARLVTATRDPADPHHDLWWAHTGGGGGNFGVVTRYLMRSPGARGDDPTTLLPKPPATIRSVTIGWSWADMTEAAFVRILRNHGTWHERESAADSRYAPLSAWLILNHRANGRFTLVANVDGSLPHGAQLLDEYVAAITAGTGVRHEAEQATALWMKSTLTTDPYAGGGYPFKSKAALLRKAWTETQIRTLHRCLTSSGGEHQGSAVYLSTLGGRINTVPASATAIPHRDSLFSASYETSWWPGISGDEQLAWVRELYRDLYADTGGVPVPDAANGGAYINYPDVDLADPRWNTSGVPWHTFYYRDNYPRLQQVKARWDPADVFRHALSVRPPGR"
+                },
+                {
+                    "id": "IO28_RS0104770",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 199760,
+                                "start": 198642
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MRVLFVNSPGLGHIFPSVPLAHALTAAGHDVLFAQGGDVGAVAAAGVNVVDVTPGLDYATVFRPEEIDFSVDGGDEFVAALFARVSGVTVDRLLEVARGWSPDLIVHSPLQGAGPLVAGALGVPAVSVVTGPADSAPLIAGLMRDHMKEHYVRHDVAPVPAPGFRLNSIPPSLLELLPERVRAEDDVPFRYVPFNGNGELPGWLLEPPRRPRIAVTLGSIAGLWGGLAVLAPLVASAAGTDAEFVVTLGGGDPSLLGELPPNVRTVDWLALGPLLRTCHGLIHHGGSGTSAVAMAMGVPQCVMPLSPDQKDNERAVVERGIAIGTSAGVVGTAEFRALLEDEGMRAAAAEVRDEAAAMPSPAALVGRLESLV"
+                },
+                {
+                    "id": "IO28_RS0104775",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 200691,
+                                "start": 199921
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MEIIGNGFLARHLAPLSAGHPGVTVLAAGVPTHPLPDAEHRREAALVEDAIRHCLRRDRMLVFFSTVSMYGGPGGPGDEDGPQVASTRYGQHKLDLERLVKASGVRHLVLRLGYVLGPDEPGFRLLTALVTQVLAGRVRVQRGARRDMIHVADFTTVVDALLRTGVCDETVNVASGDCVEVADVVRHLEQRLGVTAHWQVTDDSIEHCPSVRKLRRLVPGLERLGFGPGYHRSAIDRYLAATRPADVIRRERTETP"
+                },
+                {
+                    "id": "IO28_RS0104780",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 201893,
+                                "start": 200688
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTAGDLTEPRTPEGHALLEVLDRHLPDLAAGAAEHDRNAAFPLDAVRRMGADGVLGATVPREFGGLGVTSVHDVCLAVKRIAEADAAVALSLHMQFSRGITMSYEREHAAGTGRALAERLLRLMGTERALISGALKDAGVTTELVPADDGGWRLTGRKILVSMAPFATHLVVAAQTRPASGPARIASAFLPADTPGLKAPDTWDGMGMRASASTEVVFEDCPVPAADVFLRGPVGVRNDAAMAGQTVSSIGLLGVYAGIAQAARDFAVAGIARRGGQPAAAVRTLVAELDVKLYTLRTALAAALTNADHHAHRTTVDPDERGRLMMAPFQYAKLVVNRTAADIVEDSMTLMGGASFTTSHPLSRHYRDVRAGWFMQPFTYADAVDHLSAHALGTDLEGSTS"
+                },
+                {
+                    "id": "IO28_RS0104785",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 202996,
+                                "start": 201992
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSNLVTPMALRVAATLRLVDHLRRGVTSPEALARATGADADALSRLMRHLAAAGVLEETAPGRYAPTRLGDLLAEDDPSRQRSWLDLDQAVGRADLTFLDLREAVRTGRPQYEDRYGKPFWTDLSEDAELGASFDTLMTTREDAAFAAPVCAYDWSRARHVLDVGGAPGGLLSAIVRAAPGARGTLLDLPGAAQRTRERIAAAGLDDRIDVVAGDFFDELPVSADAVVLSFVLLNWSDADALRILARCRDALRPGGRIVLLERAEAPSGGTRTSDLYFSVLDMRMLVFLGGRVRTDREWAALADAAGLRIVSRSGPLVSPSVPLDSCLWELAPH"
+                },
+                {
+                    "id": "IO28_RS0104790",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 203960,
+                                "start": 203067
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MAERIVTSKDVQLWSEDFGDPADPTVLLVTGGNLTAMSWPTEFVERLVADGLHVIRYDHWGVGRSTGWDPAERPYSYLRLAADAVAVLDGWDVERAHFVGMSMGTVLCQLVALDHPGRMLSMSMMLGGALDVDFPGNIRRAFAGEPSADGLPLPQERFLEALAVMNEEVDGPEAELERRVRRWKLFSGDETAFDEADFRRWEQQAIDHSGALTEPQVHYAVQPPPRERAPELRDVRVPTLVIQAMQDPIAPPPHGRHLAGLIPGAELVEIEGMGHALPRSVHPPLAEAVLKHVRRVG"
+                },
+                {
+                    "id": "IO28_RS0104795",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 204594,
+                                "start": 203974
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTEQRTVDFWFDPVCPYTWITSRWLVEVTKVRPVTVHWRVMSLSVLNEHRDDNPEGEWEDYMWAPVRVCAAVEERFGQQALGDLFTAMGNRFHLQGDWGNLAGALADAGLPEEIAEVAGSTEYDGAVRSSHAQAVALAGGDIGTPVVSVVRPGGERVGFFGPVVSPAPTGETAGRLWDGLLLMAGVPGFYEVKRTRTEEPRFELAD"
+                },
+                {
+                    "id": "IO28_RS0104800",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 205056,
+                                "start": 204622
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSRNIEAVRRMIAAYNTGRTDDVHEFIHPEYLNPATIEHGLGEGPDAFAMAVAWVRKTFSEEAHLEEVRIEERGDWVRAYLVLYGRQVGPMVGIAPTGRRFSGEQIHLLRVVDGRIRDHRDWPEYQSTYRQLGEPWPEPDGWRR"
+                },
+                {
+                    "id": "IO28_RS0104805",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 205655,
+                                "start": 205305
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MQPNDLDPSGSGVVTFINRFTVHASPEEFEKAFAETGRHLAGRDGFLRYTLHRHAEDPTRWVNIAHWRDARAFRAAVGAPSFPQHVARLRELSTSEPGLYVPRQYVPAERAATEGL"
+                },
+                {
+                    "id": "IO28_RS0104810",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 206935,
+                                "start": 205655
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MDASTGRRVVITGIGVVAPGAVGRKPFWDALTAGRTATRRITFFDPGPYRSQIAAEVDFDPLGEGLTPQQVRRMDRAAQFAVVSAREGVADSGLDPAGLDPARTGVAIGSAVGCTMSLEDEYSVVSDGGRHWNVDASYAGRHLFDYFVPHSIAAEVARDVGAEGPVSLISTGCTSGLDSVGHAVELIREGAVDVMVAGATDAPISPITVACFDAIKATTPRNDEPGLASRPFDRTRNGFVLGEGAAVFVLEDAEHARRRGAYVYAEISGFASRSNAFHMTGLRPDGREMAEAIRVAMLRAGVAPGDIDYVNAHGSGTLQNDRHETAAFKRALGEDAYRVPVSGIKSMIGHSLGAIGSLEIAACALTIEHDTIPPTANLHEPDPECDLDYVPLTARRQPVDTVLTVGSGFGGFQSAMVLRSPERAAS"
+                },
+                {
+                    "id": "IO28_RS0104815",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 208152,
+                                "start": 206932
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTSTAVITGMGVIAPTGLGAESHWSRTLAGRAAIGRISHFDAERYPSRLAGEIAGFDPREHGIPSRLLPQTDHMTRLSLVAAEWAIKDAGVDLAAMPEYGVGVVTASSAGGFAFGHRELHNLWSKGPEHVSAYQSFAWFYAVNTGQISIRHGLRGPGGVVVTEQAGGLDALAKARRQLRDGVPMVIAGGVDGSPSPWGWVAQLAGGRISTADDPERAYLPFDQDAAGHVPGEGGALFVLETPESARARGVRSWYAEIAGQASTFDPAPGSGRPSTLRRAAELALDEAGLEPGDIDVVFADAAGVPDLDRAEAQAVRELFGPQGVPVTAPKTMTGRLGAGGAALDLATAVLSIRDGVIPPTANVRRPVAEYGIDLVSAPRHVPVSAALVLARGHGGFNAAAALTRQR"
+                },
+                {
+                    "id": "IO28_RS0104820",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 208946,
+                                "start": 208161
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPAQDDRHALVTGATSGIGLAITTLLCELGQRVFICARDEENVALTVERLREKGYEVAGLACDVRSTEQVGALVRAAVDRYGPVDVLVNNAGRSGGGPTAQITDELWLDVIDTNLNSVLRMTREALTTGGMLERGTGRVINIASTGGKQGVVLGAPYSASKHGVVGFTKALGLELAPTGITVNAVCPGYVETPMAQRVRQGYAAVWDTTEEAVLERFEAKIPLGRYTTPEEVAGLVGYLVTDRAAPVTAQAINVCGGLGNY"
+                },
+                {
+                    "id": "IO28_RS0104825",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 209930,
+                                "start": 208977
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTNNHRAEHRITVQAPARTVYGLIADVESWPRVFPPTVHVDVLDRTAGEERIRLWATANDAVKTWTSRRVLDPGGLRVGFRQEVSQPPVAAMGGEWTVEPLSDTVSLVRLTHDFRAVDDDPEGVEWITRAIDRNSDAELDALRRAAEQASGTGADDLSLEFDDVVEVAGDPADVYDFLYDARRWQERLPHVNRVELEESTPNLQLLEMDTLTPNGAVHTTKSVRVCFPSAAIVYKQLRTPALMTVHNGLWRIAKSTSGCTVTSTHTVVLSRDAVVPVLGEGATVGDARTFVRDALGRNSTATMLLAKEHAERAARER"
+                },
+                {
+                    "id": "IO28_RS0104830",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 211246,
+                                "start": 209930
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MRVLFTTFGARNHVHAQVALAWALRAAGHEVCVASHPDLAEVIARTGLTAVPVGRELGEERLMEELREREDASRETYDEDAPDAQLLLAMDELRPEKLTYDHMHGVFTAMTSAVFQNYSSAEMIDDLVGFARGWHPDLVIWDPLTFAGAVAARVTGAAHARLMFGLDLVGRMRESYLAQVRRRPAALREDPLREWLGTVMERYGGEFTEDLVTGQWTVDPVPTSLRLPADLPYVPVRCVAYNGRGSVPDWLREAPRRPRVCLTLGVSHREVMGGDQASVGELIEAVAGLDVEVVATLDARQLREVGSLPPNVRAVDFVPMDVLLPTCSALVSHGGSGTVHAAFLYGVPQILVPGTMWDNAIRADLVQRSGAGLRLDAQTLTAAALRDALTRVLTEPSFTAGAERLRRETLATPSPRDVVPLLESLTAEHRDDLVRNHV"
+                },
+                {
+                    "id": "IO28_RS0104835",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 212030,
+                                "start": 211239
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSDAAPLPPVTAPPPAPRSVVVTGGGSGIGRAIAHAFADEGAAVLVVGRTAADLAGTAKGYDTIRTLAVDLTGADAPREVVETAVRELGGIDVLVNNAAALGHRALADVDPEQVAAQLGTNLAVPVLLTRAALDALAADGGGTVVNIGSSGARGSRAWPGNSVYGAAKAALDFLTRSWAVELAPRGIRAVGVAPGLVDSGFAERAGMSPEQYDGMLHHVGALTPQGRVGTPQEIAWWVTHLTRPEASHLTGAVLPVDGGLSLT"
+                },
+                {
+                    "id": "IO28_RS0104840",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 213381,
+                                "start": 212095
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MVTMNESELGRVLLTHRGVQWIIGTKDDPYALLVRAAGDDPHRLGELIRERGPLYRSSAEAWVTAHHEVAAAALADPRLSVRHPDADAPAAQDGGEQREPMPWEVPALREILPFGGAFLTAGRADCERVGELLEPLLGAKALERRRPVAEQALRRALAEAGSGFDLRTEVADPFAAGIVRELLGVPEEDHDRFAALCRGAAGLLDATVCSPHLRTARELIASVEGMRSLLAGVIAQRREKPGDDLVSALLAATHEDEVRSVCTLLALVGTELSATLFCDAVAELLDHPAQWRALCEDPGLAPAVVEETLRHAPPVRLVPLYALEDLELAGTPVPAGGQVVVAVEAAGRDSAVHPEPAAFDPARERAAEPLAFAEGLPTSLPAPTARFLAEAGLRALAAEVPGLRPVGPVLRRLRSGVTGAVIEMPVAR"
+                },
+                {
+                    "id": "IO28_RS0104845",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 214467,
+                                "start": 213568
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MRGLRMRYGSKDVLNGVDFSVRRGEVLALLGPNGAGKTTTIEIMEGFRTRSAGEVSVLGVDPAKGDEEWRARLGVVLQSWRDHGKWKVRELLAQLGDFYRPYSTPERPRPRDVDELISMVSLEEQADQKIGSLSGGQRRRLDVAIGIVGRPEVLFLDEPTVGFDPKARRDFHDVVHRLSDLEDTTILLTTHDLDEAEKLSDRILILAGGQIVADGSADQLARQTSGKAEVRWSLSGEQFVHATPDASTFVHELFKQHGDRVRDLEVRRASLEDTYMTMVRQHEAGRSEEAIAAFREAGR"
+                },
+                {
+                    "id": "IO28_RS0104850",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 215318,
+                                "start": 214464
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MNPTLYAVRLGLRRGWTEFRQSVTSPGDIIYYLFLGGVFLGVLFFMRNSTVEGTDLSLATLTMPSMIGGLLAFQALGGAAFALAAEREDGTLLRARTVPQGLVGYIAGRVLGIALSTLLTLVIILVPSVFLFDDLMTGDLAKWLNLVWVLALGLLATLPIGLIIGAMVKNPRGANTWGIFPTMGLMAISGIFYPITSLAGWLQGIAQLFPVYWVGLGTRAALLPDAAVAVELGDSWRRPMTAVVLLAWAVVALVIAPRVLGRTVRGETGSKVEARQQEALKRVG"
+                },
+                {
+                    "id": "IO28_RS35035",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 215712,
+                                "start": 215311
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MGDKETGGKRASARRGTSAAEPETGAVAPRSGSGTDTPAAGWRSTGEQGRPRGGAANETVHNRIAVLRVERAITRRQLADALGVHYQTVGYLERGEYSPSLHLALRIAEYFEVPVEVIFSTTPFPRIGSTPPA"
+                },
+                {
+                    "id": "IO28_RS0104860",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 217063,
+                                "start": 215777
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MRVLFTPFPASTHVHTQVPLAWAMRAAGHEVRVATRPDVVEDINNAGLTAVAVGGVLDVAATMNPEYTDEPDEIRDEAWLDVLDISETRPEKLTLPYVHGVLTAWTSFVYQNTLPDDTTGELIDFARSWRPDLVVWDTMYYPGALAARISGAAHARLMFGLDLVGLMRQHYLRGLAGLPPALREDPLEEWMDRILRRYGREFTEDLVVGQWTIDPVPPSLRLPVDLPSVPVRYVPYNGEAQVPDWLREPPPRRPRVCLTLGRSFREVVGADRTSVGDLLEAVADLDVDVVATFTADQLDPGRRVPDNVRVVDFAPLDALLPTSAAIVHHGGSGTLQTALAHGVPQVIVPAKMWCNVPKAHRVRDAGAGLCIDPEALTPQGLRAALVRVLQEPSFRAGADRLRREVLATPSPADVVPVLERLTAEHRSR"
+                },
+                {
+                    "id": "IO28_RS0104865",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 218838,
+                                "start": 217231
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MATADKEVDVLVVGAGLGGLSTTMFLARLGVPVLMAEKHPTTSIHPRAIGQNPRTMELLRLGGIAEQVQDATDHRGAKGHFTTRVAETVRGEVLGTFEEGFDNLVATTAPCSPMAWALAWQDQLEPLMLDRARRDGAQIRFAAALVSYEQDADGVSALLRDRESGAETTVRARYLVAADGDRSPIREGLGIARRGHGSLSHVVGMIFEADLSGVLTSDASGLYYLRNPAFSGIFIGSDRPERHTFLVEYDPERGESAEDFTPDRCLELIRTGLDAPDLEPKVLDVQRWEMAARIAERWRAGRVFLVGDSAKVVPPTGGLGGNTAIGDGYDLAWKLSAVLTGQAGPGLLDSYEPERGLVARLVMDESMALYASRLAPHLQDRMAEPVGYAEVILGFRYRSDAVLIDDDDPARVESPARPTGRPGFRMPHVWVLRAGERISTVDLFGSGWLLMTGADGAGWTGWARSASRELGVPVEVHGPATGLEDPDGELAERFGIGTGGASLVRPDGIVAWRTATRPDDPAAALRDALTRVLSR"
+                },
+                {
+                    "id": "IO28_RS0104870",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 219681,
+                                "start": 218887
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTARSAPVTADVLTDEARRHYQENGFVRIPEVLTPSEVERFRAASEEVVAQHGPEIWGAGEDEVQVHFVAQAWLKHEALRDLALHPAITGMAKRLAGGPLRLYSTDILLKSGRETLNTLPTLVHDDETGLPLHGIDRTLTAWVALVDVPAESGCLSYVPGSHLRDAAHRQVHMTSFAEYRPIADIWPDYDWQPRITVPLKAGDVAFHHCRTVHMAGANLTDNPRMGHGIVYMDDGSTYWPGTEDAHISHMAPGDPLDNEKFPLI"
+                },
+                {
+                    "id": "IO28_RS0104875",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 220869,
+                                "start": 219706
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MHGTWNRTDIGELGRRLQRAHGEVWLHQVKGDPYADLLRGHAEDPRPGQERIRALGPLWRSTTGAWVTADHRLAGELLGAGWPHRPLADDEAHVPVDDAGLGGDAAHYERLHGYARDAVPPAAVQAVSERVVGALAADFDLVTDLAEAVPTNLLAATLGPAGADRRELARACTAAGVVLDGLLCPQRLDVTRRAVAAVGRLRELLADPAADPEAGPGAGPHEAAVLLATAGVRTAASLIAGSVLAVADHPEEWSRVAEDPGHAALVVAEVLRHDPPVRIHPAVALADVEFAGQHVRAGERVVVLVAAANRDPEVFDDPDRFVTGRPVEALVPALHHRVTLPFARAQAEAVLRALVAARPRPRRSAGHLRSRRSPVTGHLLGCPLTTG"
+                },
+                {
+                    "id": "IO28_RS0104880",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 222180,
+                                "start": 220897
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MRVLFTSIEGNHFQQMVPLAWALRTAGHEVRAACNESLVDTVTQTGLTAVPIQSPTLWEQLDGFQKEAISLFNEIGTSKQDPSKATWEDHLSYENMVVPALYQPLNNDAQIDQLVAAARSWQPDLVVWESFSIAGAVVAVATGAAHARLVSGPELALQMVTRGHFVRHRDRQPEPLREDPTAEWLDWTLERLGSDRRFDETMLTGQWVVDTRPASLRQQLDLPTVPMRYVPYNGRCVVPGWLNEPVERRRVCITLGTSITSEESERFRLGETLAALFRSLAGLDVEIIAALDPAQRGALPDLPDNIRTTDFVPLNELAPSCSVIVHHAGYQTKATADLHGVPQVVIVGYEWVSEDMGEEYEKSGTTLAVSARDLTAEVLREKILRLLDEPSYTERAGALRDEIRAMPTPNEVVPVLEEMTREHRRRG"
+                },
+                {
+                    "id": "IO28_RS0104885",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 223067,
+                                "start": 222258
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPNPWDLPDELPTDLPVSRCELPDGRVLSAVQEAEAHTLWEEISSAAPYRKAAEGLRPGEAVIDVGAHIGLASLLFGGLAPESRVLAFEPAPKAYTCLEDNLARLLPGATAFRQALGAASGTSELTYRPYVASASTLYDDAEDDARNLEAHLDNIGADERTREVVRRTFNVSQRVTVEVTTLASVMAEHDVDRVGLLKIDVERGELDVLDGIDPACWPRIRRVLLEVHDIDGRLGRVVSRLSGLGFHATVSQWGVYVGGSVHLVLAERD"
+                },
+                {
+                    "id": "IO28_RS0104890",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 224333,
+                                "start": 223089
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSDGAPRPSGSGATADRALAPDLARGLMLLIVALVHAHMFVSGSAAVIRGYPPVAGSPADAATAGVLTVLADSRSFPMFALLFGYGTGRILARERERGRDGPGARAVLRRRARLLLLFGAVHALLLFAGDVLGAYGLLALVAVGLTGARDRILFTVAGAGVAVGTVLYASMLAAGVSGDPDDTAAAMFLAADPVSDAAYRIGTWVVTTPLFAVMSLGPFLIGAHAARQRVLEEPGRHRVLLRRVAVTGTALSVAGGLPLALVTSGVWTTAPSDVAWGLSALHVLTGYAGGCGLAAAVALLALRLEGRRSRAVTAVAACGRRSMSAYVWQSVVWLVLFAPYTFGLGDRVGVLGSALVALGAWGAGVLLADLLRRRGRRGPAEALLARVTRRAPPAAAAAPEREDAVREVNGPPSP"
+                },
+                {
+                    "id": "IO28_RS0104895",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 225171,
+                                "start": 224311
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MDKTTYKAHVTAAFDRAAGSYDRMGVTFFTPMGRRLVERAAPQPGQRVLDVGCGRGACLFHAAALVGDQGRVLGIDIAPAMIEEARKEAADLGIANVELRVMDGEFPDLPARSFDVVTGSYSLIFFPEARAALPRYAELLADGGRIAFTSPVFDDDAFPFLPPVFTELIPRSLLENLPPQWRPEELQKRFNSWLAQEADLRRALESAGFHEVEITDEPVDLVAPSGEAWVAWSHTQGMRLLWEHLPDDDRERLRVRLTGALDEMRHDGGPLSIETPVRYVTATVAR"
+                },
+                {
+                    "id": "IO28_RS0104900",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 226074,
+                                "start": 225454
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MVSSMESRKLSVEGAIEFTPRVFDDERGIFLSPYQESAFSDATGGHTLFRVAQTNHSRSRKGVVRGLHYTLTPPGCAKYVYCARGKTLDIAVDVRVGSPTFGKWDAVLLDTEVFRSVYFPVGVAHGFVALEDDTVVSYLLSGEYVPEHELALSILDPDLALPIPGDIEPVLSERDLAAPTLEKAASDGLLPDYAECLAIDRALRPA"
+                },
+                {
+                    "id": "IO28_RS0104905",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 227622,
+                                "start": 226159
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MALPHPSPTALRTLQDRLARSALAEESRVRQPAPFVTWFADARERSGLRVDRVDLDGLENWERDPRTGALRHSSGGFFAIDGLDVRFPSGPVPHWQQPIIHQPEVGVLGLLAKEFDGVLHFLMQAKVEPGNRNHLQLSPTVQATRSNYLRLHKGRAVPYLGYFQERTRHRVVADVLQSEQGAWFYRKRNRNIVIEVTEDIAVEEDFRWMTLGEIHRLLAVEDIVNMDTRTTLSCLPLAGGGLDVLLDTGDGFRDALARSCAGEPGGVHDVDELQSWITEHRAQNDLTTRSVPLVELRDWHSSPERVSHTSGRFFSVIGVNVSAGTREVRGWSQPMLEPHGTGVIAVLVKQIDGVLHILLRASVEPGYVDGVELSPTVQFTPESVPPGAALPRFVDDVLSAPPERTRFACLLSEEGGRFHHALNRYLVVEAEGDAESMEDRDFRWVTLDQLSTLLRHSHYLNVQARTLVACLHSLLAPRRPGGEALGL"
+                },
+                {
+                    "id": "IO28_RS0104910",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 230323,
+                                "start": 228383
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MDFRMLGPLEILDGPCNVVPTAPKPRQVIALLLMRRNTLVQTSELIDELWESDPPASAMTTLQTYIYKLRKILTARNSEEILFTRPGGYTLAIPDRSVDLHRFETEAGEGKSLLKNGDAAGAAEALRRSLALWRGSALVDVVPGGLLSSYVTRLEEFRERTLDLRIEADLQLGRHQELISELKSLVLSRPLHENVHASLMIALHRSGRRHEALEVYQVLRRSMIDNLGLEPGKELRALHQALLSEATGGVLYERHQQPVLVEPDRGPVGHPEPEEPPVAAAPRPAAAPGVPAPAQLPPDIADFTGRESIVDQAPALLAGVGERDRPPTAPAVAVISGMPGVGKSALAVHMSHTVRPFFEGGQLYADLRGSTGRGTDPTEVLHGFLRALGVAESEIPADLEERSKLFRSTTVGRRLLILLDDVSSLADVRSLLPGDPECSVVITSRRRLHGLGGAWNVNLDAMDTAEGRELLARIIGSARVRRERNAANQLMETVGGHPLAVRCIGGRLSGSPGLTLSGLATQLNCSEKLLDELRLGELDVRSRYDFSYEGLGRVEQSVFRLLSILPPRRFTADSVVELLGSDSRSVEHLLQRFVDSHLINIVRWEDGGAHYEFPELTRVYARERLLDTLSGDGPEHEGIWPDRRRC"
                 }
             ]
         },
         "loci": {
-            "accession": "NZ_JNZG01000006.1",
+            "accession": "JNZG01000006.1",
             "completeness": "complete",
             "end_coord": 230323,
             "evidence": [
@@ -242,9 +803,9 @@
         "organism_name": "Streptomyces erythrochromogenes",
         "polyketide": {
             "cyclases": [
-                "WP_031147021.1",
-                "WP_031146983.1",
-                "WP_031147011.1"
+                "IO28_RS0104825",
+                "IO28_RS0104725",
+                "IO28_RS0104800"
             ],
             "cyclic": true,
             "ketide_length": 20,
@@ -255,10 +816,10 @@
             "synthases": [
                 {
                     "genes": [
-                        "WP_031147015.1",
-                        "WP_031147011.1",
-                        "WP_031147021.1",
-                        "WP_031146983.1"
+                        "IO28_RS0104810",
+                        "IO28_RS0104800",
+                        "IO28_RS0104825",
+                        "IO28_RS0104725"
                     ],
                     "subclass": [
                         "Type II"
