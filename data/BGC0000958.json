@@ -22,7 +22,9 @@
             "comments": [
                 "Corrected NRP module activity",
                 "Removed ketoreductase stereochemistry annotation from modules without ketoreductases",
-                "Reworked NRPS/PKS modules to match reference papers"
+                "Reworked NRPS/PKS modules to match reference papers",
+                "Gene details extracted from RefSeq accession NZ_FR873698.1 dated 13-MAY-2016",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -79,8 +81,269 @@
                 "molecular_formula": "C28H40N2O9"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "STREPS4_RS11215",
+                    "product": "RNA polymerase sigma factor"
+                },
+                {
+                    "id": "STREPS4_RS11220",
+                    "product": "protein kinase"
+                },
+                {
+                    "id": "STREPS4_RS11225",
+                    "product": "non-ribosomal peptide synthetase"
+                },
+                {
+                    "id": "STREPS4_RS11230",
+                    "product": "type I polyketide synthase"
+                },
+                {
+                    "id": "STREPS4_RS11235",
+                    "product": "crotonyl-CoA carboxylase/reductase"
+                },
+                {
+                    "id": "STREPS4_RS11240",
+                    "product": "AMP-binding protein"
+                },
+                {
+                    "id": "STREPS4_RS11245",
+                    "product": "acyl carrier protein"
+                },
+                {
+                    "id": "STREPS4_RS11250",
+                    "product": "1,2-phenylacetyl-CoA epoxidase subunit A"
+                },
+                {
+                    "id": "STREPS4_RS11255",
+                    "product": "1,2-phenylacetyl-CoA epoxidase subunit B"
+                },
+                {
+                    "id": "STREPS4_RS11260",
+                    "product": "phenylacetate-CoA oxygenase subunit PaaC"
+                },
+                {
+                    "id": "STREPS4_RS11265",
+                    "product": "phenylacetate-CoA oxygenase subunit PaaJ"
+                },
+                {
+                    "id": "STREPS4_RS11270",
+                    "product": "2Fe-2S iron-sulfur cluster binding domain-containing protein"
+                },
+                {
+                    "id": "STREPS4_RS11275",
+                    "product": "SDR family oxidoreductase"
+                },
+                {
+                    "id": "STREPS4_RS11280",
+                    "product": "tryptophan 2,3-dioxygenase"
+                },
+                {
+                    "id": "STREPS4_RS11285",
+                    "product": "lipase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "STREPS4_RS11215",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 82474,
+                                "start": 81953
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MNTAHELPAPVDRLLPRARAGDEQAMNDLLLHITPYVTRVCRSVAHDNGSDARQEALLAIYRGLPGLREPAAFYGWVRSVTVREAVRTARRLGRETTSPEVDSRHEPHSLDAVHINDVLDRMSEAHRQVLTLRVYGLNEVEMAETLALPVGTVRSRLHRARRRFQEAWQPTAA"
+                },
+                {
+                    "id": "STREPS4_RS11220",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 83833,
+                                "start": 82523
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MRRALCPVENLYVAQRSRAFLSCALRGSVDPSVLAEAFDALTTEHPTLRSRIVPAEGGHALELLPEDERPRLIRREGGDEAYIEELNVPLPVGGPLSRAALVTTGPDTHLLTVTIDHTVTDGHSAITFMNALWDRYGELVATVPGQTPPAPVAEAEWPRPVSELLPAADPEETEKYLLRRVEETGAHPVELLAFDTPRDRPAGSGDPSEHRIEVRRLVLDAEETTLLRSTARDAGVSVHGLVAAALMTAARARLDGDGPRVLGCMSPVDLRARLTPPVSPSVMVASVTSHLQAVPVGGETDPLGLAREISTRLRESVERGDHFHEMRIMPRVPAHPALQMGSVIVTNMGATAAPRFPEGVEATDVRLVPARESYFPQAGRSPVMACVVSFDNRLAVELPHHTACFTPQYMRAFRDDVRTALLAFTQDAAPVPASAG"
+                },
+                {
+                    "id": "STREPS4_RS11225",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 93094,
+                                "start": 84401
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSGNEDDRRPLSGAQEGLWFAHRLAPGTAAYNTGEYVEIHGPVDTALFETALRRTVREADTFALRFLDTPDGPRAVRDGDPDEMPVHRVDVSGEADPAAAAEEWIRRDLATPVDVAAGPLFSHTVLTLAPDRFIWFLRAHHILLDGYSYKLVARRLADTYTALAAGEEPPPAGFESADRLAAEEAAYLGSDRHSRDRAYWTERLAGLPEPVRLTDRTAPPRAPFLRRTAVLSPAETRALDEAAKGMGIARTDLLVAAVAAFLHRMTGADDLVLGLATMSRLGSAALRTPGTASDILPLRVAASADTPVGDFVRAVADDLRGLRAHQRHRGESIRRDLGVLGRGRRVHGPVVNIVPFSEDLTFGGHPSTSHHLSGGAVDDLQISVRPGAEADTVWLAFDAHPDLYEEDGLALFLERFLKVLRELRTCPEELPLGETPVLLPGEEPVRRDEPAPRVTRTLPQLFEARVAEGPGRTAVSYAGETQSYAELNAEANRLARLLVEQGAGPGRFVALALPRGPRLVPALLAVLKTGAAYLPLDPGHPAERLALVMADAEPVAVVTDTAGSGRLPATVARVLVVDDARTVADLAGRAPHDLTDADRAGATGPYDTAYVIHTSGSTGRPKGVPVPHAHVVRLFEASGEHFRFGADDVWTLFHSYAFDFSVWELWGPLLHGGRLVVVPYEVSRSPREFLRLLDEEKVTVLNQTPSAFEQLVLADAATDRPIGSLRYVVLGGEALVAERLRPWADRHGLDAPELVNMYGITETTVHVTFHRLVRADLEDPRRRGVIGRPLPDLRVYVLDAAGRPVPPGATGEMYVSGPGVAPGYLNRPELTEERFLPDPFGAPGNRMYRSGDLARWRPDGTLVHAGRADQQVKIRGFRIEPGEIEAVLTAHPAVAGGAVVPRAAEDGLTQLVAYAVPAEEGGADPAGLRAHLAARLPAYMVPAACVLLDALPLTANGKLDTAALPAPDFGGVAGGAPPATPEERLVCGLFEEVLRLPADSVGTGGNFFDLGGHSLLATRLLARLRERTGTDVPISALFDTPTPAALAERLTAGADAGRPLPALTASERPSLVPASFAQERMWFLSRMDGAAATYNIPLPVALRHPLDLDALRAALGDVADRHESLRTVFGEEDGAIHQRVLPPGTLRPELHVVDCPDEERAAHVAAAMRRSFDLTRDSALWAGVFGTGDTHTLLLVLHHSAADGWSLRPLADDLGTAYAARRAGAAPDWAPPALQYADFALWQRRVLAPAPEGPGRLERLTSFWRQALDGLPEESAPPPDRPRPAAPSGRGGGVTVPLDAGTHRELLRLADHENASLFMVLHGALALLLNRWGAGDDIVVGTPVAGRTEPALDEVVGLLTNTLVLRADASGDPTFRELLARVRAFDVRALDHQDLPFDRLVEEVNPRRHPARHPLFQVMLALQNNERAVLTLGEDRVPLRPAATGTAKFDLFVDVLERHGADGTADGLDLHVEYAADLYDRATAERFAGALRDLLAVVCADPEVRTGALPRADRPSPATADTTARAGALTRSVLEVPGVGDAVVLPGPDGEPATVYVVPNRAGAADRTEQVVSSLAPGTRVVAISGLPRTAEGGLDEGALGDLPVVDSVAAGAWRERLARLPGVREAEVVLEEVPEELERRHVGRPRRAGGEAEPDAPSVERPASVPALSEGPALPEPSVSGWAEALLRAAGRPDGEVVHVRADGSETRRSYASLVPEASRVLAGLRRRGLRPGDRVILQCDDTEDFVATLWGCVLGGFVAVPLTVPVSYATTSAAVSKLEGIWEMLDRPWIVTSAAGEPGLRELAARREWSGLRLTTADALREEPEDRDWYEARPDDLVLMLMTSGSTGLPKAVRLTHRNVLTRAAATEAMNGLGSGDVSLNWIPLDHVTGVVMFHLRDVYLGCRQIHAPTSWILEDPVRWPELADRHRVSVTWAPNFAFGLLAEQAHRFQDRDWDLSPVRLVMNAGEVVVASAARRFLHVLAPFGLPQDVMHPGWGMSETCSVVTDSVLASEAPDHDEAFVSCGLPYPGFAMRVVDDQDALLPEGDVGRLQVRGTSVTHGYHDNARANAESFTEDGWFDTGDLAFLRDGELYITGRAKDVIIVNGVNHYSHEIEACVEELPSVVRSFTAAVAVRSDASAATDELALFLRLAPGQDPAGALREIAGKVTREIGVSPAFLIPVEAEAIPKTEIGKIQRTKLRKSFEAGEFDGAVRETQLLLGTAATMPDWFLHPVWRPAENLHAATLPTGHRVLVLAGPAPHAHAVAEEVAGAVRDAGGLCTVVTEGPAPERNGAASYRVRPGEAGDLAAVLEKLDADGRTPDTVVHLAATEDAEDGAAPGSDVSLLVLAQALAGRTGGERPVDLLFVTAGAQAVTPEERPTASHAAAGALLKSLREELPWLRGVHLDLSGGSAGERAAAVLAEAAGFPADTEVARREGQRYVRRLAPLPDPAPRTAPDPADGFHLVSGGLGGVGSEVAAHLLKEPGTRLLLIGRTGLPPEDTWERHLADAGPAASRIEAFRRLRGLGEVRYETADVTDAAQVRAAVRRAADAWGVPLVSVLHLAGAFDERPVRELTPQEWREALAAKVDGAWALHRVAAGHPVTSFVTFSSVNGFFGGAMNAAYSAANAALDDLALRRRREGLPGQSLAWSMWRERGMSLGYQLTSLTEARGYRVLDAQAALRSFDLARTLDLPHLLIGADRTAPWVRSHVLAPVRQVRRTAARVVLDEGTDLGALYGAAARAAGPEGTFVLRSAGSADRSEDTGGADELRRLEGELAAVWCTVLGRDRVGRDENFFDLGGNSLLLVAAQTAVNKALGCELGVVDLFSRPTVRALARHLSQQGAAAAPRDAASGPVPDAPAPPPSGLERAKQQAERQRSARGARRSAQQRKDRRHG"
+                },
+                {
+                    "id": "STREPS4_RS11230",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 96908,
+                                "start": 93087
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MDDPQALPEDEAPAVAVIGMAARFPGADDVDAFWDNLARGHESVRPVSDEEFLAAGGDPEDLDDPSLIRMASVIEGIDRFDSGFFGYSPAEAAVVDPQQRLLLETAYHALEDAGRPGEDTPSGTTGVYAGSGDSRYYPAHVHPRFAGQPGSVALVHAATANSLGTLATRVSYELGLTGPSLSLQTACSTGLVALHTAFQDLVEYRCDTALAAAVSLNPSAHLGYRHVPDGPFSPDGHCRTFADDAAGTSSGDGVGAVVLKRLEDALADGDRIRAVVRATAVNNDGRRKVGFTAPSTQGQTEVVLAAQALAGIDADTIGLVEAHGTATRIGDPIEVAALTEAFRQSTDRRGYCALGSVKTNIGHLGAAAGMAGLVKAVLALEHRRIPPSLHFDRPNPLIDFGSGPFRVPTTLEEWPQEPGHPRRAAVSAFGVGGTNAHVILEEAPPVAPAPPRPSEDGRRLVLPLSARTSGALRGQADALALRLEERPGLRLDDVAGALRTDRPALRHRLTVSASSVPEAVEALRAAVPAVPPVPDEPPKVAFLLPGGGTQYVGMGSGLYRENDVYRDTVDHCSALLRPALGSDLRTALFEEVEPGSTAAFMALFVTEYALARTLMEEGVRPDALIGHSLGEYTAACLAGVMEIDEALPVVAERIRLIASSGGATVGVAASVDTVLPLLGEGLSLAAVNSPVACTVAGDTDAVDRLEAELTRRDVPFRRLRMPAAAHSHVLDPILESFAGHLRTLTLRPPRIPYVTNVTGDWATDAQATEVGHWVDHTRRTVRFADGIAALWERERPVLVEIGPGDSLTKLARARLDGEGPVAVTTMRHAKAQAADGFVLAEALGRLWSAGVDAALPPVPRPPRGTGRVPLPGYAFERHRHWIDAPGARAPEGSGARPEESAPGGGTGLAPRPHLATAHVAPGTPRERAVAELWEEALGIGGIGVHDNFFDLGGDSMRAVLLVGRLRQKGVLDVPAASLLAAPTVAGLLAAGEPAEDAVAGPGALAPLLPLRPDGGRRPLFCVHPGAGVSWRYSGLLPHLGADQPVFGLQAAGLDGAGQPARDAREMVEGYLDLLRTVQPNGPYRLLGWSYGGFVAHAMACALQERGEEVELLALLDAPLPHGSAHDPKTAERQVAGLLSRVAGLELGADGPPGVEDVLDRVGEAHAAGSSPVSRDEAASIAAVMRNNLRIAPEFTPGVFRGDALFFSATRDLVPAADAGDLSLAAGKADAWRPYVRGAFEDHAVPCGHYDMTEPDPIARIGEVVAKALRPASG"
+                },
+                {
+                    "id": "STREPS4_RS11235",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 98184,
+                                "start": 96958
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTMTKDLYELGDAPPLGTAPKQMYASLIRQERYGRPVDAFRTEVVDVPPVGPGQVLVKVMAAGVNYNNVWAALGEPLDVIAARQKQGATEDFHIGGSDLSGIVWAVGDGVRLKPGAEVVVLACRWDESAEDIRLGADPVTSSTQRVWGYEENYGSFAQFAVVDEYMCHPKPQRLSWAAASCYMATAATAYRQLFGWEPHTVRPGDPVLIWGGAGGLGSIAIQLVRHVGGIPVAVVSSEERGEFCMRLGAKGWIDRREFDHWGRLPDTTDEEAMKQWLDGARAFGRRFWEVLGERRAPRIVLEHSGADTIPTSIYMADNAGMVVICGGTTGYNGDVDLRFLWMRQKRLQGSHVASVREAREITRLIDQGAIDPCLSRTFGFEEIGLAHQLIHDNQHPSGNMAVLVNATE"
+                },
+                {
+                    "id": "STREPS4_RS11240",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 99751,
+                                "start": 98273
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MWLTQLAERNRQCHPDRTALVDERRSVTWAQFHDRTVELARGLAALGIRRGDRVAVLAQDRIEVVESYFALARLGALFVPLNHSLAVPEVAGIIERVGAVAVLGESALLDRHTSLPASVRIRMPLDKPVFDALGTVDEPVELPEVADTDPVAILHTSATTGQAKGVTVDGGSFRAIALGWLVLARPTDDIVMVNCCPLYHGSMVVSLTYMAAGATIVLMPGFTPQRALAAVEENRATHMWMVPQMVRFMLQAKGSHRTDLGSLREILYGAAPMPLDVYAEAVERLGCGFRQVYGMTEVGGPFVTLGPDEHPEPGDVTARIPCGRVVPGMSARAVGEDGQEVERGEIGEIVVRGPGVMQGYWNDPEATEEVTADGWVRTGDLGFVDEGGRIHLVDRSKDVIIRAGQNVYPSEIERALTAHPEVRDAAVVGVPDEDYGEVPLAYVVVEEGTTTATLLAHVRENLAPYKRPRSFEFIERVPRNPAGKILKKALRA"
+                },
+                {
+                    "id": "STREPS4_RS11245",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 100008,
+                                "start": 99751
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSTIRELLVELTGTTEYAETLGDDVDLAGSGIDSGDLVRLVLLVEQRTGVEITGDDMEELRTIADYERFVAERTTAPAAGTAGGA"
+                },
+                {
+                    "id": "STREPS4_RS11250",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 101361,
+                                "start": 100306
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTGAPARAAASPGAGEEAASQARLTAEFEALLAEGETVEPRDWMPDGYRRMLIRQIAQHAHSEIIGMQPEGAWLTRAPSLHRKSVLLAKVQDEAGHGLYLYSAAETLGVDRAELLAALHRGQQRYAATFNHPALTWADTGAVAWLTDGAAVINQAPLCHTSYGPYARAMRRVCQEEAFHVRQGYDLMKALCEGTPAQKAMAQDAVDRWWLPAVALMFGPPDTEAAGGDAKTAALGAAVSRRAIAWGIKRHTNDELRQRFVDHCVPQAERLGLTLPDPGIRWNEERGHYDFGPVDWELYRGALGDDTHTARQRLAHRVAAHEDGAWVREAAAAYAARQSGADTAGTSTEAVA"
+                },
+                {
+                    "id": "STREPS4_RS11255",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 101660,
+                                "start": 101358
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSRPAEGAPASWEVFLRPRRGLSHQHVGSVRASDPDMALSHARDLYTRRGEPLSLWVVRSDTVYAASPGERDPFFSNAPHKPYRYPEEFVPLSEGGEGDD"
+                },
+                {
+                    "id": "STREPS4_RS11260",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 102441,
+                                "start": 101653
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTETVTGPARQGTDRALARYAVRLGDDALVLAQQLCGWITRAPTIEEDLALSNIALDLVGHARTLLALGGRLDGTGRTEDDFAFLRTEREFTNALLVEIPDGDFAGTVARQLAYTHHAVLLYEALAASTDPELAAFAVRAAKEVAYHRRHADDWVVRLGLGTAESARRMRAGLERVWPCTAELFEEDALVRGLTTAGAVPAPGPLRERWHEEVTAVLERAGLPLPAPKWHATGGRDGLHTEAFGPLVAELQSVHRQFPGGTW"
+                },
+                {
+                    "id": "STREPS4_RS11265",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 102956,
+                                "start": 102438
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSGAPHPEPSPAPLPVAEVARQVGEVPDPELPMIGLGDLGVVESVAVADDGNLEVAILPTFLGCPALPAITASVREVLVRCGHPEGRVRHVLAPAWSSDRISERGRTALAAHGIAPPAPSDAPEPVRLGLGTPCPYCGSLATRPHSAFGPARCQSMLHCAGCRETFPLMTAM"
+                },
+                {
+                    "id": "STREPS4_RS11270",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 104071,
+                                "start": 102968
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MDTAVPRAAQAAPPRTGWYPLPVTSLDRLTEDTIAITLEVPDGLRERFAHRPGAHVVVRHRSGGRELRRSYSVCPPPEDPAALRLVVKRNTFDGFGAYALERLAAGDLLEVGPPAGHFGLPPVRGAHHVLIAGGCGITPLAPMAAAALREDPTCRVSLVHAARTARGALLADETAVLKDAYVDRFTALYVLSRERRETELFSGRIDADRLTRLLTLLGARPGPGTRFAVCGPYGLVETVRSTLDGWGAEPDTVRFELFSTDGAPPEPEPEAPAVRRGRVTTVLAGRTGTVTTAPEDTTLLDTVLRSRPDAPYACRDGVCGNCRAKVVRGAVTLGRQHALDAADLAAGYTLACRARPRTDDVTLDFDA"
+                },
+                {
+                    "id": "STREPS4_RS11275",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 104894,
+                                "start": 104118
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTTTQRHQGRTALVTGGSRGIGRAISRRLAAEGALVAVHYGHDHAAAERTVKEIETDGGRAFPVHAELGVEGDAATLWAAFDEALSGTGSGPGLDILVNNAGITLPRPIAAVTEAEYDRVFAVNTRAPFFIVQRSLERLRDGGRIISISSAATQTAYPAIVAYSMSKGALDVLTPALAKQLGPRGITVNTVAPGFTETEINPTLSNPEIRKALSSASVFGRLGAPADIADVVSFVASDEARWVTGQWIDATGGVGLGL"
+                },
+                {
+                    "id": "STREPS4_RS11280",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 105788,
+                                "start": 104940
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MNDGPSALADPAEDTALTRPFPGASPYEEYVHASVLNTLQQPLTEAADEMGFLVTTQVMELWFTLIVHEWRTAREALVKDDLPAALDALVRSRRALSALNDSWQPIAALTPLQFEGFRAAFGRASGFQSAMYRHIEFLLGEKSQSLVNAHRGDPAVHEALRDAHREPSLYDEVLCFLHRQGLPVPAHVRERDVSLSYTSDPAVVELWRGVYAGSPYEAPARLAEALTDIAELVARWRFDHLMVVRRAMGAKPGSGGTAGVAYLEQRARRVVFPELWEARGAL"
+                },
+                {
+                    "id": "STREPS4_RS11285",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 106578,
+                                "start": 105778
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MRSRVISAFAAEEEKRVLSLRPVLAPHHGRYGDHPHQVYDAWPAEDPDAPLVILLHGGYWRYDRMHLTPFAAYLAGQGLSTVLPGFRRSGGAGGYPETFDDVARLVDTLPEGRPYILAGHCSGGHLALWCAARGLLPPGSPWHTSTLPTGVLALAPLTDLAATRRDGLSDDAALQLMGGEEGFDAHMASVDPLTLLSGAGTTGVPTVLLHGEVDEEVPLTQFSDYAAVHHDLRTVVLPGTGHYTLIEPGAPAAREVADTLWRMARA"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_FR873698.1",
+            "accession": "FR873698.1",
             "completeness": "complete",
             "end_coord": 106578,
             "evidence": [
@@ -99,7 +362,7 @@
             "cyclic": true,
             "nrps_genes": [
                 {
-                    "gene_id": "WP_010639240.1",
+                    "gene_id": "STREPS4_RS11225",
                     "modules": [
                         {
                             "a_substr_spec": {
@@ -149,7 +412,7 @@
             "synthases": [
                 {
                     "genes": [
-                        "WP_010639241.1"
+                        "STREPS4_RS11230"
                     ],
                     "modules": [
                         {
@@ -164,7 +427,7 @@
                             ],
                             "evidence": "Activity assay",
                             "genes": [
-                                "WP_010639241.1"
+                                "STREPS4_RS11230"
                             ],
                             "module_number": "3"
                         }
