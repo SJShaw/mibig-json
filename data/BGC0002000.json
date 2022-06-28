@@ -11,7 +11,9 @@
         },
         {
             "comments": [
-                "Fetch compound properties from PubChem"
+                "Fetch compound properties from PubChem",
+                "Gene details extracted from RefSeq accession NZ_AOPZ01000074.1 dated 29-MAR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -50,8 +52,269 @@
                 "molecular_formula": "C34H28O9"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "STRAU_RS10340",
+                    "product": "DHA2 family efflux MFS transporter permease subunit"
+                },
+                {
+                    "id": "STRAU_RS38955",
+                    "product": "TcmI family type II polyketide cyclase"
+                },
+                {
+                    "id": "STRAU_RS10350",
+                    "product": "nuclear transport factor 2 family protein"
+                },
+                {
+                    "id": "STRAU_RS10355",
+                    "product": "response regulator transcription factor"
+                },
+                {
+                    "id": "STRAU_RS10360",
+                    "product": "cytochrome P450"
+                },
+                {
+                    "id": "STRAU_RS10365",
+                    "product": "ferredoxin"
+                },
+                {
+                    "id": "STRAU_RS10370",
+                    "product": "nuclear transport factor 2 family protein"
+                },
+                {
+                    "id": "STRAU_RS41390",
+                    "product": "TcmI family type II polyketide cyclase"
+                },
+                {
+                    "id": "STRAU_RS41395",
+                    "product": "TcmI family type II polyketide cyclase"
+                },
+                {
+                    "id": "STRAU_RS10380",
+                    "product": "beta-ketoacyl-[acyl-carrier-protein] synthase family protein"
+                },
+                {
+                    "id": "STRAU_RS10385",
+                    "product": "ketosynthase chain-length factor"
+                },
+                {
+                    "id": "STRAU_RS10390",
+                    "product": "acyl carrier protein"
+                },
+                {
+                    "id": "STRAU_RS10395",
+                    "product": "SDR family NAD(P)-dependent oxidoreductase"
+                },
+                {
+                    "id": "STRAU_RS10400",
+                    "product": "polyketide synthase"
+                },
+                {
+                    "id": "STRAU_RS10405",
+                    "product": "alpha/beta hydrolase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "STRAU_RS10340",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 3571,
+                                "start": 2057
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MEVTATRRWLALGALALAMLTVGLDMTVLNIALPTLARDLGAGTAALQWFSTAYTLTLAGVMLPAGALGDRFGRKKVVFGALVLFGAASIWCAFAGSSGELISARVLLGVAAAALMSLSMGMIPVLFPDPAERGRATTVWITAVTLGMPLGPIVGGLLLNHFWWGSVFLVNIPTVVIGALAVGLWMPESRSRVRRPIGPVSVALSAAGLVGLTYGLIRFGDLGWGDGAAWATFIAGLALIAGFVAWERTREHALADLSLFGDRGFRMGTIYQLINAFAMFGLFFTIPLYFQSVLGVDSLGSGLRMLPMIGGLLVASNFLEGLRDKIGLKPTLMIGFALLAVGMGLGALTDIGTSYAFVATWMAIVGLGIGLVLPTSMALAVGALTPERAGAGSALLSALRQAAGTTGVAVLGTVLSTRYHSELGPLNHKPISDGVGSGVAVADSLGNKAMLHDVQTAFVSGMNLLLVVCAGIAVVGLILAAVTTKSRTTEPGAQLPDSESAPVA"
+                },
+                {
+                    "id": "STRAU_RS38955",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 4262,
+                                "start": 3603
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MNMRSMVTVSKMDHNSIPEVSKLFTEFDSTEIPNLIGLCRRQLFVHDDVQIHLYDFAEQADQSALAKVKGDPRMARLSMDLKPFVAPYDPETWNSPADSAAFCFYDWQDEPIENAGRTDTTVTVTRMDQASIPAVTSIFRESDSTESPRSMGTRRRQLFAYRDLCIHIQDHDGSDGADIAQKAASDIWFGKVVRDLPELADQKPTTDGHASRFYGWVAP"
+                },
+                {
+                    "id": "STRAU_RS10350",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 5182,
+                                "start": 4754
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSINHAQAEVSSLLDRYVLGLDYDKLDDEWAYGLFTNDVLIEFPISRHTGIEGLVEYHQKALSMWARTHHVNTPSIVSVDGDRATLRANMTAVRVLHEQDGETRPHYSTGTYITGDAVRTERGWRLSRLSFDLIWKTGNPPA"
+                },
+                {
+                    "id": "STRAU_RS10355",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 6050,
+                                "start": 5241
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MKAIPQQELLESHDGGHGATVRSIFGSRRGAPAATQAPPRNVSDTWRILVVEGNKADRATLTEALARQGHDVGAVNSGGDALASYEAADLVVLDLDLPDLDGLEVCREIRAARDTPVITVTSRGSELDCVLALQAGADDYVVKPYGLRELMARLNAVMRRSRRTACADPGAEGAAVLEHGPLRIDSHSREVEMRGRPVPVTRKEFDLLALLASAPGRVISRESIMHQVWGESWSRRTVDTHVSSLRNKLGGPEWIVTVRGVGFKLRSMR"
+                },
+                {
+                    "id": "STRAU_RS10360",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7371,
+                                "start": 6151
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MANADIDETNELVSFPIQRTCPFSVPPVYTKFREESPITQVVLPDGGKAWLVTKYDDVRAVMANPKLSSDRRAPDFPVVVPGQNAALAKHAPFMIILDGAEHAAARRPVISEFSVRRVAAMKPRIQEIVDGFIDDMLKMPKPVDLNQVFSLPVPSLVVSEILGMPYEGHEYFMELAEILLRRTTDEQGRIAVSVELRKYMDKLVEEKIENPGDDLLSRQIELQRQQGGIDRPQLASLCLLVLLAGHETTANMINLGVFSMLTKPELLAEIKADPSKTPKAVDELLRFYTIPDFGAHRLALDDVEIGGVLIRKGEAVIASTFAANRDPAVFDDPEELDFGRDARHHVAFGYGPHQCLGQNLGRLELQVVFDTLFRRLPELRLAVPEEELSFKSDALVYGLYELPVTW"
+                },
+                {
+                    "id": "STRAU_RS10365",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 7577,
+                                "start": 7383
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MKLEKDHDRCIGAGQCVLTEPRLFDQDDWGLVDILVERPRGADEAAARKAVYICPAKALSLVEE"
+                },
+                {
+                    "id": "STRAU_RS10370",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8115,
+                                "start": 7645
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTNMDTTATDTTAEIRRMEDLFALRALVTRFAHAVDTRDHEALSTVFVPDVTMEVVPDIRIDGREKLAGMLRDDRMWATTMHYMSNVLPEPEGDGATIRANVTAVHVSRDGAAKHFDLGARYTFTAVRTADGAWLLSRIEIEPVWSTGDDQGMHDH"
+                },
+                {
+                    "id": "STRAU_RS41390",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8620,
+                                "start": 8333
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MHSSVIVGRLKPGSTEDVVGAFAKLDGAPSGTRKLLRRQLFAYKGVYIHLQDHTEDNLTEVVEHGAGAALAPFVDAYGPAAGTAPSDLVATRFYEW"
+                },
+                {
+                    "id": "STRAU_RS41395",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 8983,
+                                "start": 8651
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MYSTMIVARLDPADIGTVAKLFGDFDSGTELPHTMGTRRRQLFAYNGLYFHIQDFESDNGGRLIEQAKSDPRFVQIQKDLLPYIHVFDPETWRSPSDAMAQRFYTWQVAA"
+                },
+                {
+                    "id": "STRAU_RS10380",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 10251,
+                                "start": 8980
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSGRRVVVTGMEVLAPGGVGTDNFWSLLSEGRTATRGITFFDPAQFRSRVAAEIDFDPYAHGLTPQEVRRMDRAAQFAVVAARGAVADSGLDTDTLDPYRIGVTIGSAVGATMSLDEDYRVVSDAGRLDLVDHTYADPFFYNYFVPSSFATEVARLVGAQGPSSVVSAGCTSGLDSVGYAVELIREGTADVMVAGATDAPISPITMACFDAIKATTPRHDDPEHASRPFDDTRNGFVLGEGTAVFVLEELESARRRGARIYAEIAGYATRSNAYHMTGLRPDGAEMAEAITVALDEARMNPTAIDYINAHGSGTKQNDRHETAAFKRSLGEHAYRTPVSSIKSMVGHSLGAIGSIEIAASILAIQHDVVPPTANLHTPDPQCDLDYVPLNAREQIVDAVLTVGSGFGGFQSAMVLAQPERNAA"
+                },
+                {
+                    "id": "STRAU_RS10385",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 11444,
+                                "start": 10248
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTASSVVVTGLGVVSPNGLGTQGHWSASRVGKSAIGPLTRFDATPYPAKLAGEISGFAAEEHLPSRLMPQTDQVTRLSLVAADWALADAGVNPAELPAFDMGVITASSAGGFEFSQNELKSLWSKGGEYVSAYQSFAWFYAVNTGQISIRNGMKGPSGVVVTDQAGGLDAVAQARRQIRKGTSLVVAGAVDALLCSWGWVGLGTSGRLSTEEEPSRAYLPFDDRAAGHVPGEGGALLILESADSAHARGAEVYGEIAGYAATFDGREPGLRKAVELALADAGLAASDVDVVFADGAAEPELDRIEAEALVEVFGERGVPVTAPKTMTGRLYAGGAALDLATAFLAMEEGLIPPTVHTEPAERYGLDLVVSQPRAADVRTALVLARGHGGFNSAMVVRS"
+                },
+                {
+                    "id": "STRAU_RS10390",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 11773,
+                                "start": 11507
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSRSTFTLDDLKRILLEGSGAPEGDGLDGDVLDTEFTDIGYDSLALLETSSRIEREYGIELDESVVGEATTPRAFIAAVTGHLTVAAA"
+                },
+                {
+                    "id": "STRAU_RS10395",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 12648,
+                                "start": 11863
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTQQEQRVALVTGATSGIGLAVARLLAGQGHRVFIGSRTEDKVLTTVKQLQEEQLDVDGTVLDVRSTDSIRAYVQAAVDRFGRVDILVNNAGISGGGVTADIADDLWNDIIDTNLNSVFRLTREVLTTGGLRERSWGRVINIASTAGKQGVVLGAPYSASKHGVVGFTKALGNELAPTGITVNAVCPGYVETPMAERVRQNYSRLSGAPESAILEKFQAKIPLGRYSTPEEVAGLVGYLASDTAASITSQALNVCGGLGNF"
+                },
+                {
+                    "id": "STRAU_RS10400",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 13647,
+                                "start": 12682
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MPSELRTSEHEIKIAAPAESVYRLLAHAENWPQLFPPNIYVDHVERTGREERIRIWATAGDTVKNWTSRRTLDPDRLRIDFRQEVSTPPVAAMGGTWQVEALPSGETLLRLGHDFRATDDEGLTWLEEVVDRNSRSELDSLKALAESRDGDGDGATDELTCSFEDTVQIKGAAQDVYDFIWEADLWSERLPHVMTVRLDEPVPGLQTLEMDTLSKDGSTHTTKSHRVGLAPHRIAYKQTTLPALITLHTGYWTFTPNDDGVAASSQHTFTVDTGNIAKVLGADATVQDAIAYVRTALSTNSMATLGIAKTYAEGLAGAGRS"
+                },
+                {
+                    "id": "STRAU_RS10405",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 14558,
+                                "start": 13644
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTTAPVAPFTGRSADPRIDRRHLTLDADGVTLSARLARPAHVPPRATVVALHGAGMSAGYFDGPAHPETSLLTLAAELGFTAVAVDRPGYGDSAGRLPHGQGVAAQADTLAAALRGLLARHETGAGIFLMGHSFGCKPALRIAADGTVPGLLGLDLSGCGAEYLAAPGAPATRAGSWKLNWGPLRLYPPGTFQSSIDVVAPAPVRELADAAHWPTVFPALAERVRVPVRFTFAEHEAWWRRDHEALTRLRNRLAAAPRVLIDHQPDAGHNISLGWAARAYHLRALGFAEECLRRYAADGKVVHP"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NZ_AOPZ01000074.1",
+            "accession": "AOPZ01000074.1",
             "completeness": "Unknown",
             "end_coord": 14558,
             "start_coord": 2057
