@@ -12,7 +12,8 @@
         {
             "comments": [
                 "Added chemical activity and supporting publication",
-                "Refined reference coordinates"
+                "Refined reference coordinates",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "SJG3CBEHSM6A3I74YXLH6GLA",
@@ -46,7 +47,7 @@
             }
         ],
         "loci": {
-            "accession": "NZ_JNYY01000005.1",
+            "accession": "JNYY01000005.1",
             "completeness": "Unknown",
             "end_coord": 418113,
             "start_coord": 420871
