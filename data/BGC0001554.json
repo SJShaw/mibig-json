@@ -17,6 +17,16 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Gene details extracted from RefSeq accession NC_007355.1 dated 19-MAY-2017",
+                "Changed from RefSeq to GenBank accession for stability"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -31,8 +41,99 @@
                 "molecular_formula": "C42H51N6NiO13-"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "MBAR_RS01875",
+                    "product": "sirohydrochlorin nickelochelatase"
+                },
+                {
+                    "id": "MBAR_RS01880",
+                    "product": "coenzyme F430 synthase"
+                },
+                {
+                    "id": "MBAR_RS01885",
+                    "product": "Ni-sirohydrochlorin a,c-diamide reductive cyclase catalytic subunit"
+                },
+                {
+                    "id": "MBAR_RS01890",
+                    "product": "Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit"
+                },
+                {
+                    "id": "MBAR_RS01895",
+                    "product": "Ni-sirohydrochlorin a,c-diamide synthase"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "MBAR_RS01875",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 400761,
+                                "start": 400369
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MTEKLGILAIGHGSKLPYNKEVVTQIADYIARKHSDVVVRAGFMENSEPTLGEAIEGFSGTGVTKIAAVPVFLASGVHITKDIPRILSLDENGCGTLEIDGKTVPLCYANPLGADELIADLVFKRVQEAL"
+                },
+                {
+                    "id": "MBAR_RS01880",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 402374,
+                                "start": 400788
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MDLYRKKFAVLDLTHGGIPIAKSLAAAGNEVSGIDVYRTVKPETLLELEEKYGIHCSKTPLPASGFDLIVAPVHLDPAYPMLLEARAQKKKVLSHHEIVGEILKGDSRLSSIKTVEVTGVKAKTSTASLLADMLSRQFEVVLHTSRGLECWKAGASSLIYKGLSITPGSILVAVEKTFEAGFRPDFFIFEISIGGTGTADLGILTTLSPDYGIANNTALASEAKLQLIKHAKSGSTLLINAGAEKALKAAKKDQVKVLTFRDPFNDQLSATSVQIADFVLETVPETSALSVPSELVMPSGLQKPAGLSGSSEPDSLSGSSTSAGLSDSSMPAGSTEFQASPTPSGSDIRFMRRGKKILSASLRPGYNVSAYRTAFVAASAAAIELGTKPEAIISAIEGFRGLSGRMQEKEMNGVSLIDNSNSGMDILSAEKALDYALLKRKDEKKEGIILVLGEESSQVCEGLPPELVQGFIEKFGAKCKQVILVGERMKAVNGKNISYARDLTEGLSKASEFAGGDDIILSSVKCFR"
+                },
+                {
+                    "id": "MBAR_RS01885",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 403922,
+                                "start": 402810
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MAEKEISIIHPRPSSIVAALYTLRDLNVDVAIMHGPPGCSFKHARLLEEDGIHVVTTGLDENNFVFGGHDKLVQLINKSVELFNPKLIGIVGTCPSMIIGEEMHDAVLEANPDVPVIEVEVHAGYHDNTKGVLFALESALDAGIIDHKEFERQKYLLEKATEVEKKFGAASREYLAPSRGDVKYKAAQRVIQLLKEGKKGLVIMNAKKETGYMFADITLAVNEVAEALGNKENLINMANIDPELGLPRVRQHAEYITRDLKAHGVEVHEIIGGMDEYPIAGEKVSELIKEKYSDFDFAVISGVPHAIPMENIKNMELISITNGPRQVLPLKEMGHEYVLVEIDLHPKTLGVSGIVESEFGATLREVAKEA"
+                },
+                {
+                    "id": "MBAR_RS01890",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 404757,
+                                "start": 403960
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MKNQKIIAIYGKGGIGKSSTASNVAAACAEAGKKVMIIGCDPKSDSSITLLRGRRIPTILDLLREGVDIKKEDVVFEGYAGVKCVEAGGPEPGIGCAGRGIIVAIQKLKSISGNLLKEQDLIIYDVPGDIVCGGFVAPVRKGFVNEAYVLTSGEYMPLYAANNICKGLSKIGMPLSGVICNSRNVSREEEIVSKFSEEIGSQLMAFIPKRQVVQDCEREGYSVMEKAPESDIAEIYRKLGKAILENEKRVTADSLSDERLRELTK"
+                },
+                {
+                    "id": "MBAR_RS01895",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 406343,
+                                "start": 404859
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MLNDKQSVENIPRILISADRSSSGKTTISMGLMAALVSRGYKVQPFKVALDYIDPSYHTEITGRFCRNLDGYLMDENGILDVYTHACEAGEKADIAIIEGVRGLYEGFESLSDLGSTAQIAKILNCPVIFVINARSITRSSAALINGYRNFDPDVEIAGVILNNIGSRRHAKKAKEAIEYYTGVPVIGIVPRDPAMQISMRHLGLMPALEGRRRLGDGGFEARLRGIEEIINKGIDVDRFMEIAKSAKALKSPENSVFSSVSDPGAPRPKIGVALDEAFNFYYRDNIDLLNLAGAEIVYFSPVKDASLPEVDGLYIGGGYPELFAAELEANESMRQDIKKASAAGMPIYAECGGLMYLTEKISTGVPGKGTYHDASMPESTYSMVGALPGHTIMGQTRVVSYNIGTLNKDCLLGKKYNSFKGHEFHHSEIREIPEDAEFAITLSRGTGIKNGMDGLISGNTLGSYAHLHGVAYREFASSLVEAARNFRDSRVLP"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_007355.1",
+            "accession": "CP000099.1",
             "completeness": "Unknown",
             "end_coord": 406343,
             "start_coord": 400369
