@@ -11,7 +11,9 @@
         },
         {
             "comments": [
-                "Fetch compound properties from PubChem"
+                "Fetch compound properties from PubChem",
+                "Gene details extracted from RefSeq accession NC_007198.1 dated 03-APR-2018",
+                "Changed from RefSeq to GenBank accession for stability"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -86,8 +88,177 @@
                 "molecular_formula": "C18H12N2O2"
             }
         ],
+        "genes": {
+            "annotations": [
+                {
+                    "id": "AFUA_5G02620",
+                    "product": "P450 family sporulation-specific N-formyltyrosine oxidase Dit2, putative"
+                },
+                {
+                    "id": "AFUA_5G02630",
+                    "product": "conserved hypothetical protein"
+                },
+                {
+                    "id": "AFUA_5G02640",
+                    "product": "O-methyltransferase, putative"
+                },
+                {
+                    "id": "AFUA_5G02650",
+                    "product": "hypothetical protein"
+                },
+                {
+                    "id": "AFUA_5G02655",
+                    "product": "conserved hypothetical protein"
+                },
+                {
+                    "id": "AFUA_5G02660",
+                    "product": "pyoverdine/dityrosine biosynthesis protein, putative"
+                },
+                {
+                    "id": "AFUA_5G02670",
+                    "product": "ThiJ/PfpI family protein"
+                }
+            ],
+            "extra_genes": [
+                {
+                    "id": "AFUA_5G02620",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 689013,
+                                "start": 687922
+                            },
+                            {
+                                "end": 687854,
+                                "start": 687330
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MTWMRVMPRCQNRTYKRPRGPPLSIHPLEFFQAKKVEKTAKAKMILYYLASIPLAIICYLAWYLHVPWDLPSLPRIPFYVSILGLWSSMGQDEIYERWLRKPLEAHGAVLIWFAGRWSILVTRPDLLTDMFRNEDLYAKAGSQKKIPWSVIATLVGDNIINSHGDTWKLYTGIMKPGLQKKNFDTAPLLLKSRRFVDEILAEQNSAGRGTGILVNTFVQQWAVDVMGMSFLDLDLQSLEKPHGTVRLEAIQSVIKLMLFRPLFFNFPDLDQFAWLIKSRQRAYEIMHEFGDTLMATVLGRIDSDREKGIKPAEEMVVHMLVDAYRDGRLTEKQFKDNLKIVFLTAHENAQQLVNSMFWEIGKNNEVQTRLRAEILSTNTTTPTSEVVNALPYLTAVVYELLRLYPPVSQLINRVTVRPAMLGNEIPIPAGTFVGWNAYGVHVNPAIWGPDANEFKPERWGRTVGEMHARFRRETVRGTYIPFNAHSRKCLGQGFVLLQMKILLFEVLRRIEWTVDPGYRLKMTPVSYFLESGRKSTDA"
+                },
+                {
+                    "id": "AFUA_5G02630",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 689311,
+                                "start": 689239
+                            },
+                            {
+                                "end": 689978,
+                                "start": 689371
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MATEALHMHKDRLSAEDLDLKDPHVSSSLALFAIHNLIRRNLKACAEHAITVQPANIDAFVTYAKYTLHVLRDQLTSVDEIWFPVFAEHDPRFLAQKDAHDALYQRITAVDAQLATPPAELGQNELLSAEIAAAFAELHELTDKQYDLEEDLINQLGRKVPMDTIRGLEKKQEERRRADVKVYGHLWTAVYLLRGLDPKERAIFPPGIPKLIAGGMLTAGAMQFRR"
+                },
+                {
+                    "id": "AFUA_5G02640",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 690932,
+                                "start": 690545
+                            },
+                            {
+                                "end": 691107,
+                                "start": 690984
+                            },
+                            {
+                                "end": 691265,
+                                "start": 691156
+                            },
+                            {
+                                "end": 691695,
+                                "start": 691314
+                            },
+                            {
+                                "end": 692033,
+                                "start": 691742
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MSTQHGPKSTRTNDLYELAVNISSTVEAFVGRLDAIGAERPNLDNPFPEIIQDEGAQLARLKILRLCERLMALVQGPVQWLMFQNMAFLDAACVGAILDMGIHDIIAPGPEPTSLDQIVEATGASKDILKRIMRVCTQRLVFDEIAPEQFIHNGVSLQFLAPPVQALISHACDDGLRMAAHFTDSLKKTDWKGSDDPENTAFSLAFNTNKGLFDYFYTEDLARGQRFALGMAGSEIMKTLTEDMFPFESLPQGAKVVDVGGGRGHVSVRIAEKVPGLNFVVQDDESMLEAGQAEGVPKAVKDRIEFMPHDFFNEQPVKGADVYLLRFILHDHSDSRCAKILSNIVDAMEPGKSRILIDDAIVPSFLGPESSRFFNLLDLYMLAGLNGKERTLEQWNYLIQMVSPKLVLEKVWKTPNGGPESGTILELRLQE"
+                },
+                {
+                    "id": "AFUA_5G02650",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 692950,
+                                "start": 692864
+                            },
+                            {
+                                "end": 692796,
+                                "start": 692582
+                            },
+                            {
+                                "end": 692465,
+                                "start": 692297
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MQAILETVSNLLPYHLLSYGALLGTELFQSFVNTKICYQALPMKEFLALQKRVFPAYFRCQVGLVVLTAVTRPPYSILSFSQHIWDSVPLIAVGVTGALNCAMNEDNSSTTDPAKIQQANKTFSRNHAMSIHLNAIALVATVWYGFTLSSSLLNGL"
+                },
+                {
+                    "id": "AFUA_5G02655",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 695221,
+                                "start": 695110
+                            },
+                            {
+                                "end": 695800,
+                                "start": 695285
+                            },
+                            {
+                                "end": 696187,
+                                "start": 695859
+                            }
+                        ],
+                        "strand": 1
+                    },
+                    "translation": "MHSQTTKDEQSKDDSSNEKQDAIERRRLQNRLSQRNHRRKIRDRIAKLQERVIASELRAVATLNGWDQASPPAASMMESKPQGDFDSNPLASVSEDPAISNPPQRNVSSNLCRSCCSLLNQMPSSSSLPSPTSPLPFDLGLTNGVDSTNSSPSTLLNSSPSSSQLSPFSLDTSLSMTGLQSQNEFSFPPYPDPPGSQQYPHCPQYYVATEASLPHIMQRLGSATSHPKAIILIPHGHGYAPAPFTGANAADSTGLRSALNGNLNLQNPGRHCLRPDRSAKSSDLGTSGDWMTAPSSTPFCPLHPSQSSSLDNYQSMML"
+                },
+                {
+                    "id": "AFUA_5G02660",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 699049,
+                                "start": 698287
+                            },
+                            {
+                                "end": 698236,
+                                "start": 696714
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MIAVLQNPQNAAISYSGEPQEHNLLGSYETKAPNVETSEIAASSSSSEAPEDLAEEHHRNEASLQQPLSEVDRHEQPAASDNTRSGLDIPPVTVSTPQSSDNPLVESKEAVPVTFKDEGKGTKADPSHLLTEALETTNGEENSPISEDEATAIAVLKVIERYGVNFEKTGESWQGLTSFIPTVVEQVKKREAVRMILPAFPFKSPNARDKVLGVMPDLGEELALYHLNGLCENIGRVYEPGADVYISSDGLVYNDILGVPDETVWEYGEALRRMAVEKELHHVKFIRLFELLEHPWIPLTSAEQAKSYYLAHAQCLRRELMYRFEDRSFDADAAIRSDNDTCLTYRGYIKFLTKDLAPQMDTQYTSKKARAAHIAQIARSMIVRGKMFAAAIKANRADYVRLSIHESNGARKLSISLVPQVRGVLGYTPWHSSIAVDADGTLRAVHAEDVRETHELVYKNGQPYYFREKSKLFDWVEDGLRVKFEPLYPCGLIIRPSDIDDSRPPPSISHLPMHKVRQLSTGLSPVVLRGFRETLKEELYVQKASELGTILPWSFGIIQKVRDAGRTDKLGNNVTSNEAMPMHYDGMFKFEEETDPVTGEVKRVQKPPGYQFFTCPATAPKGSGYTLFASSRLFFRYLPLPWTTERLQKVTWGMDNDGFWDAKLKNLPLVVPHPVTGLPCMRWHQPWDSTKTKFSTCAVTIENDEQELASVVDDLTYDYRVCLRFSWEQGDLLVSDNTAMLHTRTGYKTNCERELWRIHFD"
+                },
+                {
+                    "id": "AFUA_5G02670",
+                    "location": {
+                        "exons": [
+                            {
+                                "end": 700845,
+                                "start": 700135
+                            }
+                        ],
+                        "strand": -1
+                    },
+                    "translation": "MSSTPPKKYYKVAVLLFEGVDILDFTAPMEVFTHTSHNRNPDNPDRVFQINTIARSRTVNAKKALTVQTDLLLEDAMQGLADFDIMVVPGGPPSLLNALVASNPREVELIRSFATLPPKTPDEPRVLFSICTGAFLVGAAGLLTGVSVTTHHRAIEKLREFCIRVNGEGASPPEVSHKRYIDAGVLKVGSARLLTAAGVSSCLDASLYLVSQLTSLDMSAFISRVMEYDWKGQLSE"
+                }
+            ]
+        },
         "loci": {
-            "accession": "NC_007198.1",
+            "accession": "CM000173.1",
             "completeness": "Unknown",
             "end_coord": 701000,
             "start_coord": 687200
