@@ -20,10 +20,12 @@
         },
         {
             "comments": [
-                "Fixed DOIs"
+                "Fixed DOIs",
+                "Changed from Refseq accession to equivalent GenBank accession"
             ],
             "contributors": [
-                "CUSGWVK3I4TVHJH7NHPFAP2L"
+                "CUSGWVK3I4TVHJH7NHPFAP2L",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -47,7 +49,7 @@
             }
         ],
         "loci": {
-            "accession": "NC_036441.1",
+            "accession": "BA000055.1",
             "completeness": "Unknown",
             "end_coord": 1067040,
             "start_coord": 1039554
