@@ -11,7 +11,8 @@
         },
         {
             "comments": [
-                "Fetch compound properties from PubChem"
+                "Fetch compound properties from PubChem",
+                "Changed from Refseq accession to equivalent GenBank accession"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -42,7 +43,7 @@
             }
         ],
         "loci": {
-            "accession": "NZ_CP011254.1",
+            "accession": "CP011254.1",
             "completeness": "Unknown",
             "end_coord": 795170,
             "start_coord": 780776
