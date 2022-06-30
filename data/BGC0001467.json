@@ -21,7 +21,8 @@
         },
         {
             "comments": [
-                "Corrected NRP module activity"
+                "Corrected NRP module activity",
+                "Changed from Refseq accession to equivalent GenBank accession"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -99,7 +100,7 @@
             ]
         },
         "loci": {
-            "accession": "NZ_KE650771.1",
+            "accession": "KE650771.1",
             "completeness": "complete",
             "end_coord": 6241521,
             "evidence": [
