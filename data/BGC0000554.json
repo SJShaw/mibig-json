@@ -20,6 +20,15 @@
         },
         {
             "comments": [
+                "Changed from Refseq accession to equivalent GenBank accession"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
+        },
+        {
+            "comments": [
                 "Drop duplicate peptidase ID"
             ],
             "contributors": [
@@ -39,7 +48,7 @@
             }
         ],
         "loci": {
-            "accession": "NZ_DS999644.1",
+            "accession": "DS999644.1",
             "completeness": "complete",
             "end_coord": 4451653,
             "evidence": [
