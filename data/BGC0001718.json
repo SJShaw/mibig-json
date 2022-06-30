@@ -18,6 +18,15 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Changed from Refseq accession to equivalent GenBank accession"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -36,7 +45,7 @@
             }
         ],
         "loci": {
-            "accession": "NW_017962980.1",
+            "accession": "KV878974.1",
             "completeness": "Unknown",
             "end_coord": 598007,
             "start_coord": 582792
