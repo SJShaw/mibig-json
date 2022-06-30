@@ -22,7 +22,8 @@
         },
         {
             "comments": [
-                "Corrected product class"
+                "Corrected product class",
+                "Changed from Refseq accession to equivalent GenBank accession"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -46,7 +47,7 @@
             }
         ],
         "loci": {
-            "accession": "NT_165929.1",
+            "accession": "CH476599.1",
             "completeness": "Unknown",
             "end_coord": 482020,
             "start_coord": 472400
