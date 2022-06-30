@@ -21,7 +21,8 @@
         {
             "comments": [
                 "Corrected NRP module activity",
-                "Corrected gene identifiers"
+                "Corrected gene identifiers",
+                "Changed from Refseq accession to equivalent GenBank accession"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -80,7 +81,7 @@
             ]
         },
         "loci": {
-            "accession": "NT_165976.1",
+            "accession": "CH408029.1",
             "completeness": "complete",
             "end_coord": 3864915,
             "evidence": [
