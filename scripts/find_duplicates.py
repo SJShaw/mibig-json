@@ -10,6 +10,13 @@ from typing import List, Tuple
 
 END_GUARD = 1e9
 
+# exceptions that can't be handled with the existing schema
+EXCEPTIONS = [
+    # 416 is fully contained by 1692, with the smaller compound being a
+    # precursor of the larger compounds in 1692
+    ["BGC0000416", "BGC0001692"],
+]
+
 
 def compare(prev: Tuple[int, int, str], current: Tuple[int, int, str], threshold: int) -> bool:
     # exact coordinate match
@@ -33,6 +40,8 @@ def compare(prev: Tuple[int, int, str], current: Tuple[int, int, str], threshold
         overlap = current[1] - prev[0]
 
     if overlap:
+        if sorted([prev[2], current[2]]) in EXCEPTIONS:
+            return False
         if not isinstance(overlap, int):
             print("entries overlap:", prev[2], current[2], "end positions unknown")
             return True
