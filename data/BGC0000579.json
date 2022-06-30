@@ -20,7 +20,8 @@
         },
         {
             "comments": [
-                "Removed duplicate gene annotation"
+                "Removed duplicate gene annotation",
+                "Changed from Refseq accession to equivalent GenBank accession"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -94,7 +95,7 @@
             ]
         },
         "loci": {
-            "accession": "NZ_CM000951.1",
+            "accession": "CM000951.1",
             "completeness": "complete",
             "end_coord": 7632847,
             "evidence": [
