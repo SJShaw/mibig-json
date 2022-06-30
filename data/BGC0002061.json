@@ -7,7 +7,8 @@
                 "Removed gene names of 'No gene ID'",
                 "Corrected duplicate gene name",
                 "Removed ketoreductase stereochemistry annotation from modules without ketoreductases",
-                "Added version to NCBI accession"
+                "Added version to NCBI accession",
+                "Changed from Refseq accession to equivalent GenBank accession"
             ],
             "contributors": [
                 "KTTDKEJDYAQ7MKSNPMBDOYYX",
@@ -144,7 +145,7 @@
             ]
         },
         "loci": {
-            "accession": "NC_010628.1",
+            "accession": "CP001037.1",
             "completeness": "complete",
             "end_coord": 2708401,
             "evidence": [
