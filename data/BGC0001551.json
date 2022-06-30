@@ -20,10 +20,12 @@
         },
         {
             "comments": [
-                "Expanded start coordinate to include precursors"
+                "Expanded start coordinate to include precursors",
+                "Changed from Refseq accession to equivalent GenBank accession"
             ],
             "contributors": [
-                "SJG3CBEHSM6A3I74YXLH6GLA"
+                "SJG3CBEHSM6A3I74YXLH6GLA",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -38,7 +40,7 @@
             }
         ],
         "loci": {
-            "accession": "NZ_CP009438.1",
+            "accession": "CP009438.1",
             "completeness": "Unknown",
             "end_coord": 7076321,
             "start_coord": 7071769
