@@ -11,10 +11,12 @@
         },
         {
             "comments": [
-                "Remove negative molecular mass"
+                "Remove negative molecular mass",
+                "Changed from Refseq accession to equivalent GenBank accession"
             ],
             "contributors": [
-                "3UOU7PODQJXIM6BEPUHHRRA5"
+                "3UOU7PODQJXIM6BEPUHHRRA5",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -33,7 +35,7 @@
             }
         ],
         "loci": {
-            "accession": "NC_018586.1",
+            "accession": "FR733645.1",
             "completeness": "complete",
             "end_coord": 2798888,
             "evidence": [
