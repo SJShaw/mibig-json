@@ -227,7 +227,9 @@ def main(entry_file: str, gbk: str) -> int:
     try:
         empty, date = EMPTIES.get(data["cluster"]["mibig_accession"], (None, None))
         if empty:
-            original = get_refseq_base(records[0].annotations["comment"])
+            original = FULL_ACCESSIONS.get(data["cluster"]["mibig_accession"])
+            if not original:
+                original = get_refseq_base(records[0].annotations["comment"])
             data["cluster"]["loci"]["accession"] = original
             update_changelog(data, ["Changed from Refseq accession to equivalent GenBank accession"])
         else:
