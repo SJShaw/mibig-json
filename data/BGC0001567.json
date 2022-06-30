@@ -17,6 +17,15 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Changed from Refseq accession to equivalent GenBank accession"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -29,7 +38,7 @@
             }
         ],
         "loci": {
-            "accession": "NZ_CP016438.1",
+            "accession": "CP016438.1",
             "completeness": "Unknown",
             "end_coord": 911036,
             "start_coord": 880171
