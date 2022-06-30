@@ -20,6 +20,15 @@
         },
         {
             "comments": [
+                "Changed from Refseq accession to equivalent GenBank accession"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
+        },
+        {
+            "comments": [
                 "Fix terpene cyclase ID"
             ],
             "contributors": [
@@ -53,7 +62,7 @@
             }
         ],
         "loci": {
-            "accession": "NC_003076.8",
+            "accession": "CP002688.1",
             "completeness": "complete",
             "end_coord": 19461689,
             "evidence": [
