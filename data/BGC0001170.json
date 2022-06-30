@@ -20,10 +20,12 @@
         },
         {
             "comments": [
-                "Remove negative molecular mass"
+                "Remove negative molecular mass",
+                "Changed from Refseq accession to equivalent GenBank accession"
             ],
             "contributors": [
-                "3UOU7PODQJXIM6BEPUHHRRA5"
+                "3UOU7PODQJXIM6BEPUHHRRA5",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         },
