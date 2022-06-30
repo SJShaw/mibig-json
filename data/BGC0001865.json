@@ -11,7 +11,8 @@
         },
         {
             "comments": [
-                "Removed gene names of 'No gene ID'"
+                "Removed gene names of 'No gene ID'",
+                "Changed from Refseq accession to equivalent GenBank accession"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -191,7 +192,7 @@
             ]
         },
         "loci": {
-            "accession": "NW_001884561.1",
+            "accession": "CH445337.1",
             "completeness": "complete",
             "end_coord": 311307,
             "evidence": [
