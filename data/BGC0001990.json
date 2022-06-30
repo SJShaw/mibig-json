@@ -11,7 +11,8 @@
         },
         {
             "comments": [
-                "Fetch compound properties from PubChem"
+                "Fetch compound properties from PubChem",
+                "Changed from Refseq accession to equivalent GenBank accession"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -87,7 +88,7 @@
             }
         ],
         "loci": {
-            "accession": "NC_007198.1",
+            "accession": "CM000173.1",
             "completeness": "Unknown",
             "end_coord": 701000,
             "start_coord": 687200
