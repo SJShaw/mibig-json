@@ -17,6 +17,15 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Changed from Refseq accession to equivalent GenBank accession"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -71,7 +80,7 @@
             ]
         },
         "loci": {
-            "accession": "NZ_DS999644.1",
+            "accession": "DS999644.1",
             "completeness": "complete",
             "end_coord": 4294787,
             "evidence": [
