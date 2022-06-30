@@ -11,10 +11,12 @@
         },
         {
             "comments": [
-                "Fixed DOIs"
+                "Fixed DOIs",
+                "Changed from Refseq accession to equivalent GenBank accession"
             ],
             "contributors": [
-                "CUSGWVK3I4TVHJH7NHPFAP2L"
+                "CUSGWVK3I4TVHJH7NHPFAP2L",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -29,7 +31,7 @@
             }
         ],
         "loci": {
-            "accession": "NC_016111.1",
+            "accession": "FQ859185.1",
             "completeness": "Unknown",
             "end_coord": 445098,
             "start_coord": 440312
