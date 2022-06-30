@@ -21,7 +21,8 @@
         {
             "comments": [
                 "Corrected gene references to remove duplications",
-                "Extended end position to fully include last relevant gene"
+                "Extended end position to fully include last relevant gene",
+                "Changed from Refseq accession to equivalent GenBank accession"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -70,7 +71,7 @@
             ]
         },
         "loci": {
-            "accession": "NZ_GG657756.1",
+            "accession": "GG657756.1",
             "completeness": "incomplete",
             "end_coord": 5690586,
             "evidence": [
