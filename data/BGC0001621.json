@@ -21,10 +21,12 @@
         },
         {
             "comments": [
-                "Added missing compound details"
+                "Added missing compound details",
+                "Changed from Refseq accession to equivalent GenBank accession"
             ],
             "contributors": [
-                "YQF4634PJETKNUL6ADZ4RRW4"
+                "YQF4634PJETKNUL6ADZ4RRW4",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -90,7 +92,7 @@
             }
         ],
         "loci": {
-            "accession": "NW_002477244.1",
+            "accession": "EQ963479.1",
             "completeness": "Unknown",
             "end_coord": 53073,
             "start_coord": 25905
