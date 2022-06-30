@@ -17,6 +17,15 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Changed from Refseq accession to equivalent GenBank accession"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -30,7 +39,7 @@
             }
         ],
         "loci": {
-            "accession": "NC_014483.2",
+            "accession": "CP000154.2",
             "completeness": "Unknown",
             "end_coord": 2616852,
             "start_coord": 2550215
