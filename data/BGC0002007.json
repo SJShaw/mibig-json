@@ -8,6 +8,15 @@
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.0"
+        },
+        {
+            "comments": [
+                "Changed from Refseq accession to equivalent GenBank accession"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.1"
         }
     ],
     "cluster": {
@@ -23,7 +32,7 @@
             }
         ],
         "loci": {
-            "accession": "NZ_FNSO01000004.1",
+            "accession": "FNSO01000004.1",
             "completeness": "Unknown",
             "end_coord": 5943258,
             "start_coord": 5921897
