@@ -11,10 +11,12 @@
         },
         {
             "comments": [
-                "Fixed DOIs"
+                "Fixed DOIs",
+                "Changed from Refseq accession to equivalent GenBank accession"
             ],
             "contributors": [
-                "CUSGWVK3I4TVHJH7NHPFAP2L"
+                "CUSGWVK3I4TVHJH7NHPFAP2L",
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
             ],
             "version": "2.1"
         }
@@ -29,7 +31,7 @@
             }
         ],
         "loci": {
-            "accession": "NZ_KB913032.1",
+            "accession": "KB913032.1",
             "completeness": "Unknown",
             "end_coord": 8572952,
             "start_coord": 8464165
