@@ -2,7 +2,7 @@
 
 for bgc in `git grep '"accession"' | grep BGC | grep _ | grep -v retired | cut -d. -f1`; do
     if [ ! -f `basename $bgc`.gbk ] ; then
-        wget https://mibig.secondarymetabolites.org/repository/`basename $bgc`/`basename $bgc`.gbk 2>/dev/null
+        wget https://old.mibig.secondarymetabolites.org/repository/`basename $bgc`/`basename $bgc`.gbk 2>/dev/null
         if [ "$?" != "0" ] ; then
             echo "no previous file fetchable for $bgc.json"
             continue
