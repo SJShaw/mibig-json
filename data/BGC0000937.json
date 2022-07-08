@@ -30,7 +30,8 @@
         },
         {
             "comments": [
-                "Fixed gene accessions"
+                "Fixed gene accessions",
+                "Removed invalid reference"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -96,8 +97,7 @@
             "pubmed:25621145",
             "pubmed:24376039",
             "doi:10.1016/s0040-4039(00)81904-8",
-            "doi:10.1039/c3ob41574k",
-            "doi:10.1080/00021367.1983.10865911"
+            "doi:10.1039/c3ob41574k"
         ]
     }
 }
