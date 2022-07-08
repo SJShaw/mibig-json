@@ -35,8 +35,7 @@
         "ncbi_tax_id": "227321",
         "organism_name": "Aspergillus nidulans FGSC A4",
         "publications": [
-            "pubmed:31061132",
-            "doi:10.1073/pnas.1903282116"
+            "pubmed:31061132"
         ]
     }
 }

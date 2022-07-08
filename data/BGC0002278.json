@@ -52,8 +52,7 @@
         "ncbi_tax_id": "104259",
         "organism_name": "Penicillium brasilianum",
         "publications": [
-            "pubmed:32436033",
-            "doi:10.1007/s00253-020-10678-w"
+            "pubmed:32436033"
         ]
     }
 }
