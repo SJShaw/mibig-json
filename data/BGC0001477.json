@@ -22,7 +22,8 @@
         {
             "comments": [
                 "Corrected NRP module activity",
-                "Removed gene names of 'No gene ID'"
+                "Removed gene names of 'No gene ID'",
+                "Fixed invalid DOI"
             ],
             "contributors": [
                 "AAAAAAAAAAAAAAAAAAAAAAAA"
@@ -735,7 +736,7 @@
             ]
         },
         "publications": [
-            "doi:10.1016/j.chembiol.2018.02.00"
+            "doi:10.1016/j.chembiol.2018.02.008"
         ]
     }
 }
