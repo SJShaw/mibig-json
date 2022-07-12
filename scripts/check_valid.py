@@ -103,6 +103,14 @@ def check_kr_stereochem(data: Dict[str, Any], prefix: str) -> bool:
     return True
 
 
+def check_nrps_subtype(data: Dict[str, Any], prefix: str) -> bool:
+    nrp = data["cluster"].get("nrp", {})
+    if nrp and nrp.get("subclass") in ["None"]:
+        print(f"{prefix}has invalid NRP subclass: {nrp['subclass']}")
+        return False
+    return True
+
+
 def check_pks_module_duplication(data: Dict[str, Any], prefix: str) -> bool:
     for synthase in data["cluster"].get("polyketide", {}).get("synthases", []):
         module_numbers = set()
@@ -159,6 +167,7 @@ def check_single(file: str, prefix: str = "") -> bool:
             check_gene_naming,
             check_item_duplication,
             check_kr_stereochem,
+            check_nrps_subtype,
             check_pks_module_duplication,
         ]:
             valid = func(data, prefix) and valid
