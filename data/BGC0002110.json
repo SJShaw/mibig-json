@@ -97,7 +97,7 @@
                     "core_sequence": [
                         "CTTNTFSLSNALGNNGGWCTLTKECQPNCN"
                     ],
-                    "gene_id": "qkv49893.1"
+                    "gene_id": "QKV49893.1"
                 },
                 {
                     "cleavage_recogn_site": [
@@ -106,7 +106,7 @@
                     "core_sequence": [
                         "TGPLCVAASVAASAAFCPTTKCTSKC"
                     ],
-                    "gene_id": "qkv49894.1"
+                    "gene_id": "QKV49894.1"
                 }
             ],
             "subclass": "Lanthipeptide"

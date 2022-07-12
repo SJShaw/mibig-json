@@ -412,11 +412,11 @@
                     ],
                     "thioesterases": [
                         {
-                            "gene": "hrng",
+                            "gene": "hrnG",
                             "thioesterase_type": "Unknown"
                         },
                         {
-                            "gene": "hrnq",
+                            "gene": "hrnQ",
                             "thioesterase_type": "Unknown"
                         }
                     ]

@@ -598,7 +598,7 @@
                     ],
                     "thioesterases": [
                         {
-                            "gene": "active_1799",
+                            "gene": "ACTIVE_1799",
                             "thioesterase_type": "Type II"
                         }
                     ]
